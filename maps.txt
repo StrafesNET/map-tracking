@@ -51,7 +51,7 @@ accepted:
 5692132646 - Azura
 5692181232 - Azure
 5692103596 - BaQee
-5692157700 - Bad map - make green parts in spawn cancollide false
+FIX SUBMITTED 5692157700 - Bad map - make green parts in spawn cancollide false
 5692112389 - Badges(Full) recreated - change name to Badges - gap is too small to fit in at spawn 29
 5732172079 - Banal - bumpy ramp
 5692150236 - Barn
@@ -290,7 +290,7 @@ accepted:
 5692158695 - Manpoo
 5692093612 - Marble
 5692104087 - Marble Fanta
-5692118222 - Marbleous - mild bumpy ramps
+FIX SUBMITTED 5692118222 - Marbleous - mild bumpy ramps
 5692176424 - Materials
 5692098014 - Materials 2
 6115132512 - Mauve
@@ -311,7 +311,7 @@ accepted:
 5692093136 - Moonlight
 5692103523 - Mulberry
 5692176575 - Mushrooms v1
-5693294901 - M e s a - change name to Mesa
+FIX SUBMITTED 5693294901 - M e s a - change name to Mesa
 5692099660 - Namaste
 5692152839 - Namaste 2
 5692128520 - Nandayo
@@ -330,7 +330,7 @@ accepted:
 5692093443 - Not a Small Map
 5692145213 - Numismatic
 5692185710 - OOF
-5692163430 - OOF HARD - hitbox makes the end unintentionally harder
+FIX SUBMITTED 5692163430 - OOF HARD - hitbox makes the end unintentionally harder
 5692168868 - Obelisk
 5692146269 - Obs
 5692102941 - Ocean
@@ -414,10 +414,10 @@ accepted:
 5692094164 - Salmon
 5692123369 - Salmon On Mars
 5692099377 - Sandy
-5692099246 - Sard - headhits
+FIX SUBMITTED 5692099246 - Sard - headhits
 5692186508 - Screech
 5692098367 - Sea Flow
-5692164810 - Septic - why is ladder teleport?
+FIX SUBMITTED 5692164810 - Septic - why is ladder teleport?
 5692170555 - Serenity
 5692099412 - Shade
 5692175287 - Shadow Temple
@@ -489,7 +489,7 @@ DONE 6115161141 - Terral - hide the SpawnAt thingys, moving platforms decoration
 5693294365 - The Darkness
 5693294384 - The Darkness 2
 5693294433 - The Darkness3 - change name
-5692146219 - The Dragon's Lair - make text above the checkpoint flags cancollide false
+FIX SUBMITTED 5692146219 - The Dragon's Lair - make text above the checkpoint flags cancollide false
 5692134653 - The Flash
 8658886936 - The Map
 5692118622 - The Wanderer
@@ -500,13 +500,13 @@ DONE 6115161141 - Terral - hide the SpawnAt thingys, moving platforms decoration
 5692152916 - Toc
 8659339332 - Today
 5692133932 - Tom Cruise
-5692153872 - Tomb - annoying cancollide vines
+FIX SUBMITTED 5692153872 - Tomb - annoying cancollide vines
 5692117551 - Totem
 5692185969 - Tractus
 5692127627 - Tranquil
 5692093875 - Translucidity v2
 5692139153 - Tri
-5692123475 - Trigger - insane bump in one of the ramps
+FIX SUBMITTED 5692123475 - Trigger - insane bump in one of the ramps
 5692146112 - Tropica
 5692106931 - Tropics
 5692164554 - TrueCetric
@@ -582,6 +582,18 @@ fixed:
 5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
 6111011305 - Gloss - ramp is non collidable
 5692128703 - Underworld - far from origin
+
+submitted fixes:
+11199782305 - Bad map - neon green parts are now noncollidable
+11200058803 - Marbleous - fixed bumpy ramps
+4386770439 - Mesa - Name changed M e s a --> Mesa
+11200515972 - OOF HARD - end easier because of new hitbox
+11200709111 - Quiescent - fixed start zone
+11200839534 - Sard - fixed headhit stage
+11200938811 - Septic - fixed ladder
+11201056414 - Trigger - fixed insane bump / need to ask mapper if end purple surf is intentional
+11201249101 - The Dragon's Lair - text above cp flags are now noncollidable
+11201322313 - Tomb - vines are now noncollidable
 
 current:
 
