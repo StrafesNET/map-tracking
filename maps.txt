@@ -85,7 +85,7 @@ accepted:
 5692176669 - Brick
 5692176057 - Brick
 8658891384 - Brick 2
-6115123026 - Brick Worship
+6115123026 - Brick Worship - mapfix = library/11129692623/Brick-Worship-No-Headhits
 5692163580 - Bruh
 8777490010 - Bubble Gum
 5692127824 - Bunte Kuh
@@ -450,7 +450,7 @@ accepted:
 5692133999 - Soyuz
 5692185754 - Space
 5692138501 - Space Core
-8777510372 - Space Jam
+8777510372 - Space Jam - mapfix: library/621876510/surf-spacejam "Fixed the ramps and added detail"
 5692138645 - Spearmint
 5692180182 - Spectrum
 8659337553 - Spectrum
@@ -481,7 +481,7 @@ accepted:
 5692093530 - Synergy
 5692093654 - TaiShi
 5692108338 - Temple
-6115161141 - Terral - hide the SpawnAt thingys
+DONE 6115161141 - Terral - hide the SpawnAt thingys, moving platforms decoration
 5692102897 - Tetratronic
 5692093733 - The 24th
 5692093176 - The Cookhouse
@@ -557,31 +557,36 @@ accepted:
 5693294408 - Zyper
 6111003348 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fix antitele adjust ramps near wormhole
 CAPITALIZE ALL BELOW MAPS
-8777438675 - alvo2
-5692152159 - anyyy
-5692118540 - bhop_indigo - remove bhop_ from DisplayName
-5692164950 - bhop_lm
-5692153710 - emevaelx3
-6111292922 - garbagecan2019
-5692103818 - kynto
-5692132870 - milk truck - fix spines
-5692163326 - mush2room
-5692182334 - omgdogs - headhit harder
-8659333439 - o̴̕̕h̀͝͝!̵̢͘͝͞ - last ramp bad spine
-5692098227 - persepillu
-5692153750 - pruxish
-5692144392 - rise
-5692123125 - rise_to
-5692153167 - sam9268
-5692117968 - sdc01
+DONE 8777438675 - alvo2
+DONE 5692152159 - anyyy
+DONE 5692118540 - bhop_indigo - remove bhop_ from DisplayName
+DONE 5692164950 - bhop_lm
+DONE 5692153710 - emevaelx3
+DONE 6111292922 - garbagecan2019
+DONE 5692124094 - gg no re
+DONE 5692103818 - kynto
+DONE 5692132870 - milk truck - fix spines
+DONE 5692163326 - mush2room
+DONE 5692182334 - omgdogs - headhit harder
+DONE 8659333439 - o̴̕̕h̀͝͝!̵̢͘͝͞ - last ramp bad spine
+DONE 5692098227 - persepillu
+DONE 5692153750 - pruxish
+DONE 5692144392 - rise
+DONE 5692123125 - rise_to
+DONE 5692153167 - sam9268
+DONE 5692117968 - sdc01
+
+fixed:
+5692174984 - Hazardous - Accelerator needs to be not called Accelerator
+5692144784 - Vice Spice - booster is wrongly named Accelerator
+5692105876 - senpai - booster misnamed as Accelerator
+5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
+6111011305 - Gloss - ramp is non collidable
+5692128703 - Underworld - far from origin
 
 current:
 
 backlog:
-5692185855 - Yawhtap - 10s - make this a bonus
-5692104445 - Zany - 10s - make this a bonus	
-5692124094 - gg no re	
-5692093096 - segdaB
 
 verify possible:
 5692169964 - Nikolo
@@ -661,6 +666,7 @@ rejected:
 5692180365 - choose me pls - Voted out
 5693295278 - dude100million - Voted out
 5692098308 - pizzza - Voted out
+5692093096 - segdaB - Voted out
 
 too short:
 5692180765 - 0_o - 7s
@@ -724,6 +730,7 @@ too short:
 5692094114 - Terrains - 8s
 5692157502 - Tesa - 9s
 5692102761 - The Floor is Lava - 7s
+5692185855 - Yawhtap - 10s - too short, if more map is added will accept back
 5692152188 - code://ERROR - 7s
 5692106356 - evrymepmeker - 6s
 5692099134 - reddish - 7s
@@ -797,7 +804,7 @@ new physics bug (mapfix):
 5692164512 - Accident - beginning is impossible
 5692108257 - Ancient Ruin - Map start
 5692158334 - Around The Round - what is going on at the start
-5692146675 - AutoBadges - unanchored parts
+DONE 5692146675 - AutoBadges - unanchored parts
 5692152798 - Autumn - Convert from meshes to cylinders and spheres
 5692176139 - Avery - Fix booster(s?)
 5692128954 - Azurite - fix start & make window wider by 2.2
@@ -826,7 +833,6 @@ new physics bug (mapfix):
 5692175777 - Got The Blues - last stage speed trap traps player
 5692134367 - Gravity - hitbox harder
 5692152129 - Haarukka - fix start
-5692174984 - Hazardous - Accelerator needs to be not called Accelerator
 5692170798 - Hello - start is weird, but the main map should be the longer version, and bonus is the linear version.  also spinefix may be causing issues
 5692151238 - High segdaB - simulation broken apparently
 5692151345 - Horizon - hitbox harder/impossible throughout the map
@@ -850,7 +856,6 @@ new physics bug (mapfix):
 5692153342 - One More - anti tele traps player
 5692118940 - Paradise - fix start + bumpy ramps
 5692123163 - Paradise II - 3rd ramp bad spine
-5692132972 - Parodygov - Accelerator needs to be not called Accelerator
 5692135126 - Reprise Hard - spine next to trigger can get hit
 5692157460 - Rigorous - impossible, gap too small fix all gaps
 5692151184 - Rookie - use SetVelocity for anti tele, last ramp has bug on left side
@@ -863,7 +868,7 @@ new physics bug (mapfix):
 5692170517 - Slime Map Pile - use SetVelocity
 5692099477 - Something - use SetVelocity
 5692170594 - Strawberry Avalanche - getting triggered at end
-5692117483 - Tech - Trigger skip near start of the map after you go down
+DONE 5692117483 - Tech - Trigger skip near start of the map after you go down
 5692122753 - Tide - remove the invisible path to the end
 5692145794 - Touch - head hit roof
 5692158544 - Trikz Cloud - use SetVelocity for anti tele
@@ -877,31 +882,22 @@ new physics bug (mapfix):
 5692107763 - Xerox - impossible vent
 5692093974 - Zor - last ramp spine
 
-new physics bug (my fault):
-5692163187 - Back To Earth - Spheres
-8659326439 - Convey - fix sliding in start
+======== THE QUAT ZONE ========
+
+teleport fix will resolve:
 5692123509 - EzBop - clip into roof at start.  use pushsolve on unfly & teleport
-5692094033 - FabricColorz - what's up with green spawn
-5692111833 - Fifty Percent More Pineapple - start zone
-6111011305 - Gloss - ramp is non collidable
-5692127528 - Green Randomness - start zone
-5692169375 - Halloween - start zone, spines
-5692185801 - Illuminati - what is going on with the start zone
-5692098747 - Obby - Spheres not implemented
-8777500297 - Pastel - start zone
-8659334600 - Reinforced - start in the ground
+5692127528 - Green Randomness - spawn in ground
+5692185801 - Illuminati - spawn in ground
+8777500297 - Pastel - spawn in ground
+8659334600 - Reinforced - spawn in ground
 5692163537 - Reverse - spawn in ground
-5692153067 - Saisei - start zone, ramps are wack
-5692118831 - Technical - server runs very slowly MOVING PARTS
-5692165177 - Trying Again - fix start zone
-5692128703 - Underworld - far from origin
-5692146718 - Vacancy - fix start zone, make bonus zones
-5692144784 - Vice Spice - booster is wrongly named Accelerator
-5692117268 - Waterfall - start in the ground
-5692153475 - Yes - start in the ground, bumpy ramps
-5692145827 - bhop_white_on_blue - fix start zone
-5692105876 - senpai - booster misnamed as Accelerator
-8777477389 - Ötökkä - nan model cframe
+5692153067 - Saisei - spawn in ground, ramps are wack, far from origin
+5692165177 - Trying Again - spawn in ground
+5692146718 - Vacancy - spawn in ground, make bonus zones
+5692117268 - Waterfall - spawn in ground
+5692153475 - Yes - spawn in ground, bumpy ramps
+
+misnamed accelerator:
 
 moving parts:
 5692151548 - Beach
@@ -913,3 +909,17 @@ moving parts:
 5692128595 - Sand Temple - hitbox hard
 5692098505 - Switch - good luck quat
 5692093399 - Yonder - backlog for more votes
+
+multitouch:
+8659326439 - Convey - fix sliding in start
+5692111833 - Fifty Percent More Pineapple - start zone multitouch
+5692169375 - Halloween - start zone multitouch, spines
+5692104445 - Zany - 10s - sliding in start
+5692145827 - bhop_white_on_blue - sliding in start
+
+new physics bug (my fault):
+5692163187 - Back To Earth - Spheres
+5692098747 - Obby - Spheres not implemented
+5692132972 - Parodygov - Accelerator needs to be not called Accelerator
+5692118831 - Technical - server runs very slowly MOVING PARTS
+8777477389 - Ötökkä - nan model cframe
