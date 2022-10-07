@@ -1,0 +1,373 @@
+accepted:
+5692112607 - 0000
+5692158058 - 004
+5692186472 - 2 Easy
+5692103404 - 3d
+5692174911 - 7eremy
+5692097898 - A Deep Chicago Night
+5692181951 - A Little Peace of Happiness
+5692129052 - ALX
+5692164474 - Abbez1337
+6115118923 - Above and Below
+5692163924 - Abstract
+5692176523 - Accuracy
+5692152960 - Accuracy2
+5692117401 - Accuracy3
+5692112451 - Ace
+8659320198 - Acedia
+5692163232 - Acid
+5692152218 - AcidicHopping
+5692174791 - Adventure v2
+8659322415 - Adventure (surf)
+6115121246 - Aeiou
+5692158296 - Alley
+5692152677 - Alone
+5692146075 - Aloof
+5692182425 - Alpine
+5692113161 - Ancient
+5692163782 - Animal - 11s short
+5692158208 - Antimatter
+5692133175 - Apex
+5692129132 - Apex II
+5693295236 - Aqua
+5692138740 - Aquarium
+5692162970 - Arc Simtre
+5692111702 - Arcadia
+5692113331 - Arcane V2
+5692158972 - Ares
+5692180724 - Ascend
+5692180145 - Ascendant
+5692164174 - Ascension to Heaven
+5692175608 - Ashes
+5692182285 - Atom
+5692186870 - Attack of the Big Fat Meanies
+5692175908 - Autism
+5692104532 - Autumnland
+5692104641 - Awake
+5692138964 - Aziz v2
+5692129281 - Aztec
+5692159660 - Aztec
+5692146152 - Azulis
+5692132646 - Azura
+5692181232 - Azure
+5692103596 - BaQee
+5692157700 - Bad map - make green parts in spawn cancollide false
+5692112389 - Badges(Full) recreated - change name to Badges - gap is too small to fit in at spawn 29
+5732172079 - Banal - bumpy ramp
+5692150236 - Barn
+5692169501 - Basedplate
+5692144483 - Basedplate II
+5692146537 - Beach Run
+5692094530 - Beginner
+5692140287 - Bhop World
+5692186297 - Bibbas
+5692164765 - BigDrop
+5692152999 - Blade
+5692118738 - Bless
+5692134892 - Blitz
+5692145455 - Bloc
+8777448111 - Blocky Compacts (無駄のない立方体)
+5692104049 - Bloodbath
+5692165350 - Bloodthirst Rebirth
+5692123254 - Blossom Heaven
+5692113056 - Blue
+5692106768 - Blue
+5692134145 - Blue Linear
+5692117679 - Blue Realms
+5692157840 - Blue Shade
+5692122681 - Bluebeat v2
+5692159783 - Blued
+5692128896 - Blurple
+5692144988 - Bobop
+5692144341 - Boppy Bricks
+5692144883 - Bounce Pad
+5692133851 - Brain Power
+5692176669 - Brick
+5692176057 - Brick
+8658891384 - Brick 2
+6115123026 - Brick Worship
+5692163580 - Bruh
+8777490010 - Bubble Gum
+5692127824 - Bunte Kuh
+5692107295 - Calibrate
+5692123435 - Candy
+5692113810 - Cartoons
+5692112268 - Cast
+5692108187 - Castaway
+5692106803 - Cave
+5692180414 - Caved in
+5692138810 - Caverns - Iconic
+5692107676 - Charcoal Chasm
+8658884797 - Chrome
+5692098820 - Chrysanthemum Throne
+5692175707 - City
+5692186084 - City Run V2 Add v1 as bonus: 5692158614 - City Run
+8658895140 - Cks Stref
+5692152464 - Clarity
+5692117646 - Clickbait
+5692174562 - Clique
+5692099099 - Clove
+5692170652 - Cobalt
+5692146640 - Cobblestone
+5692103629 - Coffee
+5692152358 - Coloration
+5692185929 - Colorize
+5692123867 - Colors
+5692134413 - Colorz
+5692106288 - Colossus
+5692111990 - Columns
+5692132732 - Columns II
+5692170949 - Compact
+5692153785 - Concord
+5692122347 - Concrete
+8659325055 - Conserve
+5692157639 - Construction
+5692143989 - Construction
+8659323725 - Condemned
+5692152716 - Contained Breach
+5692181331 - Cotton Candy
+5692128491 - Cpm
+5692102865 - Cryogen
+5692140960 - Crypt
+5692134323 - Cubelights
+8777450104 - Cuboidal
+6115124610 - Cyber
+5692170872 - Dab on 'Em Haters
+8659328336 - Dark Matter
+5692128775 - Danger Noodle
+5692165063 - Dawn
+5692157755 - Dawn3
+5692113691 - Daydreamer
+5692164215 - Dead Memes
+5692106693 - Delorium
+5692164641 - Deluxe
+5692164410 - Desert Temples
+6111006827 - Devolution
+5692103970 - Dice
+5692103119 - Difficulties
+5692133094 - Diversity
+5692124282 - Dizzy - spines are bad, make sure they get the spine fix
+5692163819 - Docile
+5692127664 - Doms
+5692170187 - Down hill
+5692104325 - DownDownDown
+5692152492 - Dracula's Revenge
+5692132697 - Drain 2 - Bonus: 5692113088 - Drain
+5692107850 - Drains
+5692181077 - Dream
+5692105983 - Dreamwave
+5692181651 - Drewfc was being uncool
+6111249192 - Dry
+5692102717 - Dumb Blocks
+5692170119 - Dumb Blocks 2
+5692145618 - Dumb Blocks 3
+5692140082 - Dumb Blocks 4
+5692139328 - Dumb Studs 2
+5692175075 - Dumb Studs 3
+5692144192 - Dumb studs
+5692158258 - Dunes
+5692104221 - Dust
+5692159619 - Dust town
+5692128623 - Dusty Run
+5692158651 - Dystopia
+5692094911 - Easyhop
+5692105913 - Elysian
+5692175462 - Emblem
+5692105269 - Emblem 2
+5692107133 - Emblem 3
+5692139507 - Emblem 4
+5692118440 - Emblem 5
+5692170984 - Emblem Easy
+5692113121 - Ephemeral
+8658931706 - Epiphany (Short)
+5692180097 - Eskay
+5692093216 - Evolcase
+5692174328 - Exile
+5692113242 - Existence
+5693295292 - FL Eli
+5692099189 - Failure
+5692123285 - Faith
+5692176852 - Fizzle
+5692140338 - Flandre
+5692094715 - Floating Sakura
+5692106450 - Flux
+6115126337 - Fortnite
+5692175423 - FrankerZ
+5692099699 - FrostBite
+5692123338 - FrozenRuins
+ Bonus: 5692150196 - Fur Bonus
+5692145082 - Futurebound
+8659331841 - Giza
+5692153515 - Go
+5692146490 - Golf Yourself
+6111012654 - Gondal
+5692152568 - Gotta Go Fast
+5692112566 - Gram of Haze
+5692180986 - Grandma's Couch
+5692176385 - Grass
+5692163477 - Grassland
+5692152752 - Green
+5692164584 - Green
+5692139271 - Green Shade - put bonusstart
+5692113975 - Green Yellow Red Rtv
+5692170433 - Grid
+6111251983 - Grid 2
+5692152028 - Grotto
+8658935890 - Grozy
+5692158370 - Guffaw
+5692175330 - Halycon
+5692112337 - Happy Gummy Bear
+5692186561 - Norwegian wood
+
+current:
+
+rejected:
+5692165511 - 2fast2quick - Bad look, not fun to WR
+5692169083 - Absobe
+5692134244 - Arctic - Voted out
+5692129219 - Argon - Voted out
+5692186981 - Articulation - Voted out
+5692170030 - Azure - Voted out
+5692127956 - Badges (Short) - maybe add a bonus to full badges
+5692135245 - Berserk - Voted out
+5692113547 - Biomes - Voted out
+5692175025 - Biomes - Voted out
+5692112867 - Blue Seas - Voted out
+5692103013 - Caldera - No
+5692106207 - Daniel - Voted out
+5692108061 - Dash - Voted out
+5692128819 - Dionysus - Voted out
+5692176745 - Dockyard - Voted out
+5692176613 - Dragon - Voted out
+5692134615 - Emo Kid - Voted out
+
+too short:
+5692180765 - 0_o - 7s
+5692180942 - 1 Hour - 13s
+5692151302 - 2stref5u
+5692170693 - 30 Minutes
+5692153404 - 303
+5692186917 - 7m30s
+5692153241 - Andru
+5692163383 - Aperture - 7s
+5692151386 - Aqua - 10s
+5692175230 - Aula
+5692117767 - Casual Run - 6s
+5692117907 - Cheese N Crackers - 5s
+5692127774 - Cobblestone - 12s
+5692181290 - Colours - 8s
+5692104008 - Confusion - 6s
+5692158437 - Contrast - 14s
+5692111670 - Crash Zone - 19s
+5692117808 - Daze - 13s
+5692103488 - Deriyxe - 7s
+5692103178 - Doge Hop - 12s
+5692135034 - Dust Temple - 11s
+5692103944 - Easy Peasy - 5s
+5692094586 - Elriot 2 - 5s
+5692134283 - Example Map - 10s
+5692094240 - Experiment - 7s
+5692103051 - Explore - 8s
+5692175743 - Fizzle 2 - 12s
+5692103857 - Forest - 8s
+5692144448 - Free Fall - 8s
+5692106078 - Freedom Puppies - 3s
+5692186137 - Fun Run - 10s
+5692127739 - Genohsidal - 12s
+5692176913 - Grasshopper - 6s
+5692169770 - Grasshopper V2 - 7s
+5692181178 - GrassyIcey - 12s
+
+backlog:
+5692113935 - Candy Land
+5692134051 - Cataclysm
+5692133296 - Cataclysm 3
+5692099623 - Caving In
+5692175141 - Cerberal
+5692107374 - Cobble
+5692113020 - Continuity
+8659326439 - Convey
+5692113845 - Divine
+5692140242 - Elprup
+
+bumpy ramps:
+5692164341 - 123
+5692169862 - Abseil - specifically one ramp needs the middle part to be the same size as the wedges
+8659318774 - Accident 2 - candy corn stage
+5692174829 - Achromatic - generic bumpy ramps, playtest to fix
+5692163859 - Aether
+5692111949 - Alcoa
+5692180583 - Consistency - also weird invisible trigger
+5692113020 - Continuity
+5692107905 - Dark Ambient
+5692124203 - Depression
+5692097943 - Detritus
+5693294460 - Discord - moving platforms (decoration only)
+5692094760 - Disparity
+5692134709 - O-oh hi-i t-there, J-J-Jill - especially 2nd ramp
+8659330557 - Egypt - not designed for new hitbox
+6111008494 - Error - every curved ramp
+5692111905 - Exultant
+6111010028 - Farewell
+5692158577 - Fort - align spines
+5692118014 - Frantic Lemon - lol
+5692158924 - Frost Nova - also fix start
+5692153669 - Gimmick
+5692135297 - Glass II - make edges cancollide false
+5692134571 - Golden Glory - make ramps 1 part instead of 2
+
+new physics bug (mapfix):
+5692118014 - Frantic Lemon - cringe first surf
+5692181503 - 15 Minutes - OOB
+5692108009 - 456 - spin is impossible
+5692164512 - Accident - beginning is impossible
+5692117483 - Tech - Trigger skip near start of the map after you go down
+5692108257 - Ancient Ruin - Map start
+5692158334 - Around The Round - what is going on at the start
+5692146675 - AutoBadges - unanchored parts
+5692152798 - Autumn - Convert from meshes to cylinders and spheres
+5692176139 - Avery - Fix booster(s?)
+5692128954 - Azurite - fix start & make window wider by 2.2
+5692117355 - Badges 2 - fix available in map fixing hub
+5692169729 - Borderlands - spawn 6 cringe, replace all anti tele with SetVelocity
+5692107960 - Bumblebee - "impossible"
+8777492451 - Bunker - major skips
+5692135173 - Chimera - start kills simulation
+5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
+5692133764 - City Fun - fix start, maybe gameplay fixes
+5692098704 - Clarion - alternate reality part crashes the phyics
+5692134413 - Colorz - fix start
+5692102646 - Compact - can't leave spawn
+5692146451 - Concrete - PLEASE FIX THE FLOORS,don't allow touching startzone from the top
+5693295211 - Danmark - fix teleports
+5692165021 - Dawn2 - head gets hit
+5692141003 - Deletive - impossible jump
+6111005316 - Desolate - ramps are weird and buggy, you phase through the second ramp
+5692092950 - Dev V1 - impossible jump 2nd stage
+5692103788 - Downfall - hitbox harder
+5692164052 - Eden - simulation won't run
+5732181194 - Ethereal - "under the void" issue
+5692164250 - Feels Like Home - hitbox harder
+5692104185 - Flandre II - simulation broken
+5692152419 - Fus - simulation broken
+5692175777 - Got The Blues - last stage speed trap traps player
+5692134367 - Gravity - hitbox harder
+5692152129 - Haarukka - fix start
+
+new physics bug (my fault):
+5692098747 - Obby - Spheres not implemented
+5692163187 - Back To Earth - Spheres
+5692123509 - EzBop - clip into roof at start.  use pushsolve on unfly & teleport
+5692094033 - FabricColorz - what's up with green spawn
+5692111833 - Fifty Percent More Pineapple - start zone
+6111011305 - Gloss - ramp is non collidable
+5692127528 - Green Randomness - start zone
+5692169375 - Halloween - start zone, spines
+5692174984 - Hazardous - glass thing is non collidable
+
+moving parts:
+5692151548 - Beach
+5692140192 - Communism - end is not possible
+5692128654 - Eazy v2
+5692098438 - Emily
+5692122921 - Glass - make edges cancollide false, bring back spinny things
