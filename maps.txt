@@ -180,6 +180,8 @@ FIX SUBMITTED 5692157700 - Bad map - make green parts in spawn cancollide false
 5692105269 - Emblem 2
 5692107133 - Emblem 3
 5692139507 - Emblem 4
+FIX SUBMITTED 5692118440 - Emblem 5
+FIX SUBMITTED 5692170984 - Emblem Easy
 5692113121 - Ephemeral
 8658931706 - Epiphany (Short)
 5692180097 - Eskay
@@ -592,8 +594,8 @@ submitted fixes:
 11201056414 - Trigger - fixed insane bump / need to ask mapper if end purple surf is intentional
 11201249101 - The Dragon's Lair - text above cp flags are now noncollidable
 11201322313 - Tomb - vines are now noncollidable
-5692118440 - Emblem 5 - fixed spawn outlines being typeable, fixed lighting and other little changes
-5692170984 - Emblem Easy - fixed spawn outlines being typeable
+5120004314 - Emblem 5 - fixed spawn outlines being typeable, fixed lighting and other little changes
+1082348401 - Emblem Easy - fixed spawn outlines being typeable
 
 current:
 
