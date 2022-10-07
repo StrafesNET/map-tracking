@@ -354,8 +354,130 @@ accepted:
 5692122495 - Pathway II
 5692128557 - Pathway III
 5692186355 - Patio
+5692182017 - Phobic
+5692098933 - Phunedmonium
+5692134797 - Placement
+6115144310 - Planets
+5692099576 - Ploitan
+6115146211 - Pohb not idiot - change name
+5692170735 - Poly_Mount - change name
+5692113377 - Prank A1
+5692112488 - Pringles
+5692181127 - Pro bhopper
+6111338151 - Projecto
+5732193098 - Proving a Point
+5692165425 - Pumpkins
+8777460788 - Purple Flow
+5692158862 - Pursuing pwnthesky3
+5692104374 - Pyte
+6111028728 - Quantum
+5692181981 - Quarry
+5692107466 - Quarry
+8658969726 - Quarry (CS:S)
+6115148503 - Quaternium
+8658978702 - Questionable Trials
+5692123910 - QuickSwap
+5692099319 - Quickly, Quickly
+5692117221 - Quiescent - start zone thing
+5692128734 - Quilcyl
+5692092915 - Qwplint
+5692134949 - Radiant
+5692098890 - Rainbow
+5692129173 - Ravine
+5692174946 - Reach
+5692093489 - Read
+5692182225 - Really Dumb Map
+5692158006 - Realm - moving decorations
+5692140037 - Rebel Resistance Final 3
+6115153158 - Reborn
+5692107419 - Reflexes
+8659335898 - Reinforced 2
+5692118352 - Reprise
+5692098790 - Reversal
+5692144418 - Reverse
+5692099510 - Rexlum
+5692094874 - Rezar
+5692122817 - Rin
+5692157943 - Rising
+5692127566 - Rojo - surf history
+5692124134 - Rojo Rebirth
+6111030078 - Rose
+5692098057 - Ruined
+6115154920 - Ruined
+5692094344 - Ruins
+5692180837 - Ruins
+5692122527 - Ruins II
+5692145866 - Sad Gummy Worm
+5692168974 - Saimaa
+5692094164 - Salmon
+5692123369 - Salmon On Mars
+5692099377 - Sandy
+5692099246 - Sard - headhits
+5692186508 - Screech
+5692098367 - Sea Flow
+5692164810 - Septic - why is ladder teleport?
+5692170555 - Serenity
+5692099412 - Shade
+5692175287 - Shadow Temple
+6115156766 - ShadowKeep
+5692162926 - Shard
+5692139367 - Shift
+5692181033 - Short N Easy
+5692105838 - Siberia
+5692093821 - Sidle
+5692118131 - Sidus v2
+5692112940 - Silky
+5692168932 - SimpleHop
+5692163012 - Sincerely, Tokyo
+5692150156 - Skewed
+5692122578 - Sky
+5692122877 - Sky II
+5692097867 - Skyscraper
+5692159560 - Slab
+5692108102 - Slate
+5692133239 - Slate Two
+5693293891 - Slope
+5692150007 - Sluice
+5692093352 - Snow
+8658890105 - Snowy Heights
+5692180466 - Solitude
+5692159084 - Solitude
+5692169645 - Somewhere
+8658983961 - Soulscape
+5692133999 - Soyuz
+5692185754 - Space
+5692138501 - Space Core
+8777510372 - Space Jam
+5692138645 - Spearmint
+5692180182 - Spectrum
+8659337553 - Spectrum
+5692092992 - Splash
+5692163282 - Splash 2
+5692181458 - Spongebob
+5692118168 - Spookstrafe
+5692094469 - Springland
+5692180800 - Sprite
+6115159232 - Sqee - Bonus: 5692093322 - Sqee (Short)
+5692180337 - Stages
+5692134845 - Startup
+5692170001 - Stone
+5692169817 - Stones
+5692093701 - Stonework
+5692181565 - Strayff
+5692113775 - Stref Amazon
+5692139573 - Submerged
+6111778814 - Substructure
+5692107718 - Summer Equniox
+5692170390 - Summerland
+5692098128 - Sunday
+5692112313 - Super Easy Tutorial
+5692159745 - Surfhop
+5692144303 - Swamp
+5692094060 - Swampy
+8777462556 - Synced V2
 
 current:
+5692093530 - Synergy
 
 rejected:
 5692165511 - 2fast2quick - Bad look, not fun to WR
@@ -396,6 +518,13 @@ rejected:
 5692104117 - Office Complex - Low Quality
 5692094634 - Oh_One - Low Quality
 5692181401 - One Jump - Low Quality
+5692176476 - Rainbow 2 - Voted out 7:3
+5692169038 - Random - Voted out
+5692123788 - River - Voted out
+5692139536 - Rookie - 11s - Voted out
+5692118247 - Scootscoot - Voted out
+5692122408 - Sike - Voted out
+5692128311 - Simplicity - Voted out 9:8
 
 too short:
 5692180765 - 0_o - 7s
@@ -448,11 +577,20 @@ too short:
 5692099061 - Orange Darkness - 5s
 5692185894 - Pale - 9s
 5692134747 - Pert - 13s
+5692098966 - Plethora - 11s
+5692107503 - Puredple - 8s
+5692099544 - Quick Shot - 12s
+5692094943 - R/B iNSANiTY - 10s
+5692139220 - River Run - 11s
+5692093774 - Royal - 7s
+5692098542 - Saveda - 8s
+5692098088 - Skilltest - 9s
 
 backlog:
+5692134104 - Sweet Factory
 
 verify possible:
-8659326439 - Convey
+8659326439 - Convey - fix sliding in start
 5692113845 - Divine
 5692165111 - Microverse - bot is sussing, re-make sure
 5692138452 - Newt
@@ -460,6 +598,11 @@ verify possible:
 5692159131 - No
 5692168868 - Obelisk
 5692123564 - Olive
+5692107810 - Resilience - hitbox - moving decoration
+5692133329 - Schemes
+5692157806 - Sinsane
+5692153562 - Six Luminaries
+
 
 lost in past migration:
 Daydreamer 2
@@ -502,6 +645,12 @@ bumpy ramps:
 5692180913 - Obscurity - make the trim cancollide false
 5692094206 - Obsidium
 5692132783 - Overworld
+5692133386 - Reflectoria
+5692175668 - Reskea
+5692174368 - Retrospect - ramps kill you
+6111033250 - Sandy Sunset
+5692170278 - Strafe Race - unfixable without physics changes?
+5692122639 - Striped
 surf_telehop - bad spines
 
 new physics bug (mapfix):
@@ -564,7 +713,18 @@ new physics bug (mapfix):
 5692118940 - Paradise - fix start + bumpy ramps
 5692123163 - Paradise II - 3rd ramp bad spine
 5692132972 - Parodygov - Accelerator needs to be not called Accelerator
-surf_stones - bad spines
+5692135126 - Reprise Hard - spine next to trigger can get hit
+5692157460 - Rigorous - impossible, gap too small fix all gaps
+5692151184 - Rookie - use SetVelocity for anti tele, last ramp has bug on left side
+5692165474 - Royal - ramps are multiple parts, use SetVelocity for anti tele
+5692174627 - S'mores
+5692133134 - Sand Flow - hitbox hard
+6111031896 - Sandstorm Supergiant - hitbox hard
+5693293179 - Seventy-Two Percent more Pineapple - hitbox harder
+5692134185 - Shade - hitbox harder, fix diamond hitbox
+5692170517 - Slime Map Pile - use SetVelocity
+5692099477 - Something - use SetVelocity
+5692170594 - Strawberry Avalanche - getting triggered at end
 
 new physics bug (my fault):
 5692098747 - Obby - Spheres not implemented
@@ -577,6 +737,9 @@ new physics bug (my fault):
 5692169375 - Halloween - start zone, spines
 5692185801 - Illuminati - what is going on with the start zone
 8777500297 - Pastel - start zone
+8659334600 - Reinforced - start in the ground
+5692163537 - Reverse - spawn in ground
+5692153067 - Saisei - start zone, ramps are wack
 
 moving parts:
 5692151548 - Beach
@@ -585,3 +748,5 @@ moving parts:
 5692098438 - Emily
 5692122921 - Glass - make edges cancollide false, bring back spinny things
 5692158895 - Hyperspeed - fix ramps
+5692128595 - Sand Temple - hitbox hard
+5692098505 - Switch - good luck quat
