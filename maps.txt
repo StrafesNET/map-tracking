@@ -150,6 +150,7 @@ accepted:
 5692103970 - Dice
 5692103119 - Difficulties
 5692133094 - Diversity
+5692113845 - Divine
 5692124282 - Dizzy - spines are bad, make sure they get the spine fix
 5692163819 - Docile
 5692127664 - Doms
@@ -300,6 +301,7 @@ accepted:
 5692106639 - Mediocre
 5692153297 - Mellow - last few spines could be fixed
 5692122990 - Melting
+5692165111 - Microverse - bot is sussing, re-make sure
 5692129086 - Minecraft
 5692111783 - Minimalism
 5692102973 - Mirage
@@ -322,6 +324,7 @@ accepted:
 8777458476 - Neon Vibes V2
 5692134462 - NeonWood
 8777496995 - Neospace
+5692138452 - Newt
 5692186561 - Norwegian wood
 5692186250 - Not Far
 5692145037 - Not Flat
@@ -329,7 +332,7 @@ accepted:
 5692145213 - Numismatic
 5692185710 - OOF
 5692163430 - OOF HARD - hitbox makes the end unintentionally harder
-5692098747 - Obby
+5692168868 - Obelisk
 5692146269 - Obs
 5692102941 - Ocean
 5692138857 - One Vector
@@ -475,9 +478,122 @@ accepted:
 5692144303 - Swamp
 5692094060 - Swampy
 8777462556 - Synced V2
+5692093530 - Synergy
+5692093654 - TaiShi
+5692108338 - Temple
+6115161141 - Terral - hide the SpawnAt thingys
+5692102897 - Tetratronic
+5692093733 - The 24th
+5692093176 - The Cookhouse
+5692118058 - The Crest Experience - ramps bumpy at the bottom
+5692146323 - The Crusher
+5693294365 - The Darkness
+5693294384 - The Darkness 2
+5693294433 - The Darkness3 - change name
+5692146219 - The Dragon's Lair - make text above the checkpoint flags cancollide false
+5692134653 - The Flash
+8658886936 - The Map
+5692118622 - The Wanderer
+5692104415 - ThirdTime
+5692124237 - Three Mountains
+5692098640 - Tide2
+5692174873 - Tiles
+5692152916 - Toc
+8659339332 - Today
+5692133932 - Tom Cruise
+5692153872 - Tomb - annoying cancollide vines
+5692117551 - Totem
+5692185969 - Tractus
+5692127627 - Tranquil
+5692093875 - Translucidity v2
+5692139153 - Tri
+5692123475 - Trigger - insane bump in one of the ramps
+5692146112 - Tropica
+5692106931 - Tropics
+5692164554 - TrueCetric
+5692169679 - Tunnels
+5692139434 - Turf
+5692182179 - Tutorial
+5692138772 - Tyle
+5692138890 - Underground
+5692164902 - Unequivocal - last spine needs fix
+5692174420 - Unresponsive
+5692145408 - Utopia
+6115162767 - Vacation
+5692118696 - Valpect
+8658985772 - Vastum Desertum
+5692138930 - Venerial
+5692122448 - Vertigo
+5692139302 - Vertigo
+5692098582 - Very Long Map
+5692175370 - Vibrant
+5692118898 - Virus
+6111036596 - Volcase
+5692113473 - Waryhm
+5692112827 - Warzone
+5692146007 - Wasteland
+5692145577 - Water Temple
+5692138601 - Water Valley
+5692139005 - Waterblocks
+5692146580 - Way Back When
+5692144838 - Way Too Easy
+8777464131 - Weld
+5692153113 - Who Knows 2 - some ramps buggy
+5692093566 - Who needs checkpoints
+5692144563 - Wild
+8777513883 - Windows 84 - moving decorations, add bonus zones
+5692175828 - Wooden
+5692133432 - Woods
+5692106610 - Woodworks
+6111038067 - Wuts Dis? - slightly raise ramp next to the trigger so it's not flush
+5692108138 - XXXTection
+5692122719 - Xaxa
+5692150307 - Y
+8658987348 - Yonkoma
+5692124008 - Yunch
+5692140385 - Z
+5692138686 - Zoom
+5692104583 - Zoom
+5693294408 - Zyper
+6111003348 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fix antitele adjust ramps near wormhole
+CAPITALIZE ALL BELOW MAPS
+8777438675 - alvo2
+5692152159 - anyyy
+5692118540 - bhop_indigo - remove bhop_ from DisplayName
+5692164950 - bhop_lm
+5692153710 - emevaelx3
+6111292922 - garbagecan2019
+5692103818 - kynto
+5692132870 - milk truck - fix spines
+5692163326 - mush2room
+5692182334 - omgdogs - headhit harder
+8659333439 - o̴̕̕h̀͝͝!̵̢͘͝͞ - last ramp bad spine
+5692098227 - persepillu
+5692153750 - pruxish
+5692144392 - rise
+5692123125 - rise_to
+5692153167 - sam9268
+5692117968 - sdc01
 
 current:
-5692093530 - Synergy
+
+backlog:
+5692185855 - Yawhtap - 10s - make this a bonus
+5692104445 - Zany - 10s - make this a bonus	
+5692124094 - gg no re	
+5692093096 - segdaB
+
+verify possible:
+5692169964 - Nikolo
+5692107810 - Resilience - hitbox - moving decoration
+5692133329 - Schemes
+5692157806 - Sinsane
+5692153562 - Six Luminaries
+5692169270 - Tie
+5692153444 - Trumpwall2020
+5692182099 - Tumb
+5692176099 - Tumb 2
+5692145262 - Tunneler Blues
 
 rejected:
 5692165511 - 2fast2quick - Bad look, not fun to WR
@@ -525,6 +641,26 @@ rejected:
 5692118247 - Scootscoot - Voted out
 5692122408 - Sike - Voted out
 5692128311 - Simplicity - Voted out 9:8
+5692092870 - The Tunneler - Voted out
+5692123407 - Tier1 - 8s Voted out
+5692159008 - Trainee - Low Quality
+5692143956 - Trainee 2 - Voted out
+5692134104 - Sweet Factory - Voted out
+5692157418 - Turner - Voted out
+5692144145 - Two faced - Voted out
+5692186024 - Velocity I - Low quality
+5692122957 - Vert - Voted out
+5692174238 - Violet - Voted out
+5692128225 - Voxel - Voted out
+5692128341 - WaP - Voted out
+5692157672 - Watermelons - Voted out
+5692103442 - What Map is This? - Voted out
+5693294929 - Woody - Voted out
+5692182065 - Workshop - Voted out
+5692170085 - Yuki - Low quality
+5692180365 - choose me pls - Voted out
+5693295278 - dude100million - Voted out
+5692098308 - pizzza - Voted out
 
 too short:
 5692180765 - 0_o - 7s
@@ -585,24 +721,12 @@ too short:
 5692093774 - Royal - 7s
 5692098542 - Saveda - 8s
 5692098088 - Skilltest - 9s
-
-backlog:
-5692134104 - Sweet Factory
-
-verify possible:
-8659326439 - Convey - fix sliding in start
-5692113845 - Divine
-5692165111 - Microverse - bot is sussing, re-make sure
-5692138452 - Newt
-5692169964 - Nikolo
-5692159131 - No
-5692168868 - Obelisk
-5692123564 - Olive
-5692107810 - Resilience - hitbox - moving decoration
-5692133329 - Schemes
-5692157806 - Sinsane
-5692153562 - Six Luminaries
-
+5692094114 - Terrains - 8s
+5692157502 - Tesa - 9s
+5692102761 - The Floor is Lava - 7s
+5692152188 - code://ERROR - 7s
+5692106356 - evrymepmeker - 6s
+5692099134 - reddish - 7s
 
 lost in past migration:
 Daydreamer 2
@@ -651,14 +775,26 @@ bumpy ramps:
 6111033250 - Sandy Sunset
 5692170278 - Strafe Race - unfixable without physics changes?
 5692122639 - Striped
-surf_telehop - bad spines
+5692118492 - Telehop - bad spines
+5692132828 - Trees - ramps kill you
+5692133047 - Tube Tactics
+5692158471 - Ultra
+5692144023 - Victor - spines
+5692128997 - Vivid - spines
+6111035047 - Vivid Hard - spines
+5692159699 - WaP II
+5692128271 - Winter is Coming
+5692145766 - Winterland
+5692165218 - Wood - align spines
+5692113737 - X-Ray
+5692140916 - Xenomorphic
+5692159512 - Yobby
 
 new physics bug (mapfix):
 5692118014 - Frantic Lemon - cringe first surf
 5692181503 - 15 Minutes - OOB
 5692108009 - 456 - spin is impossible
 5692164512 - Accident - beginning is impossible
-5692117483 - Tech - Trigger skip near start of the map after you go down
 5692108257 - Ancient Ruin - Map start
 5692158334 - Around The Round - what is going on at the start
 5692146675 - AutoBadges - unanchored parts
@@ -709,6 +845,8 @@ new physics bug (mapfix):
 5692103566 - Medieval - SirLolNoob wants to edit
 5692099007 - Monster Jam - moon door teleport is rng, also change moon jump area to accelerator rather than booster only
 5692093067 - MooManChicken - fix lighting
+5692159131 - No - impossible
+5692123564 - Olive - impossible
 5692153342 - One More - anti tele traps player
 5692118940 - Paradise - fix start + bumpy ramps
 5692123163 - Paradise II - 3rd ramp bad spine
@@ -725,10 +863,23 @@ new physics bug (mapfix):
 5692170517 - Slime Map Pile - use SetVelocity
 5692099477 - Something - use SetVelocity
 5692170594 - Strawberry Avalanche - getting triggered at end
+5692117483 - Tech - Trigger skip near start of the map after you go down
+5692122753 - Tide - remove the invisible path to the end
+5692145794 - Touch - head hit roof
+5692158544 - Trikz Cloud - use SetVelocity for anti tele
+5692117595 - Tyrian - fix spines, maybe just the last ramp
+5692111744 - Ultimate - fix skip at 9s
+5692118585 - Verde - fix last stage spawn
+5692124370 - Void - invisible part at start
+5692182387 - Water - fix start and end platform
+5692169598 - Water Park - invisible death
+5692140155 - X - fix OOB
+5692107763 - Xerox - impossible vent
+5692093974 - Zor - last ramp spine
 
 new physics bug (my fault):
-5692098747 - Obby - Spheres not implemented
 5692163187 - Back To Earth - Spheres
+8659326439 - Convey - fix sliding in start
 5692123509 - EzBop - clip into roof at start.  use pushsolve on unfly & teleport
 5692094033 - FabricColorz - what's up with green spawn
 5692111833 - Fifty Percent More Pineapple - start zone
@@ -736,10 +887,21 @@ new physics bug (my fault):
 5692127528 - Green Randomness - start zone
 5692169375 - Halloween - start zone, spines
 5692185801 - Illuminati - what is going on with the start zone
+5692098747 - Obby - Spheres not implemented
 8777500297 - Pastel - start zone
 8659334600 - Reinforced - start in the ground
 5692163537 - Reverse - spawn in ground
 5692153067 - Saisei - start zone, ramps are wack
+5692118831 - Technical - server runs very slowly MOVING PARTS
+5692165177 - Trying Again - fix start zone
+5692128703 - Underworld - far from origin
+5692146718 - Vacancy - fix start zone, make bonus zones
+5692144784 - Vice Spice - booster is wrongly named Accelerator
+5692117268 - Waterfall - start in the ground
+5692153475 - Yes - start in the ground, bumpy ramps
+5692145827 - bhop_white_on_blue - fix start zone
+5692105876 - senpai - booster misnamed as Accelerator
+8777477389 - Ötökkä - nan model cframe
 
 moving parts:
 5692151548 - Beach
@@ -750,3 +912,4 @@ moving parts:
 5692158895 - Hyperspeed - fix ramps
 5692128595 - Sand Temple - hitbox hard
 5692098505 - Switch - good luck quat
+5692093399 - Yonder - backlog for more votes
