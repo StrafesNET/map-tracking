@@ -91,12 +91,14 @@ accepted:
 5692127824 - Bunte Kuh
 5692107295 - Calibrate
 5692123435 - Candy
+5692113935 - Candy Land - 19s
 5692113810 - Cartoons
 5692112268 - Cast
 5692108187 - Castaway
 5692106803 - Cave
 5692180414 - Caved in
 5692138810 - Caverns - Iconic
+5692175141 - Cerberal
 5692107676 - Charcoal Chasm
 8658884797 - Chrome
 5692098820 - Chrysanthemum Throne
@@ -108,6 +110,7 @@ accepted:
 5692174562 - Clique
 5692099099 - Clove
 5692170652 - Cobalt
+5692107374 - Cobble
 5692146640 - Cobblestone
 5692103629 - Coffee
 5692152358 - Coloration
@@ -123,6 +126,7 @@ accepted:
 8659325055 - Conserve
 5692157639 - Construction
 5692143989 - Construction
+5692113020 - Continuity
 8659323725 - Condemned
 5692152716 - Contained Breach
 5692181331 - Cotton Candy
@@ -217,7 +221,139 @@ accepted:
 5692158370 - Guffaw
 5692175330 - Halycon
 5692112337 - Happy Gummy Bear
+5692128088 - Hefty Trashbags
+5692150073 - Heights
+8658937887 - Hex
+5692152260 - Hibiscus
+5692123834 - Hole In One
+5692150114 - Horrible V2
+5692139475 - Horsepoop 1
+5692144600 - Hue
+5692145318 - I DROPPED MY HECKIN POP-TARTS!!
+5692169409 - I Don't Know
+5692112525 - I Feel Bricky
+8777494036 - I Know
+5692145143 - IHCRV5PSFCDSSL
+5692093291 - Ice
+5692118983 - Ice
+5692153824 - Ice Cave
+5692153202 - IceHoppers
+5692135350 - Iceberg
+8777452023 - IdiotHop
+5692117445 - Im Eating a Bagel
+5692127702 - Inspired
+5692139047 - Intensity
+5692113875 - Is Me
+5692180875 - Island Adventure
+5692124338 - Iso
+5692104352 - JakeThe_God
+6111019636 - Jaoping
+5692117722 - Jolt
+5692106249 - July
+5692123054 - Juma
+6111021105 - Jungle
+6111023008 - Jungle Easy
+5692134497 - Ka-Chow!
+5692113587 - Kairos
+5692165267 - Karakai Jozu no Takagi-san - make bonus work
+5692169458 - Kitsune
+5692106397 - Kiwi Cwfx
+5692157895 - Koi
+5692123964 - Kori
+5692124057 - Kotodama
+5692144676 - Kyoto
+5692170473 - Lab
+5692163059 - Lapis
+5692106168 - Larena - maybe align the green ramp better at the top, maybe increase the height of the doorway teleports
+5692105790 - Lava Escape
+5692134991 - Lavender
+5692106026 - Lavender - 7s
+5692144635 - Lazy Larry
+5692108379 - Leaf Beach
+6115127930 - Legoflix remade
+5692113648 - Legowo
+5692175863 - Lemon
+5692106494 - Lenchuonium
+5692106568 - Levels
+5692169147 - Lezgo - "spines are super bad"
+5692093937 - Lezgo II
+5692118790 - Linen
+5692144523 - Lonely Road
+8777455841 - Lost in Forest
+5692164298 - Lucid
+5692128389 - Luck
+5692132999 - Lumber
+5692186429 - Macaroni and Cheese
+5692169540 - MadeinTYO
+5692113418 - Magma
+5692093913 - Mail Yourself In a Box
+5692158695 - Manpoo
+5692093612 - Marble
+5692104087 - Marble Fanta
+5692118222 - Marbleous - mild bumpy ramps
+5692176424 - Materials
+5692098014 - Materials 2
+6115132512 - Mauve
+5692124172 - Maybe
+5692105206 - Maze
+5692107091 - Meadows
+5692106639 - Mediocre
+5692153297 - Mellow - last few spines could be fixed
+5692122990 - Melting
+5692129086 - Minecraft
+5692111783 - Minimalism
+5692102973 - Mirage
+5692187016 - Moderated
+5692112034 - Moist
+5692169908 - Monotonous
+5692099007 - Monster Jam
+5692093136 - Moonlight
+5692103523 - Mulberry
+5692176575 - Mushrooms v1
+5693294901 - M e s a - change name to Mesa
+5692099660 - Namaste
+5692152839 - Namaste 2
+5692128520 - Nandayo
+5692144938 - Nandayo 2
+5692139913 - Nature
+6115138205 - Navigator
+5692107327 - Nebula
+5692144088 - Neon Colors
+8777458476 - Neon Vibes V2
+5692134462 - NeonWood
+8777496995 - Neospace
 5692186561 - Norwegian wood
+5692186250 - Not Far
+5692145037 - Not Flat
+5692093443 - Not a Small Map
+5692145213 - Numismatic
+5692185710 - OOF
+5692163430 - OOF HARD - hitbox makes the end unintentionally harder
+5692098747 - Obby
+5692146269 - Obs
+5692102941 - Ocean
+5692138857 - One Vector
+5692171042 - Orange - ramps can randomly reset (same issue as bumpy ramps)
+5692094834 - Orange V2
+5692124415 - Ostentatious
+6115140662 - Overgrown
+5692170221 - Overline
+6111024993 - Palm Tree Vibes
+5692094799 - Pandemic
+5692128049 - Paradigm
+5692144724 - Paradise
+5692127989 - Paradise 2
+5692118386 - Paradox
+5692127919 - Paragov - one bumpy ramp around 1:18
+5692117524 - Parallel (Linear)
+5692097982 - Passionlessly - 9s
+5692139100 - Pastel
+5692093034 - Pasture
+5692098260 - Patent
+5692127874 - Pathway
+5692122495 - Pathway II
+5692128557 - Pathway III
+5692186355 - Patio
 
 current:
 
@@ -234,12 +370,32 @@ rejected:
 5692175025 - Biomes - Voted out
 5692112867 - Blue Seas - Voted out
 5692103013 - Caldera - No
+5692134051 - Cataclysm - Voted out
+5692133296 - Cataclysm 3 - Voted out
 5692106207 - Daniel - Voted out
 5692108061 - Dash - Voted out
 5692128819 - Dionysus - Voted out
 5692176745 - Dockyard - Voted out
 5692176613 - Dragon - Voted out
 5692134615 - Emo Kid - Voted out
+5692151607 - Highrise - Low Quality
+5692152525 - Hotblox - Low Quality
+5692180533 - Illusion - Low Quality
+5692144753 - In-dev - Idiotic mapping
+5692186387 - Kappa - Low Quality
+5692118286 - Lava - Low Quality
+5692118094 - Lava Run - Low Quality
+5692128420 - Legacy - Low Quality
+5692106837 - Longing - Low Quality
+5692158516 - Lumberland - Voted out
+5692108286 - Luminous - Boring
+5692106137 - Mistyfalls - Low Quality
+5692176022 - Moose - Low Quality
+5692176794 - Mountains - Low Quality
+5692145359 - Neon Power - Voted out
+5692104117 - Office Complex - Low Quality
+5692094634 - Oh_One - Low Quality
+5692181401 - One Jump - Low Quality
 
 too short:
 5692180765 - 0_o - 7s
@@ -277,18 +433,37 @@ too short:
 5692176913 - Grasshopper - 6s
 5692169770 - Grasshopper V2 - 7s
 5692181178 - GrassyIcey - 12s
+5692180211 - Hoppy McHopface - 11s
+5692098854 - Immaculate - 13s
+5692105303 - Intertwined - 9s
+5692128161 - Jofwee - 5s
+5692102791 - Laboratory - 5s
+5692181703 - Lava Run - 7s
+5692103906 - Majestic - 9s
+5692103232 - Miami - 10s
+5692169206 - Monochrome	- 12s
+5692139997 - Nexus - 10s
+5692139403 - Nougat - 6s GOOD RIDDANCE
+5692098168 - Orange Crush - 9s
+5692099061 - Orange Darkness - 5s
+5692185894 - Pale - 9s
+5692134747 - Pert - 13s
 
 backlog:
-5692113935 - Candy Land
-5692134051 - Cataclysm
-5692133296 - Cataclysm 3
-5692099623 - Caving In
-5692175141 - Cerberal
-5692107374 - Cobble
-5692113020 - Continuity
+
+verify possible:
 8659326439 - Convey
 5692113845 - Divine
-5692140242 - Elprup
+5692165111 - Microverse - bot is sussing, re-make sure
+5692138452 - Newt
+5692169964 - Nikolo
+5692159131 - No
+5692168868 - Obelisk
+5692123564 - Olive
+
+lost in past migration:
+Daydreamer 2
+Ocean Foam
 
 bumpy ramps:
 5692164341 - 123
@@ -297,6 +472,7 @@ bumpy ramps:
 5692174829 - Achromatic - generic bumpy ramps, playtest to fix
 5692163859 - Aether
 5692111949 - Alcoa
+5692099623 - Caving In
 5692180583 - Consistency - also weird invisible trigger
 5692113020 - Continuity
 5692107905 - Dark Ambient
@@ -304,7 +480,6 @@ bumpy ramps:
 5692097943 - Detritus
 5693294460 - Discord - moving platforms (decoration only)
 5692094760 - Disparity
-5692134709 - O-oh hi-i t-there, J-J-Jill - especially 2nd ramp
 8659330557 - Egypt - not designed for new hitbox
 6111008494 - Error - every curved ramp
 5692111905 - Exultant
@@ -315,6 +490,19 @@ bumpy ramps:
 5692153669 - Gimmick
 5692135297 - Glass II - make edges cancollide false
 5692134571 - Golden Glory - make ramps 1 part instead of 2
+5692146367 - Ineffable
+5692158834 - Intercosmic
+5692164006 - Luck2 - fix all spines
+6111026986 - Luminous
+5692163103 - Magenta
+5692113509 - Memorial
+5692151451 - Memorial 2
+5692174281 - Newt Two
+5692134709 - O-oh hi-i t-there, J-J-Jill - especially 2nd ramp
+5692180913 - Obscurity - make the trim cancollide false
+5692094206 - Obsidium
+5692132783 - Overworld
+surf_telehop - bad spines
 
 new physics bug (mapfix):
 5692118014 - Frantic Lemon - cringe first surf
@@ -353,6 +541,30 @@ new physics bug (mapfix):
 5692175777 - Got The Blues - last stage speed trap traps player
 5692134367 - Gravity - hitbox harder
 5692152129 - Haarukka - fix start
+5692174984 - Hazardous - Accelerator needs to be not called Accelerator
+5692170798 - Hello - start is weird, but the main map should be the longer version, and bonus is the linear version.  also spinefix may be causing issues
+5692151238 - High segdaB - simulation broken apparently
+5692151345 - Horizon - hitbox harder/impossible throughout the map
+5692159828 - Icire - move to origin, align ramps
+5692099285 - Impulse - no map issues, just everyone thinks the whole port should be redone
+5692153618 - Ineffable 2 - broken bhop at end
+6111269498 - Ire - end zone broken, one bumpy ramp mid map, raise the surf flush with a trigger so you don't hit the trigger
+5692180285 - Jon - hitbox hard
+5692157375 - Kitsune - fix visuals, make ramp edges cancollide false, anchor spinning thingy
+5692118651 - Level Up! - please make this less ugly, maybe decorate
+5692164379 - Lines - purple spawn impassible, also bumpy ramps
+5692140242 - Elprup - impossible, can't go in diamond hole
+5692164723 - Minecraft - hitbox impossible
+5692117855 - Mane Six - anti tele traps player
+5692135218 - Mausoleum - replace speed trap with SetVelocity, buggy start area
+5692103566 - Medieval - SirLolNoob wants to edit
+5692099007 - Monster Jam - moon door teleport is rng, also change moon jump area to accelerator rather than booster only
+5692093067 - MooManChicken - fix lighting
+5692153342 - One More - anti tele traps player
+5692118940 - Paradise - fix start + bumpy ramps
+5692123163 - Paradise II - 3rd ramp bad spine
+5692132972 - Parodygov - Accelerator needs to be not called Accelerator
+surf_stones - bad spines
 
 new physics bug (my fault):
 5692098747 - Obby - Spheres not implemented
@@ -363,7 +575,8 @@ new physics bug (my fault):
 6111011305 - Gloss - ramp is non collidable
 5692127528 - Green Randomness - start zone
 5692169375 - Halloween - start zone, spines
-5692174984 - Hazardous - glass thing is non collidable
+5692185801 - Illuminati - what is going on with the start zone
+8777500297 - Pastel - start zone
 
 moving parts:
 5692151548 - Beach
@@ -371,3 +584,4 @@ moving parts:
 5692128654 - Eazy v2
 5692098438 - Emily
 5692122921 - Glass - make edges cancollide false, bring back spinny things
+5692158895 - Hyperspeed - fix ramps
