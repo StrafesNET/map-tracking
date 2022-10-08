@@ -477,6 +477,7 @@ HUB FIXED - 8659337553 - Spectrum
 5692159745 - Surfhop
 5692144303 - Swamp
 5692094060 - Swampy
+FIXED FILE AVAILABLE 5692098505 - Switch
 8777462556 - Synced V2
 5692093530 - Synergy
 5692093654 - TaiShi
@@ -615,6 +616,7 @@ Spectrum
 current:
 
 backlog:
+FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog for more votes
 
 verify possible:
 5692169964 - Nikolo
@@ -930,15 +932,13 @@ teleport fix will resolve:
 misnamed accelerator:
 
 moving parts:
-5692151548 - Beach
+5692151548 - Beach - is this even worth saving?  remove shadows
 5692140192 - Communism - end is not possible
 5692128654 - Eazy v2 - made moving platforms but they're still buggy
 5692098438 - Emily - use grouping strategy for moving platforms
 5692122921 - Glass - make edges cancollide false, bring back spinny things
 5692158895 - Hyperspeed - fix ramps
 HUB FIXED - 5692128595 - Sand Temple - hitbox hard
-5692098505 - Switch - made moving platforms - fix spawn id updating
-DONE 5692093399 - Yonder - backlog for more votes
 
 multitouch:
 8659326439 - Convey - fix sliding in start
