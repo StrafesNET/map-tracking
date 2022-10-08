@@ -1,3 +1,6 @@
+# I want to fix maps
+Give me a list of ids/maps and I will send you up to date map files for whichever maps you want to fix.
+
 ## How to send in your edits using github
 1. Fork this project using the button on the github page
 2. Create a new branch named whatever you like
