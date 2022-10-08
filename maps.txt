@@ -557,33 +557,30 @@ FIX SUBMITTED 5692123475 - Trigger - insane bump in one of the ramps
 5692104583 - Zoom
 5693294408 - Zyper
 6111003348 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fix antitele adjust ramps near wormhole
-CAPITALIZE ALL BELOW MAPS
-DONE 8777438675 - alvo2
-DONE 5692152159 - anyyy
-DONE 5692118540 - bhop_indigo - remove bhop_ from DisplayName
-DONE 5692164950 - bhop_lm
-DONE 5692153710 - emevaelx3
-DONE 6111292922 - garbagecan2019
-DONE 5692124094 - gg no re
-DONE 5692103818 - kynto
-DONE 5692132870 - milk truck - fix spines
-DONE 5692163326 - mush2room
-DONE 5692182334 - omgdogs - headhit harder
-DONE 8659333439 - o̴̕̕h̀͝͝!̵̢͘͝͞ - last ramp bad spine
-DONE 5692098227 - persepillu
-DONE 5692153750 - pruxish
-DONE 5692144392 - rise
-DONE 5692123125 - rise_to
-DONE 5692153167 - sam9268
-DONE 5692117968 - sdc01
-
-fixed:
-5692174984 - Hazardous - Accelerator needs to be not called Accelerator
-5692144784 - Vice Spice - booster is wrongly named Accelerator
-5692105876 - senpai - booster misnamed as Accelerator
-5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
-6111011305 - Gloss - ramp is non collidable
-5692128703 - Underworld - far from origin
+FIX UPLOADED 8777438675 - alvo2
+FIX UPLOADED 5692152159 - anyyy
+FIX UPLOADED 5692118540 - bhop_indigo
+FIX UPLOADED 5692164950 - bhop_lm
+FIX UPLOADED 5692153710 - emevaelx3
+FIX UPLOADED 6111292922 - garbagecan2019
+FIX UPLOADED 5692124094 - gg no re
+FIX UPLOADED 5692103818 - kynto
+FIX UPLOADED 5692132870 - milk truck - fix spines
+FIX UPLOADED 5692163326 - mush2room
+FIX UPLOADED 5692182334 - omgdogs - headhit harder
+FIX UPLOADED 8659333439 - o̴̕̕h̀͝͝!̵̢͘͝͞ - last ramp bad spine
+FIX UPLOADED 5692098227 - persepillu
+FIX UPLOADED 5692153750 - pruxish
+FIX UPLOADED 5692144392 - rise
+FIX UPLOADED 5692123125 - rise_to
+FIX UPLOADED 5692153167 - sam9268
+FIX UPLOADED 5692117968 - sdc01
+FIX UPLOADED 5692174984 - Hazardous - Accelerator needs to be not called Accelerator
+FIX UPLOADED 5692144784 - Vice Spice - booster is wrongly named Accelerator
+FIX UPLOADED 5692105876 - senpai - booster misnamed as Accelerator
+FIX UPLOADED 5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
+FIX UPLOADED 6111011305 - Gloss - ramp is non collidable
+FIX UPLOADED 5692128703 - Underworld - far from origin
 
 submitted fixes:
 11199782305 - Bad map - neon green parts are now noncollidable
