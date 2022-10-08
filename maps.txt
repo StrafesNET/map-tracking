@@ -928,15 +928,15 @@ teleport fix will resolve:
 5692117268 - Waterfall - spawn in ground
 5692153475 - Yes - spawn in ground, bumpy ramps
 
-misnamed accelerator:
-
 moving parts:
 5692151548 - Beach - is this even worth saving?  remove shadows
+5692122921 - Glass - make edges cancollide false, bring back spinny things?
 5692118831 - Technical - server runs very slowly
+
+needs grouped moving parts fix:
 5692140192 - Communism - end is not possible
 5692128654 - Eazy v2 - made moving platforms but they're still buggy
 5692098438 - Emily - use grouping strategy for moving platforms
-5692122921 - Glass - make edges cancollide false, bring back spinny things
 5692158895 - Hyperspeed - fix ramps
 HUB FIXED - 5692128595 - Sand Temple - hitbox hard
 
