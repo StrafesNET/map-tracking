@@ -85,7 +85,7 @@ FIX SUBMITTED 5692157700 - Bad map - make green parts in spawn cancollide false
 5692176669 - Brick
 5692176057 - Brick
 8658891384 - Brick 2
-6115123026 - Brick Worship - mapfix = library/11129692623/Brick-Worship-No-Headhits
+FIX SUBMITTED 6115123026 - Brick Worship
 5692163580 - Bruh
 8777490010 - Bubble Gum
 5692127824 - Bunte Kuh
@@ -450,7 +450,7 @@ FIX SUBMITTED 5692164810 - Septic - why is ladder teleport?
 5692133999 - Soyuz
 5692185754 - Space
 5692138501 - Space Core
-HUB FIXED - 8777510372 - Space Jam - mapfix: library/621876510/surf-spacejam "Fixed the ramps and added detail"
+HUB FIXED/FIX SUBMITTED - 8777510372 - Space Jam
 5692138645 - Spearmint
 5692180182 - Spectrum
 HUB FIXED - 8659337553 - Spectrum
@@ -587,6 +587,7 @@ fixed:
 
 submitted fixes:
 11199782305 - Bad map - neon green parts are now noncollidable
+11129692623 - Brick Worship - fixed headhits
 5120004314 - Emblem 5 - fixed spawn outlines being typeable, fixed lighting and other little changes
 1082348401 - Emblem Easy - fixed spawn outlines being typeable
 11200058803 - Marbleous - fixed bumpy ramps
@@ -595,6 +596,7 @@ submitted fixes:
 11200709111 - Quiescent - fixed start zone
 11200839534 - Sard - fixed headhit stage
 11200938811 - Septic - fixed ladder
+621876510 - Space Jam - Fixed the ramps and added detail
 11201056414 - Trigger - fixed insane bump / need to ask mapper if end purple surf is intentional
 11201249101 - The Dragon's Lair - text above cp flags are now noncollidable
 11201322313 - Tomb - vines are now noncollidable
@@ -620,7 +622,7 @@ FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog
 
 verify possible:
 5692169964 - Nikolo
-5692107810 - Resilience - hitbox - moving decoration
+5692107810 - Resilience - hitbox harder - moving decoration
 5692133329 - Schemes
 5692157806 - Sinsane
 5692153562 - Six Luminaries
@@ -933,6 +935,7 @@ misnamed accelerator:
 
 moving parts:
 5692151548 - Beach - is this even worth saving?  remove shadows
+5692118831 - Technical - server runs very slowly
 5692140192 - Communism - end is not possible
 5692128654 - Eazy v2 - made moving platforms but they're still buggy
 5692098438 - Emily - use grouping strategy for moving platforms
@@ -950,5 +953,4 @@ HUB FIXED - 5692169375 - Halloween - start zone multitouch, spines
 new physics bug (my fault):
 5692163187 - Back To Earth - Spheres
 5692098747 - Obby - Spheres not implemented
-5692118831 - Technical - server runs very slowly MOVING PARTS
 8777477389 - Ötökkä - nan model cframe
