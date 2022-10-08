@@ -301,7 +301,7 @@ FIX SUBMITTED 5692118222 - Marbleous - mild bumpy ramps
 5692153297 - Mellow - last few spines could be fixed
 5692122990 - Melting
 5692165111 - Microverse
-5692129086 - Minecraft
+HUB FIXED - 5692129086 - Minecraft
 5692111783 - Minimalism
 5692102973 - Mirage
 5692187016 - Moderated
@@ -322,7 +322,7 @@ FIX SUBMITTED 5693294901 - M e s a - change name to Mesa
 5692144088 - Neon Colors
 8777458476 - Neon Vibes V2
 5692134462 - NeonWood
-8777496995 - Neospace
+HUB FIXED - 8777496995 - Neospace
 5692138452 - Newt - spines
 5692186561 - Norwegian wood
 5692186250 - Not Far
@@ -348,6 +348,7 @@ FIX SUBMITTED 5692163430 - OOF HARD - hitbox makes the end unintentionally harde
 5692118386 - Paradox
 5692127919 - Paragov - one bumpy ramp around 1:18
 5692117524 - Parallel (Linear)
+HUB FIXED - 5692132972 - Parodygov - Accelerator needs to be not called Accelerator
 5692097982 - Passionlessly - 9s
 5692139100 - Pastel
 5692093034 - Pasture
@@ -449,10 +450,10 @@ FIX SUBMITTED 5692164810 - Septic - why is ladder teleport?
 5692133999 - Soyuz
 5692185754 - Space
 5692138501 - Space Core
-8777510372 - Space Jam - mapfix: library/621876510/surf-spacejam "Fixed the ramps and added detail"
+HUB FIXED - 8777510372 - Space Jam - mapfix: library/621876510/surf-spacejam "Fixed the ramps and added detail"
 5692138645 - Spearmint
 5692180182 - Spectrum
-8659337553 - Spectrum
+HUB FIXED - 8659337553 - Spectrum
 5692092992 - Splash
 5692163282 - Splash 2
 5692181458 - Spongebob
@@ -596,6 +597,20 @@ submitted fixes:
 11201056414 - Trigger - fixed insane bump / need to ask mapper if end purple surf is intentional
 11201249101 - The Dragon's Lair - text above cp flags are now noncollidable
 11201322313 - Tomb - vines are now noncollidable
+
+submitted hub fixes:
+Exultant
+Golden Glory
+Halloween
+Minecraft
+Overworld
+Parodygov
+Sand Temple
+Tyrian
+Hello
+Neospace
+Space Jam
+Spectrum
 
 current:
 
@@ -770,14 +785,14 @@ bumpy ramps:
 5692094760 - Disparity
 8659330557 - Egypt - not designed for new hitbox
 6111008494 - Error - every curved ramp
-5692111905 - Exultant
+HUB FIXED - 5692111905 - Exultant
 6111010028 - Farewell
 5692158577 - Fort - align spines
 5692118014 - Frantic Lemon - lol
 5692158924 - Frost Nova - also fix start
 5692153669 - Gimmick
 5692135297 - Glass II - make edges cancollide false
-5692134571 - Golden Glory - make ramps 1 part instead of 2
+HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 5692146367 - Ineffable
 5692158834 - Intercosmic
 5692164006 - Luck2 - fix all spines
@@ -789,7 +804,7 @@ bumpy ramps:
 5692134709 - O-oh hi-i t-there, J-J-Jill - especially 2nd ramp
 5692180913 - Obscurity - make the trim cancollide false
 5692094206 - Obsidium
-5692132783 - Overworld
+HUB FIXED - 5692132783 - Overworld
 5692133386 - Reflectoria
 5692175668 - Reskea
 5692174368 - Retrospect - ramps kill you
@@ -848,7 +863,7 @@ DONE 5692146675 - AutoBadges - unanchored parts
 5692175777 - Got The Blues - last stage speed trap traps player
 5692134367 - Gravity - hitbox harder
 5692152129 - Haarukka - fix start
-5692170798 - Hello - start is weird, but the main map should be the longer version, and bonus is the linear version.  also spinefix may be causing issues
+HUB FIXED - 5692170798 - Hello - start is weird, but the main map should be the longer version, and bonus is the linear version.  also spinefix may be causing issues
 5692151238 - High segdaB - simulation broken apparently
 5692151345 - Horizon - hitbox harder/impossible throughout the map
 5692159828 - Icire - move to origin, align ramps
@@ -887,7 +902,7 @@ DONE 5692117483 - Tech - Trigger skip near start of the map after you go down
 5692122753 - Tide - remove the invisible path to the end
 5692145794 - Touch - head hit roof
 5692158544 - Trikz Cloud - use SetVelocity for anti tele
-5692117595 - Tyrian - fix spines, maybe just the last ramp
+HUB FIXED - 5692117595 - Tyrian - fix spines, maybe just the last ramp
 5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
@@ -921,20 +936,19 @@ moving parts:
 5692098438 - Emily - use grouping strategy for moving platforms
 5692122921 - Glass - make edges cancollide false, bring back spinny things
 5692158895 - Hyperspeed - fix ramps
-5692128595 - Sand Temple - hitbox hard
+HUB FIXED - 5692128595 - Sand Temple - hitbox hard
 5692098505 - Switch - made moving platforms - fix spawn id updating
 DONE 5692093399 - Yonder - backlog for more votes
 
 multitouch:
 8659326439 - Convey - fix sliding in start
 5692111833 - Fifty Percent More Pineapple - start zone multitouch
-5692169375 - Halloween - start zone multitouch, spines
+HUB FIXED - 5692169375 - Halloween - start zone multitouch, spines
 5692104445 - Zany - 10s - sliding in start
 5692145827 - bhop_white_on_blue - sliding in start
 
 new physics bug (my fault):
 5692163187 - Back To Earth - Spheres
 5692098747 - Obby - Spheres not implemented
-5692132972 - Parodygov - Accelerator needs to be not called Accelerator
 5692118831 - Technical - server runs very slowly MOVING PARTS
 8777477389 - Ötökkä - nan model cframe
