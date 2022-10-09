@@ -9,22 +9,9 @@ not in inventory:
 ???:
 10560140985 - controversial, discuss why to accept or reject
 
-accepted:
-6525501185
-7885932009
-10298870923
-10350059091 - ask surf_idk map maker about this
-6420411884
-10386412604
-5737567862
-10573377465
-10061197209
+accepted but needs fix:
 8642318889 - gui not allowed
-5192958189
-5359694306
-6624771170
 6661642203 - oopsie, make zones shorter
-5975170829
 331511377 - make freedom puppies a bonus on this map
 
 rejected:

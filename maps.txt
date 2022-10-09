@@ -582,6 +582,37 @@ FIX UPLOADED 5692094033 - FabricColorz - what's up with green spawn, why spawnin
 FIX UPLOADED 6111011305 - Gloss - ramp is non collidable
 FIX UPLOADED 5692128703 - Underworld - far from origin
 
+release schedule bhop:
+11222350808 - 0 Sanity
+11222358746 - 0zirk
+11222362560 - Calm Down
+11222365475 - Frenzy
+11222370043 - Hello
+11222373867 - I Don't Know
+11222377740 - Outback Shore
+11222380990 - Dipl
+11222383793 - Just One Stage
+11222387016 - Nedone
+11222390324 - OGBLOX
+11222393859 - Technicolor
+11222396904 - Wannabe
+
+release schedule surf:
+11222400124 - Ambience
+11222403629 - Castle
+11222407950 - Caving In 2
+11222411070 - The Center
+11222415456 - Cyberspace
+11222418405 - Diminsion
+11222420770 - Elementary
+11222424719 - One Day
+11222428333 - Orbital
+11222430597 - Painted Planks
+11222433611 - Regret
+11222436684 - Secton
+11222438810 - Thunderstorm
+11222440296 - Woodlawn
+
 submitted fixes:
 11199782305 - Bad map - neon green parts are now noncollidable
 11129692623 - Brick Worship - fixed headhits
@@ -943,6 +974,8 @@ moving parts:
 5692151548 - Beach - is this even worth saving?  remove shadows
 5692122921 - Glass - make edges cancollide false, bring back spinny things?
 5692118831 - Technical - server runs very slowly
+surf_cyberspace_noob - moving decorations
+bhop_technicolor - moving decorations
 
 needs grouped moving parts fix:
 5692140192 - Communism - end is not possible
