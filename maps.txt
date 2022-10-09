@@ -612,7 +612,10 @@ Neospace
 Space Jam
 Spectrum
 
-current:
+where are these maps I know they exist and I want them:
+Daydreamer 2
+bhop_fur
+bhop_brickcolors
 
 backlog:
 FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog for more votes
@@ -763,11 +766,6 @@ too short:
 5692152188 - code://ERROR - 7s
 5692106356 - evrymepmeker - 6s
 5692099134 - reddish - 7s
-
-where are these maps I know they exist and I want them:
-Daydreamer 2
-bhop_fur
-bhop_brickcolors
 
 bumpy ramps:
 5692164341 - 123
