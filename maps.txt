@@ -594,7 +594,7 @@ submitted fixes:
 11200839534 - Sard - fixed headhit stage
 11200938811 - Septic - fixed ladder
 621876510 - Space Jam - Fixed the ramps and added detail
-11201056414 - Trigger - fixed insane bump -- need to ask mapper if end purple surf is intentional
+11201056414 - Trigger - fixed insane bump, need to ask mapper if end purple surf is intentional
 11201249101 - The Dragon's Lair - text above cp flags are now noncollidable
 11201322313 - Tomb - vines are now noncollidable
 11208075431 - Colorz - fixed spawn
@@ -919,7 +919,7 @@ HUB FIXED - 5692117595 - Tyrian - fix spines, maybe just the last ramp
 5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
-FIXED 5692182387 - Water - fix start and end platform
+FIX SUBMITTED 5692182387 - Water - fix start and end platform
 5692169598 - Water Park - invisible death
 5692140155 - X - fix OOB
 5692107763 - Xerox - impossible vent
