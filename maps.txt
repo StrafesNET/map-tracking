@@ -594,9 +594,21 @@ submitted fixes:
 11200839534 - Sard - fixed headhit stage
 11200938811 - Septic - fixed ladder
 621876510 - Space Jam - Fixed the ramps and added detail
-11201056414 - Trigger - fixed insane bump / need to ask mapper if end purple surf is intentional
+11201056414 - Trigger - fixed insane bump, need to ask mapper if end purple surf is intentional
 11201249101 - The Dragon's Lair - text above cp flags are now noncollidable
 11201322313 - Tomb - vines are now noncollidable
+11208075431 - Colorz - fixed spawn
+11208157584 - Paradise II - fixed spine issue
+11208289331 - Accident - start is now possible - (NEEDS TESTING!!!)
+11208487542 - Water - fixed start and end platforms
+11208592989 - Waterfall - fixed spawn
+11208703243 - Ancient Ruin - fixed spawn
+11208782299 - Badges(Full) recreated - increased gap size at spawn29
+11209105624 - Rookie - added anti tele , fixed last ramp
+11210662013 - Mausoleum - anti tele , spawn fix
+11203117686 - Paradise - whole map improvement overall -- could make it better if map acceptance is certain
+11203630816 - Borderlands - revamped stage 6 start , SetVelocities added -- would increasing tele size but gotta ask mapper
+
 
 submitted hub fixes:
 Exultant
@@ -830,7 +842,7 @@ new physics bug (mapfix):
 5692118014 - Frantic Lemon - cringe first surf
 5692181503 - 15 Minutes - OOB
 5692108009 - 456 - spin is impossible
-5692164512 - Accident - beginning is impossible
+FIX SUBMITTED 5692164512 - Accident - beginning is impossible
 5692108257 - Ancient Ruin - Map start
 5692158334 - Around The Round - what is going on at the start
 DONE 5692146675 - AutoBadges - unanchored parts
@@ -838,14 +850,14 @@ DONE 5692146675 - AutoBadges - unanchored parts
 5692176139 - Avery - Fix booster(s?)
 5692128954 - Azurite - fix start & make window wider by 2.2
 5692117355 - Badges 2 - fix available in map fixing hub
-5692169729 - Borderlands - spawn 6 cringe, replace all anti tele with SetVelocity
+FIX SUBMITTED 5692169729 - Borderlands - spawn 6 cringe, replace all anti tele with SetVelocity
 5692107960 - Bumblebee - "impossible"
 8777492451 - Bunker - major skips
 5692135173 - Chimera - start kills simulation
 5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
 5692133764 - City Fun - fix start, maybe gameplay fixes
 5692098704 - Clarion - alternate reality part crashes the phyics
-5692134413 - Colorz - fix start
+FIX SUBMITTED 5692134413 - Colorz - fix start
 5692102646 - Compact - can't leave spawn
 5692146451 - Concrete - PLEASE FIX THE FLOORS,don't allow touching startzone from the top
 5693295211 - Danmark - fix teleports
@@ -877,18 +889,18 @@ HUB FIXED - 5692170798 - Hello - start is weird, but the main map should be the 
 5692140242 - Elprup - impossible, can't go in diamond hole
 5692164723 - Minecraft - hitbox impossible
 5692117855 - Mane Six - anti tele traps player
-5692135218 - Mausoleum - replace speed trap with SetVelocity, buggy start area
+FIX SUBMITTED 5692135218 - Mausoleum - replace speed trap with SetVelocity, buggy start area
 5692103566 - Medieval - SirLolNoob wants to edit
 5692099007 - Monster Jam - moon door teleport is rng, also change moon jump area to accelerator rather than booster only
 5692093067 - MooManChicken - fix lighting
 5692159131 - No - impossible: wormhole resets you to start
 5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
 5692153342 - One More - anti tele traps player
-5692118940 - Paradise - fix start + bumpy ramps
-5692123163 - Paradise II - 3rd ramp bad spine
+FIX SUBMITTED 5692118940 - Paradise - fix start + bumpy ramps
+FIX SUBMITTED 5692123163 - Paradise II - 3rd ramp bad spine
 5692135126 - Reprise Hard - spine next to trigger can get hit
 5692157460 - Rigorous - impossible, gap too small fix all gaps
-5692151184 - Rookie - use SetVelocity for anti tele, last ramp has bug on left side
+FIX SUBMITTED 5692151184 - Rookie - use SetVelocity for anti tele, last ramp has bug on left side
 5692165474 - Royal - ramps are multiple parts, use SetVelocity for anti tele
 5692174627 - S'mores
 5692133134 - Sand Flow - hitbox hard
@@ -906,7 +918,7 @@ HUB FIXED - 5692117595 - Tyrian - fix spines, maybe just the last ramp
 5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
-5692182387 - Water - fix start and end platform
+FIX SUBMITTED 5692182387 - Water - fix start and end platform
 5692169598 - Water Park - invisible death
 5692140155 - X - fix OOB
 5692107763 - Xerox - impossible vent
