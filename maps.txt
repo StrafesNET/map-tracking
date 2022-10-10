@@ -363,7 +363,7 @@ HUB FIXED - 5692132972 - Parodygov - Accelerator needs to be not called Accelera
 6115144310 - Planets
 5692099576 - Ploitan
 6115146211 - Pohb not idiot - change name
-5692170735 - Poly_Mount - change name
+5692170735 - Poly_Mount - change name, weird server logs
 5692113377 - Prank A1
 5692112488 - Pringles
 5692181127 - Pro bhopper
@@ -586,13 +586,13 @@ release schedule bhop:
 11222350808 - 0 Sanity
 11222358746 - 0zirk
 11222362560 - Calm Down
-11222365475 - Frenzy
+11222365475 - Frenzy - check lighting scripts, it's too dark but the submitted map was fine
 CENSORED 11222370043 - Hello
 11222373867 - I Don't Know
 11222377740 - Outback Shore
 11222380990 - Dipl
 11222383793 - Just One Stage
-11222387016 - Nedone
+FIX SUBMITTED 11222387016 - Nedone
 11222390324 - OGBLOX
 11222393859 - Technicolor
 11222396904 - Wannabe
@@ -620,6 +620,7 @@ submitted fixes:
 1082348401 - Emblem Easy - fixed spawn outlines being typeable
 11200058803 - Marbleous - fixed bumpy ramps
 4386770439 - Mesa - Name changed M e s a --> Mesa
+10573377465 - Nedone - fixed lighting
 11200515972 - OOF HARD - end easier because of new hitbox
 11200709111 - Quiescent - fixed start zone
 11200839534 - Sard - fixed headhit stage
