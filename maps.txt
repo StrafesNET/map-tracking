@@ -500,7 +500,7 @@ FIX SUBMITTED 5692146219 - The Dragon's Lair - make text above the checkpoint fl
 5692124237 - Three Mountains
 5692098640 - Tide2
 5692174873 - Tiles
-5692152916 - Toc
+5692152916 - Toc - Make bonus zones at end
 8659339332 - Today
 5692133932 - Tom Cruise
 FIX SUBMITTED 5692153872 - Tomb - annoying cancollide vines
