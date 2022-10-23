@@ -243,7 +243,6 @@ FIX SUBMITTED 5692170984 - Emblem Easy
 8777452023 - IdiotHop
 5692117445 - Im Eating a Bagel
 5692127702 - Inspired
-5692139047 - Intensity
 5692113875 - Is Me
 5692180875 - Island Adventure
 5692124338 - Iso
@@ -913,6 +912,7 @@ HUB FIXED - 5692170798 - Hello - start is weird, but the main map should be the 
 5692159828 - Icire - move to origin, align ramps
 5692099285 - Impulse - no map issues, just everyone thinks the whole port should be redone
 5692153618 - Ineffable 2 - broken bhop at end
+5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
 6111269498 - Ire - end zone broken, one bumpy ramp mid map, raise the surf flush with a trigger so you don't hit the trigger
 5692180285 - Jon - hitbox hard
 5692157375 - Kitsune - fix visuals, make ramp edges cancollide false, anchor spinning thingy
