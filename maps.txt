@@ -219,7 +219,7 @@ FIX SUBMITTED 5692170984 - Emblem Easy
 6111251983 - Grid 2
 5692152028 - Grotto
 8658935890 - Grozy
-5692158370 - Guffaw
+5692158370 - Guffaw - Trigger skip
 5692175330 - Halycon
 5692112337 - Happy Gummy Bear
 5692128088 - Hefty Trashbags
