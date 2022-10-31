@@ -251,7 +251,8 @@ on main:
 5692134497 - Ka-Chow!
 5692113587 - Kairos
 5692165267 - Karakai Jozu no Takagi-san - make bonus work
-5692169458 - Kitsune
+5692169458 - Kitsune (bhop)
+5692157375 - Kitsune - fix visuals
 5692106397 - Kiwi Cwfx
 5692157895 - Koi
 5692123964 - Kori
@@ -917,7 +918,6 @@ HUB FIXED - 5692170798 - Hello - start is weird, but the main map should be the 
 5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
 6111269498 - Ire - end zone broken, one bumpy ramp mid map, raise the surf flush with a trigger so you don't hit the trigger
 5692180285 - Jon - hitbox hard
-5692157375 - Kitsune - fix visuals, make ramp edges cancollide false, anchor spinning thingy
 5692118651 - Level Up! - please make this less ugly, maybe decorate
 5692164379 - Lines - purple spawn impassible, also bumpy ramps
 5692140242 - Elprup - impossible, can't go in diamond hole
