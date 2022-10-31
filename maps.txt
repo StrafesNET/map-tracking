@@ -1,4 +1,4 @@
-accepted:
+on main:
 5692112607 - 0000
 5692158058 - 004
 5692186472 - 2 Easy
@@ -52,7 +52,6 @@ accepted:
 5692132646 - Azura
 5692181232 - Azure
 5692103596 - BaQee
-FIX SUBMITTED 5692157700 - Bad map - make green parts in spawn cancollide false
 5692112389 - Badges(Full) recreated - change name to Badges - gap is too small to fit in at spawn 29
 5732172079 - Banal - bumpy ramp
 5692150236 - Barn
@@ -86,7 +85,6 @@ FIX SUBMITTED 5692157700 - Bad map - make green parts in spawn cancollide false
 5692176669 - Brick
 5692176057 - Brick
 8658891384 - Brick 2
-FIX SUBMITTED 6115123026 - Brick Worship
 5692163580 - Bruh
 8777490010 - Bubble Gum
 5692127824 - Bunte Kuh
@@ -181,8 +179,6 @@ FIX SUBMITTED 6115123026 - Brick Worship
 5692105269 - Emblem 2
 5692107133 - Emblem 3
 5692139507 - Emblem 4
-FIX SUBMITTED 5692118440 - Emblem 5
-FIX SUBMITTED 5692170984 - Emblem Easy
 5692113121 - Ephemeral
 8658931706 - Epiphany (Short)
 5692180097 - Eskay
@@ -200,7 +196,6 @@ FIX SUBMITTED 5692170984 - Emblem Easy
 5692175423 - FrankerZ
 5692099699 - FrostBite
 5692123338 - FrozenRuins
- Bonus: 5692150196 - Fur Bonus
 5692145082 - Futurebound
 8659331841 - Giza
 5692153515 - Go
@@ -290,7 +285,6 @@ FIX SUBMITTED 5692170984 - Emblem Easy
 5692158695 - Manpoo
 5692093612 - Marble
 5692104087 - Marble Fanta
-FIX SUBMITTED 5692118222 - Marbleous - mild bumpy ramps
 5692176424 - Materials
 5692098014 - Materials 2
 6115132512 - Mauve
@@ -301,7 +295,6 @@ FIX SUBMITTED 5692118222 - Marbleous - mild bumpy ramps
 5692153297 - Mellow - last few spines could be fixed
 5692122990 - Melting
 5692165111 - Microverse
-HUB FIXED - 5692129086 - Minecraft
 5692111783 - Minimalism
 5692102973 - Mirage
 5692187016 - Moderated
@@ -311,7 +304,6 @@ HUB FIXED - 5692129086 - Minecraft
 5692093136 - Moonlight
 5692103523 - Mulberry
 5692176575 - Mushrooms v1
-FIX SUBMITTED 5693294901 - M e s a - change name to Mesa
 5692099660 - Namaste
 5692152839 - Namaste 2
 5692128520 - Nandayo
@@ -322,7 +314,6 @@ FIX SUBMITTED 5693294901 - M e s a - change name to Mesa
 5692144088 - Neon Colors
 8777458476 - Neon Vibes V2
 5692134462 - NeonWood
-HUB FIXED - 8777496995 - Neospace
 5692138452 - Newt - spines
 5692186561 - Norwegian wood
 5692186250 - Not Far
@@ -330,7 +321,6 @@ HUB FIXED - 8777496995 - Neospace
 5692093443 - Not a Small Map
 5692145213 - Numismatic
 5692185710 - OOF
-FIX SUBMITTED 5692163430 - OOF HARD - hitbox makes the end unintentionally harder
 5692168868 - Obelisk
 5692146269 - Obs
 5692102941 - Ocean
@@ -348,7 +338,6 @@ FIX SUBMITTED 5692163430 - OOF HARD - hitbox makes the end unintentionally harde
 5692118386 - Paradox
 5692127919 - Paragov - one bumpy ramp around 1:18
 5692117524 - Parallel (Linear)
-HUB FIXED - 5692132972 - Parodygov - Accelerator needs to be not called Accelerator
 5692097982 - Passionlessly - 9s
 5692139100 - Pastel
 5692093034 - Pasture
@@ -415,10 +404,8 @@ HUB FIXED - 5692132972 - Parodygov - Accelerator needs to be not called Accelera
 5692094164 - Salmon
 5692123369 - Salmon On Mars
 5692099377 - Sandy
-FIX SUBMITTED 5692099246 - Sard - headhits
 5692186508 - Screech
 5692098367 - Sea Flow
-FIX SUBMITTED 5692164810 - Septic - why is ladder teleport?
 5692170555 - Serenity
 5692099412 - Shade
 5692175287 - Shadow Temple
@@ -450,10 +437,8 @@ FIX SUBMITTED 5692164810 - Septic - why is ladder teleport?
 5692133999 - Soyuz
 5692185754 - Space
 5692138501 - Space Core
-HUB FIXED/FIX SUBMITTED - 8777510372 - Space Jam
 5692138645 - Spearmint
 5692180182 - Spectrum
-HUB FIXED - 8659337553 - Spectrum
 5692092992 - Splash
 5692163282 - Splash 2
 5692181458 - Spongebob
@@ -477,12 +462,11 @@ HUB FIXED - 8659337553 - Spectrum
 5692159745 - Surfhop
 5692144303 - Swamp
 5692094060 - Swampy
-FIXED FILE AVAILABLE 5692098505 - Switch
 8777462556 - Synced V2
 5692093530 - Synergy
 5692093654 - TaiShi
 5692108338 - Temple
-DONE 6115161141 - Terral - hide the SpawnAt thingys, moving platforms decoration
+6115161141 - Terral - hide the SpawnAt thingys, moving platforms decoration
 5692102897 - Tetratronic
 5692093733 - The 24th
 5692093176 - The Cookhouse
@@ -491,7 +475,6 @@ DONE 6115161141 - Terral - hide the SpawnAt thingys, moving platforms decoration
 5693294365 - The Darkness
 5693294384 - The Darkness 2
 5693294433 - The Darkness3 - change name
-FIX SUBMITTED 5692146219 - The Dragon's Lair - make text above the checkpoint flags cancollide false
 5692134653 - The Flash
 8658886936 - The Map
 5692118622 - The Wanderer
@@ -502,13 +485,11 @@ FIX SUBMITTED 5692146219 - The Dragon's Lair - make text above the checkpoint fl
 5692152916 - Toc - Make bonus zones at end
 8659339332 - Today
 5692133932 - Tom Cruise
-FIX SUBMITTED 5692153872 - Tomb - annoying cancollide vines
 5692117551 - Totem
 5692185969 - Tractus
 5692127627 - Tranquil
 5692093875 - Translucidity v2
 5692139153 - Tri
-FIX SUBMITTED 5692123475 - Trigger - insane bump in one of the ramps
 5692146112 - Tropica
 5692106931 - Tropics
 5692164554 - TrueCetric
@@ -557,30 +538,30 @@ FIX SUBMITTED 5692123475 - Trigger - insane bump in one of the ramps
 5692104583 - Zoom
 5693294408 - Zyper
 6111003348 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fix antitele adjust ramps near wormhole
-FIX UPLOADED 8777438675 - alvo2
-FIX UPLOADED 5692152159 - anyyy
-FIX UPLOADED 5692118540 - bhop_indigo
-FIX UPLOADED 5692164950 - bhop_lm
-FIX UPLOADED 5692153710 - emevaelx3
-FIX UPLOADED 6111292922 - garbagecan2019
-FIX UPLOADED 5692124094 - gg no re
-FIX UPLOADED 5692103818 - kynto
-FIX UPLOADED 5692132870 - milk truck - fix spines
-FIX UPLOADED 5692163326 - mush2room
-FIX UPLOADED 5692182334 - omgdogs - headhit harder
-FIX UPLOADED 8659333439 - o̴̕̕h̀͝͝!̵̢͘͝͞ - last ramp bad spine
-FIX UPLOADED 5692098227 - persepillu
-FIX UPLOADED 5692153750 - pruxish
-FIX UPLOADED 5692144392 - rise
-FIX UPLOADED 5692123125 - rise_to
-FIX UPLOADED 5692153167 - sam9268
-FIX UPLOADED 5692117968 - sdc01
-FIX UPLOADED 5692174984 - Hazardous - Accelerator needs to be not called Accelerator
-FIX UPLOADED 5692144784 - Vice Spice - booster is wrongly named Accelerator
-FIX UPLOADED 5692105876 - senpai - booster misnamed as Accelerator
-FIX UPLOADED 5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
-FIX UPLOADED 6111011305 - Gloss - ramp is non collidable
-FIX UPLOADED 5692128703 - Underworld - far from origin
+8777438675 - alvo2
+5692152159 - anyyy
+5692118540 - bhop_indigo
+5692164950 - bhop_lm
+5692153710 - emevaelx3
+6111292922 - garbagecan2019
+5692124094 - gg no re
+5692103818 - kynto
+5692132870 - milk truck - fix spines
+5692163326 - mush2room
+5692182334 - omgdogs - headhit harder
+8659333439 - o̴̕̕h̀͝͝!̵̢͘͝͞ - last ramp bad spine
+5692098227 - persepillu
+5692153750 - pruxish
+5692144392 - rise
+5692123125 - rise_to
+5692153167 - sam9268
+5692117968 - sdc01
+5692174984 - Hazardous - Accelerator needs to be not called Accelerator
+5692144784 - Vice Spice - booster is wrongly named Accelerator
+5692105876 - senpai - booster misnamed as Accelerator
+5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
+6111011305 - Gloss - ramp is non collidable
+5692128703 - Underworld - far from origin
 
 release schedule bhop:
 11222350808 - 0 Sanity
@@ -612,6 +593,27 @@ release schedule surf:
 11222436684 - Secton
 11222438810 - Thunderstorm
 11222440296 - Woodlawn
+
+accepted:
+FIX SUBMITTED 5692157700 - Bad map - make green parts in spawn cancollide false
+FIX SUBMITTED 6115123026 - Brick Worship
+FIX SUBMITTED 5692118440 - Emblem 5
+FIX SUBMITTED 5692170984 - Emblem Easy
+ Bonus: 5692150196 - Fur Bonus
+FIX SUBMITTED 5692118222 - Marbleous - mild bumpy ramps
+HUB FIXED - 5692129086 - Minecraft
+FIX SUBMITTED 5693294901 - M e s a - change name to Mesa
+HUB FIXED - 8777496995 - Neospace
+FIX SUBMITTED 5692163430 - OOF HARD - hitbox makes the end unintentionally harder
+HUB FIXED - 5692132972 - Parodygov - Accelerator needs to be not called Accelerator
+FIX SUBMITTED 5692099246 - Sard - headhits
+FIX SUBMITTED 5692164810 - Septic - why is ladder teleport?
+HUB FIXED/FIX SUBMITTED - 8777510372 - Space Jam
+HUB FIXED - 8659337553 - Spectrum
+FIXED FILE AVAILABLE 5692098505 - Switch
+FIX SUBMITTED 5692146219 - The Dragon's Lair - make text above the checkpoint flags cancollide false
+FIX SUBMITTED 5692153872 - Tomb - annoying cancollide vines
+FIX SUBMITTED 5692123475 - Trigger - insane bump in one of the ramps
 
 submitted fixes:
 11199782305 - Bad map - neon green parts are now noncollidable
