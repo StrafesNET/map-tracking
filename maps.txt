@@ -85,7 +85,7 @@ on main:
 5692176669 - Brick
 5692176057 - Brick
 8658891384 - Brick 2
-5692163580 - Bruh
+5692163580 - Bruh - end of the map is unnecessarily hard because of head hits
 8777490010 - Bubble Gum
 5692127824 - Bunte Kuh
 5692107295 - Calibrate
