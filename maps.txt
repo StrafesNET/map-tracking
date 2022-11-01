@@ -617,6 +617,7 @@ FIX SUBMITTED 5692153872 - Tomb - annoying cancollide vines
 FIX SUBMITTED 5692123475 - Trigger - insane bump in one of the ramps
 
 submitted fixes:
+HUB FIXED (map extension) - 5692180765 - 0_o
 11199782305 - Bad map - neon green parts are now noncollidable
 11129692623 - Brick Worship - fixed headhits
 5120004314 - Emblem 5 - fixed spawn outlines being typeable, fixed lighting and other little changes
@@ -756,7 +757,6 @@ rejected:
 5692093096 - segdaB - Voted out
 
 too short:
-HUB FIXED (map extension) - 5692180765 - 0_o - 7s
 5692180942 - 1 Hour - 13s
 5692151302 - 2stref5u
 5692170693 - 30 Minutes
