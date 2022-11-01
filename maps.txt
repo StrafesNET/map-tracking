@@ -5,7 +5,7 @@ on main:
 5692103404 - 3d
 5692174911 - 7eremy
 5692097898 - A Deep Chicago Night
-5692181951 - A Little Peace of Happiness
+HUB FIXED - 5692181951 - A Little Peace of Happiness
 5692129052 - ALX
 5692164474 - Abbez1337
 6115118923 - Above and Below
@@ -106,7 +106,7 @@ on main:
 8658895140 - Cks Stref
 5692152464 - Clarity
 5692117646 - Clickbait
-5692174562 - Clique
+HUB FIXED - 5692174562 - Clique
 5692099099 - Clove
 5692170652 - Cobalt
 5692107374 - Cobble
@@ -136,7 +136,7 @@ on main:
 8777450104 - Cuboidal
 6115124610 - Cyber
 5692170872 - Dab on 'Em Haters
-8659328336 - Dark Matter
+HUB FIXED - 8659328336 - Dark Matter
 5692128775 - Danger Noodle
 5692165063 - Dawn
 5692157755 - Dawn3
@@ -439,7 +439,7 @@ on main:
 5692185754 - Space
 5692138501 - Space Core
 5692138645 - Spearmint
-5692180182 - Spectrum
+HUB FIXED - 5692180182 - Spectrum
 5692092992 - Splash
 5692163282 - Splash 2
 5692181458 - Spongebob
@@ -621,14 +621,14 @@ submitted fixes:
 11129692623 - Brick Worship - fixed headhits
 5120004314 - Emblem 5 - fixed spawn outlines being typeable, fixed lighting and other little changes
 1082348401 - Emblem Easy - fixed spawn outlines being typeable
-11200058803 - Marbleous - fixed bumpy ramps
+HUB FIXED - 11200058803 - Marbleous - fixed bumpy ramps
 4386770439 - Mesa - Name changed M e s a --> Mesa
 10573377465 - Nedone - fixed lighting
 11200515972 - OOF HARD - end easier because of new hitbox
 11200709111 - Quiescent - fixed start zone
 11200839534 - Sard - fixed headhit stage
 11200938811 - Septic - fixed ladder
-621876510 - Space Jam - Fixed the ramps and added detail
+HUB FIXED - 621876510 - Space Jam - Fixed the ramps and added detail
 11201056414 - Trigger - fixed insane bump, need to ask mapper if end purple surf is intentional
 11201249101 - The Dragon's Lair - text above cp flags are now noncollidable
 11201322313 - Tomb - vines are now noncollidable
@@ -646,14 +646,22 @@ submitted fixes:
 
 
 submitted hub fixes:
+0_o
+A Little Peace of Happiness
+Clique
 Exultant
 Golden Glory
 Halloween
+Marbleous
 Minecraft
 Overworld
 Parodygov
+Retrospect
 Sand Temple
 Tyrian
+X-ray
+Yobby
+Dark Matter
 Hello
 Neospace
 Space Jam
@@ -748,7 +756,7 @@ rejected:
 5692093096 - segdaB - Voted out
 
 too short:
-5692180765 - 0_o - 7s
+HUB FIXED (map extension) - 5692180765 - 0_o - 7s
 5692180942 - 1 Hour - 13s
 5692151302 - 2stref5u
 5692170693 - 30 Minutes
@@ -854,7 +862,7 @@ HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 HUB FIXED - 5692132783 - Overworld
 5692133386 - Reflectoria
 5692175668 - Reskea
-5692174368 - Retrospect - ramps kill you
+HUB FIXED - 5692174368 - Retrospect - ramps kill you
 6111033250 - Sandy Sunset
 5692170278 - Strafe Race - unfixable without physics changes?
 5692122639 - Striped
@@ -869,9 +877,9 @@ HUB FIXED - 5692132783 - Overworld
 5692128271 - Winter is Coming
 5692145766 - Winterland
 5692165218 - Wood - align spines
-5692113737 - X-Ray
+HUB FIXED - 5692113737 - X-ray
 5692140916 - Xenomorphic
-5692159512 - Yobby
+HUB FIXED - 5692159512 - Yobby
 
 new physics bug (mapfix):
 5692118014 - Frantic Lemon - cringe first surf
