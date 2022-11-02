@@ -600,7 +600,6 @@ FIX SUBMITTED 5692157700 - Bad map - make green parts in spawn cancollide false
 FIX SUBMITTED 6115123026 - Brick Worship
 FIX SUBMITTED 5692118440 - Emblem 5
 FIX SUBMITTED 5692170984 - Emblem Easy
- Bonus: 5692150196 - Fur Bonus
 FIX SUBMITTED 5692118222 - Marbleous - mild bumpy ramps
 HUB FIXED - 5692129086 - Minecraft
 FIX SUBMITTED 5693294901 - M e s a - change name to Mesa
@@ -670,7 +669,6 @@ Spectrum
 
 where are these maps I know they exist and I want them:
 Daydreamer 2 - 394706015
-bhop_fur
 bhop_brickcolors - in submissions_bhop.txt 8642318889
 
 backlog:
