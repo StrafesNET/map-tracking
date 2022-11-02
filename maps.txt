@@ -668,7 +668,7 @@ Space Jam
 Spectrum
 
 where are these maps I know they exist and I want them:
-Daydreamer 2 - 394706015
+Daydreamer 2 - 394706015 - the end zone is floating somewhere weird
 bhop_brickcolors - in submissions_bhop.txt 8642318889
 
 backlog:

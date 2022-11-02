@@ -18,7 +18,7 @@ accepted but needs fix:
 
 rejected:
 10955884989
-11167147137 - cancollide false the tree meshes
+11167147137 - start of the map is nice but not the rest.  cancollide false the tree meshes
 
 too short:
 10787961943 - 8s
