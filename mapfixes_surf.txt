@@ -5,6 +5,20 @@ upload but don't add to game:
 submitted fixes surf:
 HUB FIXED - 11200058803 - Marbleous - fixed bumpy ramps
 
+tested, pending upload & wipe:
+
+submitted fixes (wipe times):
+10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
+10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip)
+10076778760 - Skewed - Fixed spinning in anti-telehops.
+10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
+10077886389 - Submerged - Fixed gap in wall used in route.
+10055963918 - Cryogen - Able to stand on snowman in beginning and on top of anti-telehop no longer possible.
+
+tested, pending upload:
+
+submitted fixes (no wipe):
+10076723587 - Moist - Fixed invisible wall that miners jumped over.
 
 tested, pending upload & add map data:
 11208703243 - Ancient Ruin - fixed spawn
@@ -20,8 +34,12 @@ submitted fixes need add map data:
 11208289331 - Accident - start is now possible - (NEEDS TESTING!!!) - booster is possibly misnamed as Accelerator?
 11201056414 - Trigger - fixed insane bump, need to ask mapper if end purple surf is intentional
 11208592989 - Waterfall - fixed spawn
+10055687837 - Bunker - Anti-telehop is fixed, added invisible box around spawn to eliminate out of bound skip.
+10076670398 - Eden - Fixed stage 2 anti-tele which allowed you to spin in it and keep all your speed.
+
 rejected fixes, additional fix notes:
 11209105624 - Rookie - spawn 7 is above anti tele, last ramp can respawn you, stage where you go under 2 walls is unnecessarily hard with new hitbox
+10066332884 - O-oh hi-i t-there, J-J-Jill - spawn is buggy, bumpy ramps, especially 2nd ramp
 
 unsorted fixes:
 2637369587 - Medieval - revamped map

@@ -864,7 +864,7 @@ FIX SUBMITTED 5692164512 - Accident - beginning is impossible
 DONE 5692146675 - AutoBadges - unanchored parts
 5692176139 - Avery - Fix booster(s?)
 5692128954 - Azurite - fix start & make window wider by 2.2
-5692117355 - Badges 2 - fix available in map fixing hub
+HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
 FIX SUBMITTED 5692169729 - Borderlands - spawn 6 cringe, replace all anti tele with SetVelocity
 5692107960 - Bumblebee - "impossible"
 8777492451 - Bunker - major skips
@@ -925,7 +925,7 @@ FIX SUBMITTED 5692151184 - Rookie - use SetVelocity for anti tele, last ramp has
 5692170517 - Slime Map Pile - use SetVelocity
 5692099477 - Something - use SetVelocity
 5692170594 - Strawberry Avalanche - getting triggered at end
-DONE 5692117483 - Tech - Trigger skip near start of the map after you go down
+FIX SUBMITTED 5692117483 - Tech - Trigger skip near start of the map after you go down
 5692122753 - Tide - remove the invisible path to the end
 5692145794 - Touch - head hit roof
 5692158544 - Trikz Cloud - use SetVelocity for anti tele
