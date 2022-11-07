@@ -1,5 +1,7 @@
 
 bhop (last map timestamped 1665281503)
+10447209197
+11217635506
 9145104232
 8646184178
 8668539916
@@ -9,8 +11,6 @@ bhop (last map timestamped 1665281503)
 https://www.roblox.com/library/11108550860/bhop-emblem-6
 
 not in inventory:
-10447209197
-11217635506
 
 ???:
 10560140985 - controversial, discuss why to accept or reject
