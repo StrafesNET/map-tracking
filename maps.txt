@@ -566,8 +566,10 @@ HUB FIXED - 5692180182 - Spectrum
 release schedule bhop:
 11222350808 - 0 Sanity
 11222358746 - 0zirk
+11492883485 - BrickColors
 11222362560 - Calm Down
 11222365475 - Frenzy - check lighting scripts, it's too dark but the submitted map was fine
+11492688731 - Fur
 CENSORED 11222370043 - Hello
 11222373867 - I Don't Know
 11222377740 - Outback Shore

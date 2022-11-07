@@ -7,7 +7,6 @@ bhop (last map timestamped 1665281503)
 11239029173
 11479539460
 https://www.roblox.com/library/11108550860/bhop-emblem-6
-11446549273 - Fur (already includes bonus) Bonus: 5692150196 - Fur Bonus
 
 not in inventory:
 10447209197
@@ -17,7 +16,6 @@ not in inventory:
 10560140985 - controversial, discuss why to accept or reject
 
 accepted but needs fix:
-8642318889 - gui not allowed
 6661642203 - oopsie, make zones shorter
 331511377 - make freedom puppies a bonus on this map
 
