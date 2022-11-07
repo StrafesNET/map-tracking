@@ -1,21 +1,27 @@
+
+upload but don't add to game:
+11203630816 - Borderlands - fix accepted, but needs another fix because you get reset in the middle of ramps
+
 submitted fixes surf:
 HUB FIXED - 11200058803 - Marbleous - fixed bumpy ramps
 
-submitted fixes need release:
-11208289331 - Accident - start is now possible - (NEEDS TESTING!!!) - booster is possibly misnamed as Accelerator?
+
+tested, pending upload & add map data:
 11208703243 - Ancient Ruin - fixed spawn
-11203630816 - Borderlands - revamped stage 6 start , SetVelocities added -- would increasing tele size but gotta ask mapper
 11210662013 - Mausoleum - anti tele , spawn fix
 4386770439 - Mesa - Name changed M e s a --> Mesa
 11200515972 - OOF HARD - end easier because of new hitbox
 11203117686 - Paradise - whole map improvement overall -- could make it better if map acceptance is certain
 11208157584 - Paradise II - fixed spine issue
 11200709111 - Quiescent - fixed start zone
-11209105624 - Rookie - added anti tele , fixed last ramp
 HUB FIXED - 621876510 - Space Jam - Fixed the ramps and added detail
-11201322313 - Tomb - vines are now noncollidable
+
+submitted fixes need add map data:
+11208289331 - Accident - start is now possible - (NEEDS TESTING!!!) - booster is possibly misnamed as Accelerator?
 11201056414 - Trigger - fixed insane bump, need to ask mapper if end purple surf is intentional
 11208592989 - Waterfall - fixed spawn
+rejected fixes, additional fix notes:
+11209105624 - Rookie - spawn 7 is above anti tele, last ramp can respawn you, stage where you go under 2 walls is unnecessarily hard with new hitbox
 
 unsorted fixes:
 2637369587 - Medieval - revamped map
