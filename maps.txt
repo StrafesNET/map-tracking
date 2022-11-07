@@ -330,7 +330,6 @@ HUB FIXED - 8659328336 - Dark Matter
 5692094834 - Orange V2
 5692124415 - Ostentatious
 6115140662 - Overgrown
-5692170221 - Overline
 6111024993 - Palm Tree Vibes
 5692094799 - Pandemic
 5692128049 - Paradigm
@@ -595,29 +594,31 @@ release schedule surf:
 11222438810 - Thunderstorm
 11222440296 - Woodlawn
 
-accepted:
+hub fixes:
+HUB FIXED - 5692129086 - Minecraft
+HUB FIXED - 8777496995 - Neospace
+HUB FIXED - 5692132972 - Parodygov - Accelerator needs to be not called Accelerator
+HUB FIXED/FIX SUBMITTED - 8777510372 - Space Jam
+HUB FIXED - 8659337553 - Spectrum
+
+need testing bhop:
 FIX SUBMITTED 5692157700 - Bad map - make green parts in spawn cancollide false
 FIX SUBMITTED 6115123026 - Brick Worship
 FIX SUBMITTED 5692118440 - Emblem 5
 FIX SUBMITTED 5692170984 - Emblem Easy
-FIX SUBMITTED 5692118222 - Marbleous - mild bumpy ramps
-HUB FIXED - 5692129086 - Minecraft
-FIX SUBMITTED 5693294901 - M e s a - change name to Mesa
-HUB FIXED - 8777496995 - Neospace
-FIX SUBMITTED 5692163430 - OOF HARD - hitbox makes the end unintentionally harder
-HUB FIXED - 5692132972 - Parodygov - Accelerator needs to be not called Accelerator
+FIX SUBMITTED 5692170221 - Overline
 FIX SUBMITTED 5692099246 - Sard - headhits
 FIX SUBMITTED 5692164810 - Septic - why is ladder teleport?
-HUB FIXED/FIX SUBMITTED - 8777510372 - Space Jam
-HUB FIXED - 8659337553 - Spectrum
-FIXED FILE AVAILABLE 5692098505 - Switch
 FIX SUBMITTED 5692146219 - The Dragon's Lair - make text above the checkpoint flags cancollide false
 FIX SUBMITTED 5692153872 - Tomb - annoying cancollide vines
 FIX SUBMITTED 5692123475 - Trigger - insane bump in one of the ramps
+FIXED FILE AVAILABLE 5692098505 - Switch
 
-submitted fixes:
+need testing surf:
 HUB FIXED (map extension) - 5692180765 - 0_o
-
+FIX SUBMITTED 5692118222 - Marbleous - mild bumpy ramps
+FIX SUBMITTED 5693294901 - M e s a - change name to Mesa
+FIX SUBMITTED 5692163430 - OOF HARD - hitbox makes the end unintentionally harder
 
 submitted hub fixes:
 0_o
