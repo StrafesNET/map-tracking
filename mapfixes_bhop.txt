@@ -33,6 +33,7 @@ submitted fixes (no wipe):
 10059765737 - emevaelx3 - Some triggers would make you fall through the void due to spawns "top" surface not being on top.
 11491580269 - Overline - fix for head hitbox
 10057584728 - Neon Vibes V2 - Being able to bhop on the wall all the way to the end no longer possible.
+11517092338 - Saimaa - Fixes being caught on the green indicator line at the start
 
 tested, pending upload & add map data:
 11199782305 - Bad map - neon green parts are now noncollidable
