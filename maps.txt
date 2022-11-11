@@ -45,6 +45,7 @@ HUB FIXED - 5692181951 - A Little Peace of Happiness
 5692182285 - Atom
 5692186870 - Attack of the Big Fat Meanies
 5692175908 - Autism
+5692146675 - AutoBadges
 5692152798 - Autumn - Convert from meshes to cylinders and spheres
 5692104532 - Autumnland
 5692104641 - Awake
@@ -867,7 +868,6 @@ new physics bug (mapfix):
 5692181503 - 15 Minutes - OOB
 5692108009 - 456 - spin is impossible
 5692158334 - Around The Round - what is going on at the start
-DONE 5692146675 - AutoBadges - unanchored parts
 5692176139 - Avery - Fix booster(s?)
 5692128954 - Azurite - fix start & make window wider by 2.2
 HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
