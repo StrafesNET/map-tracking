@@ -17,18 +17,6 @@ submitted fixes (no wipe):
 10076723587 - Moist - Fixed invisible wall that miners jumped over.
 
 add map data:
-0_o
-11208289331 - Accident - start is now possible (TEST WHOLE MAP!)
-11208703243 - Ancient Ruin - fixed spawn
-11200058803 - Marbleous - fixed bumpy ramps
-11210662013 - Mausoleum - anti tele , spawn fix
-4386770439 - Mesa - Name changed M e s a --> Mesa
-11200515972 - OOF HARD - end easier because of new hitbox
-11203117686 - Paradise - whole map improvement overall -- could make it better if map acceptance is certain
-11208157584 - Paradise II - fixed spine issue
-621876510 - Space Jam - Fixed the ramps and added detail
-11201056414 - Trigger - fixed insane bump, need to ask mapper if end purple surf is intentional
-11208592989 - Waterfall - fixed spawn
 
 tested, pending upload & add map data:
 

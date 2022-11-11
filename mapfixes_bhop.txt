@@ -33,15 +33,6 @@ submitted fixes (no wipe):
 11517092338 - Saimaa - Fixes being caught on the green indicator line at the start
 
 add map data:
-11199782305 - Bad map - neon green parts are now noncollidable
-11129692623 - Brick Worship - fixed headhits
-5120004314 - Emblem 5 - fixed spawn outlines being typeable, fixed lighting and other little changes
-1082348401 - Emblem Easy - fixed spawn outlines being typeable
-11200839534 - Sard - fixed headhit stage
-11200938811 - Septic - fixed ladder
-11201249101 - The Dragon's Lair - text above cp flags are now noncollidable
-11201322313 - Tomb - vines are now noncollidable
-11208487542 - Water - fixed start and end platforms
 
 tested, pending upload & add map data:
 
