@@ -21,6 +21,7 @@ submitted fixes (no wipe):
 10076723587 - Moist - Fixed invisible wall that miners jumped over.
 
 tested, pending upload & add map data:
+11208289331 - Accident - start is now possible (TEST WHOLE MAP!)
 11208703243 - Ancient Ruin - fixed spawn
 11210662013 - Mausoleum - anti tele , spawn fix
 4386770439 - Mesa - Name changed M e s a --> Mesa
@@ -29,11 +30,10 @@ tested, pending upload & add map data:
 11208157584 - Paradise II - fixed spine issue
 11200709111 - Quiescent - fixed start zone
 HUB FIXED - 621876510 - Space Jam - Fixed the ramps and added detail
-
-submitted fixes need add map data:
-11208289331 - Accident - start is now possible - (NEEDS TESTING!!!) - booster is possibly misnamed as Accelerator?
 11201056414 - Trigger - fixed insane bump, need to ask mapper if end purple surf is intentional
 11208592989 - Waterfall - fixed spawn
+
+submitted fixes need add map data:
 10055687837 - Bunker - Anti-telehop is fixed, added invisible box around spawn to eliminate out of bound skip.
 10076670398 - Eden - Fixed stage 2 anti-tele which allowed you to spin in it and keep all your speed.
 
