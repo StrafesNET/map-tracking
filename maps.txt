@@ -1,6 +1,7 @@
 on main:
 5692112607 - 0000
 5692158058 - 004
+5692180765 - 0_o
 5692186472 - 2 Easy
 5692103404 - 3d
 5692174911 - 7eremy
@@ -10,6 +11,7 @@ HUB FIXED - 5692181951 - A Little Peace of Happiness
 5692164474 - Abbez1337
 6115118923 - Above and Below
 5692163924 - Abstract
+5692164512 - Accident
 5692176523 - Accuracy
 5692152960 - Accuracy2
 5692117401 - Accuracy3
@@ -25,6 +27,7 @@ HUB FIXED - 5692181951 - A Little Peace of Happiness
 5692146075 - Aloof
 5692182425 - Alpine
 5692113161 - Ancient
+5692108257 - Ancient Ruin
 5692163782 - Animal - 11s short
 5692158208 - Antimatter
 5692133175 - Apex
@@ -52,7 +55,8 @@ HUB FIXED - 5692181951 - A Little Peace of Happiness
 5692132646 - Azura
 5692181232 - Azure
 5692103596 - BaQee
-5692112389 - Badges(Full) recreated - change name to Badges - gap is too small to fit in at spawn 29
+5692157700 - Bad map
+5692112389 - Badges
 5732172079 - Banal - bumpy ramp
 5692150236 - Barn
 5692169501 - Basedplate
@@ -85,6 +89,7 @@ HUB FIXED - 5692181951 - A Little Peace of Happiness
 5692176669 - Brick
 5692176057 - Brick
 8658891384 - Brick 2
+6115123026 - Brick Worship
 5692163580 - Bruh - end of the map is unnecessarily hard because of head hits
 8777490010 - Bubble Gum
 5692127824 - Bunte Kuh
@@ -179,6 +184,8 @@ HUB FIXED - 8659328336 - Dark Matter
 5692105269 - Emblem 2
 5692107133 - Emblem 3
 5692139507 - Emblem 4
+5692118440 - Emblem 5
+5692170984 - Emblem Easy
 5692113121 - Ephemeral
 8658931706 - Epiphany (Short)
 5692180097 - Eskay
@@ -286,8 +293,10 @@ HUB FIXED - 8659328336 - Dark Matter
 5692158695 - Manpoo
 5692093612 - Marble
 5692104087 - Marble Fanta
+5692118222 - Marbleous
 5692176424 - Materials
 5692098014 - Materials 2
+5692135218 - Mausoleum
 6115132512 - Mauve
 5692124172 - Maybe
 5692105206 - Maze
@@ -295,6 +304,7 @@ HUB FIXED - 8659328336 - Dark Matter
 5692106639 - Mediocre
 5692153297 - Mellow - last few spines could be fixed
 5692122990 - Melting
+5693294901 - Mesa
 5692165111 - Microverse
 5692111783 - Minimalism
 5692102973 - Mirage
@@ -322,6 +332,7 @@ HUB FIXED - 8659328336 - Dark Matter
 5692093443 - Not a Small Map
 5692145213 - Numismatic
 5692185710 - OOF
+5692163430 - OOF HARD
 5692168868 - Obelisk
 5692146269 - Obs
 5692102941 - Ocean
@@ -330,11 +341,14 @@ HUB FIXED - 8659328336 - Dark Matter
 5692094834 - Orange V2
 5692124415 - Ostentatious
 6115140662 - Overgrown
+5692170221 - Overline
 6111024993 - Palm Tree Vibes
 5692094799 - Pandemic
 5692128049 - Paradigm
 5692144724 - Paradise
 5692127989 - Paradise 2
+5692118940 - Paradise (surf)
+5692123163 - Paradise II (surf)
 5692118386 - Paradox
 5692127919 - Paragov - one bumpy ramp around 1:18
 5692117524 - Parallel (Linear)
@@ -370,7 +384,7 @@ HUB FIXED - 8659328336 - Dark Matter
 8658978702 - Questionable Trials
 5692123910 - QuickSwap
 5692099319 - Quickly, Quickly
-5692117221 - Quiescent - start zone thing
+5692117221 - Quiescent
 5692128734 - Quilcyl
 5692092915 - Qwplint
 5692134949 - Radiant
@@ -404,8 +418,10 @@ HUB FIXED - 8659328336 - Dark Matter
 5692094164 - Salmon
 5692123369 - Salmon On Mars
 5692099377 - Sandy
+5692099246 - Sard
 5692186508 - Screech
 5692098367 - Sea Flow
+5692164810 - Septic
 5692170555 - Serenity
 5692099412 - Shade
 5692175287 - Shadow Temple
@@ -437,6 +453,7 @@ HUB FIXED - 8659328336 - Dark Matter
 5692133999 - Soyuz
 5692185754 - Space
 5692138501 - Space Core
+8777510372 - Space Jam
 5692138645 - Spearmint
 HUB FIXED - 5692180182 - Spectrum
 5692092992 - Splash
@@ -462,6 +479,7 @@ HUB FIXED - 5692180182 - Spectrum
 5692159745 - Surfhop
 5692144303 - Swamp
 5692094060 - Swampy
+5692098505 - Switch
 8777462556 - Synced V2
 5692093530 - Synergy
 5692093654 - TaiShi
@@ -475,6 +493,7 @@ HUB FIXED - 5692180182 - Spectrum
 5693294365 - The Darkness
 5693294384 - The Darkness 2
 5693294433 - The Darkness3 - change name
+5692146219 - The Dragon's Lair
 5692134653 - The Flash
 8658886936 - The Map
 5692118622 - The Wanderer
@@ -485,11 +504,13 @@ HUB FIXED - 5692180182 - Spectrum
 5692152916 - Toc - Make bonus zones at end
 8659339332 - Today
 5692133932 - Tom Cruise
+5692153872 - Tomb
 5692117551 - Totem
 5692185969 - Tractus
 5692127627 - Tranquil
 5692093875 - Translucidity v2
 5692139153 - Tri
+5692123475 - Trigger
 5692146112 - Tropica
 5692106931 - Tropics
 5692164554 - TrueCetric
@@ -514,9 +535,11 @@ HUB FIXED - 5692180182 - Spectrum
 5692113473 - Waryhm
 5692112827 - Warzone
 5692146007 - Wasteland
+5692182387 - Water
 5692145577 - Water Temple
 5692138601 - Water Valley
 5692139005 - Waterblocks
+5692117268 - Waterfall
 5692146580 - Way Back When
 5692144838 - Way Too Easy
 8777464131 - Weld
@@ -575,7 +598,7 @@ CENSORED 11222370043 - Hello
 11222377740 - Outback Shore
 11222380990 - Dipl
 11222383793 - Just One Stage
-FIX SUBMITTED 11222387016 - Nedone
+11222387016 - Nedone
 11222390324 - OGBLOX
 11222393859 - Technicolor
 11222396904 - Wannabe
@@ -600,30 +623,13 @@ hub fixes:
 HUB FIXED - 5692129086 - Minecraft
 HUB FIXED - 8777496995 - Neospace
 HUB FIXED - 5692132972 - Parodygov - Accelerator needs to be not called Accelerator
-HUB FIXED/FIX SUBMITTED - 8777510372 - Space Jam
 HUB FIXED - 8659337553 - Spectrum
 
 need testing bhop:
-FIX SUBMITTED 5692157700 - Bad map - make green parts in spawn cancollide false
-FIX SUBMITTED 6115123026 - Brick Worship
-FIX SUBMITTED 5692118440 - Emblem 5
-FIX SUBMITTED 5692170984 - Emblem Easy
-FIX SUBMITTED 5692170221 - Overline
-FIX SUBMITTED 5692099246 - Sard - headhits
-FIX SUBMITTED 5692164810 - Septic - why is ladder teleport?
-FIX SUBMITTED 5692146219 - The Dragon's Lair - make text above the checkpoint flags cancollide false
-FIX SUBMITTED 5692153872 - Tomb - annoying cancollide vines
-FIX SUBMITTED 5692123475 - Trigger - insane bump in one of the ramps
-FIXED FILE AVAILABLE 5692098505 - Switch
 
 need testing surf:
-HUB FIXED (map extension) - 5692180765 - 0_o
-FIX SUBMITTED 5692118222 - Marbleous - mild bumpy ramps
-FIX SUBMITTED 5693294901 - M e s a - change name to Mesa
-FIX SUBMITTED 5692163430 - OOF HARD - hitbox makes the end unintentionally harder
 
 submitted hub fixes:
-0_o
 A Little Peace of Happiness
 Clique
 Exultant
@@ -860,21 +866,18 @@ new physics bug (mapfix):
 5692118014 - Frantic Lemon - cringe first surf
 5692181503 - 15 Minutes - OOB
 5692108009 - 456 - spin is impossible
-FIX SUBMITTED 5692164512 - Accident - beginning is impossible
-5692108257 - Ancient Ruin - Map start
 5692158334 - Around The Round - what is going on at the start
 DONE 5692146675 - AutoBadges - unanchored parts
 5692176139 - Avery - Fix booster(s?)
 5692128954 - Azurite - fix start & make window wider by 2.2
 HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
-FIX SUBMITTED 5692169729 - Borderlands - spawn 6 cringe, replace all anti tele with SetVelocity
+5692169729 - Borderlands - getting reset in middle of ramps
 5692107960 - Bumblebee - "impossible"
 8777492451 - Bunker - major skips
 5692135173 - Chimera - start kills simulation
 5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
 5692133764 - City Fun - fix start, maybe gameplay fixes
 5692098704 - Clarion - alternate reality part crashes the phyics
-FIX SUBMITTED 5692134413 - Colorz - fix start
 5692102646 - Compact - can't leave spawn
 5692146451 - Concrete - PLEASE FIX THE FLOORS,don't allow touching startzone from the top
 5693295211 - Danmark - fix teleports
@@ -906,18 +909,15 @@ HUB FIXED - 5692170798 - Hello - start is weird, but the main map should be the 
 5692140242 - Elprup - impossible, can't go in diamond hole
 5692164723 - Minecraft - hitbox impossible
 5692117855 - Mane Six - anti tele traps player
-FIX SUBMITTED 5692135218 - Mausoleum - replace speed trap with SetVelocity, buggy start area
 5692103566 - Medieval - SirLolNoob wants to edit
 5692099007 - Monster Jam - moon door teleport is rng, also change moon jump area to accelerator rather than booster only
 5692093067 - MooManChicken - fix lighting
 5692159131 - No - impossible: wormhole resets you to start
 5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
 5692153342 - One More - anti tele traps player
-FIX SUBMITTED 5692118940 - Paradise - fix start + bumpy ramps
-FIX SUBMITTED 5692123163 - Paradise II - 3rd ramp bad spine
 5692135126 - Reprise Hard - spine next to trigger can get hit
 5692157460 - Rigorous - impossible, gap too small fix all gaps
-FIX SUBMITTED 5692151184 - Rookie - use SetVelocity for anti tele, last ramp has bug on left side
+5692151184 - Rookie (surf) - spawn 7 is above anti tele, last ramp can respawn you, stage where you go under 2 walls is unnecessarily hard with new hitbox
 5692165474 - Royal - ramps are multiple parts, use SetVelocity for anti tele
 5692174627 - S'mores
 5692133134 - Sand Flow - hitbox hard
@@ -935,7 +935,6 @@ HUB FIXED - 5692117595 - Tyrian - fix spines, maybe just the last ramp
 5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
-FIX SUBMITTED 5692182387 - Water - fix start and end platform
 5692169598 - Water Park - invisible death
 5692140155 - X - fix OOB
 5692107763 - Xerox - impossible vent
@@ -953,7 +952,6 @@ teleport fix will resolve:
 5692153067 - Saisei - spawn in ground, ramps are wack, far from origin
 5692165177 - Trying Again - spawn in ground
 5692146718 - Vacancy - spawn in ground, make bonus zones
-5692117268 - Waterfall - spawn in ground
 5692153475 - Yes - spawn in ground, bumpy ramps
 
 moving parts:

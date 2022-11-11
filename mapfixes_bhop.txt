@@ -1,6 +1,5 @@
 
 tested, pending upload & schedule:
-10573377465 - Nedone - fixed lighting
 
 submitted unreleased fixes:
 
@@ -24,21 +23,18 @@ submitted fixes (wipe times):
 10050237989 - Phobic - Trigger Skip in beginning is no longer possible.
 
 tested, pending upload:
-11208782299 - Badges(Full) recreated - increased gap size at spawn29 | NOTE: 2nd last stage anti gravity needs to be extended to cover the visual area around the platform (spike stage), and the spike needs to be actually a spike
 
 submitted fixes (no wipe):
 10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
 10060902765 - Swamp - Tree moveable due to be unanchored now fixed, bhopping on lily pads being rng now fixed.
 10069511619 - Alley - Made it so spawn actually spawns you in spawn.
 10059765737 - emevaelx3 - Some triggers would make you fall through the void due to spawns "top" surface not being on top.
-11491580269 - Overline - fix for head hitbox
 10057584728 - Neon Vibes V2 - Being able to bhop on the wall all the way to the end no longer possible.
 11517092338 - Saimaa - Fixes being caught on the green indicator line at the start
 
-tested, pending upload & add map data:
+add map data:
 11199782305 - Bad map - neon green parts are now noncollidable
 11129692623 - Brick Worship - fixed headhits
-11208075431 - Colorz - fixed spawn
 5120004314 - Emblem 5 - fixed spawn outlines being typeable, fixed lighting and other little changes
 1082348401 - Emblem Easy - fixed spawn outlines being typeable
 11200839534 - Sard - fixed headhit stage
@@ -46,6 +42,8 @@ tested, pending upload & add map data:
 11201249101 - The Dragon's Lair - text above cp flags are now noncollidable
 11201322313 - Tomb - vines are now noncollidable
 11208487542 - Water - fixed start and end platforms
+
+tested, pending upload & add map data:
 
 submitted fixes need add map data:
 10049410478 - Avery - Jump pad boosters didn't work, fixed every jump pad in the map.
