@@ -503,7 +503,7 @@ HUB FIXED - 5692180182 - Spectrum
 5692174873 - Tiles
 5692152916 - Toc - Make bonus zones at end
 8659339332 - Today
-5692133932 - Tom Cruise
+5692133932 - Tom Cruise - The spawn area is bugged, and first ramps are buggy at top
 5692153872 - Tomb
 5692117551 - Totem
 5692185969 - Tractus
