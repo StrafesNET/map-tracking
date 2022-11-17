@@ -56,6 +56,7 @@ HUB FIXED - 5692181951 - A Little Peace of Happiness
 5692132646 - Azura
 5692181232 - Azure
 5692103596 - BaQee
+5692163187 - Back To Earth
 5692157700 - Bad map
 5692112389 - Badges
 5732172079 - Banal - bumpy ramp
@@ -334,6 +335,7 @@ HUB FIXED - 8659328336 - Dark Matter
 5692145213 - Numismatic
 5692185710 - OOF
 5692163430 - OOF HARD
+5692098747 - Obby
 5692168868 - Obelisk
 5692146269 - Obs
 5692102941 - Ocean
@@ -976,6 +978,4 @@ HUB FIXED - 5692169375 - Halloween - start zone multitouch, spines
 5692145827 - bhop_white_on_blue - sliding in start
 
 new physics bug (my fault):
-5692163187 - Back To Earth - Spheres
-5692098747 - Obby - Spheres not implemented
 8777477389 - Ötökkä - nan model cframe
