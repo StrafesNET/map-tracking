@@ -609,7 +609,7 @@ release schedule surf:
 11222411070 - The Center
 11222415456 - Cyberspace
 11222418405 - Diminsion
-11222420770 - Elementary
+FIX AVAILABLE 11222420770 - Elementary
 11222424719 - One Day
 11222428333 - Orbital
 11222430597 - Painted Planks
@@ -619,35 +619,12 @@ release schedule surf:
 11222440296 - Woodlawn
 
 hub fixes:
-HUB FIXED - 5692129086 - Minecraft
-HUB FIXED - 8777496995 - Neospace
-HUB FIXED - 5692132972 - Parodygov - Accelerator needs to be not called Accelerator
-HUB FIXED - 8659337553 - Spectrum
 
 need testing bhop:
 
 need testing surf:
 
 submitted hub fixes:
-A Little Peace of Happiness
-Clique
-Exultant
-Golden Glory
-Halloween
-Marbleous
-Minecraft
-Overworld
-Parodygov
-Retrospect
-Sand Temple
-Tyrian
-X-ray
-Yobby
-Dark Matter
-Hello
-Neospace
-Space Jam
-Spectrum
 
 where are these maps I know they exist and I want them:
 Daydreamer 2 - 394706015 - the end zone is floating somewhere weird
