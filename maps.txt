@@ -127,7 +127,6 @@ HUB FIXED - 5692174562 - Clique
 5692111990 - Columns
 5692132732 - Columns II
 5692170949 - Compact
-5692153785 - Concord
 5692122347 - Concrete
 8659325055 - Conserve
 5692157639 - Construction
@@ -289,7 +288,6 @@ HUB FIXED - 8659328336 - Dark Matter
 5692128389 - Luck
 5692132999 - Lumber
 5692186429 - Macaroni and Cheese
-5692169540 - MadeinTYO
 5692113418 - Magma
 5692093913 - Mail Yourself In a Box
 5692158695 - Manpoo
@@ -437,7 +435,6 @@ HUB FIXED - 8659328336 - Dark Matter
 5692118131 - Sidus v2
 5692112940 - Silky
 5692168932 - SimpleHop
-5692163012 - Sincerely, Tokyo
 5692150156 - Skewed
 5692122578 - Sky
 5692122877 - Sky II
@@ -475,7 +472,6 @@ HUB FIXED - 5692180182 - Spectrum
 5692113775 - Stref Amazon
 5692139573 - Submerged
 6111778814 - Substructure
-5692107718 - Summer Equniox
 5692170390 - Summerland
 5692098128 - Sunday
 5692112313 - Super Easy Tutorial
@@ -739,6 +735,10 @@ rejected:
 5693295278 - dude100million - Voted out
 5692098308 - pizzza - Voted out
 5692093096 - segdaB - Voted out
+5692169540 - MadeinTYO - mapper requested to be removed
+5692107718 - Summer Equniox - mapper requested to be removed (summerbear)
+5692153785 - Concord - too many trigger skips, mapper requested to be removed
+4241103737 - Sincerely Tokyo - mapper requested to be removed
 
 too short:
 5692180942 - 1 Hour - 13s
