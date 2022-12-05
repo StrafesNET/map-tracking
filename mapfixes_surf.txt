@@ -5,6 +5,7 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
+2637335814 - Accident - fixed s1 & ramps
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip)
 10076778760 - Skewed - Fixed spinning in anti-telehops.
 10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
@@ -14,7 +15,13 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+1547491469 - Convey - fixed spawn & added bonus zones
+2637369587 - Medieval - revamped map
 10076723587 - Moist - Fixed invisible wall that miners jumped over.
+1481097420 - One More - fixed spawn & ramps
+1902362290 - Something - fixed spawn
+1023816944 - Volcase - added bonus zones
+1961943567 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fixed ramp & spawn
 
 add map data:
 
@@ -28,10 +35,3 @@ rejected fixes, additional fix notes:
 10066332884 - O-oh hi-i t-there, J-J-Jill - spawn is buggy, bumpy ramps, especially 2nd ramp
 
 unsorted fixes:
-2637369587 - Medieval - revamped map
-1902362290 - Something - fixed spawn
-1547491469 - Convey - fixed spawn & added bonus zones
-1481097420 - One More - fixed spawn & ramps
-2637335814 - Accident - fixed s1 & ramps
-1023816944 - Volcase - added bonus zones
-1961943567 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fixed ramp & spawn
