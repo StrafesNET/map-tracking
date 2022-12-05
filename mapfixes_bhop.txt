@@ -10,47 +10,49 @@ uncategorized:
 11416396856 - Yonkoma - Moved start to SJ's start zone (after climb room), fixed/updated some stages
 11416108691 - Very Long Map - fixed head hits, added back spawnats at a one point in the map
 
+upload but don't add:
+10050550205 - Yonder (MOVING PLATFORM FIX AVAILABLE) - Trigger skip near lake is no longer possible.
+
 tested, pending upload & schedule:
 
 submitted unreleased fixes:
 
 tested, pending upload & wipe:
+10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
+10056917344 - Planets - Fixed 2 trigger skips
+10070273896 - Alone - Fixed a surf at start that was supposed to be a trigger.
+10057445864 - Danger Noodle - Trigger skip used by auto bot is now impossible + map lighting change (I don't know why it changed because I didn't touch it, but I was told it looks better so I didn't try and change it back to original)
+10057385309 - Pumpkins - Trigger skip rock near ending, part named trigger when it wasn't supposed to be, trigger skip no longer possible.
+10050237989 - Phobic - Trigger Skip in beginning is no longer possible.
 
 submitted fixes (wipe times):
 10250769532 - Lost in Forest - Fixed trigger skip at end and a trigger skip at start (after the first bridge)
-10049651200 - Tech - Fixed every possible skip in tech.
-10056917344 - Planets - Fixed 2 trigger skips
 10142621518 - Snowy Heights - Fixed out of bound skip in the beginning
-10057239529 - FrozenRuins - Trigger skip after bounce pad no longer possible.
 10058410038 - Mountains (removed) - Trigger skip at the start of the map no longer possible.
 10070563004 - Elriot 2 (removed) - Removed trigger skip.
 10058249685 - Trainee 2 (removed) - Fixed every trigger skip in the map.
 10070336663 - Free Fall (removed) - Trigger skips all fixed, no longer able to do them + fixed out of bound skip
-10070273896 - Alone - Fixed a surf at start that was supposed to be a trigger.
-10057445864 - Danger Noodle - Trigger skip used by auto bot is now impossible + map lighting change (I don't know why it changed because I didn't touch it, but I was told it looks better so I didn't try and change it back to original)
-10055563939 - I DROPPED MY HECKIN POP-TARTS!! - Trigger skip through pop tart boxes no longer possible. Added invisible walls in the map to stop further trigger skips.
 10057123234 - Workshop (removed) - Trigger skips everywhere at the end of the map, All trigger skips should be gone.
-10057385309 - Pumpkins - Trigger skip rock near ending, part named trigger when it wasn't supposed to be, trigger skip no longer possible.
-10050237989 - Phobic - Trigger Skip in beginning is no longer possible.
 
 tested, pending upload:
-
-submitted fixes (no wipe):
-10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
-10060902765 - Swamp - Tree moveable due to be unanchored now fixed, bhopping on lily pads being rng now fixed.
-10069511619 - Alley - Made it so spawn actually spawns you in spawn.
 10059765737 - emevaelx3 - Some triggers would make you fall through the void due to spawns "top" surface not being on top.
 10057584728 - Neon Vibes V2 - Being able to bhop on the wall all the way to the end no longer possible.
 11517092338 - Saimaa - Fixes being caught on the green indicator line at the start
+10060902765 - Swamp - Tree moveable due to be unanchored now fixed, bhopping on lily pads being rng now fixed.
+
+submitted fixes (no wipe):
+10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
+10069511619 - Alley - Made it so spawn actually spawns you in spawn.
 
 add map data:
 
 tested, pending upload & add map data:
+10049410478 - Avery - Jump pad boosters didn't work, fixed every jump pad in the map.
+10061036635 - Bumblebee - Fixed RNG jump that would be impossible on new physics. Lowered 1 platform by 2 studs and another by 1 stud so leaderboard should be wiped.
 
 submitted fixes need add map data:
-10049410478 - Avery - Jump pad boosters didn't work, fixed every jump pad in the map.
-10050550205 - Yonder - Trigger skip near lake is no longer possible.
-10061036635 - Bumblebee - Fixed RNG jump that would be impossible on new physics. Lowered 1 platform by 2 studs and another by 1 stud so leaderboard should be wiped.
 10049775129 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs.
 
 rejected fixes, additional fix notes:
+10057239529 - FrozenRuins - Trigger skip after bounce pad no longer possible. - This trigger skip does not detract from the map in my opinion.  May need to have a vote to see what people think.
+10055563939 - I DROPPED MY HECKIN POP-TARTS!! - Trigger skip through pop tart boxes no longer possible. Added invisible walls in the map to stop further trigger skips. - Always think twice about using invisible walls.  In my opinion, the skip through the walls is epic but the trigger skip is cringe.  I'll allow an invisible wall that blocks the trigger skip, but if you want to block the skip through the walls, use more visible walls.

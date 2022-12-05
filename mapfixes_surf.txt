@@ -2,21 +2,17 @@
 upload but don't add to game:
 
 tested, pending upload & wipe:
-
-submitted fixes (wipe times):
 1984422161 - 0_o - map extension
-10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 2637335814 - Accident - fixed s1 & ramps
 11455073965 - Acedia - ramp fixes
-10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip)
-10076778760 - Skewed - Fixed spinning in anti-telehops.
-10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
-10077886389 - Submerged - Fixed gap in wall used in route.
 10055963918 - Cryogen - Able to stand on snowman in beginning and on top of anti-telehop no longer possible.
+10076778760 - Skewed - Fixed spinning in anti-telehops.
+
+submitted fixes (wipe times):
+10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
+10077886389 - Submerged - Fixed gap in wall used in route. - Was the gap intentional?
 
 tested, pending upload:
-
-submitted fixes (no wipe):
 602077730 - A Little Peace of Happiness - ramp fix
 441409904 - Clique - ramp fix
 1547491469 - Convey - fixed spawn & added bonus zones
@@ -30,32 +26,36 @@ submitted fixes (no wipe):
 602071975 - Water Temple - ramp fix
 1961943567 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fixed ramp & spawn
 
+submitted fixes (no wipe):
+
 add map data:
 
 tested, pending upload & add map data:
-
-submitted fixes need add map data:
+10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 10055687837 - Bunker - Anti-telehop is fixed, added invisible box around spawn to eliminate out of bound skip.
-10076670398 - Eden - Fixed stage 2 anti-tele which allowed you to spin in it and keep all your speed.
-10375338147 - Elementary - switched b3 to b1
+10076670398 - Eden (EDIT THIS!!!) - Fixed stage 2 anti-tele which allowed you to spin in it and keep all your speed. - Move stages closer together to let the spine fix activate
 327724248 - Exultant - ramp fix, lighting fix
-852889271 - Golden Glory - ramp fix
-770953991 - Halloween - ramp fix
 434909751 - Hello - made bonus the main map
 602067194 - Minecraft - now possible
 11159856729 - Neospace - red stage skip fixed
 1810542530 - Overworld - ramp fix
 1539030818 - Parodygov - booster not called accelerator anymore
 549087739 - Retrospect - ramp fix
-569053285 - Sand Temple - now possible
 11197523119 - Spectrum - removed start room and added bonus zone
 603789116 - Tyrian - ramp fix
-459306841 - Winterland - ramp fix
 626303214 - X-ray - ramp fix
 1248280240 - Yobby - ramp fix
 
+submitted fixes need add map data:
+10375338147 - Elementary - switched b3 to b1
+569053285 - Sand Temple - now possible - delayed due to moving parts being bad
+
 rejected fixes, additional fix notes:
+852889271 - Golden Glory - ramp fix - fall through ramp???
+770953991 - Halloween - ramp fix - spines still bad, candy corn stage is unnecessarily hard due to the hitbox, some ramps kill you
 10066332884 - O-oh hi-i t-there, J-J-Jill - spawn is buggy, bumpy ramps, especially 2nd ramp
 621876510 - Space Jam - idk - there is already a great fix published
+10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
+459306841 - Winterland - ramp fix - needs more fixes, still bumpy ramps
 
 unsorted fixes:
