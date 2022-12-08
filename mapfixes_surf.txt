@@ -27,6 +27,7 @@ tested, pending upload:
 1961943567 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fixed ramp & spawn
 
 submitted fixes (no wipe):
+11760638857 - Water Park - Hitbox was too big to fit through a hole
 
 add map data:
 
