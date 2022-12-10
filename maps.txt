@@ -48,6 +48,7 @@ on main:
 5692146675 - AutoBadges
 5692152798 - Autumn - Convert from meshes to cylinders and spheres
 5692104532 - Autumnland
+5692176139 - Avery
 5692104641 - Awake
 5692138964 - Aziz v2
 5692129281 - Aztec
@@ -94,6 +95,8 @@ on main:
 6115123026 - Brick Worship
 5692163580 - Bruh - end of the map is unnecessarily hard because of head hits
 8777490010 - Bubble Gum
+5692107960 - Bumblebee
+8777492451 - Bunker
 5692127824 - Bunte Kuh
 5692107295 - Calibrate
 5692123435 - Candy
@@ -134,6 +137,7 @@ on main:
 5692113020 - Continuity
 8659323725 - Condemned
 5692152716 - Contained Breach
+8659326439 - Convey
 5692181331 - Cotton Candy
 5692128491 - Cpm
 5692102865 - Cryogen
@@ -180,6 +184,7 @@ on main:
 5692128623 - Dusty Run
 5692158651 - Dystopia
 5692094911 - Easyhop
+5692164052 - Eden - Move stages closer together to let the spine fix activate
 5692105913 - Elysian
 5692175462 - Emblem
 5692105269 - Emblem 2
@@ -193,6 +198,7 @@ on main:
 5692093216 - Evolcase
 5692174328 - Exile
 5692113242 - Existence
+5692111905 - Exultant
 5693295292 - FL Eli
 5692099189 - Failure - 2nd stage spawn has a weird cancolide box you bump into
 5692123285 - Faith
@@ -227,6 +233,7 @@ on main:
 5692112337 - Happy Gummy Bear
 5692128088 - Hefty Trashbags
 5692150073 - Heights
+5692170798 - Hello
 8658937887 - Hex
 5692152260 - Hibiscus
 5692123834 - Hole In One
@@ -301,11 +308,13 @@ on main:
 5692124172 - Maybe
 5692105206 - Maze
 5692107091 - Meadows
+5692103566 - Medieval
 5692106639 - Mediocre
 5692153297 - Mellow - last few spines could be fixed
 5692122990 - Melting
 5693294901 - Mesa
 5692165111 - Microverse
+5692164723 - Minecraft
 5692111783 - Minimalism
 5692102973 - Mirage
 5692187016 - Moderated
@@ -325,6 +334,7 @@ on main:
 5692144088 - Neon Colors
 8777458476 - Neon Vibes V2
 5692134462 - NeonWood
+8777496995 - Neospace
 5692138452 - Newt - spines
 5692186561 - Norwegian wood
 5692186250 - Not Far
@@ -337,12 +347,14 @@ on main:
 5692168868 - Obelisk
 5692146269 - Obs
 5692102941 - Ocean
+5692153342 - One More
 5692138857 - One Vector
 5692171042 - Orange - ramps can randomly reset (same issue as bumpy ramps)
 5692094834 - Orange V2
 5692124415 - Ostentatious
 6115140662 - Overgrown
 5692170221 - Overline
+5692132783 - Overworld
 6111024993 - Palm Tree Vibes
 5692094799 - Pandemic
 5692128049 - Paradigm
@@ -353,6 +365,7 @@ on main:
 5692118386 - Paradox
 5692127919 - Paragov - one bumpy ramp around 1:18
 5692117524 - Parallel (Linear)
+5692132972 - Parodygov
 5692097982 - Passionlessly - 9s
 5692139100 - Pastel
 5692093034 - Pasture
@@ -400,6 +413,7 @@ on main:
 5692107419 - Reflexes
 8659335898 - Reinforced 2
 5692118352 - Reprise
+5692174368 - Retrospect
 5692098790 - Reversal
 5692144418 - Reverse
 5692099510 - Rexlum
@@ -448,6 +462,7 @@ on main:
 8658890105 - Snowy Heights
 5692180466 - Solitude
 5692159084 - Solitude
+5692099477 - Something
 5692169645 - Somewhere
 8658983961 - Soulscape
 5692133999 - Soyuz
@@ -455,7 +470,8 @@ on main:
 5692138501 - Space Core
 8777510372 - Space Jam
 5692138645 - Spearmint
-HUB FIXED - 5692180182 - Spectrum
+5692180182 - Spectrum (bhop)
+8659337553 - Spectrum (surf)
 5692092992 - Splash
 5692163282 - Splash 2
 5692181458 - Spongebob
@@ -517,6 +533,7 @@ HUB FIXED - 5692180182 - Spectrum
 5692139434 - Turf
 5692182179 - Tutorial
 5692138772 - Tyle
+5692117595 - Tyrian
 5692138890 - Underground
 5692164902 - Unequivocal - last spine needs fix
 5692174420 - Unresponsive
@@ -550,9 +567,11 @@ HUB FIXED - 5692180182 - Spectrum
 5692133432 - Woods
 5692106610 - Woodworks
 6111038067 - Wuts Dis? - slightly raise ramp next to the trigger so it's not flush
+5692113737 - X-ray
 5692108138 - XXXTection
 5692122719 - Xaxa
 5692150307 - Y
+5692159512 - Yobby
 8658987348 - Yonkoma
 5692124008 - Yunch
 5692140385 - Z
@@ -801,7 +820,6 @@ bumpy ramps:
 5692094760 - Disparity
 8659330557 - Egypt - not designed for new hitbox
 6111008494 - Error - every curved ramp
-HUB FIXED - 5692111905 - Exultant
 6111010028 - Farewell
 5692158577 - Fort - align spines
 5692118014 - Frantic Lemon - lol
@@ -820,10 +838,8 @@ HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 5692134709 - O-oh hi-i t-there, J-J-Jill - especially 2nd ramp
 5692180913 - Obscurity - make the trim cancollide false
 5692094206 - Obsidium
-HUB FIXED - 5692132783 - Overworld
 5692133386 - Reflectoria
 5692175668 - Reskea
-HUB FIXED - 5692174368 - Retrospect - ramps kill you
 6111033250 - Sandy Sunset
 5692170278 - Strafe Race - unfixable without physics changes?
 5692122639 - Striped
@@ -838,21 +854,16 @@ HUB FIXED - 5692174368 - Retrospect - ramps kill you
 5692128271 - Winter is Coming
 5692145766 - Winterland
 5692165218 - Wood - align spines
-HUB FIXED - 5692113737 - X-ray
 5692140916 - Xenomorphic
-HUB FIXED - 5692159512 - Yobby
 
 new physics bug (mapfix):
 5692118014 - Frantic Lemon - cringe first surf
 5692181503 - 15 Minutes - OOB
 5692108009 - 456 - spin is impossible
 5692158334 - Around The Round - what is going on at the start
-5692176139 - Avery - Fix booster(s?)
 5692128954 - Azurite - fix start & make window wider by 2.2
 HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
 5692169729 - Borderlands - getting reset in middle of ramps
-5692107960 - Bumblebee - "impossible"
-8777492451 - Bunker - major skips
 5692135173 - Chimera - start kills simulation
 5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
 5692133764 - City Fun - fix start, maybe gameplay fixes
@@ -866,7 +877,6 @@ HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
 5692092950 - Dev V1 - impossible jump 2nd stage
 5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
 5692103788 - Downfall - hitbox harder
-5692164052 - Eden - simulation won't run
 5732181194 - Ethereal - "under the void" issue
 5692164250 - Feels Like Home - hitbox harder
 5692104185 - Flandre II - simulation broken
@@ -874,7 +884,6 @@ HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
 5692175777 - Got The Blues - last stage speed trap traps player
 5692134367 - Gravity - hitbox harder
 5692152129 - Haarukka - fix start
-HUB FIXED - 5692170798 - Hello - start is weird, but the main map should be the longer version, and bonus is the linear version.  also spinefix may be causing issues
 5692151238 - High segdaB - simulation broken apparently
 5692151345 - Horizon - hitbox harder/impossible throughout the map
 5692159828 - Icire - move to origin, align ramps
@@ -886,14 +895,11 @@ HUB FIXED - 5692170798 - Hello - start is weird, but the main map should be the 
 5692118651 - Level Up! - please make this less ugly, maybe decorate
 5692164379 - Lines - purple spawn impassible, also bumpy ramps
 5692140242 - Elprup - impossible, can't go in diamond hole
-5692164723 - Minecraft - hitbox impossible
 5692117855 - Mane Six - anti tele traps player
-5692103566 - Medieval - SirLolNoob wants to edit
 5692099007 - Monster Jam - moon door teleport is rng, also change moon jump area to accelerator rather than booster only
 5692093067 - MooManChicken - fix lighting
 5692159131 - No - impossible: wormhole resets you to start
 5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
-5692153342 - One More - anti tele traps player
 5692135126 - Reprise Hard - spine next to trigger can get hit
 5692157460 - Rigorous - impossible, gap too small fix all gaps
 5692151184 - Rookie (surf) - spawn 7 is above anti tele, last ramp can respawn you, stage where you go under 2 walls is unnecessarily hard with new hitbox
@@ -904,13 +910,11 @@ HUB FIXED - 5692170798 - Hello - start is weird, but the main map should be the 
 5693293179 - Seventy-Two Percent more Pineapple - hitbox harder
 5692134185 - Shade - hitbox harder, fix diamond hitbox
 5692170517 - Slime Map Pile - use SetVelocity
-5692099477 - Something - use SetVelocity
 5692170594 - Strawberry Avalanche - getting triggered at end
 FIX SUBMITTED 5692117483 - Tech - Trigger skip near start of the map after you go down
 5692122753 - Tide - remove the invisible path to the end
 5692145794 - Touch - head hit roof
 5692158544 - Trikz Cloud - use SetVelocity for anti tele
-HUB FIXED - 5692117595 - Tyrian - fix spines, maybe just the last ramp
 5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
@@ -948,7 +952,6 @@ needs grouped moving parts fix:
 HUB FIXED - 5692128595 - Sand Temple - hitbox hard
 
 multitouch:
-8659326439 - Convey - fix sliding in start
 5692111833 - Fifty Percent More Pineapple - start zone multitouch
 HUB FIXED - 5692169375 - Halloween - start zone multitouch, spines
 5692104445 - Zany - 10s - sliding in start

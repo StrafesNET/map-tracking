@@ -34,8 +34,6 @@ submitted fixes (no wipe):
 10069511619 - Alley - Made it so spawn actually spawns you in spawn.
 
 add map data:
-10049410478 - Avery - Jump pad boosters didn't work, fixed every jump pad in the map.
-10061036635 - Bumblebee - Fixed RNG jump that would be impossible on new physics. Lowered 1 platform by 2 studs and another by 1 stud so leaderboard should be wiped.
 
 tested, pending upload & add map data:
 
