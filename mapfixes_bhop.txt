@@ -3,6 +3,13 @@ uncategorized:
 11117959400 - Leaf Beach - remake
 11419832052 - Bluebeat v2 - fixed stages that played bad
 11416396856 - Yonkoma - Moved start to SJ's start zone (after climb room), fixed/updated some stages
+11750720432 - Failure - Fixed TP + Added SetVel 
+11750857205 - Above and Below - Fixed spawn
+11750860991 - July - Smoke emitters are now noncollidable 
+11750867663 - Dust - End used to be peaking out of the block it was in
+11750890981 - Kotodama - Removed invisible walls since bouncing that high is no longer possible
+11750977271 - Alley - End is not cancerous anymore (times dont need to be wiped)
+11751012626 - Stone - Old routes are now possible in new physics
 
 upload but don't add:
 10050550205 - Yonder (MOVING PLATFORM FIX AVAILABLE) - Trigger skip near lake is no longer possible.
