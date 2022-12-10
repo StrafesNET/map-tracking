@@ -8,7 +8,7 @@ uncategorized:
 11750860991 - July - Smoke emitters are now noncollidable 
 11750867663 - Dust - End used to be peaking through last block
 11750890981 - Kotodama - Removed invisible walls since skip is no longer possible
-11750977271 - Alley - End is not cancerous anymore (times dont need to be wiped)
+11750977271 - Alley - End is not cancerous anymore
 11751012626 - Stone - Old routes are now possible in new physics
 
 upload but don't add:
