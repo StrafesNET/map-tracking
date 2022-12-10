@@ -1,14 +1,8 @@
 uncategorized:
 11117945983 - Drewfc was being uncool - edited some stages
-11117954548 - Danger Noodle - remake with a bonus
 11117959400 - Leaf Beach - remake
-11117961828 - Happy Gummy Bear - remake
-11117968222 - Way Back When - remake
-11117971522 - Colossus - remake
 11419832052 - Bluebeat v2 - fixed stages that played bad
-11420718853 - Sidus v2 - small fixes
 11416396856 - Yonkoma - Moved start to SJ's start zone (after climb room), fixed/updated some stages
-11416108691 - Very Long Map - fixed head hits, added back spawnats at a one point in the map
 
 upload but don't add:
 10050550205 - Yonder (MOVING PLATFORM FIX AVAILABLE) - Trigger skip near lake is no longer possible.
@@ -21,9 +15,10 @@ tested, pending upload & wipe:
 10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
 10056917344 - Planets - Fixed 2 trigger skips
 10070273896 - Alone - Fixed a surf at start that was supposed to be a trigger.
-10057445864 - Danger Noodle - Trigger skip used by auto bot is now impossible + map lighting change (I don't know why it changed because I didn't touch it, but I was told it looks better so I didn't try and change it back to original)
-10057385309 - Pumpkins - Trigger skip rock near ending, part named trigger when it wasn't supposed to be, trigger skip no longer possible.
+11117954548 - Danger Noodle - remake with a bonus
+11117961828 - Happy Gummy Bear - remake
 10050237989 - Phobic - Trigger Skip in beginning is no longer possible.
+11117968222 - Way Back When - remake
 
 submitted fixes (wipe times):
 10250769532 - Lost in Forest - Fixed trigger skip at end and a trigger skip at start (after the first bridge)
@@ -38,7 +33,9 @@ tested, pending upload:
 10059765737 - emevaelx3 - Some triggers would make you fall through the void due to spawns "top" surface not being on top.
 10057584728 - Neon Vibes V2 - Being able to bhop on the wall all the way to the end no longer possible.
 11517092338 - Saimaa - Fixes being caught on the green indicator line at the start
+11420718853 - Sidus v2 - small fixes
 10060902765 - Swamp - Tree moveable due to be unanchored now fixed, bhopping on lily pads being rng now fixed.
+11416108691 - Very Long Map - fixed head hits, added back spawnats at a one point in the map
 
 submitted fixes (no wipe):
 10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
@@ -54,5 +51,6 @@ submitted fixes need add map data:
 10049775129 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs.
 
 rejected fixes, additional fix notes:
+11117971522 - Colossus - remake - going through the teleport spawns you in the wall, check spawns (9th spawn does not exist, other issues)
 10057239529 - FrozenRuins - Trigger skip after bounce pad no longer possible. - This trigger skip does not detract from the map in my opinion.  May need to have a vote to see what people think.
 10055563939 - I DROPPED MY HECKIN POP-TARTS!! - Trigger skip through pop tart boxes no longer possible. Added invisible walls in the map to stop further trigger skips. - Always think twice about using invisible walls.  In my opinion, the skip through the walls is epic but the trigger skip is cringe.  I'll allow an invisible wall that blocks the trigger skip, but if you want to block the skip through the walls, use more visible walls.
