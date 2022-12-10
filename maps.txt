@@ -6,7 +6,7 @@ on main:
 5692103404 - 3d
 5692174911 - 7eremy
 5692097898 - A Deep Chicago Night
-HUB FIXED - 5692181951 - A Little Peace of Happiness
+5692181951 - A Little Peace of Happiness
 5692129052 - ALX
 5692164474 - Abbez1337
 6115118923 - Above and Below
@@ -113,7 +113,7 @@ HUB FIXED - 5692181951 - A Little Peace of Happiness
 8658895140 - Cks Stref
 5692152464 - Clarity
 5692117646 - Clickbait
-HUB FIXED - 5692174562 - Clique
+5692174562 - Clique
 5692099099 - Clove
 5692170652 - Cobalt
 5692107374 - Cobble
@@ -142,7 +142,7 @@ HUB FIXED - 5692174562 - Clique
 8777450104 - Cuboidal
 6115124610 - Cyber
 5692170872 - Dab on 'Em Haters
-HUB FIXED - 8659328336 - Dark Matter
+8659328336 - Dark Matter
 5692128775 - Danger Noodle
 5692165063 - Dawn
 5692157755 - Dawn3
@@ -559,7 +559,7 @@ HUB FIXED - 5692180182 - Spectrum
 5692138686 - Zoom
 5692104583 - Zoom
 5693294408 - Zyper
-6111003348 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fix antitele adjust ramps near wormhole
+6111003348 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]
 8777438675 - alvo2
 5692152159 - anyyy
 5692118540 - bhop_indigo

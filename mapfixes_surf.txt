@@ -2,50 +2,36 @@
 upload but don't add to game:
 
 tested, pending upload & wipe:
-1984422161 - 0_o - map extension
-2637335814 - Accident - fixed s1 & ramps
-11455073965 - Acedia - ramp fixes
-10055963918 - Cryogen - Able to stand on snowman in beginning and on top of anti-telehop no longer possible.
-10076778760 - Skewed - Fixed spinning in anti-telehops.
 
 submitted fixes (wipe times):
 10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
 10077886389 - Submerged - Fixed gap in wall used in route. - Was the gap intentional?
 
 tested, pending upload:
-602077730 - A Little Peace of Happiness - ramp fix
-441409904 - Clique - ramp fix
-1547491469 - Convey - fixed spawn & added bonus zones
-11406819521 - Dark Matter - some visual changes
-467903173 - Marbleous - ramp fix
-2637369587 - Medieval - revamped map
-10076723587 - Moist - Fixed invisible wall that miners jumped over.
-1481097420 - One More - fixed spawn & ramps
-1902362290 - Something - fixed spawn
-1023816944 - Volcase - added bonus zones
-602071975 - Water Temple - ramp fix
-1961943567 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅] - fixed ramp & spawn
-
 submitted fixes (no wipe):
-11760638857 - Water Park - Hitbox was too big to fit through a hole
 
 add map data:
-
-tested, pending upload & add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 10055687837 - Bunker - Anti-telehop is fixed, added invisible box around spawn to eliminate out of bound skip.
-10076670398 - Eden (EDIT THIS!!!) - Fixed stage 2 anti-tele which allowed you to spin in it and keep all your speed. - Move stages closer together to let the spine fix activate
+1547491469 - Convey - fixed spawn & added bonus zones
+10076670398 - Eden - Fixed stage 2 anti-tele which allowed you to spin in it and keep all your speed.
 327724248 - Exultant - ramp fix, lighting fix
 434909751 - Hello - made bonus the main map
+2637369587 - Medieval - revamped map
 602067194 - Minecraft - now possible
 11159856729 - Neospace - red stage skip fixed
+1481097420 - One More - fixed spawn & ramps
 1810542530 - Overworld - ramp fix
 1539030818 - Parodygov - booster not called accelerator anymore
 549087739 - Retrospect - ramp fix
+1902362290 - Something - fixed spawn
 11197523119 - Spectrum - removed start room and added bonus zone
 603789116 - Tyrian - ramp fix
 626303214 - X-ray - ramp fix
 1248280240 - Yobby - ramp fix
+
+tested, pending upload & add map data:
+11760638857 - Water Park - Hitbox was too big to fit through a hole
 
 submitted fixes need add map data:
 10375338147 - Elementary - switched b3 to b1

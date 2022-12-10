@@ -21,8 +21,6 @@ tested, pending upload & wipe:
 11117968222 - Way Back When - remake
 
 submitted fixes (wipe times):
-10250769532 - Lost in Forest - Fixed trigger skip at end and a trigger skip at start (after the first bridge)
-10142621518 - Snowy Heights - Fixed out of bound skip in the beginning
 10058410038 - Mountains (removed) - Trigger skip at the start of the map no longer possible.
 10070563004 - Elriot 2 (removed) - Removed trigger skip.
 10058249685 - Trainee 2 (removed) - Fixed every trigger skip in the map.
@@ -30,22 +28,16 @@ submitted fixes (wipe times):
 10057123234 - Workshop (removed) - Trigger skips everywhere at the end of the map, All trigger skips should be gone.
 
 tested, pending upload:
-10059765737 - emevaelx3 - Some triggers would make you fall through the void due to spawns "top" surface not being on top.
-10057584728 - Neon Vibes V2 - Being able to bhop on the wall all the way to the end no longer possible.
-11517092338 - Saimaa - Fixes being caught on the green indicator line at the start
-11420718853 - Sidus v2 - small fixes
-10060902765 - Swamp - Tree moveable due to be unanchored now fixed, bhopping on lily pads being rng now fixed.
-11416108691 - Very Long Map - fixed head hits, added back spawnats at a one point in the map
 
 submitted fixes (no wipe):
 10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
 10069511619 - Alley - Made it so spawn actually spawns you in spawn.
 
 add map data:
-
-tested, pending upload & add map data:
 10049410478 - Avery - Jump pad boosters didn't work, fixed every jump pad in the map.
 10061036635 - Bumblebee - Fixed RNG jump that would be impossible on new physics. Lowered 1 platform by 2 studs and another by 1 stud so leaderboard should be wiped.
+
+tested, pending upload & add map data:
 
 submitted fixes need add map data:
 10049775129 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs.
