@@ -6,9 +6,9 @@ uncategorized:
 11750720432 - Failure - Fixed TP + Added SetVel 
 11750857205 - Above and Below - Fixed spawn
 11750860991 - July - Smoke emitters are now noncollidable 
-11750867663 - Dust - End used to be peaking through last block
+11750867663 - Dust - End used to be clip through last block
 11750890981 - Kotodama - Removed invisible walls since skip is no longer possible
-11750977271 - Alley - End is not cancerous anymore
+11750977271 - Alley - End compatible with new physics
 11751012626 - Stone - Old routes are now possible in new physics
 
 upload but don't add:
