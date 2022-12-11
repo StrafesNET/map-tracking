@@ -1,9 +1,3 @@
-uncategorized:
-11224975215 - Slime Map Pile - added SetVel
-11225546578 - Around The Round - fixed start
-11226695678 - Trikz Cloud - added SetVel
-11234923029 - Mane Six - anti tele traps player
-
 upload but don't add to game:
 
 tested, pending upload & wipe:
@@ -13,7 +7,12 @@ submitted fixes (wipe times):
 10077886389 - Submerged - Fixed gap in wall used in route. - Was the gap intentional?
 
 tested, pending upload:
+
 submitted fixes (no wipe):
+11224975215 - Slime Map Pile - added SetVel
+11225546578 - Around The Round - fixed start
+11226695678 - Trikz Cloud - added SetVel
+11234923029 - Mane Six - anti tele traps player
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
