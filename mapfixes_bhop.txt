@@ -26,12 +26,18 @@ submitted fixes (wipe times):
 10058249685 - Trainee 2 (removed) - Fixed every trigger skip in the map.
 10070336663 - Free Fall (removed) - Trigger skips all fixed, no longer able to do them + fixed out of bound skip
 10057123234 - Workshop (removed) - Trigger skips everywhere at the end of the map, All trigger skips should be gone.
+11751012626 - Stone - Old routes are now possible in new physics
+11750867663 - Dust - End used to clip through last block
+11750720432 - Failure - Fixed TP + Added SetVel 
 
 tested, pending upload:
 
 submitted fixes (no wipe):
 10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
-10069511619 - Alley - Made it so spawn actually spawns you in spawn.
+11750857205 - Above and Below - Fixed spawn
+11750860991 - July - Smoke emitters are now noncollidable 
+11750890981 - Kotodama - Removed invisible walls since skip is no longer possible
+11750977271 - Alley - End compatible with new physics + spawn fixed
 
 add map data:
 
