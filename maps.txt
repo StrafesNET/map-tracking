@@ -528,7 +528,7 @@ on main:
 5692123475 - Trigger
 5692146112 - Tropica
 5692106931 - Tropics
-5692164554 - TrueCetric
+5692164554 - TrueCetric -- fixed Trigger2 parts letting you phase through them due to no Spawn2: 12200450586
 5692169679 - Tunnels
 5692139434 - Turf
 5692182179 - Tutorial
