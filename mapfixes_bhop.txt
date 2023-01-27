@@ -28,8 +28,6 @@ submitted fixes (wipe times):
 10070336663 - Free Fall (removed) - Trigger skips all fixed, no longer able to do them + fixed out of bound skip
 10057123234 - Workshop (removed) - Trigger skips everywhere at the end of the map, All trigger skips should be gone.
 11751012626 - Stone - Old routes are now possible in new physics
-11750867663 - Dust - End used to clip through last block
-11750720432 - Failure - Fixed TP + Added SetVel
 12199296971 - I DROPPED MY HECKIN POP-TARTS!! - Fixed trigger skips with the use of SetSpawn#
 
 tested, pending upload:
