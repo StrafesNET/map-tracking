@@ -24,6 +24,7 @@ tested, pending upload & add map data:
 submitted fixes need add map data:
 10375338147 - Elementary - switched b3 to b1
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
+12200007846 - Daydreamer 2 - End teleport fixed, you ACTUALLY teleport to the end now
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
