@@ -46,6 +46,7 @@ tested, pending upload & add map data:
 
 submitted fixes need add map data:
 10049775129 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs.
+12192047288 - Freedom Puppies XXX - Fixed main map lighting + original freedom puppies map as a bonus
 
 rejected fixes, additional fix notes:
 11117971522 - Colossus - remake - going through the teleport spawns you in the wall, check spawns (9th spawn does not exist, other issues)
