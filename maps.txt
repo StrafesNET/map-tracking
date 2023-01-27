@@ -528,7 +528,7 @@ on main:
 5692123475 - Trigger
 5692146112 - Tropica
 5692106931 - Tropics
-5692164554 - TrueCetric
+5692164554 - TrueCetric -- fixed: see mapfixes_surf.txt
 5692169679 - Tunnels
 5692139434 - Turf
 5692182179 - Tutorial
@@ -646,7 +646,7 @@ need testing surf:
 submitted hub fixes:
 
 where are these maps I know they exist and I want them:
-Daydreamer 2 - 394706015 - the end zone is floating somewhere weird
+Daydreamer 2 - 394706015 - the end zone is floating somewhere weird -- fixed: see mapfixes_surf.txt
 bhop_brickcolors - in submissions_bhop.txt 8642318889
 
 backlog:

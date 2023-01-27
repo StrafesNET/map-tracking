@@ -6,6 +6,7 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
 10077886389 - Submerged - Fixed gap in wall used in route. - Was the gap intentional?
+12200450586 - TrueCetric - fixed Trigger2 parts letting you phase through them due to no Spawn2
 12116717615 - Got The Blues - Fixed bhopsurf, lighting, broken spawn, and bonusstart/finish
 
 tested, pending upload:
@@ -25,6 +26,7 @@ tested, pending upload & add map data:
 submitted fixes need add map data:
 10375338147 - Elementary - switched b3 to b1
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
+12200007846 - Daydreamer 2 - End teleport fixed, you ACTUALLY teleport to the end now
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???

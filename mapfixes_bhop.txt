@@ -28,7 +28,8 @@ submitted fixes (wipe times):
 10057123234 - Workshop (removed) - Trigger skips everywhere at the end of the map, All trigger skips should be gone.
 11751012626 - Stone - Old routes are now possible in new physics
 11750867663 - Dust - End used to clip through last block
-11750720432 - Failure - Fixed TP + Added SetVel 
+11750720432 - Failure - Fixed TP + Added SetVel
+12192059799 - I DROPPED MY HECKIN POP-TARTS!! - Fixed trigger skips with the use of SetSpawn#
 
 tested, pending upload:
 
@@ -45,8 +46,8 @@ tested, pending upload & add map data:
 
 submitted fixes need add map data:
 10049775129 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs.
+12192047288 - Freedom Puppies XXX - Fixed main map lighting + original freedom puppies map as a bonus
 
 rejected fixes, additional fix notes:
 11117971522 - Colossus - remake - going through the teleport spawns you in the wall, check spawns (9th spawn does not exist, other issues)
 10057239529 - FrozenRuins - Trigger skip after bounce pad no longer possible. - This trigger skip does not detract from the map in my opinion.  May need to have a vote to see what people think.
-10055563939 - I DROPPED MY HECKIN POP-TARTS!! - Trigger skip through pop tart boxes no longer possible. Added invisible walls in the map to stop further trigger skips. - Always think twice about using invisible walls.  In my opinion, the skip through the walls is epic but the trigger skip is cringe.  I'll allow an invisible wall that blocks the trigger skip, but if you want to block the skip through the walls, use more visible walls.
