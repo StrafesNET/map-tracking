@@ -29,7 +29,7 @@ submitted fixes (wipe times):
 11751012626 - Stone - Old routes are now possible in new physics
 11750867663 - Dust - End used to clip through last block
 11750720432 - Failure - Fixed TP + Added SetVel
-12192059799 - I DROPPED MY HECKIN POP-TARTS!! - Fixed trigger skips with the use of SetSpawn#
+12199296971 - I DROPPED MY HECKIN POP-TARTS!! - Fixed trigger skips with the use of SetSpawn#
 
 tested, pending upload:
 
