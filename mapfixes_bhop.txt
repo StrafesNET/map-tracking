@@ -19,6 +19,7 @@ tested, pending upload & wipe:
 11117961828 - Happy Gummy Bear - remake
 10050237989 - Phobic - Trigger Skip in beginning is no longer possible.
 11117968222 - Way Back When - remake
+10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
 
 submitted fixes (wipe times):
 10058410038 - Mountains (removed) - Trigger skip at the start of the map no longer possible.
@@ -26,8 +27,6 @@ submitted fixes (wipe times):
 10058249685 - Trainee 2 (removed) - Fixed every trigger skip in the map.
 10070336663 - Free Fall (removed) - Trigger skips all fixed, no longer able to do them + fixed out of bound skip
 10057123234 - Workshop (removed) - Trigger skips everywhere at the end of the map, All trigger skips should be gone.
-11750867663 - Dust - End used to clip through last block
-10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
 12192059799 - I DROPPED MY HECKIN POP-TARTS!! - Fixed trigger skips with the use of SetSpawn#
 11751012626 - Stone - Old routes are now possible in new physics
 
@@ -50,5 +49,7 @@ submitted fixes need add map data:
 12192047288 - Freedom Puppies XXX - Fixed main map lighting + original freedom puppies map as a bonus
 
 rejected fixes, additional fix notes:
+11225546578 - Around The Round - fixed start - WHERE ARE THE PLATFORMS
 11117971522 - Colossus - remake - going through the teleport spawns you in the wall, check spawns (9th spawn does not exist, other issues)
+11750867663 - Dust - End used to clip through last block - Change is too small for a time wipe
 10057239529 - FrozenRuins - Trigger skip after bounce pad no longer possible. - This trigger skip does not detract from the map in my opinion.  May need to have a vote to see what people think.
