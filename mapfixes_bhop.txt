@@ -51,4 +51,3 @@ submitted fixes need add map data:
 rejected fixes, additional fix notes:
 11117971522 - Colossus - remake - going through the teleport spawns you in the wall, check spawns (9th spawn does not exist, other issues)
 10057239529 - FrozenRuins - Trigger skip after bounce pad no longer possible. - This trigger skip does not detract from the map in my opinion.  May need to have a vote to see what people think.
-10055563939 - I DROPPED MY HECKIN POP-TARTS!! - Trigger skip through pop tart boxes no longer possible. Added invisible walls in the map to stop further trigger skips. - Always think twice about using invisible walls.  In my opinion, the skip through the walls is epic but the trigger skip is cringe.  I'll allow an invisible wall that blocks the trigger skip, but if you want to block the skip through the walls, use more visible walls. -- Fixed trigger skip with the use of SpawnAt# parts. (no invis walls): 12199296971
