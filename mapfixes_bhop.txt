@@ -19,6 +19,7 @@ tested, pending upload & wipe:
 11117961828 - Happy Gummy Bear - remake
 10050237989 - Phobic - Trigger Skip in beginning is no longer possible.
 11117968222 - Way Back When - remake
+10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
 
 submitted fixes (wipe times):
 10058410038 - Mountains (removed) - Trigger skip at the start of the map no longer possible.
@@ -30,15 +31,17 @@ submitted fixes (wipe times):
 11750867663 - Dust - End used to clip through last block
 11750720432 - Failure - Fixed TP + Added SetVel
 12199296971 - I DROPPED MY HECKIN POP-TARTS!! - Fixed trigger skips with the use of SetSpawn#
+11751012626 - Stone - Old routes are now possible in new physics
 
 tested, pending upload:
 
 submitted fixes (no wipe):
-10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
 11750857205 - Above and Below - Fixed spawn
+11750977271 - Alley - End compatible with new physics + spawn fixed
+11750720432 - Failure - Fixed TP + Added SetVel
 11750860991 - July - Smoke emitters are now noncollidable 
 11750890981 - Kotodama - Removed invisible walls since skip is no longer possible
-11750977271 - Alley - End compatible with new physics + spawn fixed
+10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
 
 add map data:
 
@@ -49,5 +52,7 @@ submitted fixes need add map data:
 12192047288 - Freedom Puppies XXX - Fixed main map lighting + original freedom puppies map as a bonus
 
 rejected fixes, additional fix notes:
+11225546578 - Around The Round - fixed start - WHERE ARE THE PLATFORMS
 11117971522 - Colossus - remake - going through the teleport spawns you in the wall, check spawns (9th spawn does not exist, other issues)
+11750867663 - Dust - End used to clip through last block - Change is too small for a time wipe
 10057239529 - FrozenRuins - Trigger skip after bounce pad no longer possible. - This trigger skip does not detract from the map in my opinion.  May need to have a vote to see what people think.
