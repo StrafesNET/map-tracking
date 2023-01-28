@@ -17,7 +17,6 @@ not in inventory:
 
 accepted but needs fix:
 6661642203 - oopsie, make zones shorter
-331511377 - make freedom puppies a bonus on this map
 
 rejected:
 10955884989

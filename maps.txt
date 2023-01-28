@@ -615,6 +615,7 @@ release schedule bhop:
 11222358746 - 0zirk
 11492883485 - BrickColors
 11222362560 - Calm Down
+12293682345 - Freedom Puppies XXX
 11222365475 - Frenzy - check lighting scripts, it's too dark but the submitted map was fine
 11492688731 - Fur
 CENSORED 11222370043 - Hello
@@ -633,6 +634,7 @@ release schedule surf:
 11222407950 - Caving In 2
 11222411070 - The Center
 11222415456 - Cyberspace
+12293814860 - Daydreamer 2
 11222418405 - Diminsion
 FIX AVAILABLE 11222420770 - Elementary
 11222424719 - One Day
@@ -652,7 +654,6 @@ need testing surf:
 submitted hub fixes:
 
 where are these maps I know they exist and I want them:
-Daydreamer 2 - 394706015 - the end zone is floating somewhere weird -- fixed: see mapfixes_surf.txt
 bhop_brickcolors - in submissions_bhop.txt 8642318889
 
 backlog:

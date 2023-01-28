@@ -21,8 +21,6 @@ add map data:
 11760638857 - Water Park - Hitbox was too big to fit through a hole
 
 tested, pending upload & add map data:
-12200007846 - Daydreamer 2 - End teleport fixed, you ACTUALLY teleport to the end now
-11760638857 - Water Park - Hitbox was too big to fit through a hole
 
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad

@@ -35,7 +35,6 @@ add map data:
 10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
 
 tested, pending upload & add map data:
-12192047288 - Freedom Puppies XXX - Fixed main map lighting + original freedom puppies map as a bonus
 
 submitted fixes need add map data:
 10049775129 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs.
