@@ -11,38 +11,31 @@ tested, pending upload & schedule:
 
 submitted unreleased fixes:
 
-tested, pending upload & wipe:
-10056917344 - Planets - Fixed 2 trigger skips
+uploaded, wipe:
 10070273896 - Alone - Fixed a surf at start that was supposed to be a trigger.
 11117954548 - Danger Noodle - remake with a bonus
-11117961828 - Happy Gummy Bear - remake
-10050237989 - Phobic - Trigger Skip in beginning is no longer possible.
-11117968222 - Way Back When - remake
 10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
+11117961828 - Happy Gummy Bear - remake
 12199296971 - I DROPPED MY HECKIN POP-TARTS!! - Fixed trigger skips with the use of SetSpawn#
+10050237989 - Phobic - Trigger Skip in beginning is no longer possible.
+10056917344 - Planets - Fixed 2 trigger skips
+11117968222 - Way Back When - remake
+
+tested, pending upload & wipe:
 
 submitted fixes (wipe times):
-10058410038 - Mountains (removed) - Trigger skip at the start of the map no longer possible.
-10070563004 - Elriot 2 (removed) - Removed trigger skip.
-10058249685 - Trainee 2 (removed) - Fixed every trigger skip in the map.
-10070336663 - Free Fall (removed) - Trigger skips all fixed, no longer able to do them + fixed out of bound skip
-10057123234 - Workshop (removed) - Trigger skips everywhere at the end of the map, All trigger skips should be gone.
 11751012626 - Stone - Old routes are now possible in new physics
 
 tested, pending upload:
-11750857205 - Above and Below - Fixed spawn
-11750720432 - Failure - Fixed TP + Added SetVel
-11750860991 - July - Smoke emitters are now noncollidable
-11750890981 - Kotodama - Removed invisible walls since skip is no longer possible
 
 submitted fixes (no wipe):
 10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
 
 add map data:
+10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
 
 tested, pending upload & add map data:
 12192047288 - Freedom Puppies XXX - Fixed main map lighting + original freedom puppies map as a bonus
-10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
 
 submitted fixes need add map data:
 10049775129 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs.

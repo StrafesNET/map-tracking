@@ -200,7 +200,7 @@ on main:
 5692113242 - Existence
 5692111905 - Exultant
 5693295292 - FL Eli
-5692099189 - Failure - 2nd stage spawn has a weird cancolide box you bump into
+5692099189 - Failure
 5692123285 - Faith
 5692176852 - Fizzle
 5692140338 - Flandre
@@ -215,6 +215,7 @@ on main:
 5692153515 - Go
 5692146490 - Golf Yourself
 6111012654 - Gondal
+5692175777 - Got The Blues
 5692152568 - Gotta Go Fast
 5692112566 - Gram of Haze
 5692180986 - Grandma's Couch
@@ -297,6 +298,7 @@ on main:
 5692186429 - Macaroni and Cheese
 5692113418 - Magma
 5692093913 - Mail Yourself In a Box
+5692117855 - Mane Six
 5692158695 - Manpoo
 5692093612 - Marble
 5692104087 - Marble Fanta
@@ -456,6 +458,7 @@ on main:
 5692159560 - Slab
 5692108102 - Slate
 5692133239 - Slate Two
+5692170517 - Slime Map Pile
 5693293891 - Slope
 5692150007 - Sluice
 5692093352 - Snow
@@ -498,6 +501,7 @@ on main:
 8777462556 - Synced V2
 5692093530 - Synergy
 5692093654 - TaiShi
+5692117483 - Tech
 5692108338 - Temple
 6115161141 - Terral - hide the SpawnAt thingys, moving platforms decoration
 5692102897 - Tetratronic
@@ -525,10 +529,11 @@ on main:
 5692127627 - Tranquil
 5692093875 - Translucidity v2
 5692139153 - Tri
+5692158544 - Trikz Cloud
 5692123475 - Trigger
 5692146112 - Tropica
 5692106931 - Tropics
-5692164554 - TrueCetric -- fixed: see mapfixes_surf.txt
+5692164554 - TrueCetric
 5692169679 - Tunnels
 5692139434 - Turf
 5692182179 - Tutorial
@@ -552,6 +557,7 @@ on main:
 5692112827 - Warzone
 5692146007 - Wasteland
 5692182387 - Water
+5692169598 - Water Park
 5692145577 - Water Temple
 5692138601 - Water Valley
 5692139005 - Waterblocks
@@ -881,7 +887,6 @@ HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
 5692164250 - Feels Like Home - hitbox harder
 5692104185 - Flandre II - simulation broken
 5692152419 - Fus - simulation broken
-5692175777 - Got The Blues - last stage speed trap traps player
 5692134367 - Gravity - hitbox harder
 5692152129 - Haarukka - fix start
 5692151238 - High segdaB - simulation broken apparently
@@ -895,7 +900,6 @@ HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
 5692118651 - Level Up! - please make this less ugly, maybe decorate
 5692164379 - Lines - purple spawn impassible, also bumpy ramps
 5692140242 - Elprup - impossible, can't go in diamond hole
-5692117855 - Mane Six - anti tele traps player
 5692099007 - Monster Jam - moon door teleport is rng, also change moon jump area to accelerator rather than booster only
 5692093067 - MooManChicken - fix lighting
 5692159131 - No - impossible: wormhole resets you to start
@@ -909,16 +913,12 @@ HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
 6111031896 - Sandstorm Supergiant - hitbox hard
 5693293179 - Seventy-Two Percent more Pineapple - hitbox harder
 5692134185 - Shade - hitbox harder, fix diamond hitbox
-5692170517 - Slime Map Pile - use SetVelocity
 5692170594 - Strawberry Avalanche - getting triggered at end
-FIX SUBMITTED 5692117483 - Tech - Trigger skip near start of the map after you go down
 5692122753 - Tide - remove the invisible path to the end
 5692145794 - Touch - head hit roof
-5692158544 - Trikz Cloud - use SetVelocity for anti tele
 5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
-5692169598 - Water Park - invisible death
 5692140155 - X - fix OOB
 5692107763 - Xerox - impossible vent
 5692093974 - Zor - last ramp spine
