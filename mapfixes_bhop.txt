@@ -12,7 +12,6 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 tested, pending upload & wipe:
-10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
 10056917344 - Planets - Fixed 2 trigger skips
 10070273896 - Alone - Fixed a surf at start that was supposed to be a trigger.
 11117954548 - Danger Noodle - remake with a bonus
@@ -43,6 +42,7 @@ add map data:
 
 tested, pending upload & add map data:
 12192047288 - Freedom Puppies XXX - Fixed main map lighting + original freedom puppies map as a bonus
+10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
 
 submitted fixes need add map data:
 10049775129 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs.
