@@ -37,7 +37,7 @@ add map data:
 tested, pending upload & add map data:
 
 submitted fixes need add map data:
-10049775129 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs.
+12298088598 - Badges 2 - Spawns in many places were completely broken and bugged, every spawn is fixed, also fixed booster bugs. Also fixed multiple impossibly (or unreasonably) small gaps and the KZ triggerskip.
 
 rejected fixes, additional fix notes:
 11750977271 - Alley - End compatible with new physics + spawn fixed - There's a weird part in the middle of the start zone that you bump into
