@@ -62,6 +62,7 @@ on main:
 5692163187 - Back To Earth
 5692157700 - Bad map
 5692112389 - Badges
+5692117355 - Badges 2
 5732172079 - Banal - bumpy ramp
 5692150236 - Barn
 5692169501 - Basedplate
@@ -876,7 +877,6 @@ new physics bug (mapfix):
 5692108009 - 456 - spin is impossible
 5692158334 - Around The Round - what is going on at the start
 5692128954 - Azurite - fix start & make window wider by 2.2
-HUB FIXED/FIX SUBMITTED 5692117355 - Badges 2 - impossible due to hitbox
 5692169729 - Borderlands - getting reset in middle of ramps
 5692135173 - Chimera - start kills simulation
 5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
