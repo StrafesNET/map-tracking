@@ -37,6 +37,7 @@ add map data:
 tested, pending upload & add map data:
 
 submitted fixes need add map data:
+8406738060 - ötökkä
 
 rejected fixes, additional fix notes:
 11750977271 - Alley - End compatible with new physics + spawn fixed - There's a weird part in the middle of the start zone that you bump into
