@@ -645,6 +645,7 @@ surf maps on main:
 11222433611 - Regret
 11222436684 - Secton
 11222438810 - Thunderstorm
+5692169270 - Tie
 11222440296 - Woodlawn
 
 release schedule bhop:
@@ -673,7 +674,6 @@ verify possible:
 5692133329 - Schemes
 5692157806 - Sinsane
 5692153562 - Six Luminaries
-5692169270 - Tie
 5692153444 - Trumpwall2020
 5692182099 - Tumb
 5692176099 - Tumb 2
