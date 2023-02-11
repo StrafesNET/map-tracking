@@ -25,6 +25,7 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 11751012626 - Stone - Old routes are now possible in new physics
+12199296971 - I DROPPED MY HECKIN POP-TARTS!! - Fixed being able to stand on top of pop-tart boxes while in start zone and complete map by bhopping on top of the boxes. (Apparently the fix I used to submit the trigger skip fix did not have this? I am not sure as to what happened but oh well)
 
 tested, pending upload:
 
