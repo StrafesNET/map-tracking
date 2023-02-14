@@ -7,6 +7,7 @@ uploaded, wipe:
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
+12200007846 - Daydreamer II - Another ramp segment had its velocity set to (500,0,0), I have therefore checked through every single map part and removed other ramps with velocity to then get rid of the problem entirely. (Only delete times which use the skip; times under ~1:20)
 
 tested, pending upload:
 
