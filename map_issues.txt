@@ -12,9 +12,6 @@ need testing surf:
 
 submitted hub fixes:
 
-where are these maps I know they exist and I want them:
-bhop_brickcolors - in submissions_bhop.txt 8642318889
-
 backlog:
 FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog for more votes
 
