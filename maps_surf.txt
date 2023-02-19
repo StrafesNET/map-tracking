@@ -22,7 +22,7 @@
 5692175908 - Autism
 5692159660 - Aztec
 5692132646 - Azura
-5732172079 - Banal - bumpy ramp
+5732172079 - Banal
 5692169501 - Basedplate
 5692144483 - Basedplate II
 5692094530 - Beginner
@@ -74,13 +74,13 @@
 6111006827 - Devolution
 11222418405 - Diminsion
 5692133094 - Diversity
-5692124282 - Dizzy - spines are bad, make sure they get the spine fix
+5692124282 - Dizzy
 5692163819 - Docile
 5692107850 - Drains
 6111249192 - Dry
 5692158258 - Dunes
 5692158651 - Dystopia
-5692164052 - Eden - Move stages closer together to let the spine fix activate
+5692164052 - Eden
 11222420770 - Elementary
 5692113121 - Ephemeral
 5692093216 - Evolcase
@@ -110,12 +110,12 @@
 6111021105 - Jungle
 6111023008 - Jungle Easy
 5692113587 - Kairos
-5692165267 - Karakai Jozu no Takagi-san - make bonus work
+5692165267 - Karakai Jozu no Takagi-san
 5692157375 - Kitsune - fix visuals
 5692123964 - Kori
 5692144676 - Kyoto
 5692134991 - Lavender
-5692169147 - Lezgo - "spines are super bad"
+5692169147 - Lezgo
 5692093937 - Lezgo II
 5692128389 - Luck
 5692132999 - Lumber
@@ -125,7 +125,7 @@
 5692135218 - Mausoleum
 5692124172 - Maybe
 5692103566 - Medieval
-5692153297 - Mellow - last few spines could be fixed
+5692153297 - Mellow
 5692122990 - Melting
 5693294901 - Mesa
 5692165111 - Microverse
@@ -133,7 +133,7 @@
 5692112034 - Moist
 5692103523 - Mulberry
 8777496995 - Neospace
-5692138452 - Newt - spines
+5692138452 - Newt
 5692186250 - Not Far
 5692093443 - Not a Small Map
 5692185710 - OOF
@@ -141,7 +141,7 @@
 5692168868 - Obelisk
 11222424719 - One Day
 5692153342 - One More
-5692171042 - Orange - ramps can randomly reset (same issue as bumpy ramps)
+5692171042 - Orange
 11222428333 - Orbital
 5692124415 - Ostentatious
 5692132783 - Overworld
@@ -150,14 +150,14 @@
 5692118940 - Paradise (surf)
 5692123163 - Paradise II (surf)
 5692118386 - Paradox
-5692127919 - Paragov - one bumpy ramp around 1:18
+5692127919 - Paragov
 5692117524 - Parallel (Linear)
 5692132972 - Parodygov
 5692127874 - Pathway
 5692122495 - Pathway II
 5692128557 - Pathway III
 5692134797 - Placement
-5692170735 - Poly_Mount - change name, weird server logs
+5692170735 - Poly_Mount
 5692113377 - Prank A1
 5692112488 - Pringles
 6111338151 - Projecto
@@ -168,7 +168,7 @@
 5692117221 - Quiescent
 5692128734 - Quilcyl
 5692182225 - Really Dumb Map
-5692158006 - Realm - moving decorations
+5692158006 - Realm
 5692140037 - Rebel Resistance Final 3
 11222433611 - Regret
 8659335898 - Reinforced 2
@@ -184,7 +184,7 @@
 5692162926 - Shard
 5692139367 - Shift
 5692112940 - Silky
-5692150156 - Skewed - fix the bonus
+5692150156 - Skewed
 5692122578 - Sky
 5692122877 - Sky II
 5692097867 - Skyscraper
@@ -207,14 +207,14 @@
 5692170390 - Summerland
 5692108338 - Temple
 5692102897 - Tetratronic
-5692118058 - The Crest Experience - ramps bumpy at the bottom
+5692118058 - The Crest Experience
 5692134653 - The Flash
 5692118622 - The Wanderer
 11222438810 - Thunderstorm
 5692169270 - Tie
 5692174873 - Tiles
 8659339332 - Today
-5692133932 - Tom Cruise - The spawn area is bugged, and first ramps are buggy at top
+5692133932 - Tom Cruise
 5692127627 - Tranquil
 5692158544 - Trikz Cloud
 5692123475 - Trigger
@@ -222,7 +222,7 @@
 5692169679 - Tunnels
 5692117595 - Tyrian
 5692138890 - Underground
-5692164902 - Unequivocal - last spine needs fix
+5692164902 - Unequivocal
 5692174420 - Unresponsive
 5692145408 - Utopia
 5692118696 - Valpect
@@ -232,11 +232,11 @@
 5692145577 - Water Temple
 5692138601 - Water Valley
 5692117268 - Waterfall
-5692153113 - Who Knows 2 - some ramps buggy
-8777513883 - Windows 84 - moving decorations, add bonus zones
+5692153113 - Who Knows 2
+8777513883 - Windows 84
 11222440296 - Woodlawn
 5692106610 - Woodworks
-6111038067 - Wuts Dis? - slightly raise ramp next to the trigger so it's not flush
+6111038067 - Wuts Dis?
 5692113737 - X-ray
 5692108138 - XXXTection
 5692159512 - Yobby
@@ -244,8 +244,8 @@
 6111003348 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]
 6111292922 - garbagecan2019
 5692124094 - gg no re
-5692132870 - milk truck - fix spines
-8659333439 -  o̴̕̕h̀͝͝!̵̢͘͝͞ - last ramp bad spine
-5692174984 - Hazardous - Accelerator needs to be not called Accelerator
-6111011305 - Gloss - ramp is non collidable
-5692128703 - Underworld - far from origin
+5692132870 - milk truck
+8659333439 -  o̴̕̕h̀͝͝!̵̢͘͝͞
+5692174984 - Hazardous
+6111011305 - Gloss
+5692128703 - Underworld

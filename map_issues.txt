@@ -1,3 +1,44 @@
+bhop main:
+5692174791 - Adventure v2 - shortcut stage you can bump your head at the spawn
+5692152798 - Autumn - Convert from meshes to cylinders and spheres
+5692163580 - Bruh - end of the map is unnecessarily hard because of head hits
+5692186084 - City Run V2 Add v1 as bonus: 5692158614 - City Run
+5692132697 - Drain 2 - Bonus: 5692113088 - Drain
+5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
+11222365475 - Frenzy - check lighting scripts, it's too dark but the submitted map was fine
+5692139271 - Green Shade - put bonusstart
+5692106168 - Larena - maybe align the green ramp better at the top, maybe increase the height of the doorway teleports
+6115146211 - Pohb not idiot - change name
+5692157943 - Rising - Stage 2 & 4 triggers have multiple parts in the same place
+5692105876 - Senpai - Lighting is very dark
+6115159232 - Sqee - Bonus: 5692093322 - Sqee (Short)
+6115161141 - Terral - moving platforms decoration
+5692152916 - Toc - Make bonus zones at end
+
+surf main:
+5732172079 - Banal - bumpy ramp
+5692124282 - Dizzy - spines are bad, make sure they get the spine fix
+5692164052 - Eden - Move stages closer together to let the spine fix activate
+5692165267 - Karakai Jozu no Takagi-san - make bonus work
+5692157375 - Kitsune
+5692169147 - Lezgo - "spines are super bad"
+5692153297 - Mellow - last few spines could be fixed
+5692138452 - Newt - spines
+5692171042 - Orange - ramps can randomly reset
+5692127919 - Paragov - one bumpy ramp around 1:18
+5692170735 - Poly_Mount - change name, weird server logs
+5692158006 - Realm - moving decorations
+5692150156 - Skewed - fix the bonus
+5692118058 - The Crest Experience - ramps bumpy at the bottom
+5692133932 - Tom Cruise - The spawn area is bugged, and first ramps are buggy at top
+5692164902 - Unequivocal - last spine needs fix
+5692153113 - Who Knows 2 - some ramps buggy
+8777513883 - Windows 84 - moving decorations, add bonus zones
+6111038067 - Wuts Dis? - slightly raise ramp next to the trigger so it's not flush
+5692132870 - milk truck - fix spines
+8659333439 -  o̴̕̕h̀͝͝!̵̢͘͝͞ - last ramp bad spine
+6111011305 - Gloss - ramp is non collidable
+5692128703 - Underworld - far from origin
 
 release schedule bhop:
 CENSORED 11222370043 - Hello

@@ -11,7 +11,7 @@
 5692117401 - Accuracy3
 5692163232 - Acid
 5692152218 - AcidicHopping
-5692174791 - Adventure v2 - shortcut stage you can bump your head at the spawn
+5692174791 - Adventure v2
 6115121246 - Aeiou
 5692158296 - Alley
 5692152677 - Alone
@@ -26,7 +26,7 @@
 5692182285 - Atom
 5692186870 - Attack of the Big Fat Meanies
 5692146675 - AutoBadges
-5692152798 - Autumn - Convert from meshes to cylinders and spheres
+5692152798 - Autumn
 5692104532 - Autumnland
 5692176139 - Avery
 5692104641 - Awake
@@ -57,7 +57,7 @@
 8658891384 - Brick 2
 6115123026 - Brick Worship
 11492883485 - BrickColors
-5692163580 - Bruh - end of the map is unnecessarily hard because of head hits
+5692163580 - Bruh
 5692107960 - Bumblebee
 5692127824 - Bunte Kuh
 5692107295 - Calibrate
@@ -71,7 +71,7 @@
 5692180414 - Caved in
 8658884797 - Chrome
 5692098820 - Chrysanthemum Throne
-5692186084 - City Run V2 Add v1 as bonus: 5692158614 - City Run
+5692186084 - City Run V2
 8658895140 - Cks Stref
 5692152464 - Clarity
 5692170652 - Cobalt
@@ -99,7 +99,7 @@
 5692170187 - Down hill
 5692104325 - DownDownDown
 5692152492 - Dracula's Revenge
-5692132697 - Drain 2 - Bonus: 5692113088 - Drain
+5692132697 - Drain 2
 5692181077 - Dream
 5692105983 - Dreamwave
 5692181651 - Drewfc was being uncool
@@ -132,7 +132,7 @@
 6115126337 - Fortnite
 5692175423 - FrankerZ
 12293682345 - Freedom Puppies XXX
-11222365475 - Frenzy - check lighting scripts, it's too dark but the submitted map was fine
+11222365475 - Frenzy
 5692099699 - FrostBite
 5692123338 - FrozenRuins
 11492688731 - Fur
@@ -143,7 +143,7 @@
 5692112566 - Gram of Haze
 5692176385 - Grass
 5692152752 - Green
-5692139271 - Green Shade - put bonusstart
+5692139271 - Green Shade
 5692113975 - Green Yellow Red Rtv
 5692152028 - Grotto
 8658935890 - Grozy
@@ -178,7 +178,7 @@
 5692124057 - Kotodama
 5692170473 - Lab
 5692163059 - Lapis
-5692106168 - Larena - maybe align the green ramp better at the top, maybe increase the height of the doorway teleports
+5692106168 - Larena
 5692105790 - Lava Escape
 5692106026 - Lavender - 7s
 5692144635 - Lazy Larry
@@ -270,7 +270,7 @@
 5692099510 - Rexlum
 5692094874 - Rezar
 5692122817 - Rin
-5692157943 - Rising - Stage 2 & 4 triggers have multiple parts in the same place
+5692157943 - Rising
 5692098057 - Ruined
 6115154920 - Ruined
 5692094344 - Ruins
@@ -305,7 +305,7 @@
 5692181458 - Spongebob
 5692118168 - Spookstrafe
 5692094469 - Springland
-6115159232 - Sqee - Bonus: 5692093322 - Sqee (Short)
+6115159232 - Sqee
 5692180337 - Stages
 5692170001 - Stone
 5692093701 - Stonework
@@ -322,7 +322,7 @@
 5692093654 - TaiShi
 5692117483 - Tech
 11222393859 - Technicolor
-6115161141 - Terral - hide the SpawnAt thingys, moving platforms decoration
+6115161141 - Terral
 5692093733 - The 24th
 5692093176 - The Cookhouse
 5692146323 - The Crusher
@@ -334,7 +334,7 @@
 5692104415 - ThirdTime
 5692124237 - Three Mountains
 5692098640 - Tide2
-5692152916 - Toc - Make bonus zones at end
+5692152916 - Toc
 5692153872 - Tomb
 5692117551 - Totem
 5692185969 - Tractus
