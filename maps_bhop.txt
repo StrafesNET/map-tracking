@@ -114,6 +114,7 @@
 5692159619 - Dust town
 5692128623 - Dusty Run
 5692094911 - Easyhop
+5692128654 - Eazy v2
 5692105913 - Elysian
 5692175462 - Emblem
 5692105269 - Emblem 2
@@ -121,6 +122,7 @@
 5692139507 - Emblem 4
 5692118440 - Emblem 5
 5692170984 - Emblem Easy
+5692098438 - Emily
 8658931706 - Epiphany (Short)
 5692180097 - Eskay
 5693295292 - FL Eli
