@@ -340,13 +340,11 @@ moving parts:
 5692118831 - Technical - server runs very slowly
 surf_cyberspace_noob - moving decorations
 bhop_technicolor - moving decorations
-
-needs grouped moving parts fix:
 5692140192 - Communism - end is not possible
 5692128654 - Eazy v2 - made moving platforms but they're still buggy
 5692098438 - Emily - use grouping strategy for moving platforms
 5692158895 - Hyperspeed - fix ramps
-HUB FIXED - 5692128595 - Sand Temple - hitbox hard
+5692128595 - Sand Temple - hitbox hard - moving platforms work now but still buggy if you get rough
 
 multitouch:
 5692111833 - Fifty Percent More Pineapple - start zone multitouch
