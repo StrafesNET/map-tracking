@@ -60,7 +60,6 @@ FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog
 verify possible:
 8658933649 - FPS MAX SR
 5692169964 - Nikolo
-5692107810 - Resilience - hitbox harder - moving decoration
 5692133329 - Schemes
 5692157806 - Sinsane
 5692153562 - Six Luminaries
@@ -303,6 +302,7 @@ new physics bug (mapfix):
 5692159131 - No - impossible: wormhole resets you to start
 5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
 5692135126 - Reprise Hard - spine next to trigger can get hit
+5692107810 - Resilience - impossible: hitbox harder - moving decoration
 5692157460 - Rigorous - impossible, gap too small fix all gaps
 5692151184 - Rookie (surf) - spawn 7 is above anti tele, last ramp can respawn you, stage where you go under 2 walls is unnecessarily hard with new hitbox
 5692165474 - Royal - ramps are multiple parts, use SetVelocity for anti tele
