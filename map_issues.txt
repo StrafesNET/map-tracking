@@ -286,7 +286,7 @@ new physics bug (mapfix):
 5692104185 - Flandre II - simulation broken
 5692152419 - Fus - simulation broken
 5692134367 - Gravity - hitbox harder
-5692152129 - Haarukka - fix start
+5692152129 - Haarukka - The map is 83000 studs in the sky, bove it much closer to 0,0,0
 5692151238 - High segdaB - simulation broken apparently
 5692151345 - Horizon - hitbox harder/impossible throughout the map
 5692159828 - Icire - move to origin, align ramps
