@@ -58,16 +58,16 @@ submitted hub fixes:
 backlog:
 FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog for more votes
 
-verify possible:
+verified:
 8658933649 - FPS MAX SR
 5692169964 - Nikolo
-5692133329 - Schemes
-5692157806 - Sinsane
+5692133329 - Schemes - vote on whether the map should get in
+5692157806 - Sinsane - needs bonus start and finish
 5692153562 - Six Luminaries
-5692153444 - Trumpwall2020
 5692182099 - Tumb
-5692176099 - Tumb 2
 5692145262 - Tunneler Blues
+
+verify possible:
 
 rejected:
 5692165511 - 2fast2quick - Bad look, not fun to WR
@@ -315,6 +315,8 @@ new physics bug (mapfix):
 5692170594 - Strawberry Avalanche - getting triggered at end
 5692122753 - Tide - remove the invisible path to the end
 5692145794 - Touch - head hit roof
+5692153444 - Trumpwall2020 - impossible
+5692176099 - Tumb 2 - very small holes, too hard with new hitbox
 5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
