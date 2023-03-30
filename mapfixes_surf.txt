@@ -13,6 +13,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 12947510568 - Cyberspace - bonus zones and ramp spines (fix made by Duckadvice)
+12947589185 - Oh (the one with the funny characters that i dont know how to get) - bonus zone and ramp spines (fix made by Duckadvice)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
