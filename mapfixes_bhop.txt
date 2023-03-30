@@ -3,6 +3,8 @@ uncategorized:
 11117959400 - Leaf Beach - remake
 11419832052 - Bluebeat v2 - fixed stages that played bad
 11416396856 - Yonkoma - Moved start to SJ's start zone (after climb room), fixed/updated some stages
+3889303022 (not sure what was fixed) | bhop-fus
+4012925324 (not sure what was fixed) | bhop-haarukka
 
 upload but don't add:
 10050550205 - Yonder (MOVING PLATFORM FIX AVAILABLE) - Trigger skip near lake is no longer possible.
