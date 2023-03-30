@@ -31,6 +31,8 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
+12945479548 - Bounce Pad - Removed spawnlocation object leading to annoying forcefields
+12945532940 - Golf Yourself - Removed spawnlocation object leading to annoying forcefields
 
 add map data:
 10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
