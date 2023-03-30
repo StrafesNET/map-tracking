@@ -4,11 +4,27 @@ bhop (last map timestamped 1665281503)
 11217635506
 9145104232
 8646184178
-8668539916
-10532128449
-11239029173
 11479539460
-https://www.roblox.com/library/11108550860/bhop-emblem-6
+410109246 | Name: RPG | Creator/s: HiTrustMe123, MooManChicken
+9158206096 | Name: Spike Valley | Creator/s: TinyPC, 3nrk
+10573377465 | Name: Nedone | Creator/s: fodback
+11690669766 | Name: Harmony | Creator/s: 3nrk
+5819102585 | Name: Dumb Blocks 5 | Creator/s: 3nrk
+11637734463 | Name: Hidden Place | Creator/s: Dolph1nLaugh
+4109799486 | Name: Grasspain | Creator/s: TheCrookedSide
+11825697080 | Name: potato3 | Creator/s: Blitzkarn
+10532128449 | Name: bubblegum | Creator/s: HalalHopper
+10298870923 | Name: Hello | Creator/s: 3nrk
+11108550860 | Name: Emblem 6 | Creator/s: zz9c (lag fix by creepycolton44 and fiveman1)
+8693828910 | Name: Tight | Creator/s: vncr
+9003681461 | Name: bhop_persp | Creator/s: vncr
+11239166116 | Name: Hilberts Plane | Creator/s: 3nrk
+8785273878 | Name: Ravishing Ravine | Creator/s: Aurawrara
+11239029173 | Name: Dom | Creator/s: 6civilians
+12786321902 | Name: Bright | Creator/s: ByC0dE
+8668539916 | Name: bhop in sewers | Creator/s: TinyPC
+12502151911 it should REALLY be polished, but accepted. | Name: wowies | Creator/s: voxaim
+12501941146 | Name: Lunar Lake | Creator/s: RecBtw
 
 not in inventory:
 

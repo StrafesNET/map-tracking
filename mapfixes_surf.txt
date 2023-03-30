@@ -1,3 +1,6 @@
+uncategorized:
+5272229281 (MAP FIX!) (not sure what was fixed)
+
 upload but don't add to game:
 
 uploaded, wipe:
@@ -34,5 +37,3 @@ rejected fixes, additional fix notes:
 621876510 - Space Jam - idk - there is already a great fix published
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
 459306841 - Winterland - ramp fix - needs more fixes, still bumpy ramps
-
-unsorted fixes:
