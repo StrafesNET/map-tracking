@@ -2,28 +2,33 @@ backlog:
 11205614737 - Proximute unfinished
 
 frontlog:
-10532128449
-12373332845
+10532128449 - copylocked
+12373332845 - bonus is broken: missing spawns
+12615410485 | Name: pain | Creator/s: AlexisYaGirl12, purpledragon, ninjabogdiromania - use SetVelocity for anti-teles, fix booster velocity
+12133157692 | Name: Munze | Creator/s: JorusRetorak, PracticalYogi - "gameplay is awkward at the end, some ramps need spine fix" also bonus doesn't work
+
+accepted:
+7789455753 | Name: 4 am | Creator/s: 0RedAce0
 11597619719 | Name: amir | Creator/s: AlexisYaGirl12
 11378800964 | Name: Autumn | Creator/s: onift, OneDreamerz
 2695761761 | Name: Metaophorite | Creator/s: sirlolnoob
-7789455753 | Name: 4 am | Creator/s: 0RedAce0
 11807978582 | Name: Slope | Creator/s: salamanz
 5728593889 | Name: Roosevelt | Creator/s: jhonso52721
 11370680700 | Name: Asylum | Creator/s: 0RedAce0, OneDreamerz
-12615410485 | Name: pain | Creator/s: AlexisYaGirl12, purpledragon, ninjabogdiromania
-12133157692 | Name: Munze | Creator/s: JorusRetorak, PracticalYogi
 2637399643 | Name: Leek (spin) | Creator/s: sirlolnoob
 12799034985 | Name: Extirpate | Creator/s: AlexisYagirl12
 4726757120 | Name: PEKO | Creator/s: Frxzt
 12396744415 | Name: Lab | Creator/s: iiGKVx
 12797740132 | Name: surf_mom | Creator/s: 6civilians
-5339155981 | Name: Sandy Sunset | Creator/s: Duckadvice
 12804314773 | Name: mini | Creator/s: ApeXe (ported by alex)
 4899023713 | Name: Airspace | Creator/s: memetrap
 2695739693 | Name: Ing | Creator/s: RambJoe (Ported by sirlolnoob)
 12546657830 | Name: Catalog | Creator/s: iiGKVx
-6104593622 | Name: penguin simulator | Creator/s: 4eremy
+565573718 - surf_antarctica from 2016 is now viable because you can't clip through walls
+
+
+rejected:
+6104593622 | Name: penguin simulator | Creator/s: 4eremy - voted out 6:1
 
 controversial:
 11017114463
