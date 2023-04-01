@@ -1,3 +1,6 @@
+uncategorized:
+5272229281 (MAP FIX!) (not sure what was fixed)
+
 upload but don't add to game:
 
 uploaded, wipe:
@@ -17,6 +20,7 @@ submitted fixes (no wipe):
 12947589185 - Oh (the one with the funny characters that i dont know how to get) - bonus zone and ramp spines (fix made by Duckadvice)
 12947656819 - Skewed - the bonus is actually possible for new physics now cuz of a stupid fat wall (fix made by Duckadvice)
 12947826957 - Condemned - last stage ramp fix (fix made by Duckadvice)
+12945558885 - gg no re - Removed spawnlocation object leading to annoying forcefields
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
@@ -31,6 +35,7 @@ tested, pending upload & add map data:
 
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
+5339155981 | Name: Sandy Sunset | Creator/s: Duckadvice - fixed ramps and changed the map a little
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
@@ -39,5 +44,3 @@ rejected fixes, additional fix notes:
 621876510 - Space Jam - idk - there is already a great fix published
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
 459306841 - Winterland - ramp fix - needs more fixes, still bumpy ramps
-
-unsorted fixes:
