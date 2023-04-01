@@ -271,9 +271,9 @@ new physics bug (mapfix):
 5692135173 - Chimera - start kills simulation
 5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
 5692133764 - City Fun - fix start, maybe gameplay fixes
-5692098704 - Clarion - alternate reality part crashes the phyics
+5692098704 - Clarion - alternate reality part crashes the physics
 5692102646 - Compact - can't leave spawn
-5692146451 - Concrete - PLEASE FIX THE FLOORS,don't allow touching startzone from the top
+5692146451 - Concrete - PLEASE FIX THE FLOORS, don't allow touching startzone from the top
 5693295211 - Danmark - fix teleports
 5692165021 - Dawn2 - head gets hit
 5692141003 - Deletive - impossible jump
@@ -286,7 +286,7 @@ new physics bug (mapfix):
 5692104185 - Flandre II - simulation broken
 5692152419 - Fus - simulation broken
 5692134367 - Gravity - hitbox harder
-5692152129 - Haarukka - The map is 83000 studs in the sky, bove it much closer to 0,0,0
+5692152129 - Haarukka - The map is 83000 studs in the sky, move it much closer to 0,0,0
 5692151238 - High segdaB - simulation broken apparently
 5692151345 - Horizon - hitbox harder/impossible throughout the map
 5692159828 - Icire - move to origin, align ramps
