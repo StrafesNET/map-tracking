@@ -15,14 +15,6 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
-10070273896 - Alone - Fixed a surf at start that was supposed to be a trigger.
-11117954548 - Danger Noodle - remake with a bonus
-10056176330 - Futurebound - Fixed trigger skips and out of bound skips.
-11117961828 - Happy Gummy Bear - remake
-12199296971 - I DROPPED MY HECKIN POP-TARTS!! - Fixed trigger skips with the use of SetSpawn#
-10050237989 - Phobic - Trigger Skip in beginning is no longer possible.
-10056917344 - Planets - Fixed 2 trigger skips
-11117968222 - Way Back When - remake
 
 tested, pending upload & wipe:
 

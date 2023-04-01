@@ -4,8 +4,6 @@ uncategorized:
 upload but don't add to game:
 
 uploaded, wipe:
-10077886389 - Submerged - Fixed gap in wall used in route. - Was the gap intentional?
-12200450586 - TrueCetric - fixed Trigger2 parts letting you phase through them due to no Spawn2
 
 tested, pending upload & wipe:
 
