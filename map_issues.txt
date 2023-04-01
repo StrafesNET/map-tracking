@@ -208,11 +208,11 @@ too short:
 5692099134 - reddish - 7s
 
 bumpy ramps:
-5692164341 - 123
-5692169862 - Abseil - specifically one ramp needs the middle part to be the same size as the wedges
+5692164341 - 123 - the flat ramps are bumpy
+5692169862 - Abseil - bumpy ramps, specifically one ramp needs the middle part to be the same size as the wedges
 8659318774 - Accident 2 - candy corn stage
 5692174829 - Achromatic - generic bumpy ramps, playtest to fix
-5692163859 - Aether
+5692163859 - Aether - antitele traps you
 5692111949 - Alcoa
 5692158158 - Baleful
 5692099623 - Caving In
