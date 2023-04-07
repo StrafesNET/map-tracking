@@ -43,9 +43,47 @@ surf main:
 5692128703 - Underworld - far from origin
 
 release schedule bhop:
-CENSORED 11222370043 - Hello
+13026152945 - Ambience
+13026028531 - Bright
+13026154815 - Bubblegum
+13026157761 - Dom
+13026031742 - Dumb Blocks 5
+13026161384 - Emblem 6
+13026164274 - Fatberg
+8658933649 - FPS MAX SR
+13026169212 - Grasspain
+13026050070 - Harmony
+11222370043 - Hello
+13026181693 - Hidden Place
+13026201595 - Persp
+13026248810 - Potato3
+13026061912 - Ravishing Ravine
+13026149520 - Spike Valley
 
 release schedule surf:
+13026258592 - 4 AM
+13026263851 - Airspace
+13026298764 - Amir
+13026301124 - Antarctica
+13026304530 - Asylum
+13026267305 - Autumn
+13026307623 - Catalog
+13026310423 - Extirpate
+13026313763 - Ing
+13026323652 - Lab
+13026270460 - Leek (spin)
+13026321435 - Mini
+13026334170 - Metaophorite
+13026337889 - Mom
+5692169964 - Nikolo
+13026276014 - PEKO
+13026340552 - Roosevelt
+5692133329 - Schemes - vote on whether the map should get in
+5692157806 - Sinsane - needs bonus start and finish
+5692153562 - Six Luminaries
+13026344315 - Slope
+5692182099 - Tumb
+5692145262 - Tunneler Blues
 
 hub fixes:
 
@@ -57,15 +95,6 @@ submitted hub fixes:
 
 backlog:
 FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog for more votes
-
-verified:
-8658933649 - FPS MAX SR
-5692169964 - Nikolo
-5692133329 - Schemes - vote on whether the map should get in
-5692157806 - Sinsane - needs bonus start and finish
-5692153562 - Six Luminaries
-5692182099 - Tumb
-5692145262 - Tunneler Blues
 
 verify possible:
 

@@ -4,22 +4,6 @@ bhop (last map timestamped 1665281503)
 11217635506 - not named correctly
 
 accepted:
-8646184178 - Spelaeum - it's little dark but whatever
-11479539460 - bhop_ambience - short but sure
-9158206096 | Name: Spike Valley | Creator/s: TinyPC, 3nrk
-11690669766 | Name: Harmony | Creator/s: 3nrk
-11637734463 | Name: Hidden Place | Creator/s: Dolph1nLaugh
-4109799486 | Name: Grasspain | Creator/s: TheCrookedSide
-11825697080 | Name: potato3 | Creator/s: Blitzkarn
-10532128449 | Name: bubblegum | Creator/s: HalalHopper
-10298870923 | Name: Hello | Creator/s: 3nrk
-11108550860 | Name: Emblem 6 | Creator/s: zz9c (lag fix by creepycolton44 and fiveman1)
-9003681461 | Name: bhop_persp | Creator/s: vncr
-11239166116 | Name: Hilberts Plane | Creator/s: 3nrk
-8785273878 | Name: Ravishing Ravine | Creator/s: Aurawrara
-11239029173 | Name: Dom | Creator/s: 6civilians
-12786321902 | Name: Bright | Creator/s: ByC0dE
-8668539916 | Name: bhop in sewers | Creator/s: TinyPC
 
 not in inventory:
 
@@ -29,11 +13,13 @@ not in inventory:
 accepted but needs fix:
 5819102585 | Name: Dumb Blocks 5 | Creator/s: 3nrk - need original map maker's blessing
 6661642203 - oopsie, make zones shorter
+11239166116 | Name: Hilberts Plane | Creator/s: 3nrk - I changed my mind, this is dumb
 410109246 | Name: RPG | Creator/s: HiTrustMe123, MooManChicken - rework for new hitbox
 8693828910 | Name: Tight | Creator/s: vncr - fix triggers
 
 rejected:
 10955884989
+8646184178 - Spelaeum - it's little dark but whatever - L + too dark + OOB + block spam + cringe WR route
 11167147137 - start of the map is nice but not the rest.  cancollide false the tree meshes
 9145104232 - 5x5 - it's grey
 12502151911 it should REALLY be polished, but accepted. | Name: wowies | Creator/s: voxaim - rejected 6:1

@@ -3,7 +3,7 @@ uncategorized:
 11117959400 - Leaf Beach - remake
 11419832052 - Bluebeat v2 - fixed stages that played bad
 11416396856 - Yonkoma - Moved start to SJ's start zone (after climb room), fixed/updated some stages
-10573377465 | Name: Nedone | Creator/s: fodback - is this a map fix?
+10573377465 (in scriptfinder_mapsa1 on windows) | Name: Nedone | Creator/s: fodback - is this a map fix?
 3889303022 (not sure what was fixed) | bhop-fus
 4012925324 (not sure what was fixed) | bhop-haarukka
 
