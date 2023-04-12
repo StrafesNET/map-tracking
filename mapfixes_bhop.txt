@@ -21,6 +21,9 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 11751012626 - Stone - Old routes are now possible in new physics
 12199296971 - I DROPPED MY HECKIN POP-TARTS!! - Fixed being able to stand on top of pop-tart boxes while in start zone and complete map by bhopping on top of the boxes. (Apparently the fix I used to submit the trigger skip fix did not have this? I am not sure as to what happened but oh well)
+12954323465 - Z - Re-port using import tool. Scaled up.
+12946892096 - Bloc - Re-port using import tool. Scaled up.
+2577283820 - Blue Shade - Re-port using import tool. Scaled up.
 
 tested, pending upload:
 
@@ -28,6 +31,7 @@ submitted fixes (no wipe):
 10060990749 - Synced V2 - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
 12945479548 - Bounce Pad - Removed spawnlocation object leading to annoying forcefields
 12945532940 - Golf Yourself - Removed spawnlocation object leading to annoying forcefields
+4893204258 - Green Shade - Added BonusStart and BonusFinish
 
 add map data:
 10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
