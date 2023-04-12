@@ -6,7 +6,6 @@ bhop main:
 5692132697 - Drain 2 - Bonus: 5692113088 - Drain
 5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
 11222365475 - Frenzy - check lighting scripts, it's too dark but the submitted map was fine
-5692139271 - Green Shade - put bonusstart
 5692106168 - Larena - maybe align the green ramp better at the top, maybe increase the height of the doorway teleports
 6115146211 - Pohb not idiot - change name
 5692157943 - Rising - Stage 2 & 4 triggers have multiple parts in the same place
