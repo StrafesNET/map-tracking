@@ -25,6 +25,7 @@ submitted fixes (wipe times):
 12946892096 - Bloc - Re-port using import tool. Scaled up.
 2577283820 - Blue Shade - Re-port using import tool. Scaled up.
 13106608019 - Zyper - Re-port using import plugin. Scaled up.
+13118097070 - Y - Re-port using import plugin. Scaled up.
 
 tested, pending upload:
 
