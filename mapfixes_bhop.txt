@@ -34,6 +34,7 @@ submitted fixes (no wipe):
 12945479548 - Bounce Pad - Removed spawnlocation object leading to annoying forcefields
 12945532940 - Golf Yourself - Removed spawnlocation object leading to annoying forcefields
 4893204258 - Green Shade - Added BonusStart and BonusFinish
+13124097700 - FrozenRuins - Move MapStart up so you stop spawning partially in the floor
 
 add map data:
 10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
