@@ -26,6 +26,7 @@ submitted fixes (wipe times):
 2577283820 - Blue Shade - Re-port using import tool. Scaled up.
 13106608019 - Zyper - Re-port using import plugin. Scaled up.
 13118097070 - Y - Re-port using import plugin. Scaled up.
+13160900471 - Colorize - Fix mis-named spawn skipping most of the map
 
 tested, pending upload:
 
