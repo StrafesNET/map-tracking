@@ -27,6 +27,7 @@ submitted fixes (wipe times):
 13106608019 - Zyper - Re-port using import plugin. Scaled up.
 13118097070 - Y - Re-port using import plugin. Scaled up.
 13160900471 - Colorize - Fix mis-named spawn skipping most of the map
+13199981229 - Cubelights - Fix exposed trigger leading to triggerskip
 
 tested, pending upload:
 
