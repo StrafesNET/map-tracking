@@ -17,6 +17,7 @@ bhop main:
 
 surf main:
 5732172079 - Banal - bumpy ramp
+5692102865 - Cryogen - the decoration is cancollide on the ramp out of the fence part
 5692124282 - Dizzy - spines are bad, make sure they get the spine fix
 5692164052 - Eden - Move stages closer together to let the spine fix activate
 5692165267 - Karakai Jozu no Takagi-san - make bonus work
