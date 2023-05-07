@@ -312,7 +312,6 @@ new physics bug (mapfix):
 5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
-5692140155 - X - fix OOB
 5692107763 - Xerox - impossible vent
 5692093974 - Zor - last ramp spine
 
