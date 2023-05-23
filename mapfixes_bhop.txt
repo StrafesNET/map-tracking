@@ -35,7 +35,6 @@ submitted fixes (no wipe):
 12945532940 - Golf Yourself (COPYLOCKED) - Removed spawnlocation object leading to annoying forcefields
 
 add map data:
-10049651200 - Tech - Fixed every possible skip in tech.
 4012925324 fixes the spawn | bhop-haarukka
 8406738060 - ötökkä
 13368697622 - X - fixed start zone outline being CanCollide=true + OOB Fix

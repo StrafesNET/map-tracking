@@ -16,12 +16,6 @@ submitted fixes (no wipe):
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
-12116717615 - Got The Blues - Fixed bhopsurf, lighting, broken spawn, and bonusstart/finish
-11234923029 - Mane Six - anti tele traps player
-11224975215 - Slime Map Pile - added SetVel
-11226695678 - Trikz Cloud - added SetVel
-11760638857 - Water Park - Hitbox was too big to fit through a hole
-12459832109 - Tube Tactics - fixed bumpy ramps and made hole bigger
 5272229281 - Luminous - bumpy ramps
 5339155981 | Name: Sandy Sunset | Creator/s: Duckadvice - fixed ramps and changed the map a little
 
