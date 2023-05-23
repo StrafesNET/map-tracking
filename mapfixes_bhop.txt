@@ -28,6 +28,7 @@ submitted fixes (wipe times):
 13118097070 - Y - Re-port using import plugin. Scaled up.
 13160900471 - Colorize - Fix mis-named spawn skipping most of the map
 13199981229 - Cubelights - Fix exposed trigger leading to triggerskip
+11479539460 - Ambience - startzone no longer extends above the walls, terrain no longer has collision
 
 tested, pending upload:
 
