@@ -40,7 +40,7 @@ submitted fixes (no wipe):
 13124097700 - FrozenRuins - Move MapStart up so you stop spawning partially in the floor
 
 add map data:
-10049651200 - Tech (COMPETING FIX IN HUB)- Fixed every possible skip in tech.
+10049651200 - Tech - Fixed every possible skip in tech.
 13368697622 - X - fixed start zone outline being CanCollide=true + OOB Fix
 
 tested, pending upload & add map data:
