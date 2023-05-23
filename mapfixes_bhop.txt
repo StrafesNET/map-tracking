@@ -13,12 +13,12 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
-
-tested, pending upload & wipe:
 12199296971 - I DROPPED MY HECKIN POP-TARTS!! - Fixed being able to stand on top of pop-tart boxes while in start zone and complete map by bhopping on top of the boxes. (Apparently the fix I used to submit the trigger skip fix did not have this? I am not sure as to what happened but oh well)
 13160900471 - Colorize - Fix mis-named spawn skipping most of the map
 13199981229 - Cubelights - Fix exposed trigger leading to triggerskip
 11479539460 - Ambience - startzone no longer extends above the walls, terrain no longer has collision
+
+tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 11751012626 - Stone - Old routes are now possible in new physics
@@ -29,9 +29,6 @@ submitted fixes (wipe times):
 13118097070 - Y - Re-port using import plugin. Scaled up.
 
 tested, pending upload:
-12945479548 - Bounce Pad - Removed spawnlocation object leading to annoying forcefields
-4893204258 - Green Shade - Added BonusStart and BonusFinish
-13124097700 - FrozenRuins - Move MapStart up so you stop spawning partially in the floor
 
 submitted fixes (no wipe):
 10060990749 - Synced V2 (COPYLOCKED) - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
@@ -39,11 +36,11 @@ submitted fixes (no wipe):
 
 add map data:
 10049651200 - Tech - Fixed every possible skip in tech.
-
-tested, pending upload & add map data:
 4012925324 fixes the spawn | bhop-haarukka
 8406738060 - ötökkä
 13368697622 - X - fixed start zone outline being CanCollide=true + OOB Fix
+
+tested, pending upload & add map data:
 
 submitted fixes need add map data:
 
