@@ -23,6 +23,7 @@ surf main:
 5692165267 - Karakai Jozu no Takagi-san - make bonus work
 5692157375 - Kitsune
 5692169147 - Lezgo - "spines are super bad"
+6111026986 - Luminous - bumpy ramps
 5692153297 - Mellow - last few spines could be fixed
 5692138452 - Newt - spines
 5692171042 - Orange - ramps can randomly reset
@@ -227,7 +228,6 @@ HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 5692146367 - Ineffable
 5692158834 - Intercosmic
 5692164006 - Luck2 - fix all spines
-6111026986 - Luminous
 5692163103 - Magenta
 5692113509 - Memorial
 5692151451 - Memorial 2
@@ -237,7 +237,6 @@ HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 5692094206 - Obsidium
 5692133386 - Reflectoria
 5692175668 - Reskea
-6111033250 - Sandy Sunset
 5692170278 - Strafe Race - unfixable without physics changes?
 5692122639 - Striped
 5692118492 - Telehop - bad spines
@@ -278,7 +277,6 @@ new physics bug (mapfix):
 5692104185 - Flandre II - needs spine fixes, some ramps hitboxes are wrong somehow on blue and green stages, and move closer to 0,0,0
 5692152419 - Fus - move stages closer together and closer to 0,0,0
 5692134367 - Gravity - hitbox harder
-5692152129 - Haarukka - The map is 83000 studs in the sky, move it much closer to 0,0,0
 5692151238 - High segdaB - simulation broken apparently
 5692151345 - Horizon - hitbox harder/impossible throughout the map
 5692159828 - Icire - move to origin, align ramps
@@ -343,6 +341,3 @@ multitouch:
 HUB FIXED - 5692169375 - Halloween - start zone multitouch, spines
 5692104445 - Zany - 10s - sliding in start
 5692145827 - bhop_white_on_blue - sliding in start
-
-new physics bug (my fault):
-8777477389 - Ötökkä - nan model cframe

@@ -130,6 +130,7 @@
 5692093937 - Lezgo II
 5692128389 - Luck
 5692132999 - Lumber
+6111026986 - Luminous
 5692093913 - Mail Yourself In a Box
 5692117855 - Mane Six
 5692118222 - Marbleous
@@ -196,6 +197,7 @@
 6111030078 - Rose
 5692180837 - Ruins
 5692122527 - Ruins II
+6111033250 - Sandy Sunset
 5692133329 - Schemes
 11222436684 - Secton
 5692175287 - Shadow Temple
