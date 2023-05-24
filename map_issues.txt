@@ -292,6 +292,7 @@ new physics bug (mapfix):
 5692093067 - MooManChicken - fix lighting
 5692159131 - No - impossible: wormhole resets you to start
 5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
+8777477389 - Ötökkä - trigger is inside of spawn making an infinite loop
 5692135126 - Reprise Hard - spine next to trigger can get hit
 5692107810 - Resilience - impossible: hitbox harder - moving decoration
 5692157460 - Rigorous - impossible, gap too small fix all gaps
