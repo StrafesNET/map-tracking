@@ -1,13 +1,17 @@
 
 bhop (last map timestamped 1665281503)
-10447209197 - did not load
-11217635506 - not named correctly
-13026674785 - Soaatana
-https://www.roblox.com/library/1053789937/bhop-ametisti
-https://www.roblox.com/library/1047259193/top
-https://www.roblox.com/library/1046910594/BlackRockShooter
+10447209197 - "Example map" unanchored
+1047259193/top - copylocked
+1046910594/BlackRockShooter - copylocked
 
 accepted:
+13026674785 - Soaatana - spawn at the end is upside down or something
+12807728300
+12910636592
+12806057369
+13346419103 - anti tele is weird for a bhop map, ask the map maker (xXlzeX) if they really want it like that
+12687188945 - short but pass
+13137168838 - visual indication of what you can and can't jump on could be better but that will not be a problem for the people who can actually beat the map to learn
 
 not in inventory:
 
@@ -28,6 +32,9 @@ rejected:
 9145104232 - 5x5 - it's grey
 12502151911 it should REALLY be polished, but accepted. | Name: wowies | Creator/s: voxaim - rejected 6:1
 12501941146 | Name: Lunar Lake | Creator/s: RecBtw - rejected 3:2 + very short
+
+changes requested:
+1053789937/bhop-ametisti - spawn loop thing and where do you go? jump too far. unfinished?
 
 too short:
 10787961943 - 8s
