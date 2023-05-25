@@ -5,13 +5,6 @@ bhop (last map timestamped 1665281503)
 1046910594/BlackRockShooter - copylocked
 
 accepted:
-13026674785 - Soaatana - spawn at the end is upside down or something
-12807728300
-12910636592
-12806057369
-13346419103 - anti tele is weird for a bhop map, ask the map maker (xXlzeX) if they really want it like that
-12687188945 - short but pass
-13137168838 - visual indication of what you can and can't jump on could be better but that will not be a problem for the people who can actually beat the map to learn
 
 not in inventory:
 

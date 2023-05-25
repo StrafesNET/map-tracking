@@ -26,6 +26,7 @@
 5692180145 - Ascendant
 5692182285 - Atom
 5692186870 - Attack of the Big Fat Meanies
+13548495100 - Aura
 5692146675 - AutoBadges
 5692152798 - Autumn
 5692104532 - Autumnland
@@ -85,6 +86,7 @@
 5692106288 - Colossus
 5692170949 - Compact
 5692157639 - Construction
+13548510720 - Contrast
 5692181331 - Cotton Candy
 5692128491 - Cpm
 5692140960 - Crypt
@@ -147,6 +149,7 @@
 5692123338 - FrozenRuins
 11492688731 - Fur
 5692145082 - Futurebound
+13548513664 - Glacial
 5692153515 - Go
 5692146490 - Golf Yourself
 5692152568 - Gotta Go Fast
@@ -282,6 +285,7 @@
 5692174946 - Reach
 5692093489 - Read
 6115153158 - Reborn
+13548491622 - Reddish
 5692107419 - Reflexes
 5692098790 - Reversal
 5692144418 - Reverse
@@ -296,6 +300,7 @@
 5692168974 - Saimaa
 5692094164 - Salmon
 5692123369 - Salmon On Mars
+13548504907 - Sandstorm
 5692099377 - Sandy
 5692099246 - Sard
 5692186508 - Screech
@@ -313,7 +318,9 @@
 5693293891 - Slope
 5692093352 - Snow
 8658890105 - Snowy Heights
+13548498924 - Soaatana
 5692180466 - Solitude
+13548518800 - Sonoran
 8658983961 - Soulscape
 5692138501 - Space Core
 5692138645 - Spearmint
