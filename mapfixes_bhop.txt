@@ -34,6 +34,7 @@ tested, pending upload:
 submitted fixes (no wipe):
 10060990749 - Synced V2 (COPYLOCKED) - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
 12945532940 - Golf Yourself - Removed spawnlocation object leading to annoying forcefields
+13553729461 - Lavender - Fixes the lighting for future lighting (The lights were on about 10k brightness). Note that the core physics bug behind the map not working still exists (See PR for more detail)
 
 add map data:
 
