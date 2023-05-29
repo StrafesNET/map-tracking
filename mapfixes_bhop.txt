@@ -17,6 +17,7 @@ uploaded, wipe:
 13160900471 - Colorize - Fix mis-named spawn skipping most of the map
 13199981229 - Cubelights - Fix exposed trigger leading to triggerskip
 11479539460 - Ambience - startzone no longer extends above the walls, terrain no longer has collision
+12687188945 - Reddish - misplaced invisible wall fixed, wall wedge at the end is now collidable
 
 tested, pending upload & wipe:
 
