@@ -30,6 +30,7 @@ submitted fixes (wipe times):
 13118097070 - Y - Re-port using import plugin. Scaled up.
 13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip
 13711433065 - Persepillu - Fix spawn names to prevent TP-to-end skip
+13711507548 - Terral - Fixes one skip and two failed skip preventions
 
 tested, pending upload:
 
