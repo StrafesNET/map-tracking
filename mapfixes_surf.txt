@@ -10,13 +10,14 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 7813943245 - 4 AM - added roof and fixed Bonus1 booster. No anti resurfs. Faste times need to be wiped
+4899023713 - surf_Airspace (added extra walls around each stage, starting playforms renamed to "Jump3"
 
 tested, pending upload:
 
 submitted fixes (no wipe):
 12615410485 - surf_pain (updated ID) bonus 4 endzone fix.
 12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
-4899023713 - surf_Airspace (added extra walls around each stage, starting playforms renamed to "Jump3"
+
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
