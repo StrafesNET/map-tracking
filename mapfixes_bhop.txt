@@ -39,6 +39,7 @@ submitted fixes (no wipe):
 12945532940 - Golf Yourself - Removed spawnlocation object leading to annoying forcefields
 13553729461 - Lavender - Fixes the lighting for future lighting (The lights were on about 10k brightness). Note that the core physics bug behind the map not working still exists (See PR for more detail)
 13737735520 - Way Back When - Fixes a mis-named spawn leading to the equivilant of a trigger skip. Doesn't need wiping as it's currently unknown and unused
+13818144033 - Alvo 2 - Stopped the surf on the last stage clipping into itself
 
 add map data:
 
