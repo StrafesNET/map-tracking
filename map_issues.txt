@@ -55,6 +55,9 @@ need testing surf:
 
 submitted hub fixes:
 
+I know these maps exist and I want them:
+bhop_thc_gold
+
 backlog:
 FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog for more votes
 
