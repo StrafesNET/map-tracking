@@ -24,6 +24,7 @@ not in inventory:
 10908602837
 10908669666
 11183538845
+13851697452 (the map was initially rejected due to the use of another map makers logo, the creator has since removed the logo and the map was accepted)
 
 misnamed model:
 11168457674
