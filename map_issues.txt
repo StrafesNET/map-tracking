@@ -13,6 +13,7 @@ bhop main:
 6115159232 - Sqee - Bonus: 5692093322 - Sqee (Short)
 6115161141 - Terral - moving platforms decoration
 5692152916 - Toc - Make bonus zones at end
+5692146580 - Way Back When - Trigger skip if you fall at the start of the 3 tall platforms that cross over the path below
 
 surf main:
 5732172079 - Banal - bumpy ramp
