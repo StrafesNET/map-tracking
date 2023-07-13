@@ -31,6 +31,7 @@ submitted fixes (wipe times):
 13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip
 13711433065 - Persepillu - Fix spawn names to prevent TP-to-end skip
 13711507548 - Terral - Fixes one skip and two failed skip preventions
+14046381764 - Guffaw - Fix triggerskip
 
 tested, pending upload:
 
