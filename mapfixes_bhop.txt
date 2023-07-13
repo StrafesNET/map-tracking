@@ -18,6 +18,7 @@ uploaded, wipe:
 13199981229 - Cubelights - Fix exposed trigger leading to triggerskip
 11479539460 - Ambience - startzone no longer extends above the walls, terrain no longer has collision
 12687188945 - Reddish - misplaced invisible wall fixed, wall wedge at the end is now collidable (do not wipe bonus times)
+14046381764 - Guffaw - Fix triggerskip
 
 tested, pending upload & wipe:
 
