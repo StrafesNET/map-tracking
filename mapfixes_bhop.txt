@@ -44,6 +44,7 @@ submitted fixes (no wipe):
 13851818252 - Koi - Fixed the broken ladder (A lot of green appears to be slightly rotated by like .002 degrees, which doesn't really matter, except for on the ladder, where the physics is awful)
 13851883406 - Drewfc was being uncool - Fixed the incredibly awkward headhitting on stage 34
 13852057384 - Arcane V2 - Raised the roof at stage 61 to avoid awkward headhitting and fixed weird offset flooring in stage 63 (nothing incredibly important)
+14080638596 - Eazy V2 - raised the roof in the headhit stage in Orange to avoid awkward headhitting, raised the doorframe of the stage teleports to remove headhits, raised clipping in red windows to remove headhits
 
 add map data:
 
