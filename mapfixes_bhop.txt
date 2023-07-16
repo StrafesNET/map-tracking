@@ -45,6 +45,8 @@ submitted fixes (no wipe):
 13851883406 - Drewfc was being uncool - Fixed the incredibly awkward headhitting on stage 34
 13852057384 - Arcane V2 - Raised the roof at stage 61 to avoid awkward headhitting and fixed weird offset flooring in stage 63 (nothing incredibly important)
 14080638596 - Eazy V2 - raised the roof in the headhit stage in Orange to avoid awkward headhitting, raised the doorframe of the stage teleports to remove headhits, raised clipping in red windows to remove headhits
+14089713449 - Drain 2 - Added bhop_drain as a bonus and added a teleport at the end of the tunnel to the right
+14089971035 - City Run V2 - Added bhop_city_run as a bonus
 
 add map data:
 
