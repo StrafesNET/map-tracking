@@ -32,6 +32,7 @@ submitted fixes (wipe times):
 13711433065 - Persepillu - Fix spawn names to prevent TP-to-end skip
 13711507548 - Terral - Fixes one skip and two failed skip preventions
 14046381764 - Guffaw - Fix triggerskip
+14080879271 - bhop_Sonoran - Extended walls and added ceilings to prevent map breaking skips, disabled cancollide on some decorations.
 
 tested, pending upload:
 
