@@ -20,6 +20,10 @@ submitted fixes (no wipe):
 11370680700 - surf_asylum - fixed a hole in some deco allowing player to go out of bounds
 
 add map data:
+14171888879 - Saisei - rampfixes, fixed weird wormhole, & zoned bonus
+14171896414 - Feels Like Home - spine fix, removed day/night cycle, zoned bonus
+14171892966 - Fifty Percent More Pineapple - rampfixes & made skips easier for hitbox
+14171870329 - Seventy-Two Percent more Pineapple - adjusted for hitbox & lighting fix
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 14149606817 - Rookie - Fixed Stage 7 telehop from sometimes letting you preserve speed through, Nerfed Stage 15 (raised wall at end so you can slip under by 2 studs), Stage 17 (Raised beginning walls by 2 studs), and Stage 19 (Raised a few walls to make the second surf flow better by 2 studs)
 
