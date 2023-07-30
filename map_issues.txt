@@ -12,7 +12,8 @@ bhop main:
 5692105876 - Senpai - Lighting is very dark
 6115159232 - Sqee - Bonus: 5692093322 - Sqee (Short)
 6115161141 - Terral - moving platforms decoration
-5692152916 - Toc - Make bonus zones at end
+5692152916 - Toc - Stage 15 teleport pit leads to a spawn touching a trigger. Make bonus zones at end
+5692146580 - Way Back When - Trigger skip if you fall at the start of the 3 tall platforms that cross over the path below
 
 surf main:
 5732172079 - Banal - bumpy ramp
@@ -54,6 +55,9 @@ need testing bhop:
 need testing surf:
 
 submitted hub fixes:
+
+I know these maps exist and I want them:
+bhop_thc_gold
 
 backlog:
 FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog for more votes

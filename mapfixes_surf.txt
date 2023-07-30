@@ -9,7 +9,7 @@ uploaded, wipe:
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
-7813943245 - 4 AM - added roof and fixed Bonus1 booster. No anti resurfs. Faste times need to be wiped
+7789455753 - 4 AM - Added roof and fixed Bonus1 booster. Added anti resurfs. Faste times need to be wiped
 4899023713 - surf_Airspace (added extra walls around each stage, starting playforms renamed to "Jump3"
 
 tested, pending upload:
@@ -17,10 +17,15 @@ tested, pending upload:
 submitted fixes (no wipe):
 12615410485 - surf_pain (updated ID) bonus 4 endzone fix.
 12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
-
+11370680700 - surf_asylum - fixed a hole in some deco allowing player to go out of bounds
 
 add map data:
+14171888879 - Saisei - rampfixes, fixed weird wormhole, & zoned bonus
+14171896414 - Feels Like Home - spine fix, removed day/night cycle, zoned bonus
+14171892966 - Fifty Percent More Pineapple - rampfixes & made skips easier for hitbox
+14171870329 - Seventy-Two Percent more Pineapple - adjusted for hitbox & lighting fix
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
+14149606817 - Rookie - Fixed Stage 7 telehop from sometimes letting you preserve speed through, Nerfed Stage 15 (raised wall at end so you can slip under by 2 studs), Stage 17 (Raised beginning walls by 2 studs), and Stage 19 (Raised a few walls to make the second surf flow better by 2 studs)
 
 tested, pending upload & add map data:
 
