@@ -50,6 +50,7 @@ submitted fixes (no wipe):
 14089713449 - Drain 2 - Added bhop_drain as a bonus and added a teleport at the end of the tunnel to the right
 14089971035 - City Run V2 - Added bhop_city_run as a bonus
 14180994762 - Surfhop - Disable playdoh collision (Top 3 auto and ao wr will need deleting, everything else is fine)
+14217007998 - Yunch - Fix mis-named spawn at very end leading to chance trigger skip. No wipe as the skip is unused as far as I'm concerned
 
 add map data:
 
