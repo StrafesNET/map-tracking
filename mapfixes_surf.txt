@@ -18,6 +18,7 @@ submitted fixes (no wipe):
 12615410485 - surf_pain (updated ID) bonus 4 endzone fix.
 12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
 11370680700 - surf_asylum - fixed a hole in some deco allowing player to go out of bounds
+14259315210 - Wuts Dis? - Stage 7: Fixed the top of a surf clipping into a trigger
 
 add map data:
 14171888879 - Saisei - rampfixes, fixed weird wormhole, & zoned bonus
