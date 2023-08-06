@@ -15,6 +15,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+1411886824 - Schemes - zoned bonuses and fixed lighting
 12615410485 - surf_pain (updated ID) bonus 4 endzone fix.
 12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
 11370680700 - surf_asylum - fixed a hole in some deco allowing player to go out of bounds
@@ -30,7 +31,16 @@ add map data:
 tested, pending upload & add map data:
 
 submitted fixes need add map data:
+2637387680 - Accident 2 - fixed halloween stage
+14171899295 - Chimera - rampfixes & moved to 0,0,0
+14214684256 - Disparity - rampfix & adjusted s8 for new hitbox
+1480923317 - Frantic Lemon - ramp
+1871358186 - Lines - revamped map
+14214740439 - Memorial - rampfix, better lighting & textures, new skybox
+14214748972 - Memorial 2 - rampfix, better lighting, new skybox & bonus is possible
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
+14214761267 - Telehop - ramp
+14214776956 - Yes - spine fix, bonus and better lighting
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
