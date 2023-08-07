@@ -6,7 +6,6 @@ frontlog:
 10532128449 - copylocked
 12373332845 - go through parts - bonus is broken: missing spawns
 12133157692 | Name: Munze | Creator/s: JorusRetorak, PracticalYogi - "gameplay is awkward at the end, some ramps need spine fix" also bonus doesn't work
-4780758487 - august aor new map
 13801537086 - august aor new map
 12062216772 - august aor new map
 2637351352 - august aor new map
