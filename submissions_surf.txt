@@ -2,10 +2,14 @@ backlog:
 11205614737 - Proximute unfinished
 
 frontlog:
+11231681016 - Swim (this map was supposed to be added last aor but the id was messed up because of me (hjman), I'm putting at the top for that reason.)
 10532128449 - copylocked
 12373332845 - go through parts - bonus is broken: missing spawns
 12133157692 | Name: Munze | Creator/s: JorusRetorak, PracticalYogi - "gameplay is awkward at the end, some ramps need spine fix" also bonus doesn't work
-11231681016 - Swim
+13801537086 - august aor new map
+12062216772 - august aor new map
+2637351352 - august aor new map
+14342734258 - august aor new map
 
 accepted:
 
