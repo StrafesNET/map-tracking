@@ -4,6 +4,11 @@ bhop (last map timestamped 1665281503)
 1047259193/top - copylocked
 1046910594/BlackRockShooter - copylocked
 
+frontlog:
+13594743132 - august aor new map
+13950126887 - august aor new map
+14217648630 - august aor new map
+
 accepted:
 
 not in inventory:
