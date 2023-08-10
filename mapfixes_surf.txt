@@ -42,6 +42,11 @@ submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 14214761267 - Telehop - ramp
 14214776956 - Yes - spine fix, bonus and better lighting
+5272229281 - Luminous - made possible
+13634743943 - Ineffable 2 - made possible
+13605711173 - Ineffable - made possible
+14122828826 - Sandstorm Supergiant - made possible
+12459832109 - Tube Tactics - was in surf before new physics, map is now possible
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
