@@ -258,7 +258,6 @@ new physics bug (mapfix):
 5692118014 - Frantic Lemon - cringe first surf
 5692181503 - 15 Minutes - OOB
 5692108009 - 456 - spin is impossible
-5692158334 - Around The Round - what is going on at the start
 5692128954 - Azurite - fix start & make window wider by 2.2
 5692169729 - Borderlands - some spines need to be fixed, far from 0,0,0, skybox is wrong lighting doesn't load
 5692135173 - Chimera - some spines need to be fixed, far from 0,0,0
@@ -279,7 +278,6 @@ new physics bug (mapfix):
 5692104185 - Flandre II - needs spine fixes, some ramps hitboxes are wrong somehow on blue and green stages, and move closer to 0,0,0
 5692152419 - Fus - move stages closer together and closer to 0,0,0
 5692134367 - Gravity - hitbox harder
-5692151238 - High segdaB - simulation broken apparently
 5692151345 - Horizon - hitbox harder/impossible throughout the map
 5692159828 - Icire - move to origin, align ramps
 5692099285 - Impulse - no map issues, just everyone thinks the whole port should be redone
@@ -294,7 +292,7 @@ new physics bug (mapfix):
 5692093067 - MooManChicken - fix lighting
 5692159131 - No - impossible: wormhole resets you to start
 5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
-8777477389 - Ötökkä - trigger is inside of spawn making an infinite loop
+8777477389 - Ötökkä - trigger is inside of spawn making an infinite loop, model is at insane position values
 5692135126 - Reprise Hard - spine next to trigger can get hit
 5692107810 - Resilience - impossible: hitbox harder - moving decoration
 5692157460 - Rigorous - impossible, gap too small fix all gaps
