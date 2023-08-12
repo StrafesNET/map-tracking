@@ -246,7 +246,6 @@ HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 5692133047 - Tube Tactics
 5692158471 - Ultra
 5692144023 - Victor - spines
-5692128997 - Vivid - spines
 6111035047 - Vivid Hard - spines
 5692159699 - WaP II
 5692128271 - Winter is Coming
