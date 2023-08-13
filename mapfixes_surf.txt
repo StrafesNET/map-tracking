@@ -47,6 +47,8 @@ submitted fixes need add map data:
 13605711173 - Ineffable - made possible
 14122828826 - Sandstorm Supergiant - made possible
 12459832109 - Tube Tactics - was in surf before new physics, map is now possible
+14411411513 - Vivid - Fixed all the horrible spines and other weird behaviour, map now plays fine
+14412797326 - Vivid Hard - Fixed all the horrible spines and other weird behaviour, map now plays fine
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
