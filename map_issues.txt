@@ -2,8 +2,6 @@ bhop main:
 5692174791 - Adventure v2 - shortcut stage you can bump your head at the spawn
 5692152798 - Autumn - Convert from meshes to cylinders and spheres
 5692163580 - Bruh - end of the map is unnecessarily hard because of head hits
-5692186084 - City Run V2 Add v1 as bonus: 5692158614 - City Run
-5692132697 - Drain 2 - Bonus: 5692113088 - Drain
 5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
 11222365475 - Frenzy - check lighting scripts, it's too dark but the submitted map was fine
 5692106168 - Larena - maybe align the green ramp better at the top, maybe increase the height of the doorway teleports

@@ -52,6 +52,8 @@ submitted fixes (no wipe):
 14180994762 - Surfhop - Disable playdoh collision (Top 3 auto and ao wr will need deleting, everything else is fine)
 14217007998 - Yunch - Fix mis-named spawn at very end leading to chance trigger skip. No wipe as the skip is unused as far as I'm concerned
 14259263856 - Green Yellow Red Rtv - Avoid overlaying platforms and triggers causing triggers to be inconsistent. Not an important trigger so no wipe
+14422470662 - Kotodama - Fixed oob 
+14422612927 - Hidden place - Fixed oob + Added missing part
 
 add map data:
 
