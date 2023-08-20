@@ -261,10 +261,8 @@ new physics bug (mapfix):
 5692102646 - Compact - can't leave spawn
 5692146451 - Concrete - PLEASE FIX THE FLOORS, don't allow touching startzone from the top
 5693295211 - Danmark - fix teleports
-5692165021 - Dawn2 - head gets hit
 5692141003 - Deletive - impossible jump
 6111005316 - Desolate - ramps are weird and buggy, you phase through the second ramp
-5692092950 - Dev V1 - impossible jump 2nd stage
 5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
 5692103788 - Downfall - hitbox harder
 5732181194 - Ethereal - "under the void" issue
@@ -305,7 +303,6 @@ new physics bug (mapfix):
 5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
-5692107763 - Xerox - impossible vent
 5692093974 - Zor - last ramp spine
 
 ======== THE QUAT ZONE ========
