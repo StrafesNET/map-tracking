@@ -63,6 +63,9 @@ submitted fixes need add map data:
 13815854648 - Clarion - Map was removed from game. I removed the "alternate reality" part for now. There's probably a way to make it work on new phsyics but I don't care. Also updated lighting for Future lighting.
 14311128894 - Around The Round - Fixed bizarre ground-surfing behaviour on the spawn platform, map now works fine
 14311240482 - High segdaB - The physics bug as described in map_issues.txt does not appear to be happening anymore. Fixed impossible jump towards the end
+14512222872 - Dawn2 - Fixed impossible spot due to hitbox
+14512310428 - Dev V1 - Fixed impossible jumps
+14512630110 - Xerox - Fixed impossible vent at s 28
 
 rejected fixes, additional fix notes:
 11750977271 - Alley - End compatible with new physics + spawn fixed - There's a weird part in the middle of the start zone that you bump into
