@@ -11,7 +11,6 @@ bhop main:
 6115159232 - Sqee - Bonus: 5692093322 - Sqee (Short)
 6115161141 - Terral - moving platforms decoration
 5692152916 - Toc - Stage 15 teleport pit leads to a spawn touching a trigger. Make bonus zones at end
-5692146580 - Way Back When - Trigger skip if you fall at the start of the 3 tall platforms that cross over the path below
 
 surf main:
 5732172079 - Banal - bumpy ramp
@@ -30,7 +29,6 @@ surf main:
 5692158006 - Realm - moving decorations
 11222433611 - Regret - bad lighting
 5692157806 - Sinsane - needs bonus start and finish
-5692150156 - Skewed - fix the bonus
 5692185754 - Space - ramp reset bug, spawn multitouch bug, "sometimes you get stuck on ramps"
 5692118058 - The Crest Experience - ramps bumpy at the bottom
 5692133932 - Tom Cruise - The spawn area is bugged, and first ramps are buggy at top
