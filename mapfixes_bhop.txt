@@ -54,6 +54,7 @@ submitted fixes (no wipe):
 14259263856 - Green Yellow Red Rtv - Avoid overlaying platforms and triggers causing triggers to be inconsistent. Not an important trigger so no wipe
 14422470662 - Kotodama - Fixed oob 
 14422612927 - Hidden place - Fixed oob + Added missing part
+14517295281 - Toc - Removed duplicate Spawn16, zoned the bonus
 
 add map data:
 
