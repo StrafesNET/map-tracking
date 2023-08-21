@@ -10,7 +10,6 @@ bhop main:
 5692105876 - Senpai - Lighting is very dark
 6115159232 - Sqee - Bonus: 5692093322 - Sqee (Short)
 6115161141 - Terral - moving platforms decoration
-5692152916 - Toc - Stage 15 teleport pit leads to a spawn touching a trigger. Make bonus zones at end
 
 surf main:
 5732172079 - Banal - bumpy ramp
@@ -257,11 +256,7 @@ new physics bug (mapfix):
 5692135173 - Chimera - some spines need to be fixed, far from 0,0,0
 5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
 5692133764 - City Fun - fix start, maybe gameplay fixes
-5692098704 - Clarion - alternate reality part crashes the physics
 5692102646 - Compact - can't leave spawn
-5692146451 - Concrete - PLEASE FIX THE FLOORS, don't allow touching startzone from the top
-5693295211 - Danmark - fix teleports
-5692141003 - Deletive - impossible jump
 6111005316 - Desolate - ramps are weird and buggy, you phase through the second ramp
 5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
 5692103788 - Downfall - hitbox harder
@@ -270,7 +265,6 @@ new physics bug (mapfix):
 5692104185 - Flandre II - needs spine fixes, some ramps hitboxes are wrong somehow on blue and green stages, and move closer to 0,0,0
 5692152419 - Fus - move stages closer together and closer to 0,0,0
 5692134367 - Gravity - hitbox harder
-5692151345 - Horizon - hitbox harder/impossible throughout the map
 5692159828 - Icire - move to origin, align ramps
 5692099285 - Impulse - no map issues, just everyone thinks the whole port should be redone
 5692153618 - Ineffable 2 - broken bhop at end
@@ -296,11 +290,8 @@ new physics bug (mapfix):
 5693293179 - Seventy-Two Percent more Pineapple - hitbox harder
 5692134185 - Shade - hitbox harder, fix diamond hitbox
 5692170594 - Strawberry Avalanche - getting triggered at end
-5692122753 - Tide - remove the invisible path to the end
-5692145794 - Touch - head hit roof
 5692153444 - Trumpwall2020 - impossible
 5692176099 - Tumb 2 - very small holes, too hard with new hitbox
-5692111744 - Ultimate - fix skip at 9s
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
 5692093974 - Zor - last ramp spine
