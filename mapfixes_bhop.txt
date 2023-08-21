@@ -68,6 +68,7 @@ submitted fixes need add map data:
 14512630110 - Xerox - Fixed impossible vent at s 28
 14516654108 - Concrete - Ensure walking is sane, map already had invisible roof
 14516825239 - Deletive - Fixed impossible jumps, adjusted doorways, made some climbs have consistent height change
+14516879833 - Horizon - Fixed impossible sections
 
 rejected fixes, additional fix notes:
 11750977271 - Alley - End compatible with new physics + spawn fixed - There's a weird part in the middle of the start zone that you bump into
