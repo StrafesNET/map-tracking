@@ -296,6 +296,7 @@ new physics bug (surf):
 5692176099 - Tumb 2 - very small holes, too hard with new hitbox
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
+5692093974 - Zor - last ramp spine
 
 ======== THE QUAT ZONE ========
 
