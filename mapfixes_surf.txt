@@ -24,6 +24,7 @@ submitted fixes (no wipe):
 11370680700 - surf_asylum - fixed a hole in some deco allowing player to go out of bounds
 14259315210 - Wuts Dis? - Stage 7: Fixed the top of a surf clipping into a trigger
 14503662340 - Skewed - Make stage 2 ending teleport consistent (removed overlayed part), made bonus possible
+14568553772 - Rojo - Make sure a Spawn1 exists to avoid buggy and laggy physics when falling into the void
 
 add map data:
 14171888879 - Saisei - rampfixes, fixed weird wormhole, & zoned bonus
