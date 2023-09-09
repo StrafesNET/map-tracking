@@ -55,6 +55,7 @@ submitted fixes (no wipe):
 14422470662 - Kotodama - Fixed oob 
 14422612927 - Hidden place - Fixed oob + Added missing part
 14517295281 - Toc - Removed duplicate Spawn16, zoned the bonus
+14723879660 - Emblem 6 - Fix the anticheat near the start being too close to the MapStart zone
 
 add map data:
 
