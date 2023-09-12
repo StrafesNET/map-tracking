@@ -33,14 +33,13 @@ submitted fixes (wipe times):
 13711507548 - Terral - Fixes one skip and two failed skip preventions
 14046381764 - Guffaw - Fix triggerskip
 14080879271 - bhop_Sonoran - Extended walls and added ceilings to prevent map breaking skips, disabled cancollide on some decorations.
-
+13737735520 - Way Back When - Fixed a mis-named spawn leading to a trigger skip and fixed OOB skip
 tested, pending upload:
 
 submitted fixes (no wipe):
 10060990749 - Synced V2 (COPYLOCKED) - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs)
 12945532940 - Golf Yourself - Removed spawnlocation object leading to annoying forcefields
 13553729461 - Lavender - Fixes the lighting for future lighting (The lights were on about 10k brightness). Note that the core physics bug behind the map not working still exists (See PR for more detail)
-13737735520 - Way Back When - Fixes a mis-named spawn leading to the equivilant of a trigger skip. Doesn't need wiping as it's currently unknown and unused
 13815737542 - Solitude - Fix a dumb slope boost near start (see https://discord.com/channels/167423382697148416/167423382697148416/1120940605124648970). Also updated lighting for Future lighting
 13818144033 - Alvo 2 - Stopped the surf on the last stage clipping into itself
 13851818252 - Koi - Fixed the broken ladder (A lot of green appears to be slightly rotated by like .002 degrees, which doesn't really matter, except for on the ladder, where the physics is awful)
