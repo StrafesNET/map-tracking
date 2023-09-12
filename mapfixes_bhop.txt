@@ -34,6 +34,7 @@ submitted fixes (wipe times):
 14046381764 - Guffaw - Fix triggerskip
 14080879271 - bhop_Sonoran - Extended walls and added ceilings to prevent map breaking skips, disabled cancollide on some decorations.
 13737735520 - Way Back When - Fixed a mis-named spawn leading to a trigger skip and fixed OOB skip
+
 tested, pending upload:
 
 submitted fixes (no wipe):
