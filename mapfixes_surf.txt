@@ -5,53 +5,46 @@ upload but don't add to game:
 uploaded, wipe:
 
 tested, pending upload & wipe:
+14422352378 - Green - Fixed oob (only faste needs wipe)
+14422727072 - Desert Temples - Fixed oob
 
 submitted fixes (wipe times):
 7789455753 - 4 AM - Added roof and fixed Bonus1 booster. Added anti resurfs. Faste times need to be wiped
-4899023713 - surf_Airspace (added extra walls around each stage, starting playforms renamed to "Jump3"
-14422352378 - Green - Fixed oob (only faste needs wipe)
-14422727072 - Desert Temples - Fixed oob
 14422792918 - Regret - Fixed oob & MapFinish sizing
 
 tested, pending upload:
-
-submitted fixes (no wipe):
 1411886824 - Schemes - zoned bonuses and fixed lighting
-12615410485 - surf_pain (updated ID) bonus 4 endzone fix.
-12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
 11370680700 - surf_asylum - fixed a hole in some deco allowing player to go out of bounds
 14259315210 - Wuts Dis? - Stage 7: Fixed the top of a surf clipping into a trigger
 14503662340 - Skewed - Make stage 2 ending teleport consistent (removed overlayed part), made bonus possible
 14568553772 - Rojo - Make sure a Spawn1 exists to avoid buggy and laggy physics when falling into the void
 
+submitted fixes (no wipe):
+12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
+
 add map data:
-14171888879 - Saisei - rampfixes, fixed weird wormhole, & zoned bonus
+10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 14171896414 - Feels Like Home - spine fix, removed day/night cycle, zoned bonus
 14171892966 - Fifty Percent More Pineapple - rampfixes & made skips easier for hitbox
-14171870329 - Seventy-Two Percent more Pineapple - adjusted for hitbox & lighting fix
-10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 14149606817 - Rookie - Fixed Stage 7 telehop from sometimes letting you preserve speed through, Nerfed Stage 15 (raised wall at end so you can slip under by 2 studs), Stage 17 (Raised beginning walls by 2 studs), and Stage 19 (Raised a few walls to make the second surf flow better by 2 studs)
+14171888879 - Saisei - rampfixes, fixed weird wormhole, & zoned bonus
+14171870329 - Seventy-Two Percent more Pineapple - adjusted for hitbox & lighting fix
 
 tested, pending upload & add map data:
-
-submitted fixes need add map data:
 2637387680 - Accident 2 - fixed halloween stage
 14171899295 - Chimera - rampfixes & moved to 0,0,0
 14214684256 - Disparity - rampfix & adjusted s8 for new hitbox
 1480923317 - Frantic Lemon - ramp
 1871358186 - Lines - revamped map
-14214740439 - Memorial - rampfix, better lighting & textures, new skybox
 14214748972 - Memorial 2 - rampfix, better lighting, new skybox & bonus is possible
-569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 14214761267 - Telehop - ramp
-14214776956 - Yes - spine fix, bonus and better lighting
-5272229281 - Luminous - made possible
-13634743943 - Ineffable 2 - made possible
-13605711173 - Ineffable - made possible
-14122828826 - Sandstorm Supergiant - made possible
 12459832109 - Tube Tactics - was in surf before new physics, map is now possible
+14214776956 - Yes - spine fix, bonus and better lighting
 14411411513 - Vivid - Fixed all the horrible spines and other weird behaviour, map now plays fine
 14412797326 - Vivid Hard - Fixed all the horrible spines and other weird behaviour, map now plays fine
+
+submitted fixes need add map data:
+569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
@@ -61,3 +54,10 @@ rejected fixes, additional fix notes:
 621876510 - Space Jam - idk - there is already a great fix published
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
 459306841 - Winterland - ramp fix - needs more fixes, still bumpy ramps
+4899023713 - surf_Airspace (added extra walls around each stage, starting playforms renamed to "Jump3" - testers saying it's not possible, maybe missing a ramp?
+12615410485 - surf_pain (updated ID) bonus 4 endzone fix. - use execution context instead of a script distributor for local scripts.
+14214740439 - Memorial - rampfix, better lighting & textures, new skybox - the spine fix ruins the surf made of 6 wedges with a concavity underneath
+5272229281 - Luminous - made possible - lower the surfs a bit, you can't walk off some spawns onto the surfs
+13605711173 - Ineffable - made possible - ramp textures are wack on the ends, map is harder because of tall hitbox
+13634743943 - Ineffable 2 - made possible - ramp with z fighting causes physics issues 2 ramps before circle spin thing, map is harder because of tall hitbox
+14122828826 - Sandstorm Supergiant - made possible - not adjusted for new physics enough, lighting needs fix
