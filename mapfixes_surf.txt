@@ -3,8 +3,6 @@ uncategorized:
 upload but don't add to game:
 
 uploaded, wipe:
-12200007846 - Daydreamer II - Another ramp segment had its velocity set to (500,0,0), I have therefore checked through every single map part and removed other ramps with velocity to then get rid of the problem entirely. (Only delete times which use the skip; times under ~1:20)
-12947779682 - Clove - trigger fix on stage 2 + ramp fixes and bonus zones (fix made by Duckadvice & OneDreamerz)
 
 tested, pending upload & wipe:
 
