@@ -40,7 +40,7 @@ tested, pending upload:
 submitted fixes (no wipe):
 13815737542 - Solitude - Fix a dumb slope boost near start (see https://discord.com/channels/167423382697148416/167423382697148416/1120940605124648970). Also updated lighting for Future lighting
 13851883406 - Drewfc was being uncool - Fixed the incredibly awkward headhitting on stage 34
-14080638596 - Eazy V2 - raised the roof in the headhit stage in Orange to avoid awkward headhitting, raised the doorframe of the stage teleports to remove headhits, raised clipping in red windows to remove headhits
+14783300138 - Eazy V2 - raised the roof in the headhit stage in Orange to avoid awkward headhitting, raised the doorframe of the stage teleports to remove headhits, raised clipping in red windows to remove headhits (Replacement ID: Made sure these fixes worked visually too)
 14180994762 - Surfhop - Disable playdoh collision (Top 3 auto and ao wr will need deleting, everything else is fine)
 14422612927 - Hidden place - Fixed oob + Added missing part
 14723879660 - Emblem 6 - Fix the anticheat near the start being too close to the MapStart zone
