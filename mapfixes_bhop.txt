@@ -34,7 +34,6 @@ submitted fixes (wipe times):
 14046381764 - Guffaw - Fix triggerskip
 14080879271 - bhop_Sonoran - Extended walls and added ceilings to prevent map breaking skips, disabled cancollide on some decorations.
 13737735520 - Way Back When - Fixed a mis-named spawn leading to a trigger skip and fixed OOB skip (only Autohop needs wiping)
-14778688352 - City Run V2 - Fix the fix of the bonus (ONLY WIPE THE BONUS TIMES)
 
 tested, pending upload:
 
