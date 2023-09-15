@@ -15,49 +15,48 @@ submitted unreleased fixes:
 uploaded, wipe:
 
 tested, pending upload & wipe:
-
-submitted fixes (wipe times):
-11751012626 - Stone - Old routes are now possible in new physics
 12954323465 - Z - Re-port using import tool. Scaled up.
 12946892096 - Bloc - Re-port using import tool. Scaled up.
 2577283820 - Blue Shade - Re-port using import tool. Scaled up.
 13106608019 - Zyper - Re-port using import plugin. Scaled up.
-13118097070 - Y - Re-port using import plugin. Scaled up.
-13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip
-13711433065 - Persepillu - Fix spawn names to prevent TP-to-end skip
 13711507548 - Terral - Fixes one skip and two failed skip preventions
-14046381764 - Guffaw - Fix triggerskip
 14080879271 - bhop_Sonoran - Extended walls and added ceilings to prevent map breaking skips, disabled cancollide on some decorations.
+13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip - 
+13711433065 - Persepillu - Fix spawn names to prevent TP-to-end skip
+14046381764 - Guffaw - Fix triggerskip
 13737735520 - Way Back When - Fixed a mis-named spawn leading to a trigger skip and fixed OOB skip (only Autohop needs wiping)
 
+submitted fixes (wipe times):
+
 tested, pending upload:
+14782832746 - Drain 2 - Fix errors in the new scripts (wrong property/missing local)
+13851883406 - Drewfc was being uncool - Fixed the incredibly awkward headhitting on stage 34
+14783300138 - Eazy V2 - raised the roof in the headhit stage in Orange to avoid awkward headhitting, raised the doorframe of the stage teleports to remove headhits, raised clipping in red windows to remove headhits (Replacement ID: Made sure these fixes worked visually too)
+14723879660 - Emblem 6 - Fix the anticheat near the start being too close to the MapStart zone
+14422612927 - Hidden place - Fixed oob + Added missing part
+13815737542 - Solitude - Fix a dumb slope boost near start (see https://discord.com/channels/167423382697148416/167423382697148416/1120940605124648970). Also updated lighting for Future lighting
+14180994762 - Surfhop - Disable playdoh collision (Top 3 auto and ao wr will need deleting, everything else is fine)
 
 submitted fixes (no wipe):
-13815737542 - Solitude - Fix a dumb slope boost near start (see https://discord.com/channels/167423382697148416/167423382697148416/1120940605124648970). Also updated lighting for Future lighting
-13851883406 - Drewfc was being uncool - Fixed the incredibly awkward headhitting on stage 34
-14080638596 - Eazy V2 - raised the roof in the headhit stage in Orange to avoid awkward headhitting, raised the doorframe of the stage teleports to remove headhits, raised clipping in red windows to remove headhits
-14180994762 - Surfhop - Disable playdoh collision (Top 3 auto and ao wr will need deleting, everything else is fine)
-14422612927 - Hidden place - Fixed oob + Added missing part
-14723879660 - Emblem 6 - Fix the anticheat near the start being too close to the MapStart zone
 
 add map data:
 
 tested, pending upload & add map data:
-
-submitted fixes need add map data:
-13815854648 - Clarion - Map was removed from game. I removed the "alternate reality" part for now. There's probably a way to make it work on new phsyics but I don't care. Also updated lighting for Future lighting.
 14311128894 - Around The Round - Fixed bizarre ground-surfing behaviour on the spawn platform, map now works fine
-14311240482 - High segdaB - The physics bug as described in map_issues.txt does not appear to be happening anymore. Fixed impossible jump towards the end
-14512222872 - Dawn2 - Fixed impossible spot due to hitbox
-14512310428 - Dev V1 - Fixed impossible jumps
-14512630110 - Xerox - Fixed impossible vent at s 28
 14516654108 - Concrete - Ensure walking is sane, map already had invisible roof
+14517133487 - Danmark - Fixed teleports
+14512222872 - Dawn2 - Fixed impossible spot due to hitbox
 14516825239 - Deletive - Fixed impossible jumps, adjusted doorways, made some climbs have consistent height change
+14512310428 - Dev V1 - Fixed impossible jumps
 14516879833 - Horizon - Fixed impossible sections
+11751012626 - Stone - Old routes are now possible in new physics - what is changed?
 14516936733 - Tide - Removed the invisible secret path that leads straight to the end
 14516987139 - Touch - Fixed headhits
 14517036326 - Ultimate - Fixed skip caused by barely misaligned platforms, made headhits not awful to play
-14517133487 - Danmark - Fixed teleports
+14512630110 - Xerox - Fixed impossible vent at s 28
+
+submitted fixes need add map data:
+13815854648 - Clarion - Map was removed from game. I removed the "alternate reality" part for now. There's probably a way to make it work on new phsyics but I don't care. Also updated lighting for Future lighting.
 
 rejected fixes, additional fix notes:
 10060990749 - Synced V2 (COPYLOCKED) - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs) - This map loads a script with require in the lighting script.
@@ -67,3 +66,5 @@ rejected fixes, additional fix notes:
 11750867663 - Dust - End used to clip through last block - Change is too small for a time wipe
 10057239529 - FrozenRuins - Trigger skip after bounce pad no longer possible. - This trigger skip does not detract from the map in my opinion.  May need to have a vote to see what people think.
 3889303022 bhop-fus - fixed lighting problems on first stage - still suffers from sliding on spawns
+14311240482 - High segdaB - The physics bug as described in map_issues.txt does not appear to be happening anymore. Fixed impossible jump towards the end - brah this map sucks I'm deleting it
+13118097070 - Y - Re-port using import plugin. Scaled up. - excuse me the boosters aren't supposed to give horizontal boost
