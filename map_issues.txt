@@ -212,12 +212,10 @@ bumpy ramps (all surf maps):
 5692124203 - Depression
 5692097943 - Detritus
 5693294460 - Discord - moving platforms (decoration only)
-5692094760 - Disparity
 8659330557 - Egypt - not designed for new hitbox
 6111008494 - Error - every curved ramp
 6111010028 - Farewell
 5692158577 - Fort - align spines
-5692118014 - Frantic Lemon - lol
 5692158924 - Frost Nova - also fix start
 5692153669 - Gimmick
 5692135297 - Glass II - make edges cancollide false
@@ -227,7 +225,6 @@ HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 5692164006 - Luck2 - fix all spines
 5692163103 - Magenta
 5692113509 - Memorial
-5692151451 - Memorial 2
 5692174281 - Newt Two
 5692134709 - O-oh hi-i t-there, J-J-Jill - especially 2nd ramp
 5692180913 - Obscurity - make the trim cancollide false
@@ -236,9 +233,7 @@ HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 5692175668 - Reskea
 5692170278 - Strafe Race - unfixable without physics changes?
 5692122639 - Striped
-5692118492 - Telehop - bad spines
 5692132828 - Trees - ramps kill you
-5692133047 - Tube Tactics
 5692158471 - Ultra
 5692144023 - Victor - spines
 5692159699 - WaP II
@@ -264,20 +259,17 @@ new physics bug (surf):
 5692108009 - 456 - spin is impossible
 5692128954 - Azurite - fix start & make window wider by 2.2
 5692169729 - Borderlands - some spines need to be fixed, far from 0,0,0, skybox is wrong lighting doesn't load
-5692135173 - Chimera - some spines need to be fixed, far from 0,0,0
 5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
 5692102646 - Compact - can't leave spawn
 6111005316 - Desolate - ramps are weird and buggy, you phase through the second ramp
 5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
 5732181194 - Ethereal - "under the void" issue
-5692164250 - Feels Like Home - hitbox harder
 5692104185 - Flandre II - needs spine fixes, some ramps hitboxes are wrong somehow on blue and green stages, and move closer to 0,0,0
 5692134367 - Gravity - hitbox harder
 5692159828 - Icire - move to origin, align ramps
 5692153618 - Ineffable 2 - broken bhop at end
 6111269498 - Ire - end zone broken, one bumpy ramp mid map, raise the surf flush with a trigger so you don't hit the trigger
 5692118651 - Level Up! - please make this less ugly, maybe decorate
-5692164379 - Lines - purple spawn impassible, also bumpy ramps
 5692140242 - Elprup - impossible, can't go in diamond hole
 5692159131 - No - impossible: wormhole resets you to start
 5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
@@ -289,7 +281,6 @@ new physics bug (surf):
 5692174627 - S'mores
 5692133134 - Sand Flow - hitbox hard
 6111031896 - Sandstorm Supergiant - hitbox hard
-5693293179 - Seventy-Two Percent more Pineapple - hitbox harder
 5692134185 - Shade - hitbox harder, fix diamond hitbox
 5692170594 - Strawberry Avalanche - getting triggered at end
 5692153444 - Trumpwall2020 - impossible
@@ -307,10 +298,8 @@ teleport fix will resolve:
 8777500297 - Pastel - spawn in ground
 8659334600 - Reinforced - spawn in ground
 5692163537 - Reverse - spawn in ground
-5692153067 - Saisei - spawn in ground, ramps are wack, far from origin
 5692165177 - Trying Again - spawn in ground
 5692146718 - Vacancy - spawn in ground, make bonus zones
-5692153475 - Yes - spawn in ground, bumpy ramps
 
 moving parts:
 5692151548 - Beach - is this even worth saving?  remove shadows
@@ -322,7 +311,6 @@ bhop_technicolor - moving decorations
 5692128595 - Sand Temple - hitbox hard - moving platforms work now but still buggy if you get rough
 
 multitouch:
-5692111833 - Fifty Percent More Pineapple - start zone multitouch
 HUB FIXED - 5692169375 - Halloween - start zone multitouch, spines
 5692104445 - Zany - 10s - sliding in start
 5692145827 - bhop_white_on_blue - sliding in start
