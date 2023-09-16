@@ -3,9 +3,6 @@ uncategorized:
 upload but don't add to game:
 
 uploaded, wipe:
-7789455753 - 4 AM - Added roof and fixed Bonus1 booster. Added anti resurfs. Faste times need to be wiped
-14422352378 - Green - Fixed oob (only faste needs wipe)
-14422727072 - Desert Temples - Fixed oob
 
 tested, pending upload & wipe:
 

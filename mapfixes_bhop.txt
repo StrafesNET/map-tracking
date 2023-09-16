@@ -13,15 +13,6 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
-12946892096 - Bloc - Re-port using import tool. Scaled up.
-2577283820 - Blue Shade - Re-port using import tool. Scaled up.
-14046381764 - Guffaw - Fix triggerskip
-13711433065 - Persepillu - Fix spawn names to prevent TP-to-end skip
-14080879271 - Sonoran - Extended walls and added ceilings to prevent map breaking skips, disabled cancollide on some decorations.
-13711507548 - Terral - Fixes one skip and two failed skip preventions
-13737735520 - Way Back When - Fixed a mis-named spawn leading to a trigger skip and fixed OOB skip (only Autohop needs wiping)
-12954323465 - Z - Re-port using import tool. Scaled up.
-13106608019 - Zyper - Re-port using import plugin. Scaled up.
 
 tested, pending upload & wipe:
 13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip - aidan and miners were arguing about whether to just make the rng scrip consistent instead and avoid a wipe
