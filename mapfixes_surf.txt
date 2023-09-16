@@ -10,7 +10,6 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 7789455753 - 4 AM - Added roof and fixed Bonus1 booster. Added anti resurfs. Faste times need to be wiped
-14422792918 - Regret - Fixed oob & MapFinish sizing
 
 tested, pending upload:
 1411886824 - Schemes - zoned bonuses and fixed lighting
@@ -61,3 +60,4 @@ rejected fixes, additional fix notes:
 13605711173 - Ineffable - made possible - ramp textures are wack on the ends, map is harder because of tall hitbox
 13634743943 - Ineffable 2 - made possible - ramp with z fighting causes physics issues 2 ramps before circle spin thing, map is harder because of tall hitbox
 14122828826 - Sandstorm Supergiant - made possible - not adjusted for new physics enough, lighting needs fix
+14422792918 - Regret - Fixed oob & MapFinish sizing - it's insanely dark
