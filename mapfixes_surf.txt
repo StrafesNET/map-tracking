@@ -3,20 +3,15 @@ uncategorized:
 upload but don't add to game:
 
 uploaded, wipe:
-
-tested, pending upload & wipe:
+7789455753 - 4 AM - Added roof and fixed Bonus1 booster. Added anti resurfs. Faste times need to be wiped
 14422352378 - Green - Fixed oob (only faste needs wipe)
 14422727072 - Desert Temples - Fixed oob
 
+tested, pending upload & wipe:
+
 submitted fixes (wipe times):
-7789455753 - 4 AM - Added roof and fixed Bonus1 booster. Added anti resurfs. Faste times need to be wiped
 
 tested, pending upload:
-1411886824 - Schemes - zoned bonuses and fixed lighting
-11370680700 - surf_asylum - fixed a hole in some deco allowing player to go out of bounds
-14259315210 - Wuts Dis? - Stage 7: Fixed the top of a surf clipping into a trigger
-14503662340 - Skewed - Make stage 2 ending teleport consistent (removed overlayed part), made bonus possible
-14568553772 - Rojo - Make sure a Spawn1 exists to avoid buggy and laggy physics when falling into the void
 
 submitted fixes (no wipe):
 12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
@@ -28,19 +23,19 @@ add map data:
 14149606817 - Rookie - Fixed Stage 7 telehop from sometimes letting you preserve speed through, Nerfed Stage 15 (raised wall at end so you can slip under by 2 studs), Stage 17 (Raised beginning walls by 2 studs), and Stage 19 (Raised a few walls to make the second surf flow better by 2 studs)
 14171888879 - Saisei - rampfixes, fixed weird wormhole, & zoned bonus
 14171870329 - Seventy-Two Percent more Pineapple - adjusted for hitbox & lighting fix
-
-tested, pending upload & add map data:
-2637387680 - Accident 2 - fixed halloween stage
-14171899295 - Chimera - rampfixes & moved to 0,0,0
-14214684256 - Disparity - rampfix & adjusted s8 for new hitbox
 1480923317 - Frantic Lemon - ramp
 1871358186 - Lines - revamped map
+12459832109 - Tube Tactics - was in surf before new physics, map is now possible
+14171899295 - Chimera - rampfixes & moved to 0,0,0
+14214684256 - Disparity - rampfix & adjusted s8 for new hitbox
 14214748972 - Memorial 2 - rampfix, better lighting, new skybox & bonus is possible
 14214761267 - Telehop - ramp
-12459832109 - Tube Tactics - was in surf before new physics, map is now possible
 14214776956 - Yes - spine fix, bonus and better lighting
 14411411513 - Vivid - Fixed all the horrible spines and other weird behaviour, map now plays fine
 14412797326 - Vivid Hard - Fixed all the horrible spines and other weird behaviour, map now plays fine
+
+tested, pending upload & add map data:
+2637387680 - Accident 2 - fixed halloween stage
 
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
@@ -49,7 +44,6 @@ rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
 770953991 - Halloween - ramp fix - spines still bad, candy corn stage is unnecessarily hard due to the hitbox, some ramps kill you
 10066332884 - O-oh hi-i t-there, J-J-Jill - spawn is buggy, bumpy ramps, especially 2nd ramp
-12947656819 - Skewed - the bonus is actually possible for new physics now cuz of a stupid fat wall (fix made by Duckadvice) - stage 2 teleport to stage 3 has a part in the way
 621876510 - Space Jam - idk - there is already a great fix published
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
 459306841 - Winterland - ramp fix - needs more fixes, still bumpy ramps
