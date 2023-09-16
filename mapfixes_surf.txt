@@ -18,21 +18,7 @@ submitted fixes (no wipe):
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
-14171896414 - Feels Like Home - spine fix, removed day/night cycle, zoned bonus
-14171892966 - Fifty Percent More Pineapple - rampfixes & made skips easier for hitbox
 14149606817 - Rookie - Fixed Stage 7 telehop from sometimes letting you preserve speed through, Nerfed Stage 15 (raised wall at end so you can slip under by 2 studs), Stage 17 (Raised beginning walls by 2 studs), and Stage 19 (Raised a few walls to make the second surf flow better by 2 studs)
-14171888879 - Saisei - rampfixes, fixed weird wormhole, & zoned bonus
-14171870329 - Seventy-Two Percent more Pineapple - adjusted for hitbox & lighting fix
-1480923317 - Frantic Lemon - ramp
-1871358186 - Lines - revamped map
-12459832109 - Tube Tactics - was in surf before new physics, map is now possible
-14171899295 - Chimera - rampfixes & moved to 0,0,0
-14214684256 - Disparity - rampfix & adjusted s8 for new hitbox
-14214748972 - Memorial 2 - rampfix, better lighting, new skybox & bonus is possible
-14214761267 - Telehop - ramp
-14214776956 - Yes - spine fix, bonus and better lighting
-14411411513 - Vivid - Fixed all the horrible spines and other weird behaviour, map now plays fine
-14412797326 - Vivid Hard - Fixed all the horrible spines and other weird behaviour, map now plays fine
 
 tested, pending upload & add map data:
 2637387680 - Accident 2 - fixed halloween stage

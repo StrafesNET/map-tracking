@@ -37,15 +37,6 @@ tested, pending upload:
 submitted fixes (no wipe):
 
 add map data:
-14311128894 - Around The Round - Fixed bizarre ground-surfing behaviour on the spawn platform, map now works fine
-14516654108 - Concrete - Ensure walking is sane, map already had invisible roof
-14512222872 - Dawn 2 - Fixed impossible spot due to hitbox
-14516825239 - Deletive - Fixed impossible jumps, adjusted doorways, made some climbs have consistent height change
-14512310428 - Dev V1 - Fixed impossible jumps
-14516879833 - Horizon - Fixed impossible sections
-11751012626 - Stone - Old routes are now possible in new physics - what is changed?
-14517036326 - Ultimate - Fixed skip caused by barely misaligned platforms, made headhits not awful to play
-14512630110 - Xerox - Fixed impossible vent at s 28
 
 tested, pending upload & add map data:
 14517133487 - Danmark - Fixed teleports - can't find the stupid asset id

@@ -54,6 +54,7 @@
 11222411070 - The Center
 5692175141 - Cerberal
 5692107676 - Charcoal Chasm
+5692135173 - Chimera
 5692175707 - City
 5692117646 - Clickbait
 5692174562 - Clique
@@ -83,6 +84,7 @@
 5692164410 - Desert Temples
 6111006827 - Devolution
 11222418405 - Diminsion
+5692094760 - Disparity
 5692133094 - Diversity
 5692124282 - Dizzy
 5692163819 - Docile
@@ -98,7 +100,10 @@
 5692113242 - Existence
 13026310423 - Extirpate
 5692111905 - Exultant
+5692164250 - Feels Like Home
+5692111833 - Fifty Percent More Pineapple
 5692140338 - Flandre
+5692118014 - Frantic Lemon
 8659331841 - Giza
 6111012654 - Gondal
 5692175777 - Got The Blues
@@ -132,6 +137,7 @@
 13026270460 - Leek (spin)
 5692169147 - Lezgo
 5692093937 - Lezgo II
+5692164379 - Lines
 5692128389 - Luck
 5692132999 - Lumber
 6111026986 - Luminous
@@ -143,6 +149,7 @@
 5692103566 - Medieval
 5692153297 - Mellow
 5692122990 - Melting
+5692151451 - Memorial 2
 5693294901 - Mesa
 13026334170 - Metaophorite
 5692165111 - Microverse
@@ -202,9 +209,11 @@
 6111030078 - Rose
 5692180837 - Ruins
 5692122527 - Ruins II
+5692153067 - Saisei
 6111033250 - Sandy Sunset
 5692133329 - Schemes
 11222436684 - Secton
+5693293179 - Seventy-Two Percent more Pineapple
 5692175287 - Shadow Temple
 5692162926 - Shard
 5692139367 - Shift
@@ -234,6 +243,7 @@
 6111778814 - Substructure
 5692170390 - Summerland
 5692118831 - Technical
+5692118492 - Telehop
 5692108338 - Temple
 5692102897 - Tetratronic
 5692118058 - The Crest Experience
@@ -248,6 +258,7 @@
 5692158544 - Trikz Cloud
 5692123475 - Trigger
 5692164554 - TrueCetric
+5692133047 - Tube Tactics
 5692182099 - Tumb
 5692145262 - Tunneler Blues
 5692169679 - Tunnels
@@ -259,6 +270,8 @@
 5692118696 - Valpect
 13548523662 - Venust
 5692122448 - Vertigo
+5692128997 - Vivid
+6111035047 - Vivid Hard
 6111036596 - Volcase
 5692169598 - Water Park
 5692145577 - Water Temple
@@ -271,6 +284,7 @@
 6111038067 - Wuts Dis?
 5692113737 - X-ray
 5692108138 - XXXTection
+5692153475 - Yes
 5692159512 - Yobby
 5692138686 - Zoom
 6111003348 - [̲̅$̲̅(̲̅5̲̅)̲̅$̲̅]
