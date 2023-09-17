@@ -276,7 +276,6 @@ new physics bug (surf):
 5692135126 - Reprise Hard - spine next to trigger can get hit
 5692107810 - Resilience - impossible: hitbox harder - moving decoration
 5692157460 - Rigorous - impossible, gap too small fix all gaps
-5692151184 - Rookie (surf) - spawn 7 is above anti tele, last ramp can respawn you, stage where you go under 2 walls is unnecessarily hard with new hitbox
 5692165474 - Royal - ramps are multiple parts, use SetVelocity for anti tele
 5692174627 - S'mores
 5692133134 - Sand Flow - hitbox hard
