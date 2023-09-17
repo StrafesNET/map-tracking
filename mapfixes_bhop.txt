@@ -26,6 +26,7 @@ tested, pending upload:
 13815737542 - Solitude - Fix a dumb slope boost near start (see https://discord.com/channels/167423382697148416/167423382697148416/1120940605124648970). Also updated lighting for Future lighting
 
 submitted fixes (no wipe):
+14807871641 - Badges 2 - Make the forced longjumps (s14 -> s16) play a bit better, prevent bizarre wall jumping behaviour
 
 add map data:
 
