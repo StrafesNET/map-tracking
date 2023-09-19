@@ -13,6 +13,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 12653616137 - surf_Mini (fixes skip) (creator doesn't know if skip was found by anyone other than himself, if there are times with skip, wipe those times.)
+14816821773 - Saisei - Remove the trigger right above the spawnpoint of the bonus leading to stack overflow issues (why was it there??)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
