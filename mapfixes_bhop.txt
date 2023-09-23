@@ -26,9 +26,6 @@ submitted fixes (no wipe):
 add map data:
 
 tested, pending upload & add map data:
-14517133487 - Danmark - Fixed teleports - can't find the stupid asset id
-14516936733 - Tide - Removed the invisible secret path that leads straight to the end - can't find the stupid asset id
-14516987139 - Touch - Fixed headhits - can't find the stupid asset id
 
 submitted fixes need add map data:
 13815854648 - Clarion - Map was removed from game. I removed the "alternate reality" part for now. There's probably a way to make it work on new phsyics but I don't care. Also updated lighting for Future lighting.
