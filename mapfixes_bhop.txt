@@ -20,13 +20,8 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 
 tested, pending upload:
-13851883406 - Drewfc was being uncool - Fixed the incredibly awkward headhitting on stage 34 - Stopped putting scripts in backpacks
-14723879660 - Emblem 6 - Fix the anticheat near the start being too close to the MapStart zone - Stopped putting scripts in backpacks
-14860882046 - Hidden place - Fixed oob + Added missing part - Stopped putting scripts in backpacks
-14861051737 - Solitude - Fix a dumb slope boost near start (see https://discord.com/channels/167423382697148416/167423382697148416/1120940605124648970). Also updated lighting for Future lighting - Stopped putting scripts in backpacks
 
 submitted fixes (no wipe):
-14807871641 - Badges 2 - Make the forced longjumps (s14 -> s16) play a bit better, prevent bizarre wall jumping behaviour
 
 add map data:
 
