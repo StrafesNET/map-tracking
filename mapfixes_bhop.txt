@@ -18,6 +18,7 @@ tested, pending upload & wipe:
 13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip - aidan and miners were arguing about whether to just make the rng scrip consistent instead and avoid a wipe
 
 submitted fixes (wipe times):
+12687188945 - Reddish - misplaced invisible wall fixed, wall wedge at the end is now collidable (do not wipe bonus times)
 
 tested, pending upload:
 
