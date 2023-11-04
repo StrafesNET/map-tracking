@@ -249,7 +249,6 @@ new physics bug (bhop):
 5692099285 - Impulse - no map issues, just everyone thinks the whole port should be redone
 5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
 5692180285 - Jon - hitbox hard
-5692099007 - Monster Jam - moon door teleport is rng, also change moon jump area to accelerator rather than booster only
 5692093067 - MooManChicken - fix lighting
 8777477389 - Ötökkä - trigger is inside of spawn making an infinite loop, model is at insane position values
 
