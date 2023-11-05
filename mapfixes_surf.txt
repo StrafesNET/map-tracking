@@ -15,6 +15,7 @@ submitted fixes (no wipe):
 13454303343 - Hi Everyone - Updated boosters on green and changed blue slightly. Wipe bonus.
 12947510568 - Cyberspace - Stage 4 ramp spine fix (Duckadvice)
 15204456967 - Disparity - Fix potential softlock on Stage 7
+15246995099 - Sinsane - Bonus is zoned. Nerfed nightmare upwards spin at end of bonus to ensure possibility.
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
@@ -26,6 +27,8 @@ submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 14057284225 - Vacancy - ramp fix + bonus zones (duckadvice)
 14502969054 - Desolate - ramp fix (duckadvice & qban)
+15267036868 - Zor - Spines fix. Oob fix.
+15268254465 - Borderlands - Closer to 0,0,0. Each stage has its own sphere skybox. Spines fixed.
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
