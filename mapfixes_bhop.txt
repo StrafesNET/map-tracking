@@ -23,6 +23,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+15360707260 - emevaelx3 - Fix a couple entrance headhits that force awkward gameplay
 
 add map data:
 
