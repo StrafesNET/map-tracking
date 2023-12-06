@@ -19,6 +19,7 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 12687188945 - Reddish - misplaced invisible wall fixed, wall wedge at the end is now collidable (do not wipe bonus times)
+15563027754 - Zyper - Changed the mesh stage's collision to Triggers instead of Platforms to prevent speed boost
 
 tested, pending upload:
 
