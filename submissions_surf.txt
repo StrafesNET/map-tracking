@@ -9,14 +9,14 @@ frontlog:
 
 accepted:
 11231681016 - Swim (this map was supposed to be added last aor but the id was messed up because of me (hjman), I'm putting at the top for that reason.)
-13801537086 - august aor new map
-12062216772 - august aor new map
-2637351352 - august aor new map
-14342734258 - august aor new map
-13903510925 - November aor new map
-14684714890 - November aor new map
-14672463457 - November aor new map
-15260200060 - November aor new map
+13801537086 - surf_vast
+12062216772 - surf_frigid
+2637351352 - surf_example_map
+14342734258 - surf_termite
+13903510925 - surf_andromeda
+14684714890 - surf_koa
+14672463457 - surf_trippy
+15260200060 - surf_vanish2
 
 changes requested:
 13368824399 - surf_quickie - make the surfaces on the surfs cancollide true or raise the surfs to avoid smashing into flush triggers

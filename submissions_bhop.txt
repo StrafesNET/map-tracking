@@ -4,13 +4,13 @@ bhop (last map timestamped 1665281503)
 
 frontlog:
 1046910594 - BlackRockShooter
+13062616326 - copylocked / ???
 
 accepted:
-15236854944 - November aor new map
-13062616326 - November aor new map
-13594743132 - august aor new map
-13950126887 - august aor new map
-14217648630 - august aor new map
+15236854944 - bhop_backrooms
+13594743132 - bhop_dumb_studs_5
+13950126887 - bhop_1n5an3_h
+14217648630 - bhop_dumb_cave 
 
 not in inventory:
 
