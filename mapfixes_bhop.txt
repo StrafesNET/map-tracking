@@ -25,6 +25,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 15360707260 - emevaelx3 - Fix a couple entrance headhits that force awkward gameplay
+8642318889 - BrickColors - Some changes and fixes to the statue room (Hall of Champions)
 
 add map data:
 
