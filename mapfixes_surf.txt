@@ -8,6 +8,7 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 14139570305 - Autumn - Add roof to fix oob (duckadvice)
+13903510925 - Andromeda - Fixed Anti Tele Start on Bonus and Main
 
 tested, pending upload:
 
