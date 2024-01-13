@@ -30,6 +30,7 @@ submitted fixes (no wipe):
 15928762607 - Bruh - Resized some parts at last climb to make it less insufferable
 15928670748 - Pohb - Changed map name so it's "Pohb" and not "Pohb not idiot"
 15928885889 - Rising - Fixed weird platforms that had a Jump0/Trigger inside of a Platform, causing weird client desync
+14217648630 - Dumb Cave (Unreleased) - Fix a broken Spawn
 
 add map data:
 
