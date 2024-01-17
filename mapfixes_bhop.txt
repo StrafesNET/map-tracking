@@ -24,12 +24,6 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
-15360707260 - emevaelx3 - Fix a couple entrance headhits that force awkward gameplay
-8642318889 - BrickColors - Some changes and fixes to the statue room (Hall of Champions)
-15715735128 - Adventure V2 - Fixed bumping into invis part in shortcut stage
-15928762607 - Bruh - Resized some parts at last climb to make it less insufferable
-15928670748 - Pohb - Changed map name so it's "Pohb" and not "Pohb not idiot"
-15928885889 - Rising - Fixed weird platforms that had a Jump0/Trigger inside of a Platform, causing weird client desync
 14217648630 - Dumb Cave (Unreleased) - Fix a broken Spawn
 
 add map data:
