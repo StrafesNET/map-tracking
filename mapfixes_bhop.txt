@@ -24,6 +24,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss
 
 add map data:
 
