@@ -24,7 +24,6 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
-14217648630 - Dumb Cave (Unreleased) - Fix a broken Spawn
 
 add map data:
 

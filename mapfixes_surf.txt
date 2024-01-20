@@ -14,8 +14,6 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 13454303343 - Hi Everyone - Updated boosters on green and changed blue slightly. Wipe bonus.
-12947510568 - Cyberspace - Stage 4 ramp spine fix (Duckadvice)
-15732877251 - Sinsane - Fix bonus skip
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
