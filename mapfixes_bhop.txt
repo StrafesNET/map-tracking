@@ -13,7 +13,6 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
-16204975834 - Dumb Blocks 4 - Fixed slopes to prevent edgeboosting at high speeds (wipe faste only)
 
 tested, pending upload & wipe:
 13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip - aidan and miners were arguing about whether to just make the rng scrip consistent instead and avoid a wipe
@@ -21,6 +20,7 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 12687188945 - Reddish - misplaced invisible wall fixed, wall wedge at the end is now collidable (do not wipe bonus times)
 15563027754 - Zyper - Changed the mesh stage's collision to Triggers instead of Platforms to prevent speed boost
+16204975834 - Dumb Blocks 4 - Fixed slopes to prevent edgeboosting at high speeds (wipe faste only)
 
 tested, pending upload:
 
