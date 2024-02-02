@@ -27,6 +27,7 @@ submitted fixes need add map data:
 15267036868 - Zor - Spines fix. Oob fix.
 15268254465 - Borderlands - Closer to 0,0,0. Each stage has its own sphere skybox. Spines fixed.
 15405115716 - Frost Nova - Spawn and ramps fixed.
+16214270894 - Abseil - Fix the bad ramps and spines, general cleanup
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
