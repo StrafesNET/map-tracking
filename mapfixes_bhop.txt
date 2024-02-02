@@ -13,6 +13,7 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
+16204975834 - Dumb Blocks 4 - Fixed slopes to prevent edgeboosting at high speeds (wipe faste only)
 
 tested, pending upload & wipe:
 13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip - aidan and miners were arguing about whether to just make the rng scrip consistent instead and avoid a wipe
