@@ -13,6 +13,8 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 13454303343 - Hi Everyone - Updated boosters on green and changed blue slightly. Wipe bonus.
+16235040515 - Leek (spin) - Fixed an oob through the bonus hub (Oob abusing times will be deleted manually)
+16235204034 - Beginner - Added invis roof to fix oob (Oob abusing times will be deleted manually)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
