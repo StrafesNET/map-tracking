@@ -26,6 +26,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss
+15928919929 - Larena - Fixed door height to prevent bonking
 
 add map data:
 
@@ -33,6 +34,10 @@ tested, pending upload & add map data:
 
 submitted fixes need add map data:
 13815854648 - Clarion - Map was removed from game. I removed the "alternate reality" part for now. There's probably a way to make it work on new phsyics but I don't care. Also updated lighting for Future lighting.
+16233380749 - Downfall - Raised doorways and fixed impossible part
+16233744964 - Jon - Nerfed map and fixed impossible part
+16234113783 - Fus - Moved map closer to origin
+15282887072 - City Fun - Fixed headhits and altered weird triggers
 
 rejected fixes, additional fix notes:
 10060990749 - Synced V2 (COPYLOCKED) - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs) - This map loads a script with require in the lighting script.
