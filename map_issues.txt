@@ -1,12 +1,9 @@
 bhop main:
-5692174791 - Adventure v2 - shortcut stage you can bump your head at the spawn
 5692152798 - Autumn - Convert from meshes to cylinders and spheres
-5692163580 - Bruh - end of the map is unnecessarily hard because of head hits
 5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
 11222365475 - Frenzy - check lighting scripts, it's too dark but the submitted map was fine
 5692106168 - Larena - maybe align the green ramp better at the top, maybe increase the height of the doorway teleports
 6115146211 - Pohb not idiot - change name
-5692157943 - Rising - Stage 2 & 4 triggers have multiple parts in the same place
 5692105876 - Senpai - Lighting is very dark
 6115159232 - Sqee - Bonus: 5692093322 - Sqee (Short)
 6115161141 - Terral - moving platforms decoration
@@ -27,7 +24,6 @@ surf main:
 5692170735 - Poly_Mount - change name, weird server logs
 5692158006 - Realm - moving decorations
 11222433611 - Regret - bad lighting
-5692157806 - Sinsane - needs bonus start and finish
 5692185754 - Space - ramp reset bug, spawn multitouch bug, "sometimes you get stuck on ramps"
 5692118058 - The Crest Experience - ramps bumpy at the bottom
 5692133932 - Tom Cruise - The spawn area is bugged, and first ramps are buggy at top
