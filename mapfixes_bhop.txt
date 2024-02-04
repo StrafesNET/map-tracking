@@ -26,6 +26,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss
+15928919929 - Larena - Fixed door height to prevent bonking
 
 add map data:
 16233380749 - Downfall - Raised doorways and fixed impossible part
