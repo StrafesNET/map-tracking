@@ -28,6 +28,9 @@ submitted fixes (no wipe):
 16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss
 
 add map data:
+16233380749 - Downfall - Raised doorways and fixed impossible part
+16233744964 - Jon - Nerfed map and fixed impossible part
+16234113783 - Fus - Moved map closer to origin
 
 tested, pending upload & add map data:
 
