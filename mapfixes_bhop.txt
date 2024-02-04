@@ -32,6 +32,7 @@ add map data:
 16233380749 - Downfall - Raised doorways and fixed impossible part
 16233744964 - Jon - Nerfed map and fixed impossible part
 16234113783 - Fus - Moved map closer to origin
+15282887072 - City Fun - Fixed headhits and altered weird triggers
 
 tested, pending upload & add map data:
 
