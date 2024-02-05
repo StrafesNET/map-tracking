@@ -21,6 +21,7 @@ submitted fixes (no wipe):
 16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually)
 16249294098 - Poly_Mount - Remade anti tele to prevent standing on it (Abusing times will be deleted manually)
 16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually)
+16250123347 - Regret - Resized start and end zone to prevent shenanigans and disabled Cast Shadow so you can see map (Abusing times will be deleted manually)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
