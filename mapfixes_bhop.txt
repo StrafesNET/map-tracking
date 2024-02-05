@@ -27,6 +27,8 @@ tested, pending upload:
 submitted fixes (no wipe):
 16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss
 15928919929 - Larena - Fixed door height to prevent bonking
+16250108174 - Avery - Removed door collision and added walls to prevent oob (Oob abusing times will be deleted manually)
+16250060874 - Translucidity v2 - Added invis wall and ceiling to prevent oob (Oob abusing times will be deleted manually)
 
 add map data:
 
