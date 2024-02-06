@@ -15,6 +15,13 @@ submitted fixes (no wipe):
 13454303343 - Hi Everyone - Updated boosters on green and changed blue slightly. Wipe bonus.
 16235040515 - Leek (spin) - Fixed an oob through the bonus hub (Oob abusing times will be deleted manually)
 16235204034 - Beginner - Added invis roof to fix oob (Oob abusing times will be deleted manually)
+16249175292 - Ice - Fixed oob + remade anti tele to prevent standing on it (Abusing times will be deleted manually)
+16249212674 - Apex II - Removed tree collision to prevent heigh advantage from leaving and re entering start zone (Abusing times will be deleted manually)
+16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually)
+16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually)
+16249294098 - Poly_Mount - Remade anti tele to prevent standing on it (Abusing times will be deleted manually)
+16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually)
+16250123347 - Regret - Resized start and end zone to prevent shenanigans and disabled Cast Shadow so you can see map (Abusing times will be deleted manually)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
