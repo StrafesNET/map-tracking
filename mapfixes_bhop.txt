@@ -29,6 +29,11 @@ submitted fixes (no wipe):
 15928919929 - Larena - Fixed door height to prevent bonking
 16250108174 - Avery - Removed door collision and added walls to prevent oob (Oob abusing times will be deleted manually)
 16250060874 - Translucidity v2 - Added invis wall and ceiling to prevent oob (Oob abusing times will be deleted manually)
+16259604701 - Haarukka - Fixed oob (Oob abusing times will be deleted manually)
+16259639709 - Phunedmonium - Fixed oob (Oob abusing times will be deleted manually)
+16259645880 - Swampy - Fixed lighting so end part is visible
+16259190305 - senpai - Fixed lighting so map more visible
+16259563380 - Legowo - Removed random oob trigger and blocked wall to stop oob (Oob abusing times will be deleted manually)
 
 add map data:
 
