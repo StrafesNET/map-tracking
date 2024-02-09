@@ -8,6 +8,7 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 14139570305 - Autumn - Add roof to fix oob (duckadvice)
+16292283569 - Mausoleum - Made start wall CanCollide True
 
 tested, pending upload:
 
@@ -22,6 +23,9 @@ submitted fixes (no wipe):
 16249294098 - Poly_Mount - Remade anti tele to prevent standing on it (Abusing times will be deleted manually)
 16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually)
 16250123347 - Regret - Resized start and end zone to prevent shenanigans and disabled Cast Shadow so you can see map (Abusing times will be deleted manually)
+16292196368 - Andromeda - Fixed obscure oob (Abusing times will be deleted manually)
+16292266893 - Clique - Fixed obscure oob/start zone abuse (Abusing times will be deleted manually)
+
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
