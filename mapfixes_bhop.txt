@@ -46,6 +46,7 @@ submitted fixes need add map data:
 16233744964 - Jon - Nerfed map and fixed impossible part
 16234113783 - Fus - Moved map closer to origin
 15282887072 - City Fun - Fixed headhits and altered weird triggers
+16314753937 - Impulse - Made map larger (about 20%), increased height of doors so you don't hit your head on them as easily, updated lighting for Future lighting
 
 rejected fixes, additional fix notes:
 10060990749 - Synced V2 (COPYLOCKED) - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs) - This map loads a script with require in the lighting script.
