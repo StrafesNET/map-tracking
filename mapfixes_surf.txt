@@ -50,4 +50,3 @@ rejected fixes, additional fix notes:
 16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above.
 16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
 16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above above.
-16292266893 - Clique - Fixed obscure oob/start zone abuse (Abusing times will be deleted manually) - unsure if this one also moves the start zone
