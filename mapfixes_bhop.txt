@@ -26,15 +26,6 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
-16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss
-15928919929 - Larena - Fixed door height to prevent bonking
-16250108174 - Avery - Removed door collision and added walls to prevent oob (Oob abusing times will be deleted manually)
-16250060874 - Translucidity v2 - Added invis wall and ceiling to prevent oob, Zoned Bonus (Oob abusing times will be deleted manually)
-16259604701 - Haarukka - Fixed oob (Oob abusing times will be deleted manually)
-16259639709 - Phunedmonium - Fixed oob (Oob abusing times will be deleted manually)
-16259645880 - Swampy - Fixed lighting so end part is visible
-16259190305 - senpai - Fixed lighting so map more visible
-16259563380 - Legowo - Removed random oob trigger and blocked wall to stop oob (Oob abusing times will be deleted manually)
 
 add map data:
 
@@ -57,3 +48,4 @@ rejected fixes, additional fix notes:
 3889303022 bhop-fus - fixed lighting problems on first stage - still suffers from sliding on spawns
 14311240482 - High segdaB - The physics bug as described in map_issues.txt does not appear to be happening anymore. Fixed impossible jump towards the end - brah this map sucks I'm deleting it
 13118097070 - Y - Re-port using import plugin. Scaled up. - excuse me the boosters aren't supposed to give horizontal boost
+16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss - this should be fixed in the physics, not like this

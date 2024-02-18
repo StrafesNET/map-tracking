@@ -14,17 +14,6 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 13454303343 - Hi Everyone - Updated boosters on green and changed blue slightly. Wipe bonus.
-16235040515 - Leek (spin) - Fixed an oob through the bonus hub (Oob abusing times will be deleted manually)
-16235204034 - Beginner - Added invis roof to fix oob (Oob abusing times will be deleted manually)
-16249175292 - Ice - Fixed oob + remade anti tele to prevent standing on it (Abusing times will be deleted manually)
-16249212674 - Apex II - Removed tree collision to prevent heigh advantage from leaving and re entering start zone (Abusing times will be deleted manually)
-16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually)
-16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually)
-16249294098 - Poly_Mount - Remade anti tele to prevent standing on it (Abusing times will be deleted manually)
-16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually)
-16250123347 - Regret - Resized start and end zone to prevent shenanigans and disabled Cast Shadow so you can see map (Abusing times will be deleted manually)
-16292196368 - Andromeda - Fixed obscure oob (Abusing times will be deleted manually)
-16292266893 - Clique - Fixed obscure oob/start zone abuse (Abusing times will be deleted manually)
 
 
 add map data:
@@ -57,3 +46,8 @@ rejected fixes, additional fix notes:
 13634743943 - Ineffable 2 - made possible - ramp with z fighting causes physics issues 2 ramps before circle spin thing, map is harder because of tall hitbox
 14122828826 - Sandstorm Supergiant - made possible - not adjusted for new physics enough, lighting needs fix
 14422792918 - Regret - Fixed oob & MapFinish sizing - it's insanely dark
+16250123347 - Regret - Resized start and end zone to prevent shenanigans and disabled Cast Shadow so you can see map (Abusing times will be deleted manually) - changing the position of the start zone requires a full wipe since the bots are based on the start zone position.  Is this really worth a full wipe?
+16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above.
+16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
+16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above above.
+16292266893 - Clique - Fixed obscure oob/start zone abuse (Abusing times will be deleted manually) - unsure if this one also moves the start zone
