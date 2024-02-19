@@ -18,7 +18,6 @@ submitted fixes (no wipe):
 16169077606 - Underworld - fixed spines & closer to (0,0,0) (duckadvice)
 16145757351 - Startup - fixed spines & donut ramps (duckadvice)
 16145961137 - Chimera - fixed oob (duckadvice, offending times will be deleted manually)
-16279647725 - Andromeda - fixed oob, patched rock surf/hop at start (duckadvice)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
