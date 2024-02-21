@@ -13,6 +13,11 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
+Avery - Removed door collision and added walls to prevent oob (WIPE FLY TRIALS ONLY)
+Translucidity v2 - Added invis wall and ceiling to prevent oob, Zoned Bonus (WIPE FLY TRIALS ONLY)
+Haarukka - Fixed oob (WIPE FLY TRIALS ONLY)
+Phunedmonium - Fixed oob (WIPE FLY TRIALS ONLY)
+Legowo - Removed random oob trigger and blocked wall to stop oob (WIPE FLY TRIALS ONLY)
 
 tested, pending upload & wipe:
 13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip - aidan and miners were arguing about whether to just make the rng scrip consistent instead and avoid a wipe

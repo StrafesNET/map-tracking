@@ -3,6 +3,10 @@ uncategorized:
 upload but don't add to game:
 
 uploaded, wipe:
+Leek (spin) - Fixed an oob through the bonus hub (WIPE FLY TRIALS ONLY)
+Beginner - Added invis roof to fix oob (WIPE FLY TRIALS ONLY)
+Ice - Fixed oob + remade anti tele to prevent standing on it (WIPE FLY TRIALS ONLY)
+Andromeda - Fixed obscure oob (WIPE FLY TRIALS ONLY)
 
 tested, pending upload & wipe:
 
