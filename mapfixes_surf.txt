@@ -3,18 +3,25 @@ uncategorized:
 upload but don't add to game:
 
 uploaded, wipe:
+Leek (spin) - Fixed an oob through the bonus hub (WIPE FLY TRIALS ONLY)
+Beginner - Added invis roof to fix oob (WIPE FLY TRIALS ONLY)
+Ice - Fixed oob + remade anti tele to prevent standing on it (WIPE FLY TRIALS ONLY)
+Andromeda - Fixed obscure oob (WIPE FLY TRIALS ONLY)
 
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 14139570305 - Autumn - Add roof to fix oob (duckadvice)
+16292283569 - Mausoleum - Made start wall CanCollide True
+16279647725 - Andromeda - fixed oob, patched rock surf/hop at start (duckadvice)
 
 tested, pending upload:
 
 submitted fixes (no wipe):
 13454303343 - Hi Everyone - Updated boosters on green and changed blue slightly. Wipe bonus.
-16235040515 - Leek (spin) - Fixed an oob through the bonus hub (Oob abusing times will be deleted manually)
-16235204034 - Beginner - Added invis roof to fix oob (Oob abusing times will be deleted manually)
+16169077606 - Underworld - fixed spines & closer to (0,0,0) (duckadvice)
+16145757351 - Startup - fixed spines & donut ramps (duckadvice)
+16145961137 - Chimera - fixed oob (duckadvice, offending times will be deleted manually)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
@@ -30,6 +37,8 @@ submitted fixes need add map data:
 15268254465 - Borderlands - Closer to 0,0,0. Each stage has its own sphere skybox. Spines fixed.
 15405115716 - Frost Nova - Spawn and ramps fixed.
 16214270894 - Abseil - Fix the bad ramps and spines, general cleanup
+16127842262 - Golden Glory - Fixed ramps finally (duckadvice)
+14502969054 - Desolate - Redone ramps to be smooth (duckadvice)
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
@@ -46,3 +55,7 @@ rejected fixes, additional fix notes:
 13634743943 - Ineffable 2 - made possible - ramp with z fighting causes physics issues 2 ramps before circle spin thing, map is harder because of tall hitbox
 14122828826 - Sandstorm Supergiant - made possible - not adjusted for new physics enough, lighting needs fix
 14422792918 - Regret - Fixed oob & MapFinish sizing - it's insanely dark
+16250123347 - Regret - Resized start and end zone to prevent shenanigans and disabled Cast Shadow so you can see map (Abusing times will be deleted manually) - changing the position of the start zone requires a full wipe since the bots are based on the start zone position.  Is this really worth a full wipe?
+16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above.
+16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
+16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above above.
