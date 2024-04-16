@@ -42,8 +42,7 @@ submitted fixes need add map data:
 16214270894 - Abseil - Fix the bad ramps and spines, general cleanup
 16127842262 - Golden Glory - Fixed ramps finally (duckadvice)
 14502969054 - Desolate - Redone ramps to be smooth (duckadvice)
-17156265575 - Obscurity - no changes. map tested and works perfectly fine
-
+17156265575 - Obscurity - Fixed desync issues with start
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
 770953991 - Halloween - ramp fix - spines still bad, candy corn stage is unnecessarily hard due to the hitbox, some ramps kill you
