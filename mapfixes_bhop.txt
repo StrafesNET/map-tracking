@@ -26,11 +26,15 @@ submitted fixes (wipe times):
 12687188945 - Reddish - misplaced invisible wall fixed, wall wedge at the end is now collidable (do not wipe bonus times)
 15563027754 - Zyper - Changed the mesh stage's collision to Triggers instead of Platforms to prevent speed boost
 16204975834 - Dumb Blocks 4 - Fixed slopes to prevent edgeboosting at high speeds (wipe faste only)
+17156538520 - Neon Vibes V2 - Fix trigger skip near end and zoned bonus 
 16260710389 - Y - Fixed boosters giving horizontal speed
 
 tested, pending upload:
 
 submitted fixes (no wipe):
+16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss
+15928919929 - Larena - Fixed door height to prevent bonking
+17153255171 - Sqee - Added sqee short as bonus
 16503936411 - Questionable Trials - Fixed being able to do a diffcult jump around teleport
 
 add map data:
