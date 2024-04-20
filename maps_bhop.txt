@@ -132,6 +132,7 @@
 5692128623 - Dusty Run
 5692094911 - Easyhop
 5692128654 - Eazy v2
+17279580202 - Eco
 5692105913 - Elysian
 5692175462 - Emblem
 5692105269 - Emblem 2
@@ -141,6 +142,7 @@
 13026161384 - Emblem 6
 5692170984 - Emblem Easy
 5692098438 - Emily
+17279504532 - Epic Minigames
 8658931706 - Epiphany (Short)
 5692180097 - Eskay
 5693295292 - FL Eli
@@ -305,6 +307,7 @@
 5692094874 - Rezar
 5692122817 - Rin
 5692157943 - Rising
+17279537097 - RnF
 5692098057 - Ruined
 6115154920 - Ruined
 5692094344 - Ruins
@@ -355,6 +358,7 @@
 5692144303 - Swamp
 5692094060 - Swampy
 5692098505 - Switch
+17279524641 - Symphony
 8777462556 - Synced V2
 5692093530 - Synergy
 5692093654 - TaiShi
@@ -387,6 +391,7 @@
 5692138772 - Tyle
 5692111744 - Ultimate
 6115162767 - Vacation
+17279574839 - Valley of the Kings
 8658985772 - Vastum Desertum
 5692138930 - Venerial
 5692139302 - Vertigo

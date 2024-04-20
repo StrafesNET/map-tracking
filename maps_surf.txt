@@ -47,6 +47,7 @@
 5692133851 - Brain Power
 5692176669 - Brick
 8777490010 - Bubble Gum
+17279548931 - Bugs
 8777492451 - Bunker
 11222403629 - Castle
 13026307623 - Catalog
@@ -90,6 +91,7 @@
 5692124282 - Dizzy
 5692163819 - Docile
 5692107850 - Drains
+17279567369 - Drake (rapper)
 6111249192 - Dry
 5692158258 - Dunes
 5692158651 - Dystopia
@@ -137,11 +139,13 @@
 5692123964 - Kori
 5692144676 - Kyoto
 13026323652 - Lab
+17279459060 - Lane
 5692134991 - Lavender
 13026270460 - Leek (spin)
 5692169147 - Lezgo
 5692093937 - Lezgo II
 5692164379 - Lines
+17279596129 - Lowest Bidder
 5692128389 - Luck
 5692132999 - Lumber
 6111026986 - Luminous
@@ -244,6 +248,7 @@
 5692180800 - Sprite
 5692134845 - Startup
 5692169817 - Stones
+17279518087 - Straferooms
 5692139573 - Submerged
 6111778814 - Substructure
 5692170390 - Summerland
@@ -262,6 +267,7 @@
 8659339332 - Today
 5692133932 - Tom Cruise
 5692127627 - Tranquil
+17279603806 - Treespam
 5692158544 - Trikz Cloud
 5692123475 - Trigger
 14672463457 - Trippy
