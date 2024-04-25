@@ -19,12 +19,6 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 13454303343 - Hi Everyone - Updated boosters on green and changed blue slightly. Wipe bonus.
-16169077606 - Underworld - fixed spines & closer to (0,0,0) (duckadvice)
-16145757351 - Startup - fixed spines & donut ramps (duckadvice)
-16145961137 - Chimera - fixed oob (duckadvice, offending times will be deleted manually)
-17155670131 - Utopia - fixed startzone floor
-17156180271 - Seventy-Two Percent more Pineapple - fixed skip directly to end (offending times will be deleted manually)
-17110372257 - Secton - zoned bonus properly 
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
