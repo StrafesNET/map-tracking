@@ -4,17 +4,11 @@ bhop (last map timestamped 1665281503)
 
 frontlog:
 1046910594 - BlackRockShooter
-13062616326 - copylocked / ???
 
 accepted:
-15338619103 - April AoR
-15197949489 - April AoR
-15708966260 - April AoR
-13062616326 - April AoR
-410109246 - April AoR
-10876401081 - April AoR
-5903878770 - April AoR
-14352056852 - April AoR
+410109246 - RPG - too difficult to review scripts atm
+15708966260 - Quaint - blocked due to lighting changer
+10876401081 - Bleak, Bland, and Boring - blocked due to lighting changer
 
 not in inventory:
 

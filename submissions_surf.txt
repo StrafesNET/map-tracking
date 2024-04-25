@@ -8,16 +8,10 @@ frontlog:
 12133157692 | Name: Munze | Creator/s: JorusRetorak, PracticalYogi - "gameplay is awkward at the end, some ramps need spine fix" also bonus doesn't work
 
 accepted:
-16466575161 - innokia (map accepted but never added from last aor, map is completed and ready to be added)
-13108398980 - April AoR
-15098324134 - April AoR
-15988015991 - April AoR
-16444964391 - April AoR
-16718662671 - April AoR
-14610325419 - April AoR
-16445493983 - April AoR
-12407118915 - April AoR
-2637378302 - April AoR
+16466575161 - Innokia - map maker no longer wants the map to be accepted
+13108398980 - Ductile - too difficult to review scripts atm
+16444964391 - Lauren - too difficult to review scripts atm
+16718662671 - Pastel - too difficult to review scripts atm
 
 changes requested:
 13368824399 - surf_quickie - make the surfaces on the surfs cancollide true or raise the surfs to avoid smashing into flush triggers
