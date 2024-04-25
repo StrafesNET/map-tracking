@@ -9,8 +9,6 @@ frontlog:
 
 accepted:
 16466575161 - Innokia - map maker no longer wants the map to be accepted
-13108398980 - Ductile - too difficult to review scripts atm
-16444964391 - Lauren - too difficult to review scripts atm
 
 changes requested:
 13368824399 - surf_quickie - make the surfaces on the surfs cancollide true or raise the surfs to avoid smashing into flush triggers
