@@ -235,7 +235,6 @@ bumpy ramps (all surf maps):
 5692140916 - Xenomorphic
 
 new physics bug (bhop):
-5692133764 - City Fun - fix start, maybe gameplay fixes
 5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
 5692093067 - MooManChicken - fix lighting
 8777477389 - Ötökkä - trigger is inside of spawn making an infinite loop, model is at insane position values
