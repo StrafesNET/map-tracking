@@ -7,8 +7,8 @@ frontlog:
 
 accepted:
 410109246 - RPG - too difficult to review scripts atm
-15708966260 - Quaint - blocked due to lighting changer
-10876401081 - Bleak, Bland, and Boring - blocked due to lighting changer
+15708966260 - Quaint - blocked due to lighting changer (FIXED: 17280867135)
+10876401081 - Bleak, Bland, and Boring - blocked due to lighting changer (FIXED: 17281026185, not taken by bot cause bug)
 
 not in inventory:
 
