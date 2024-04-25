@@ -22,15 +22,6 @@ submitted fixes (no wipe):
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
-14057284225 - Vacancy - ramp fix + bonus zones (duckadvice)
-14502969054 - Desolate - ramp fix (duckadvice & qban)
-15267036868 - Zor - Spines fix. Oob fix.
-15268254465 - Borderlands - Closer to 0,0,0. Each stage has its own sphere skybox. Spines fixed.
-15405115716 - Frost Nova - Spawn and ramps fixed.
-16214270894 - Abseil - Fix the bad ramps and spines, general cleanup
-16127842262 - Golden Glory - Fixed ramps finally (duckadvice)
-14502969054 - Desolate - Redone ramps to be smooth (duckadvice)
-17156265575 - Obscurity - Fixed desync issues with start
 
 tested, pending upload & add map data:
 
