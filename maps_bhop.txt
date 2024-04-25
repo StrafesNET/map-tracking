@@ -112,6 +112,7 @@
 5692127664 - Doms
 5692170187 - Down hill
 5692104325 - DownDownDown
+5692103788 - Downfall
 5692152492 - Dracula's Revenge
 5692132697 - Drain 2
 5692181077 - Dream
@@ -160,6 +161,7 @@
 5692099699 - FrostBite
 5692123338 - FrozenRuins
 11492688731 - Fur
+5692152419 - Fus
 5692145082 - Futurebound
 13548513664 - Glacial
 5692153515 - Go
@@ -195,10 +197,12 @@
 5692153202 - IceHoppers
 8777452023 - IdiotHop
 5692117445 - Im Eating a Bagel
+5692099285 - Impulse
 5692180875 - Island Adventure
 5692124338 - Iso
 5692104352 - JakeThe_God
 5692117722 - Jolt
+5692180285 - Jon
 5692106249 - July
 5692123054 - Juma
 11222383793 - Just One Stage
