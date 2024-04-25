@@ -9,7 +9,7 @@ frontlog:
 
 accepted:
 16466575161 - Innokia - map maker no longer wants the map to be accepted
-13108398980 - Ductile - too difficult to review scripts atm
+15469812686 - Ductile - got rid of ugly scripts >:( they did nothing
 17235309304 - Lauren - fixed scripts have a look :)
 
 changes requested:
