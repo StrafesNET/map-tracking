@@ -28,12 +28,6 @@ submitted fixes (no wipe):
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
-
-tested, pending upload & add map data:
-2637387680 - Accident 2 - fixed halloween stage
-
-submitted fixes need add map data:
-569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 14057284225 - Vacancy - ramp fix + bonus zones (duckadvice)
 14502969054 - Desolate - ramp fix (duckadvice & qban)
 15267036868 - Zor - Spines fix. Oob fix.
@@ -43,6 +37,12 @@ submitted fixes need add map data:
 16127842262 - Golden Glory - Fixed ramps finally (duckadvice)
 14502969054 - Desolate - Redone ramps to be smooth (duckadvice)
 17156265575 - Obscurity - Fixed desync issues with start
+
+tested, pending upload & add map data:
+2637387680 - Accident 2 - fixed halloween stage
+
+submitted fixes need add map data:
+569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???

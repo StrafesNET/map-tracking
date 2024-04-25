@@ -38,17 +38,17 @@ submitted fixes (no wipe):
 16503936411 - Questionable Trials - Fixed being able to do a diffcult jump around teleport
 
 add map data:
+16233380749 - Downfall - Raised doorways and fixed impossible part
+16233744964 - Jon - Nerfed map and fixed impossible part
+16234113783 - Fus - Moved map closer to origin
+16314753937 - Impulse - Made map larger (about 20%), increased height of doors so you don't hit your head on them as easily, updated lighting for Future lighting
 
 tested, pending upload & add map data:
 
 submitted fixes need add map data:
 13815854648 - Clarion - Map was removed from game. I removed the "alternate reality" part for now. There's probably a way to make it work on new phsyics but I don't care. Also updated lighting for Future lighting.
-16233380749 - Downfall - Raised doorways and fixed impossible part
-16233744964 - Jon - Nerfed map and fixed impossible part
-16234113783 - Fus - Moved map closer to origin
-15282887072 - City Fun - Fixed headhits and altered weird triggers
-16314753937 - Impulse - Made map larger (about 20%), increased height of doors so you don't hit your head on them as easily, updated lighting for Future lighting
-16443363311 - Minecraft - Some alterations for new physics (Map missing for some reason despite being mostly fine)
+15282887072 - City Fun - Fixed headhits and altered weird triggers - the model name should be lower case with no spaces
+16443363311 - Minecraft - Some alterations for new physics (Map missing for some reason despite being mostly fine) - where is the StrafesNET model ID for this map?  I can't find it in map_issues.txt
 
 rejected fixes, additional fix notes:
 10060990749 - Synced V2 (COPYLOCKED) - Fixed RNG jump next to ladder (moved rock blocks up 0.2 studs) - This map loads a script with require in the lighting script.

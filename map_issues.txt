@@ -195,7 +195,6 @@ too short:
 
 bumpy ramps (all surf maps):
 5692164341 - 123 - the flat ramps are bumpy
-5692169862 - Abseil - bumpy ramps, specifically one ramp needs the middle part to be the same size as the wedges
 8659318774 - Accident 2 - candy corn stage
 5692174829 - Achromatic - generic bumpy ramps, playtest to fix
 5692163859 - Aether - antitele traps you
@@ -212,10 +211,8 @@ bumpy ramps (all surf maps):
 6111008494 - Error - every curved ramp
 6111010028 - Farewell
 5692158577 - Fort - align spines
-5692158924 - Frost Nova - also fix start
 5692153669 - Gimmick
 5692135297 - Glass II - make edges cancollide false
-HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 5692146367 - Ineffable
 5692158834 - Intercosmic
 5692164006 - Luck2 - fix all spines
@@ -223,7 +220,6 @@ HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 5692113509 - Memorial
 5692174281 - Newt Two
 5692134709 - O-oh hi-i t-there, J-J-Jill - especially 2nd ramp
-5692180913 - Obscurity - make the trim cancollide false
 5692094206 - Obsidium
 5692133386 - Reflectoria
 5692175668 - Reskea
@@ -240,11 +236,7 @@ HUB FIXED - 5692134571 - Golden Glory - make ramps 1 part instead of 2
 
 new physics bug (bhop):
 5692133764 - City Fun - fix start, maybe gameplay fixes
-5692103788 - Downfall - hitbox harder
-5692152419 - Fus - move stages closer together and closer to 0,0,0
-5692099285 - Impulse - no map issues, just everyone thinks the whole port should be redone
 5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
-5692180285 - Jon - hitbox hard
 5692093067 - MooManChicken - fix lighting
 8777477389 - Ötökkä - trigger is inside of spawn making an infinite loop, model is at insane position values
 
@@ -253,10 +245,8 @@ new physics bug (surf):
 5692181503 - 15 Minutes - OOB
 5692108009 - 456 - spin is impossible
 5692128954 - Azurite - fix start & make window wider by 2.2
-5692169729 - Borderlands - some spines need to be fixed, far from 0,0,0, skybox is wrong lighting doesn't load
 5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
 5692102646 - Compact - can't leave spawn
-6111005316 - Desolate - ramps are weird and buggy, you phase through the second ramp
 5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
 5732181194 - Ethereal - "under the void" issue
 5692104185 - Flandre II - needs spine fixes, some ramps hitboxes are wrong somehow on blue and green stages, and move closer to 0,0,0
@@ -281,7 +271,6 @@ new physics bug (surf):
 5692176099 - Tumb 2 - very small holes, too hard with new hitbox
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
-5692093974 - Zor - last ramp spine
 
 ======== THE QUAT ZONE ========
 
@@ -293,7 +282,6 @@ teleport fix will resolve:
 8659334600 - Reinforced - spawn in ground
 5692163537 - Reverse - spawn in ground
 5692165177 - Trying Again - spawn in ground
-5692146718 - Vacancy - spawn in ground, make bonus zones
 
 moving parts:
 5692151548 - Beach - is this even worth saving?  remove shadows
