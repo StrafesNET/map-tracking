@@ -195,6 +195,7 @@
 5692127919 - Paragov
 5692117524 - Parallel (Linear)
 5692132972 - Parodygov
+17281267900 - Pastel
 5692127874 - Pathway
 5692122495 - Pathway II
 5692128557 - Pathway III
