@@ -102,7 +102,7 @@
 11222420770 - Elementary
 5692113121 - Ephemeral
 5692093216 - Evolcase
-2637351352 - Example Map
+15718157293 - Example Map
 5692174328 - Exile
 5692113242 - Existence
 13026310423 - Extirpate
@@ -111,7 +111,7 @@
 5692111833 - Fifty Percent More Pineapple
 5692140338 - Flandre
 5692118014 - Frantic Lemon
-12062216772 - Frigid
+15718172103 - Frigid
 5692158924 - Frost Nova
 8659331841 - Giza
 5692134571 - Golden Glory
@@ -140,7 +140,7 @@
 5692113587 - Kairos
 5692165267 - Karakai Jozu no Takagi-san
 5692157375 - Kitsune - fix visuals
-14684714890 - Koa
+15718222939 - Koa
 5692123964 - Kori
 5692144676 - Kyoto
 13026323652 - Lab
@@ -264,7 +264,7 @@
 5692118492 - Telehop
 5692108338 - Temple
 5692102897 - Tetratronic
-14342734258 - Termite
+15718214399 - Termite
 5692118058 - The Crest Experience
 5692134653 - The Flash
 5692118622 - The Wanderer
@@ -277,7 +277,7 @@
 17279603806 - Treespam
 5692158544 - Trikz Cloud
 5692123475 - Trigger
-14672463457 - Trippy
+15718219919 - Trippy
 5692164554 - TrueCetric
 5692133047 - Tube Tactics
 5692182099 - Tumb
@@ -290,7 +290,7 @@
 5692145408 - Utopia
 5692146718 - Vacancy
 5692118696 - Valpect
-15260200060 - Vanish 2
+15718235290 - Vanish 2
 13801537086 - Vast
 13548523662 - Venust
 5692122448 - Vertigo
