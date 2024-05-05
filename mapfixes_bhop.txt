@@ -18,6 +18,7 @@ Translucidity v2 - Added invis wall and ceiling to prevent oob, Zoned Bonus (WIP
 Haarukka - Fixed oob (WIPE FLY TRIALS ONLY)
 Phunedmonium - Fixed oob (WIPE FLY TRIALS ONLY)
 Legowo - Removed random oob trigger and blocked wall to stop oob (WIPE FLY TRIALS ONLY)
+Danmark - Added anticheat zone (WIPE FLY TRIALS ONLY)
 
 tested, pending upload & wipe:
 13546392986 - Moderated - Fix the start trigger skip and later rng trigger skip - aidan and miners were arguing about whether to just make the rng scrip consistent instead and avoid a wipe
@@ -32,7 +33,6 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
-17400340033 - Danmark - Added an anticheat so people stop trynna edgeboost and skip the entire map (Flytrials will most definitely need a wipe, bhop will most definitely not)
 
 add map data:
 
