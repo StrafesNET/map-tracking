@@ -33,6 +33,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 13546392986 - Moderated - Fix later rng trigger skip to be consistent (no wipes required since it just makes the existing route not luck dependant)
+17603601087 - Fus - add bonus zones
 
 add map data:
 
