@@ -14,6 +14,10 @@ submitted fixes (wipe times):
 14139570305 - Autumn - Add roof to fix oob (duckadvice)
 16292283569 - Mausoleum - Made start wall CanCollide True
 16279647725 - Andromeda - fixed oob, patched rock surf/hop at start (duckadvice)
+17621607942 - Ashes - Fix the s3 skip, fix broken startzone (in more ways than one), prevent resurfing onto antitele, cancollide some important walls, zone the bonus, possibly even more stuff that was broken. Needs complete wiping
+17621471458 - Mane Six - Fix oob (only delete faste and 1st place auto)
+14411411513 - Vivid - Fix a trigger skip on s3 and prevent resurfing (only delete top 7 + 10th auto)
+14412797326 - Vivid Hard - Fix a trigger skip on s3 and prevent resurfing (only delete top 2 auto)
 
 tested, pending upload:
 
