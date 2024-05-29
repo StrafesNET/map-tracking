@@ -18,15 +18,26 @@ submitted fixes (wipe times):
 17621471458 - Mane Six - Fix oob (only delete faste and 1st place auto)
 14411411513 - Vivid - Fix a trigger skip on s3 and prevent resurfing (only delete top 7 + 10th auto)
 14412797326 - Vivid Hard - Fix a trigger skip on s3 and prevent resurfing (only delete top 2 auto)
+1871358186 - Lines - fixed oob skip (not sure if needs wipe but putting here just incase theres still times with the skip)
 
 tested, pending upload:
 
 submitted fixes (no wipe):
 13454303343 - Hi Everyone - Updated boosters on green and changed blue slightly. Wipe bonus.
 17309316407 - Who Knows 2 - fixed oob. wipe faste
+4361028005 - Hazardous
+1916184866 - Evolcase
+14502969054 - Desolate
+14057284225 - Vacancy
+14610325419 - Bugs - mapfix no times need deleting (fixed- textures/spawn zones/possible skip)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
+14996008390 - Halloween - possible, was in map before new physics
+16214270894 - Abseil
+17151025987 - Trumpwall2020
+17143740888 - Dionysus
+17150782885 - Rigorous
 
 tested, pending upload & add map data:
 
