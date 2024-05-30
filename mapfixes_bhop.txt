@@ -32,6 +32,8 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+17658570900 bhop_animal fixed by Roblox_Leo2510 - zoned bonus
+17659705846 bhop_crypt fixed by Roblox_leo2510 - zoned bonus
 
 add map data:
 
