@@ -19,6 +19,7 @@ submitted fixes (wipe times):
 14411411513 - Vivid - Fix a trigger skip on s3 and prevent resurfing (only delete top 7 + 10th auto)
 14412797326 - Vivid Hard - Fix a trigger skip on s3 and prevent resurfing (only delete top 2 auto)
 1871358186 - Lines - fixed oob skip (not sure if needs wipe but putting here just incase theres still times with the skip)
+441409904 - Clique - fixed oob skip (ONLY WIPE TIMES THAT USE SKIP)
 
 tested, pending upload:
 
