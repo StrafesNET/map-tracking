@@ -24,9 +24,19 @@ tested, pending upload:
 submitted fixes (no wipe):
 13454303343 - Hi Everyone - Updated boosters on green and changed blue slightly. Wipe bonus.
 17309316407 - Who Knows 2 - fixed oob. wipe faste
+14502969054 - Desolate - Ramp fixes, fixed ramp bugs (reason it wasn't added to new physics)
+14057284225 - Vacancy - Ramp fixes, fixed ramp bugs (reason it wasn't added to new physics)
+14610325419 - Bugs - mapfix no times need deleting (fixed- textures/spawn zones/possible skip)
+1871358186 - Lines - fixed oob skip (only wipe times that use skip, tsuwu is doing this)
+441409904 - Clique - fixed oob skip (ONLY WIPE TIMES THAT USE SKIP, tsuwu is doing this)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
+14996008390 - Halloween - All ramp bugs fixed and fps issue on first stage
+16214270894 - Abseil - Fixed multiple ramp bugs via remaking the ramps, Fixed lighting issues where the entire map would be blacked out by adding a lighting script, Fixed texture clipping that would be make some parts of the maps apperance stutter.
+17151025987 - Trumpwall2020 - Ramp fixes, fixed ramp bugs (reason it wasn't added to new physics)
+17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
+17150782885 - Rigorous - Adjusted holes for new physics and fixed ramp bug.
 
 tested, pending upload & add map data:
 
