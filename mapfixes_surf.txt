@@ -18,8 +18,6 @@ submitted fixes (wipe times):
 17621471458 - Mane Six - Fix oob (only delete faste and 1st place auto)
 14411411513 - Vivid - Fix a trigger skip on s3 and prevent resurfing (only delete top 7 + 10th auto)
 14412797326 - Vivid Hard - Fix a trigger skip on s3 and prevent resurfing (only delete top 2 auto)
-1871358186 - Lines - fixed oob skip (not sure if needs wipe but putting here just incase theres still times with the skip)
-441409904 - Clique - fixed oob skip (ONLY WIPE TIMES THAT USE SKIP)
 
 tested, pending upload:
 
@@ -29,6 +27,8 @@ submitted fixes (no wipe):
 14502969054 - Desolate - Ramp fixes, fixed ramp bugs (reason it wasn't added to new physics)
 14057284225 - Vacancy - Ramp fixes, fixed ramp bugs (reason it wasn't added to new physics)
 14610325419 - Bugs - mapfix no times need deleting (fixed- textures/spawn zones/possible skip)
+1871358186 - Lines - fixed oob skip (only wipe times that use skip, tsuwu is doing this)
+441409904 - Clique - fixed oob skip (ONLY WIPE TIMES THAT USE SKIP, tsuwu is doing this)
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
