@@ -32,6 +32,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+17675303460 - Island Adventure - Fixed lighting, you can now see on medium to high graphics
 
 add map data:
 
