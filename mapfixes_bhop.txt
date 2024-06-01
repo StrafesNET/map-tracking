@@ -33,6 +33,10 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 17675303460 - Island Adventure - Fixed lighting, you can now see on medium to high graphics
+17687644119 - Futurebound - Made the part above the 2nd warp not collidable, made the "decoration" parts not collidable (used to cause edge bounces), added an anticheat zone for faste edge bouncers
+17687645812 - Larena - Fixed the ramp for better gameplay, just resized so bots arent affected & no time resets required
+17687646732 - Sidle - Made all the platforms a single invisible platform, every visible part has no collision
+17687641499 - Barn - Made one of the black parts not collidable (forgot which one but it affected sideways runs mostly)
 
 add map data:
 
