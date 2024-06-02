@@ -28,6 +28,7 @@ submitted fixes (wipe times):
 16204975834 - Dumb Blocks 4 - Fixed slopes to prevent edgeboosting at high speeds (wipe faste only)
 17156538520 - Neon Vibes V2 - Fix trigger skip near end and zoned bonus 
 16260710389 - Y - Fixed boosters giving horizontal speed
+17713127460 - Aura - Fixed a faste skip + better zoning (Wipe top 3 Autohop and wipe all of faste, too many skipped times)
 
 tested, pending upload:
 
