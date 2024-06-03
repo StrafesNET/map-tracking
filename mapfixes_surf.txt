@@ -29,6 +29,9 @@ submitted fixes (no wipe):
 14610325419 - Bugs - mapfix no times need deleting (fixed- textures/spawn zones/possible skip)
 1871358186 - Lines - fixed oob skip (only wipe times that use skip, tsuwu is doing this)
 441409904 - Clique - fixed oob skip (ONLY WIPE TIMES THAT USE SKIP, tsuwu is doing this)
+17684261876 - Golden Glory - Can no longer fall through one of the ramps.
+4361028005 - Hazardous - Visual changes, no gameplay affected
+1916184866 - Evolcase - Visual changes, no gameplay affected
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
