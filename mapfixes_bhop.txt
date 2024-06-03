@@ -29,6 +29,12 @@ submitted fixes (wipe times):
 17156538520 - Neon Vibes V2 - Fix trigger skip near end and zoned bonus 
 16260710389 - Y - Fixed boosters giving horizontal speed
 17713127460 - Aura - Fixed a faste skip + better zoning (Wipe top 3 Autohop and wipe all of faste, too many skipped times)
+17718271683 - Translucidity v2 - Added more invisible walls to prevent OOB bugs (Wipe faste times for under 1:28 seconds)
+17718596309 - Woods - Fixed several faste skips + an autohop skip (Wipe top Faste and Autohop skips that pass through anti cheat)
+17718776962 - Overgrown - Fixed several OOB possibilities (Wipe FLY TRIALS ONLY)
+17718806462 - Bubblegum - Fixed Faste OOB surf (Wipe any faste time that OOBs with the surf)
+17719226130 - Zyper - Fixed a faste Surf to skip most of the map (Wipe top Faste times only)
+
 
 tested, pending upload:
 
