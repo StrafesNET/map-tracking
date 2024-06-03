@@ -19,26 +19,25 @@ Haarukka - Fixed oob (WIPE FLY TRIALS ONLY)
 Phunedmonium - Fixed oob (WIPE FLY TRIALS ONLY)
 Legowo - Removed random oob trigger and blocked wall to stop oob (WIPE FLY TRIALS ONLY)
 Danmark - Added anticheat zone (WIPE FLY TRIALS ONLY)
+UTC timestamp for above fixes: 1708465380
+
+16260710389 - Y - Fixed boosters giving horizontal speed
 
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
-12687188945 - Reddish - misplaced invisible wall fixed, wall wedge at the end is now collidable (do not wipe bonus times)
-15563027754 - Zyper - Changed the mesh stage's collision to Triggers instead of Platforms to prevent speed boost
-16204975834 - Dumb Blocks 4 - Fixed slopes to prevent edgeboosting at high speeds (wipe faste only)
-17156538520 - Neon Vibes V2 - Fix trigger skip near end and zoned bonus 
-16260710389 - Y - Fixed boosters giving horizontal speed
-17713127460 - Aura - Fixed a faste skip + better zoning (Wipe top 3 Autohop and wipe all of faste, too many skipped times)
-17718271683 - Translucidity v2 - Added more invisible walls to prevent OOB bugs (Wipe faste times for under 1:28 seconds)
-17718596309 - Woods - Fixed several faste skips + an autohop skip (Wipe top Faste and Autohop skips that pass through anti cheat)
-17718776962 - Overgrown - Fixed several OOB possibilities (Wipe FLY TRIALS ONLY)
-17718806462 - Bubblegum - Fixed Faste OOB surf (Wipe any faste time that OOBs with the surf)
-17719226130 - Zyper - Fixed a faste Surf to skip most of the map (Wipe top Faste times only)
-
+17713127460 - Aura (wipe Main Faste + Main Auto hand-delete top 3) - Fixed a faste skip + better zoning
+17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
+17156538520 - Neon Vibes V2 - Fix trigger skip near end and zoned bonus
+17718776962 - Overgrown (Wipe FLY TRIALS ONLY) - Fixed several OOB possibilities 
+17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
+17718596309 - Woods (hand-delete offending Main Faste + Main Auto using skips) - Fixed several faste skips + an autohop skip
 
 tested, pending upload:
 
 submitted fixes (no wipe):
+15563027754 - Zyper - Changed the mesh stage's collision to Triggers instead of Platforms to prevent speed boost
+17719226130 - Zyper - Fixed a faste Surf to skip most of the map (delete top Faste times using the skip only)
 17675303460 - Island Adventure - Fixed lighting, you can now see on medium to high graphics
 17687644119 - Futurebound - Made the part above the 2nd warp not collidable, made the "decoration" parts not collidable (used to cause edge bounces), added an anticheat zone for faste edge bouncers
 17687645812 - Larena - Fixed the ramp for better gameplay, just resized so bots arent affected & no time resets required
@@ -63,3 +62,5 @@ rejected fixes, additional fix notes:
 13118097070 - Y - Re-port using import plugin. Scaled up. - excuse me the boosters aren't supposed to give horizontal boost
 16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss - this should be fixed in the physics, not like this - same opinion as before, this is a workaround and not a root cause and makes the map worse for casual players
 16503936411 - Questionable Trials - Fixed being able to do a difficult jump around teleport - script loaders are not allowed, use a Script with RunContext set to Client
+16204975834 - Dumb Blocks 4 (wipe Main Faste) - Fixed slopes to prevent edgeboosting at high speeds - polled to 62%
+12687188945 - Reddish (wipe Main All) - misplaced invisible wall fixed, wall wedge at the end is now collidable - polled to 52%
