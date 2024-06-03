@@ -123,6 +123,7 @@
 5692164584 - Green
 5692170433 - Grid
 6111251983 - Grid 2
+5692169375 - Halloween
 5692170798 - Hello
 13548537131 - Hi Everyone
 5692123834 - Hole In One
@@ -220,6 +221,7 @@
 8659335898 - Reinforced 2
 5692118352 - Reprise
 5692174368 - Retrospect
+5692157460 - Rigorous
 5692127566 - Rojo - surf history
 5692124134 - Rojo Rebirth
 5692151184 - Rookie
@@ -281,6 +283,7 @@
 5692123475 - Trigger
 15718219919 - Trippy
 5692164554 - TrueCetric
+5692153444 - Trumpwall2020
 5692133047 - Tube Tactics
 5692182099 - Tumb
 5692145262 - Tunneler Blues

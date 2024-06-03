@@ -259,14 +259,12 @@ new physics bug (surf):
 5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
 5692135126 - Reprise Hard - spine next to trigger can get hit
 5692107810 - Resilience - impossible: hitbox harder - moving decoration
-5692157460 - Rigorous - impossible, gap too small fix all gaps
 5692165474 - Royal - ramps are multiple parts, use SetVelocity for anti tele
 5692174627 - S'mores
 5692133134 - Sand Flow - hitbox hard
 6111031896 - Sandstorm Supergiant - hitbox hard
 5692134185 - Shade - hitbox harder, fix diamond hitbox
 5692170594 - Strawberry Avalanche - getting triggered at end
-5692153444 - Trumpwall2020 - impossible
 5692176099 - Tumb 2 - very small holes, too hard with new hitbox
 5692118585 - Verde - fix last stage spawn
 5692124370 - Void - invisible part at start
@@ -292,6 +290,5 @@ bhop_technicolor - moving decorations
 5692128595 - Sand Temple - hitbox hard - moving platforms work now but still buggy if you get rough
 
 multitouch:
-HUB FIXED - 5692169375 - Halloween - start zone multitouch, spines
 5692104445 - Zany - 10s - sliding in start
 5692145827 - bhop_white_on_blue - sliding in start
