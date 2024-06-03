@@ -29,7 +29,6 @@ tested, pending upload:
 submitted fixes (no wipe):
 15563027754 - Zyper - Changed the mesh stage's collision to Triggers instead of Platforms to prevent speed boost
 17719226130 - Zyper - Fixed a faste Surf to skip most of the map (delete top Faste times using the skip only)
-12687188945 - Reddish - removed the Jump1 at map spawn, revamped the map finish, fixed misplaced invisible wall
 
 add map data:
 
