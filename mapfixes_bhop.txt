@@ -13,15 +13,6 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
-Avery - Removed door collision and added walls to prevent oob (WIPE FLY TRIALS ONLY)
-Translucidity v2 - Added invis wall and ceiling to prevent oob, Zoned Bonus (WIPE FLY TRIALS ONLY)
-Haarukka - Fixed oob (WIPE FLY TRIALS ONLY)
-Phunedmonium - Fixed oob (WIPE FLY TRIALS ONLY)
-Legowo - Removed random oob trigger and blocked wall to stop oob (WIPE FLY TRIALS ONLY)
-Danmark - Added anticheat zone (WIPE FLY TRIALS ONLY)
-UTC timestamp for above fixes: 1708465380
-
-16260710389 - Y - Fixed boosters giving horizontal speed
 
 tested, pending upload & wipe:
 

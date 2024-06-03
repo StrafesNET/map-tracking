@@ -3,17 +3,6 @@ uncategorized:
 upload but don't add to game:
 
 uploaded, wipe:
-Leek (spin) - Fixed an oob through the bonus hub (WIPE FLY TRIALS ONLY)
-Beginner - Added invis roof to fix oob (WIPE FLY TRIALS ONLY)
-Ice - Fixed oob + remade anti tele to prevent standing on it (WIPE FLY TRIALS ONLY)
-Andromeda - Fixed obscure oob (WIPE FLY TRIALS ONLY)
-UTC timestamp for above fixes: 1708465380
-
-17621607942 - Ashes - Fix the s3 skip, fix broken startzone (in more ways than one), prevent resurfing onto antitele, cancollide some important walls, zone the bonus, possibly even more stuff that was broken. Needs complete wiping
-14139570305 - Autumn - Add roof to fix oob (duckadvice)
-16292283569 - Mausoleum - Made start wall CanCollide True
-14411411513 - Vivid - Fix a trigger skip on s3 and prevent resurfing (only delete top 7 + 10th auto)
-14412797326 - Vivid Hard - Fix a trigger skip on s3 and prevent resurfing (only delete top 2 auto)
 
 tested, pending upload & wipe:
 
