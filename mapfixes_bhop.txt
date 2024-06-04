@@ -28,6 +28,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 17719226130 - Zyper - Changed the mesh stage's collision to Triggers instead of Platforms to prevent speed boost + Fixed a faste Surf to skip most of the map (delete top Faste times using the skip only)
+12687188945 - Reddish - reverted mesh trigger collisions, they are now non collidable
 
 add map data:
 
