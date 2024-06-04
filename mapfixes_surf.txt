@@ -8,6 +8,7 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 17621471458 - Mane Six (wipe Main Faste + hand-delete Auto WR) - Fix oob
+15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times.
 
 tested, pending upload:
 
