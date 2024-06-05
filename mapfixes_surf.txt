@@ -13,6 +13,17 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+17495319500 - Hello - Fixed bonus
+17506677281 - Convey - Fixed bonuses
+17507394363 - Giza - Fixed bonus
+17507475395 - Today - Fixed bonus
+17507524920 - Pain - Fixed bonus
+17507579723 - Not Small - Fixed bonus
+17507679294 - Clickbait - Fixed bonuses
+17722224669 - Aztec -  moved closer to origin and zoned bonus
+17739448384 - Wuts Dis? - Fixed bonuses 
+17739511532 - Cyberspace - Fixed bonuses
+
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
