@@ -19,7 +19,7 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 17713127460 - Aura (wipe Main Faste + Main Auto hand-delete top 3) - Fixed a faste skip + better zoning
 17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
-17156538520 - Neon Vibes V2 - Fix trigger skip near end and zoned bonus
+17156538520 - Neon Vibes V2 - Fix trigger skip near end and fixed bonus
 17718776962 - Overgrown (Wipe FLY TRIALS ONLY) - Fixed several OOB possibilities 
 17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
 17718596309 - Woods (hand-delete offending Main Faste + Main Auto using skips) - Fixed several faste skips + an autohop skip
