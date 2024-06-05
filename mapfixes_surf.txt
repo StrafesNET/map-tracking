@@ -13,16 +13,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
-17495319500 - Hello - Fixed missing TP in bonus
-17506677281 - Convey - Zoned Bonus 1-4
-17507394363 - Giza - Zoned bonus
-17507475395 - Today - Zoned bonus
-17507524920 - Pain - Zoned b4 properly 
-17507579723 - Not Small - Zoned bonus
-17507679294 - Clickbait - Zoned bonuses
 17722224669 - Aztec -  moved closer to origin and zoned bonus
-17739448384 - Wuts Dis? - Added zones for Bonus 2
-17739511532 - Cyberspace - Zoned bonus 1-3
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
