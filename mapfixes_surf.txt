@@ -9,6 +9,7 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 17621471458 - Mane Six (wipe Main Faste + hand-delete Auto WR) - Fix oob
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times.
+7813943245 - 4 AM - Changed DisplayName to only have 1 space instead of 2. Make the stage signs CanCollide false. Delete times that start on these signs.
 
 tested, pending upload:
 
@@ -31,7 +32,6 @@ rejected fixes, additional fix notes:
 621876510 - Space Jam - idk - there is already a great fix published
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
 459306841 - Winterland - ramp fix - needs more fixes, still bumpy ramps
-4899023713 - surf_Airspace (added extra walls around each stage, starting playforms renamed to "Jump3" - testers saying it's not possible, maybe missing a ramp?
 12615410485 - surf_pain (updated ID) bonus 4 endzone fix. - use execution context instead of a script distributor for local scripts.
 14214740439 - Memorial - rampfix, better lighting & textures, new skybox - the spine fix ruins the surf made of 6 wedges with a concavity underneath
 5272229281 - Luminous - made possible - lower the surfs a bit, you can't walk off some spawns onto the surfs
