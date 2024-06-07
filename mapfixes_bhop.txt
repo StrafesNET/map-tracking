@@ -19,7 +19,6 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 17713127460 - Aura (wipe Main Faste + Main Auto hand-delete top 3) - Fixed a faste skip + better zoning
 17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
-17156538520 - Neon Vibes V2 - Fix trigger skip near end and zoned bonus
 17718776962 - Overgrown (Wipe FLY TRIALS ONLY) - Fixed several OOB possibilities 
 17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
 17718596309 - Woods (hand-delete offending Main Faste + Main Auto using skips) - Fixed several faste skips + an autohop skip
@@ -27,8 +26,6 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
-15563027754 - Zyper - Changed the mesh stage's collision to Triggers instead of Platforms to prevent speed boost
-17719226130 - Zyper - Fixed a faste Surf to skip most of the map (delete top Faste times using the skip only)
 
 add map data:
 
@@ -48,5 +45,3 @@ rejected fixes, additional fix notes:
 13118097070 - Y - Re-port using import plugin. Scaled up. - excuse me the boosters aren't supposed to give horizontal boost
 16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss - this should be fixed in the physics, not like this - same opinion as before, this is a workaround and not a root cause and makes the map worse for casual players
 16503936411 - Questionable Trials - Fixed being able to do a difficult jump around teleport - script loaders are not allowed, use a Script with RunContext set to Client
-16204975834 - Dumb Blocks 4 (wipe Main Faste) - Fixed slopes to prevent edgeboosting at high speeds - polled to 62%
-12687188945 - Reddish (wipe Main All) - misplaced invisible wall fixed, wall wedge at the end is now collidable - polled to 52%
