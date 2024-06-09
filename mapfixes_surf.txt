@@ -13,6 +13,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+12804314773 - Dunes - fixed bonus startzone being too low. world position has not changed so hopefully no wipe needed
 17722224669 - Aztec -  moved closer to origin and zoned bonus
 
 add map data:
