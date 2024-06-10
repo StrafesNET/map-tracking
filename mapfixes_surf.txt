@@ -9,6 +9,7 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 17621471458 - Mane Six (wipe Main Faste + hand-delete Auto WR) - Fix oob
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times.
+17800899235 - Lowest Bidder - oob skip that is SUPER abuseable and super easy to recreate, has been fixed by jinokep, map is unreleased and shouldnt need a vote to wipe.
 
 tested, pending upload:
 
