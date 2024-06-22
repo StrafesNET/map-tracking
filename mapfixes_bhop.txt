@@ -26,6 +26,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+18149987090 - Monotonous - Fixed huge lag on the trees by setting CanQuery false (tried looking into an in-code solution to do this automatically, and it works, but its hella messy, so im not sure its really something that can be pushed)
 
 add map data:
 
