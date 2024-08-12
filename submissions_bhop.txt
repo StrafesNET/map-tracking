@@ -6,23 +6,8 @@ frontlog:
 1046910594 - BlackRockShooter
 
 accepted:
-17198896548 - august aor
-17199245011 - august aor
-17199185202 - august aor
-17199043798 - august aor
-17007322889 - august aor
-17258539358 - august aor
-17007288381 - august aor
-17507196425 - august aor
-18155621982 - august aor
-18155459434 - august aor
-18313329247 - august aor
-13584252130 - august aor
-18899928339 - august aor
-17801921431 - august aor
-18905053938 - august aor
-410109246 - RPG - too difficult to review scripts atm
-15708966260 - Quaint - blocked due to lighting changer (FIXED: 17280867135)
+18313329247 - Sword Fight On the Heights
+410109246 - RPG - cannot download map (copylocked?)
 
 not in inventory:
 
