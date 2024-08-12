@@ -18,6 +18,7 @@
 5692152677 - Alone
 5692146075 - Aloof
 5692182425 - Alpine
+18924811466 - Alt Terassi
 13026152945 - Ambience
 5692163782 - Animal - 11s short
 5692162970 - Arc Simtre
@@ -82,6 +83,7 @@
 5692133764 - City Fun
 5692186084 - City Run V2
 8658895140 - Cks Stref
+18924797988 - Clarify
 5692152464 - Clarity
 5692170652 - Cobalt
 5692146640 - Cobblestone
@@ -109,6 +111,7 @@
 5692092950 - Dev V1
 5692103970 - Dice
 5692103119 - Difficulties
+18924805962 - Diorama
 11222380990 - Dipl
 13026157761 - Dom
 5692127664 - Doms
@@ -165,6 +168,7 @@
 11492688731 - Fur
 5692152419 - Fus
 5692145082 - Futurebound
+18924821630 - Geometrical
 13548513664 - Glacial
 5692153515 - Go
 5692146490 - Golf Yourself
@@ -194,6 +198,7 @@
 5692144600 - Hue
 11222373867 - I Don't Know
 5692145318 - I DROPPED MY HECKIN POP-TARTS!!
+18924743385 - I Forgot
 5692093291 - Ice
 5692153824 - Ice Cave
 5692153202 - IceHoppers
@@ -209,6 +214,7 @@
 5692123054 - Juma
 11222383793 - Just One Stage
 5692134497 - Ka-Chow!
+18924752723 - Kaan2005
 5692169458 - Kitsune (bhop)
 5692106397 - Kiwi Cwfx
 5692157895 - Koi
@@ -220,12 +226,14 @@
 5692106026 - Lavender - 7s
 5692144635 - Lazy Larry
 5692108379 - Leaf Beach
+18924817336 - Lego
 6115127930 - Legoflix remade
 5692113648 - Legowo
 5692175863 - Lemon
 5692106494 - Lenchuonium
 5692106568 - Levels
 5692118790 - Linen
+18925278071 - Living Like a Ghost
 5692144523 - Lonely Road
 8777455841 - Lost in Forest
 5692164298 - Lucid
@@ -259,6 +267,8 @@
 5692144088 - Neon Colors
 8777458476 - Neon Vibes V2
 5692134462 - NeonWood
+18924793285 - Nihility
+18925282286 - No Lost
 5692186561 - Norwegian wood
 5692145037 - Not Flat
 5692145213 - Numismatic
@@ -293,6 +303,7 @@
 5692165425 - Pumpkins
 8777460788 - Purple Flow
 5692104374 - Pyte
+18924841133 - Quaint
 5692181981 - Quarry
 8658969726 - Quarry (CS:S)
 6115148503 - Quaternium
@@ -369,6 +380,7 @@
 8777462556 - Synced V2
 5692093530 - Synergy
 5692093654 - TaiShi
+18924748678 - Tangent
 5692117483 - Tech
 11222393859 - Technicolor
 6115161141 - Terral
@@ -391,6 +403,7 @@
 5692185969 - Tractus
 5692093875 - Translucidity v2
 5692139153 - Tri
+18924732162 - Trials
 5692146112 - Tropica
 5692106931 - Tropics
 5692139434 - Turf
@@ -423,6 +436,7 @@
 5692107763 - Xerox
 5692150307 - Y
 8658987348 - Yonkoma
+18924825227 - Yuki
 5692124008 - Yunch
 5692140385 - Z
 5692104583 - Zoom
@@ -443,3 +457,4 @@
 5692144784 - Vice Spice - booster is wrongly named Accelerator
 5692105876 - senpai - booster misnamed as Accelerator
 5692094033 - FabricColorz - what's up with green spawn, why spawning in the roof?
+18924782472 - []
