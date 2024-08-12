@@ -30,6 +30,7 @@ submitted fixes need add map data:
 17812037822 - Trying Again - fixed start & blocked holes in the map
 17760351482 - Glass II - ramps
 17760344146 - Reverse - fixed spawn & lighting
+557031844 - Watermelons - fixed ramps & revamped visuals
 
 rejected fixes, additional fix notes:
 852889271 - Golden Glory - ramp fix - fall through ramp???
