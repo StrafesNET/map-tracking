@@ -8,13 +8,24 @@ frontlog:
 12133157692 | Name: Munze | Creator/s: JorusRetorak, PracticalYogi - "gameplay is awkward at the end, some ramps need spine fix" also bonus doesn't work
 
 accepted:
-16466575161 - Innokia - map maker no longer wants the map to be accepted
+1617646058 - august aor
+18704565453 - august aor
+2808908189 - august aor
+2953840113 - august aor
+3225903370 - august aor
+18882714850 - august aor
+12940596434 - august aor
+18883390361 - august aor
+18338823788 - august aor
+18902010364 - august aor
+14720474473 - august aor
 
 changes requested:
 13368824399 - surf_quickie - make the surfaces on the surfs cancollide true or raise the surfs to avoid smashing into flush triggers
 
 rejected:
 6104593622 | Name: penguin simulator | Creator/s: 4eremy - voted out 6:1
+16466575161 - Innokia - map maker no longer wants the map to be accepted
 
 controversial:
 11017114463
