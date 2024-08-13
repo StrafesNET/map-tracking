@@ -14,9 +14,6 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
-17722224669 - Aztec -  moved closer to origin and zoned bonus
-17762560611 - Ace - fixed spawn in ground & ramps, improved visuals, credited original mapper
-17760353149 - Frost Nova - smoother surfs, light, & enclosed end
 
 add map data:
 10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
