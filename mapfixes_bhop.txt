@@ -32,6 +32,14 @@ submitted fixes (no wipe):
 18201680611 made by Roblox_Leo2510 - add Rainbow 2 as a bonus
 18627459399 bhop_failure fixed by Roblox_Leo2510 - add bonus
 18706951360 fixed by skrt - The Dragon's Lair - Replaces ladders with clips to prevent bugging on them and moves platform at the top of first ladder so you can't get stuck while trying to go up
+18937654034 futurebound - unfixes an old mapfix, should be voted on? changes:
+  - removed the invisible wall on the last stage (from old mapfix)
+  - made 2 trees collidable (from old mapfix)
+  - removed the giant invisible block (from old mapfix)
+  - added invisible "anticheat zones" to prevent faste skips
+  - made the decoration parts on the last teleporter not collidable (ruined routes)
+  - added back a trigger skip which was "removed" but never FULLY removed (currently in main game) by just renaming the old part that was a trigger back to Trigger5 (this should be voted on if it should stay as an intentional triggerskip or removed entirely)
+
 
 add map data:
 
