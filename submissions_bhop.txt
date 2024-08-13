@@ -6,7 +6,7 @@ frontlog:
 1046910594 - BlackRockShooter
 
 accepted:
-18313329247 - Sword Fight On the Heights
+18313329247 - Sword Fight On the Heights - my partially reviewed version: 18926025534
 410109246 - RPG - cannot download map (copylocked?)
 
 not in inventory:
