@@ -113,7 +113,6 @@ rejected:
 5692174238 - Violet - Voted out
 5692128225 - Voxel - Voted out
 5692128341 - WaP - Voted out
-5692157672 - Watermelons - Voted out
 5692103442 - What Map is This? - Voted out
 5693294929 - Woody - Voted out
 5692182065 - Workshop - Voted out
@@ -206,15 +205,12 @@ bumpy ramps (all surf maps):
 5692107905 - Dark Ambient
 5692124203 - Depression
 5692097943 - Detritus
-5693294460 - Discord - moving platforms (decoration only)
 8659330557 - Egypt - not designed for new hitbox
 6111008494 - Error - every curved ramp
 6111010028 - Farewell
 5692158577 - Fort - align spines
 5692153669 - Gimmick
-5692135297 - Glass II - make edges cancollide false
 5692146367 - Ineffable
-5692158834 - Intercosmic
 5692164006 - Luck2 - fix all spines
 5692163103 - Magenta
 5692113509 - Memorial
@@ -277,8 +273,6 @@ teleport fix will resolve:
 5692185801 - Illuminati - spawn in ground
 8777500297 - Pastel - spawn in ground
 8659334600 - Reinforced - spawn in ground
-5692163537 - Reverse - spawn in ground
-5692165177 - Trying Again - spawn in ground
 
 moving parts:
 5692151548 - Beach - is this even worth saving?  remove shadows
