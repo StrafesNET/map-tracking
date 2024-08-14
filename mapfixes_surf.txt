@@ -16,7 +16,6 @@ tested, pending upload:
 submitted fixes (no wipe):
 
 add map data:
-10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
 
 tested, pending upload & add map data:
