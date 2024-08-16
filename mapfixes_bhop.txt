@@ -28,6 +28,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
 
 add map data:
 
