@@ -15,9 +15,12 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+441409904 - Clique - fixed last stage softlock
+602067194 - Minecraft - fixed end stone texture
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
+713859332 - O-oh hi-i t-there, J-J-Jill - fixed ramps
 
 tested, pending upload & add map data:
 17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
