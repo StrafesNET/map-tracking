@@ -17,6 +17,7 @@ tested, pending upload:
 submitted fixes (no wipe):
 441409904 - Clique - fixed last stage softlock
 602067194 - Minecraft - fixed end stone texture
+917104451 - Dab on 'Em Haters - fixed ramps
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
