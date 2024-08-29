@@ -11,6 +11,7 @@ submitted fixes (wipe times):
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times.
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob map skip (only wipe times that use the skip)
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped
+105946357358090 - Treespam - Fixed the OOB skip on stage 2
 
 tested, pending upload:
 
