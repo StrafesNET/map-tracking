@@ -8,6 +8,7 @@ frontlog:
 accepted:
 18313329247 - Sword Fight On the Heights - my partially reviewed version: 18926025534
 410109246 - RPG - cannot download map (copylocked?)
+18313329247 - Swordfights on the Heights - this was accepted in august aor, im not sure where the id went but it was never added to the github, it needs to be added to the game please.
 
 not in inventory:
 
