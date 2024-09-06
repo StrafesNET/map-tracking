@@ -29,10 +29,6 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
-110097989659972 - Cpm - Zoned bonus - Roblox_Leo2510
-128812107786279 - Emblem 5 - Zoned bonus - Roblox_Leo2510
-99291140230094 - Wild - Change spawn platform into a single part fixing z fighting and bumpy spawn - Roblox_Leo2510
-
 
 add map data:
 
