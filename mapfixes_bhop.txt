@@ -29,6 +29,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
+124946153701661 - Autumnland - Move map closer to origin and disable CanCollide on Spawn1, fixes spawn being in the ground and desync - Roblox_Leo2510
 
 add map data:
 
