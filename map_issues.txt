@@ -9,7 +9,12 @@ bhop main:
 6115161141 - Terral - moving platforms decoration
 
 surf main:
+5692113161 - Ancient - Lots of spine fixes needed, 2nd and 4th ramp mostly
+5692164174 - Ascension to Heaven - last grass ramp bugs pretty often
+5692175608 - Ashes - spinefixes on last stage
 5732172079 - Banal - bumpy ramp
+5692165350 - Bloodthirst rebirth - Ramp Rework please
+5692113020 - Continuity - First ramp sucks
 5692102865 - Cryogen - the decoration is cancollide on the ramp out of the fence part
 5692124282 - Dizzy - spines are bad, make sure they get the spine fix
 5692164052 - Eden - Move stages closer together to let the spine fix activate
@@ -18,7 +23,9 @@ surf main:
 5692169147 - Lezgo - "spines are super bad"
 6111026986 - Luminous - bumpy ramps
 5692153297 - Mellow - last few spines could be fixed
-5692138452 - Newt - spines
+5692151451 - Memorial 2 - B2 last ramp super bad spinebug
+5692138452 - Newt - last ramp of first straight away and 3rd ramp
+5692153342 - One More - b2 first ramp has ramp bug
 5692171042 - Orange - ramps can randomly reset
 5692127919 - Paragov - one bumpy ramp around 1:18
 5692170735 - Poly_Mount - change name, weird server logs
@@ -27,6 +34,7 @@ surf main:
 5692185754 - Space - ramp reset bug, spawn multitouch bug, "sometimes you get stuck on ramps"
 5692118058 - The Crest Experience - ramps bumpy at the bottom
 5692133932 - Tom Cruise - The spawn area is bugged, and first ramps are buggy at top
+8777513883 - Trumpwall 2020 -  s3 ramp before big jump buggy
 5692164902 - Unequivocal - last spine needs fix
 5692153113 - Who Knows 2 - some ramps buggy
 8777513883 - Windows 84 - moving decorations, add bonus zones
