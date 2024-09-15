@@ -11,12 +11,19 @@ submitted fixes (wipe times):
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times.
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob map skip (only wipe times that use the skip)
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped
+
+1258610833 - Brain Power - (WIPE FASTE ONLY! and fixed a potential auto oob)
+16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky), and wipe faste) oob skip fixed
+5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
+5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 105946357358090 - Treespam - Fixed the OOB skip on stage 2
 
 tested, pending upload:
 
 submitted fixes (no wipe):
 602067194 - Minecraft - fixed end stone texture
+74289699187766 - Minecraft - Disabled CanTouch and CanQuery on the water from the bonus fixing losing speed when hitting triggers - fix by Roblox_Leo2510
+132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
