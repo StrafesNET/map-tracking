@@ -20,12 +20,7 @@ tested, pending upload:
 submitted fixes (no wipe):
 602067194 - Minecraft - fixed end stone texture
 74289699187766 - Minecraft - Disabled CanTouch and CanQuery on the water from the bonus fixing losing speed when hitting triggers - fix by Roblox_Leo2510
-127123665572184 - Ancient - Fixed all spines - Roblox_Leo2510
-131508779455344 - Newt - Fixed spines - Roblox_Leo2510
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
-130170657767949 - One More - Fixed bumpy ramp on bonus 2 - Roblox_Leo2510
-73514838373447 - Continuity - Fixed first ramp being bumpy - Roblox_Leo2510
-103185901446461 - Ashes - Fixed spines - Roblox_Leo2510
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
