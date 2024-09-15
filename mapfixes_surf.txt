@@ -15,7 +15,6 @@ submitted fixes (wipe times):
 16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky), and wipe faste) oob skip fixed
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
-105946357358090 - Treespam - Fixed the OOB skip on stage 2
 
 tested, pending upload:
 
