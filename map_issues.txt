@@ -43,6 +43,8 @@ surf main:
 6111011305 - Gloss - ramp is non collidable
 5692128703 - Underworld - far from origin
 
+surf_Lowest_Bidder needs time wipe, map was fixed in june but all skipped times are still there. First legit run (as far as I can tell) is #73.
+
 release schedule bhop:
 
 release schedule surf:
