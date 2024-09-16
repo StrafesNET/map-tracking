@@ -29,6 +29,9 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
+112811560055993 - Mediocre - revert an accidental fix - Roblox_Leo2510
+105407775920917 - A Deep Chicago Night - Change uphill ramp into a surf instead of a part - Roblox_Leo2510
+134157976201164 - Colorize - Zone bonus - Roblox_Leo2510
 
 add map data:
 
