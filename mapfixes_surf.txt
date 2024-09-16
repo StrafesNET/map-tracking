@@ -23,6 +23,7 @@ submitted fixes (no wipe):
 602067194 - Minecraft - fixed end stone texture
 74289699187766 - Minecraft - Disabled CanTouch and CanQuery on the water from the bonus fixing losing speed when hitting triggers - fix by Roblox_Leo2510
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
+111827509057893 - Aquarium - Fix a possible oob on b3 - fix by xisablehx
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
