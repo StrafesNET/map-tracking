@@ -15,6 +15,7 @@ submitted fixes (wipe times):
 16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky), and wipe faste) oob skip fixed
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
+109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. all times until manners' (#32) need to be wiped. fixed by xisablehx
 
 tested, pending upload:
 
