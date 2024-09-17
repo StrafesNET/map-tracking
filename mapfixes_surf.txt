@@ -16,6 +16,7 @@ submitted fixes (wipe times):
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. all times until manners' (#32) need to be wiped. all fly trials times need to be wiped. fixed by xisablehx
+71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission) - fix by roblox_leo2510 and xisablehx
 
 tested, pending upload:
 
