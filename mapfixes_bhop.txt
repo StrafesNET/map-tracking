@@ -29,6 +29,8 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
+117366423517410 - Bounce pad - lower spawn platform to fix spawning in the ground - Roblox_Leo2510
+138194431631806 - Neonwood - Fix headhit at start - Roblox_Leo2510
 
 add map data:
 
