@@ -18,7 +18,7 @@ surf main:
 11222433611 - Regret - bad lighting
 5692185754 - Space - ramp reset bug, spawn multitouch bug, "sometimes you get stuck on ramps"
 8777513883 - Windows 84 - moving decorations, add bonus zones, booster on s3
-
+Construction - lose .6 units when jumping off of start and letting go of w
 
 surf:
 5692164341 - 123 - the flat ramps are bumpy
