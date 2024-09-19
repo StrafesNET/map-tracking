@@ -9,51 +9,83 @@ bhop main:
 6115161141 - Terral - moving platforms decoration
 
 surf main:
-5692113161 - Ancient - Lots of spine fixes needed, 2nd and 4th ramp mostly
-5692164174 - Ascension to Heaven - last grass ramp bugs pretty often
-5692175608 - Ashes - spinefixes on last stage
-5732172079 - Banal - bumpy ramp
 5692165350 - Bloodthirst rebirth - Ramp Rework please
-5692113020 - Continuity - First ramp sucks
-5692102865 - Cryogen - the decoration is cancollide on the ramp out of the fence part
-5692124282 - Dizzy - spines are bad, make sure they get the spine fix
-5692164052 - Eden - Move stages closer together to let the spine fix activate
-5692165267 - Karakai Jozu no Takagi-san - make bonus work
-5692157375 - Kitsune
-5692169147 - Lezgo - "spines are super bad"
-6111026986 - Luminous - bumpy ramps
-5692153297 - Mellow - last few spines could be fixed
 5692151451 - Memorial 2 - B2 last ramp super bad spinebug
 5692138452 - Newt - last ramp of first straight away and 3rd ramp
 5692153342 - One More - b2 first ramp has ramp bug
-5692171042 - Orange - ramps can randomly reset
-5692127919 - Paragov - one bumpy ramp around 1:18
+5692127919 - Paragov - one bump in the 2nd 180 ramp and a bumpy ramp at around 1:18
 5692170735 - Poly_Mount - change name, weird server logs
-5692158006 - Realm - moving decorations
 11222433611 - Regret - bad lighting
 5692185754 - Space - ramp reset bug, spawn multitouch bug, "sometimes you get stuck on ramps"
-5692118058 - The Crest Experience - ramps bumpy at the bottom
-5692133932 - Tom Cruise - The spawn area is bugged, and first ramps are buggy at top
-8777513883 - Trumpwall 2020 -  s3 ramp before big jump buggy
-5692164902 - Unequivocal - last spine needs fix
-5692153113 - Who Knows 2 - some ramps buggy
-8777513883 - Windows 84 - moving decorations, add bonus zones
-6111038067 - Wuts Dis? - slightly raise ramp next to the trigger so it's not flush
-5692132870 - milk truck - fix spines
-6111011305 - Gloss - ramp is non collidable
-5692128703 - Underworld - far from origin
+8777513883 - Windows 84 - moving decorations, add bonus zones, booster on s3
 
-release schedule bhop:
 
-release schedule surf:
+surf:
+5692164341 - 123 - the flat ramps are bumpy
+5692174829 - Achromatic - generic bumpy ramps, playtest to fix
+5692163859 - Aether - antitele traps you
+5692111949 - Alcoa
+5692158158 - Baleful
+5692180583 - Consistency - also weird invisible trigger
+5692113020 - Continuity
+5692107905 - Dark Ambient
+5692124203 - Depression
+5692097943 - Detritus
+8659330557 - Egypt - not designed for new hitbox
+6111008494 - Error - every curved ramp
+6111010028 - Farewell
+5692158577 - Fort - align spines
+5692153669 - Gimmick
+5692146367 - Ineffable
+5692164006 - Luck2 - fix all spines
+5692163103 - Magenta
+5692113509 - Memorial
+5692174281 - Newt Two
+5692094206 - Obsidium
+5692133386 - Reflectoria
+5692175668 - Reskea
+5692170278 - Strafe Race - unfixable without physics changes?
+5692122639 - Striped
+5692132828 - Trees - ramps kill you
+5692158471 - Ultra
+5692144023 - Victor - spines
+5692159699 - WaP II
+5692128271 - Winter is Coming
+5692145766 - Winterland
+5692165218 - Wood - align spines
+5692140916 - Xenomorphic
+5692181503 - 15 Minutes - OOB
+5692108009 - 456 - spin is impossible
+5692128954 - Azurite - fix start & make window wider by 2.2
+5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart 
+5692102646 - Compact - can't leave spawn
+5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
+5732181194 - Ethereal - "under the void" issue
+5692104185 - Flandre II - needs spine fixes, some ramps hitboxes are wrong somehow on blue and green stages, and move closer to 0,0,0
+5692134367 - Gravity - hitbox harder
+5692159828 - Icire - move to origin, align ramps
+5692153618 - Ineffable 2 - broken bhop at end
+6111269498 - Ire - end zone broken, one bumpy ramp mid map, raise the surf flush with a trigger so you don't hit the trigger
+5692118651 - Level Up! - please make this less ugly, maybe decorate
+5692140242 - Elprup - impossible, can't go in diamond hole
+5692159131 - No - impossible: wormhole resets you to start
+5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
+5692135126 - Reprise Hard - spine next to trigger can get hit
+5692107810 - Resilience - impossible: hitbox harder - moving decoration
+5692165474 - Royal - ramps are multiple parts, use SetVelocity for anti tele
+5692174627 - S'mores
+5692133134 - Sand Flow - hitbox hard
+6111031896 - Sandstorm Supergiant - hitbox hard
+5692134185 - Shade - hitbox harder, fix diamond hitbox
+5692170594 - Strawberry Avalanche - getting triggered at end
+5692176099 - Tumb 2 - very small holes, too hard with new hitbox
+5692118585 - Verde - fix last stage spawn
+5692124370 - Void - invisible part at start
 
-hub fixes:
-
-need testing bhop:
-
-need testing surf:
-
-submitted hub fixes:
+bhop:
+5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
+5692093067 - MooManChicken - fix lighting
+8777477389 - Ötökkä - trigger is inside of spawn making an infinite loop, model is at insane position values
 
 I know these maps exist and I want them:
 bhop_thc_gold
@@ -61,7 +93,7 @@ bhop_thc_gold
 backlog:
 FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog for more votes
 
-verify possible:
+==========  NEW PHYSICS MAP PURGE  ==========
 
 rejected:
 5692165511 - 2fast2quick - Bad look, not fun to WR
@@ -199,79 +231,6 @@ too short:
 5692152188 - code://ERROR - 7s
 5692106356 - evrymepmeker - 6s
 5692099134 - reddish - 7s
-
-bumpy ramps (all surf maps):
-5692164341 - 123 - the flat ramps are bumpy
-8659318774 - Accident 2 - candy corn stage
-5692174829 - Achromatic - generic bumpy ramps, playtest to fix
-5692163859 - Aether - antitele traps you
-5692111949 - Alcoa
-5692158158 - Baleful
-5692099623 - Caving In
-5692180583 - Consistency - also weird invisible trigger
-5692113020 - Continuity
-5692107905 - Dark Ambient
-5692124203 - Depression
-5692097943 - Detritus
-8659330557 - Egypt - not designed for new hitbox
-6111008494 - Error - every curved ramp
-6111010028 - Farewell
-5692158577 - Fort - align spines
-5692153669 - Gimmick
-5692146367 - Ineffable
-5692164006 - Luck2 - fix all spines
-5692163103 - Magenta
-5692113509 - Memorial
-5692174281 - Newt Two
-5692134709 - O-oh hi-i t-there, J-J-Jill - especially 2nd ramp
-5692094206 - Obsidium
-5692133386 - Reflectoria
-5692175668 - Reskea
-5692170278 - Strafe Race - unfixable without physics changes?
-5692122639 - Striped
-5692132828 - Trees - ramps kill you
-5692158471 - Ultra
-5692144023 - Victor - spines
-5692159699 - WaP II
-5692128271 - Winter is Coming
-5692145766 - Winterland
-5692165218 - Wood - align spines
-5692140916 - Xenomorphic
-
-new physics bug (bhop):
-5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
-5692093067 - MooManChicken - fix lighting
-8777477389 - Ötökkä - trigger is inside of spawn making an infinite loop, model is at insane position values
-
-new physics bug (surf):
-5692118014 - Frantic Lemon - cringe first surf
-5692181503 - 15 Minutes - OOB
-5692108009 - 456 - spin is impossible
-5692128954 - Azurite - fix start & make window wider by 2.2
-5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
-5692102646 - Compact - can't leave spawn
-5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
-5732181194 - Ethereal - "under the void" issue
-5692104185 - Flandre II - needs spine fixes, some ramps hitboxes are wrong somehow on blue and green stages, and move closer to 0,0,0
-5692134367 - Gravity - hitbox harder
-5692159828 - Icire - move to origin, align ramps
-5692153618 - Ineffable 2 - broken bhop at end
-6111269498 - Ire - end zone broken, one bumpy ramp mid map, raise the surf flush with a trigger so you don't hit the trigger
-5692118651 - Level Up! - please make this less ugly, maybe decorate
-5692140242 - Elprup - impossible, can't go in diamond hole
-5692159131 - No - impossible: wormhole resets you to start
-5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
-5692135126 - Reprise Hard - spine next to trigger can get hit
-5692107810 - Resilience - impossible: hitbox harder - moving decoration
-5692165474 - Royal - ramps are multiple parts, use SetVelocity for anti tele
-5692174627 - S'mores
-5692133134 - Sand Flow - hitbox hard
-6111031896 - Sandstorm Supergiant - hitbox hard
-5692134185 - Shade - hitbox harder, fix diamond hitbox
-5692170594 - Strawberry Avalanche - getting triggered at end
-5692176099 - Tumb 2 - very small holes, too hard with new hitbox
-5692118585 - Verde - fix last stage spawn
-5692124370 - Void - invisible part at start
 
 ======== THE QUAT ZONE ========
 
