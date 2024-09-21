@@ -24,12 +24,11 @@ submitted fixes (wipe times):
 17718776962 - Overgrown (Wipe FLY TRIALS ONLY) - Fixed several OOB possibilities
 17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
 17718596309 - Woods (hand-delete offending Main Faste + Main Auto using skips) - Fixed several faste skips + an autohop skip
-
 tested, pending upload:
 
 submitted fixes (no wipe):
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
-
+120167845228495 - Fizzle - Add Fizzle 2 as bonus - Roblox_Leo2510
 add map data:
 
 tested, pending upload & add map data:
