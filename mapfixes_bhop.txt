@@ -28,7 +28,9 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
+128894796608092 - Heights - move Spawn lower and remove duplicate Spawn1 fixing spawn being in the ground - fixed by Roblox_Leo2510
 120167845228495 - Fizzle - Add Fizzle 2 as bonus - Roblox_Leo2510
+
 add map data:
 
 tested, pending upload & add map data:
