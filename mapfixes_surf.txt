@@ -20,11 +20,15 @@ submitted fixes (wipe times):
 72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
 5692158258 - Dunes - Map is already fixed, needs a time wipe for oob times in auto, faste and fly trials. (the id is from maps_surf.txt)
 17279603806 - Treespam - Map is already fixed, needs a time wipe for oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
+86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste) - Roblox_Leo2510
+134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus) - Roblox_Leo2510
 
 tested, pending upload:
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
+111024905416206 - Construction - Fix spawn being in the ground - Roblox_Leo2510
+97967252350930  - Poly Mount - Change map name to Poly Mount - Roblox_Leo2510
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
