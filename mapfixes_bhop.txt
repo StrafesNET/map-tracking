@@ -33,7 +33,7 @@ submitted fixes (no wipe):
 120167845228495 - Fizzle - Add Fizzle 2 as bonus - Roblox_Leo2510
 
 add map data:
-bhop_white_on_blue - fixed sliding on blocks, changed name to White On Blue and fixed oob - Roblox_Leo2510
+102779150709447 - bhop_white_on_blue - fixed sliding on blocks, changed name to White On Blue and fixed oob - Roblox_Leo2510
 
 tested, pending upload & add map data:
 
