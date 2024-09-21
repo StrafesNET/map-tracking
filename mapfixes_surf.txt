@@ -27,8 +27,6 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
-111024905416206 - Construction - Fix spawn being in the ground - Roblox_Leo2510
-97967252350930  - Poly Mount - Change map name to Poly Mount - Roblox_Leo2510
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
