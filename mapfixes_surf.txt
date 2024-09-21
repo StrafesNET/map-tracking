@@ -19,6 +19,7 @@ submitted fixes (wipe times):
 71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission). wipe fly trials
 72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
 5692158258 - Dunes - Map is already fixed, needs a time wipe for oob times in auto, faste and fly trials. (the id is from maps_surf.txt)
+17279603806 - Treespam - Map is already fixed, needs a time wipe for oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
 
 tested, pending upload:
 
