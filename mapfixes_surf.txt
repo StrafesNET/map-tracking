@@ -23,7 +23,6 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
-602067194 - Minecraft - fixed end stone and portal textures, and disabled CanTouch and CanQuery on the water fixing losing speed when hitting triggers
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
 
 add map data:
