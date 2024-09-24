@@ -45,7 +45,7 @@ surf main:
 5692152716 - Contained Breach - bumpy ramp (5th last? the one after the spin)
 5692113020 - Continuity - lol
 8659326439 - Convey - Anti tele start
-5692102865 - Cryogen - ramp after the bhop bumpy above the middle(due to textures not being noncollide?)
+5692102865 - Cryogen - 4th ramp bumpy above the middle due to design not being canCollide false. could generally do with all ramps have an ivnisible hitbox and cc false design to stop z fighting
 13548531419 - Cubed - some ramps are bumpy
 5692170872 - Dab on 'Em Haters - the very end is still bumpy unless you do a specific setup
 8659328336 - Dark Matter - sometimes you lose units by walking off the start??? 
@@ -65,6 +65,7 @@ surf main:
 15718157293 - Example map - bonus oob
 5692174328 - Exile - 6th last ramp (wr route) (curved ramp) is bumpy 
 5692113242 - Existence - spine bugs
+5692108102 - Slate - Ramps not called Surf and leading to bhopping on the edges, also bumpy ramps in general. also clipping into trigger coming off of second ramp
 
 surf:
 5692164341 - 123 - the flat ramps are bumpy
