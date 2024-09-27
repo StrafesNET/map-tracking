@@ -65,7 +65,10 @@ surf main:
 15718157293 - Example map - bonus oob
 5692174328 - Exile - 6th last ramp (wr route) (curved ramp) is bumpy 
 5692113242 - Existence - spine bugs
+5692180913 - Obscurity - 5th, 8th and last ramps need fixing
 5692108102 - Slate - Ramps not called Surf and leading to bhopping on the edges, also bumpy ramps in general. also clipping into trigger coming off of second ramp
+5692133932 - Tom Cruise - last ramp in s3 needs fixing
+5692169598 - Water Park - bounce before booster near the end in the multicoloured tunnel
 
 surf:
 5692164341 - 123 - the flat ramps are bumpy
