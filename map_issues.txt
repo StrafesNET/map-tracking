@@ -69,6 +69,7 @@ surf main:
 5692108102 - Slate - Ramps not called Surf and leading to bhopping on the edges, also bumpy ramps in general. also clipping into trigger coming off of second ramp
 5692133932 - Tom Cruise - last ramp in s3 needs fixing
 5692169598 - Water Park - bounce before booster near the end in the multicoloured tunnel
+5692106610 - Woodworks - headcheck with the headsurf is too small for new physics
 
 surf:
 5692164341 - 123 - the flat ramps are bumpy
