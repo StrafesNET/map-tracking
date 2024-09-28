@@ -27,7 +27,6 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
-129265953868447 - Tom Cruise - fixed spine bugs and moved closer to orgin
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
