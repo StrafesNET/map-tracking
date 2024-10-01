@@ -13,7 +13,7 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
-
+5692145082 - Futurebound - fly trials wipe, (map already in maps_bhop.txt)
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
