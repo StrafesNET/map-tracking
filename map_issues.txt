@@ -14,36 +14,23 @@ surf main:
 5692138452 - Newt - last ramp of first straight away and 3rd ramp
 5692153342 - One More - b2 first ramp has ramp bug
 5692127919 - Paragov - one bump in the 2nd 180 ramp and a bumpy ramp at around 1:18
-5692170735 - Poly_Mount - change name, weird server logs
-11222433611 - Regret - bad lighting
 5692185754 - Space - ramp reset bug, spawn multitouch bug, "sometimes you get stuck on ramps"
 8777513883 - Windows 84 - moving decorations, add bonus zones, booster on s3
 5692129052 - ALX - fix lighting, 2 bumpy spines (ramp before and ramp after spin on wr route)
 13548825312 - Accident 3 - tons of oobs
 11222400124 - Ambience - shitty spines and bumpy ramps
-13026298764 - Amir - startzone starts on start platform so you have to do a weird setup to reduce time wasted, 3rd or 4th last ramps are bumpy (the one after the spin)
 5692108257 - Ancient Ruin - shit rng spine used to skip the end of s1 to go to s2. might be intended and everyone does it so allow skip and fix spine?
-13026267305 - Autumn - Anti tele start, certain ramps are bumpy (3rd? and 4th? after first spin)
 5692132646 - Azura - Lighting
 5732172079 - Banal - (not sure if this isnt fixed) 2nd curved is bumpy on the right side and the left one isnt
 5692159783 - Blued - terrible ramps
 5692128896 - Blurple - 5th? ramp has spine bug that u have to avoid
 5692133851 - Brain Power - 2nd, 3rd, and 4th ramps sometimes spine bug
-8777490010 - Bubble Gum - ramp 3: sometimes u die to a trigger if u go too low on the upwards curve
-    --4th: bottom is noncollide so you cant bottom out
-    --1st blue ramp: spine bug sometimes
-    --2nd blue ramp: bumpy spine
-    --LAST RAMP(in wr route): WORST SPINE IN HISTORY OF RSURF?? 
 11222403629 - Castle - ramp before first spine bumps if ur not at the top of the ramp
-13026307623 - Catalog - Resurf to get height advantage
 5692107676 - Charcoal Chasm - Resurf to get height advantage
 5692135173 - Chimera - oob still possible (watch faste wr)
 13548528289 - Clutch - make it so you dont have to walk for 10 minutes
 5692111990 - Columns - s6 ramp makes you go through it if you're on a public server and the map has been on for 5 or more hours? insanely random bug
-5692143989 - Construction - you lose .6 units if you jump in startzone with w release script on
-5692152716 - Contained Breach - bumpy ramp (5th last? the one after the spin)
 5692113020 - Continuity - lol
-8659326439 - Convey - Anti tele start
 5692102865 - Cryogen - 4th ramp bumpy above the middle due to design not being canCollide false. could generally do with all ramps have an ivnisible hitbox and cc false design to stop z fighting
 13548531419 - Cubed - some ramps are bumpy
 5692170872 - Dab on 'Em Haters - the very end is still bumpy unless you do a specific setup
