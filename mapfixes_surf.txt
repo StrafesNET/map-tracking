@@ -3,6 +3,10 @@ uncategorized:
 upload but don't add to game:
 
 uploaded, wipe:
+5692158258 - Dunes - Map is already fixed, needs a time wipe for oob times in auto, faste and fly trials. (the id is from maps_surf.txt)
+17279603806 - Treespam - Map is already fixed, needs a time wipe for oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
+5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
+5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 
 tested, pending upload & wipe:
 
@@ -13,13 +17,9 @@ submitted fixes (wipe times):
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped and all fly trials times need to be wiped
 1258610833 - Brain Power - (WIPE FASTE AND FLY TRIALS ONLY! and fixed a potential auto oob)
 16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky), and wipe faste) oob skip fixed
-5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
-5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. all faste times until manners' (#32) need to be wiped. all fly trials times need to be wiped. fixed by xisablehx
 71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission). wipe fly trials
 72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
-5692158258 - Dunes - Map is already fixed, needs a time wipe for oob times in auto, faste and fly trials. (the id is from maps_surf.txt)
-17279603806 - Treespam - Map is already fixed, needs a time wipe for oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
 86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste) - Roblox_Leo2510
 134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus) - Roblox_Leo2510
 
