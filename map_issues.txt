@@ -33,7 +33,7 @@ surf main:
     --4th: bottom is noncollide so you cant bottom out
     --1st blue ramp: spine bug sometimes
     --2nd blue ramp: bumpy spine
-    --LAST RAMP(in wr route): WORST SPINE IN HISTORY OF RSURF?? 
+    --LAST RAMP(in wr route): WORST SPINE IN HISTORY OF RSURF??
 11222403629 - Castle - ramp before first spine bumps if ur not at the top of the ramp
 13026307623 - Catalog - Resurf to get height advantage
 5692107676 - Charcoal Chasm - Resurf to get height advantage
@@ -47,9 +47,9 @@ surf main:
 5692102865 - Cryogen - 4th ramp bumpy above the middle due to design not being canCollide false. could generally do with all ramps have an ivnisible hitbox and cc false design to stop z fighting
 13548531419 - Cubed - some ramps are bumpy
 5692170872 - Dab on 'Em Haters - the very end is still bumpy unless you do a specific setup
-8659328336 - Dark Matter - sometimes you lose units by walking off the start??? 
+8659328336 - Dark Matter - sometimes you lose units by walking off the start???
 12293814860 - Daydreamer 2 - oobs galore
-5692106693 - Delorium - some ramps sometimes kill you? NukeV4 has clips of it happening: 
+5692106693 - Delorium - some ramps sometimes kill you? NukeV4 has clips of it happening:
     https://cdn.discordapp.com/attachments/787762150231375886/1274906734837628979/Roblox_VR_2024.08.19_-_03.40.08.03.DVR.mp4?       ex=66eecdac&is=66ed7c2c&hm=b2c207724c32a1cb56ff9a787af94ff481d350eff164ce5eb18aa2ae062016ad&
     https://cdn.discordapp.com/attachments/167423382697148416/1277367071793090561/0825.mp4?ex=66ee868a&is=66ed350a&hm=03aa1fbb93088a31b7caed7781a70bbc7d9aef89940c8686b8bd904286ef8c53&
 6111005316 - Desolate - oob
@@ -62,7 +62,7 @@ surf main:
 5692164052 - Eden - Last ramp spine is bumpy
 5692113121 - Ephemeral - 7th? ramp (the long and wide one where you flick up turn left and theres a headcheck) bumpy, spine bug
 15718157293 - Example map - bonus oob
-5692174328 - Exile - 6th last ramp (wr route) (curved ramp) is bumpy 
+5692174328 - Exile - 6th last ramp (wr route) (curved ramp) is bumpy
 5692113242 - Existence - spine bugs
 5692180913 - Obscurity - 5th, 8th and last ramps need fixing
 5692108102 - Slate - Ramps not called Surf and leading to bhopping on the edges, also bumpy ramps in general. also clipping into trigger coming off of second ramp
@@ -106,7 +106,7 @@ surf:
 5692181503 - 15 Minutes - OOB
 5692108009 - 456 - spin is impossible
 5692128954 - Azurite - fix start & make window wider by 2.2
-5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart 
+5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
 5692102646 - Compact - can't leave spawn
 5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
 5732181194 - Ethereal - "under the void" issue
