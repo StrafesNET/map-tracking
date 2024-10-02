@@ -137,7 +137,7 @@ bhop:
 8777477389 - Ötökkä - trigger is inside of spawn making an infinite loop, model is at insane position values
 
 I know these maps exist and I want them:
-bhop_thc_gold
+bhop_thc_gold - 14292054971 (original), 15076280289 (redace)
 
 backlog:
 FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog for more votes
