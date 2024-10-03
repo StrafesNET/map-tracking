@@ -17,7 +17,6 @@ uploaded, wipe:
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
-18744145421 - Zyper (Wipe Faste only) - Replaced triggers towards the end of the tunnel with clips, added extra trigger before tunnel to prevent another skip - Fixed by h_k
 18745269279 - BrickColors (Wipe Fly Trials only) - Added an anticheat zone to prevent edgebouncing straight to the end - Fixed by h_k
 17713127460 - Aura (wipe Main Faste + Main Auto hand-delete top 3) - Fixed a faste skip + better zoning
 17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
@@ -28,6 +27,7 @@ submitted fixes (wipe times):
 tested, pending upload:
 
 submitted fixes (no wipe):
+127124337994115 - Zyper - Swapped triggers for parts in the tunnel and removed some slopes to prevent the previous surf skip + slightly extended trigger above it
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
 
 add map data:
