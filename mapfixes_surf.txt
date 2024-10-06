@@ -27,7 +27,6 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
-12773091471 - Space - resized antitelehop and moved spawn1 to liberate spawn
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
