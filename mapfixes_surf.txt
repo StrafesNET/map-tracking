@@ -22,11 +22,17 @@ submitted fixes (wipe times):
 72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
 86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste) - Roblox_Leo2510
 134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus) - Roblox_Leo2510
+15076376582 - Convey - fixed starting on antitele, fixed spawn platform being made of multiple parts and fixed typo in Bonus3Finish so it works now. remove current wr.
+15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps. remove top 3 times
+15076284379 - Regret - fixed oob and lighting. wipe all times.
+15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16.
 
 tested, pending upload:
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
+15076293261 - Amir - fixed spawn platform being made of multiple parts
+
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
