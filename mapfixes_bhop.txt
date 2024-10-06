@@ -13,11 +13,10 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
-
+5692145082 - Futurebound - fly trials wipe, (map already in maps_bhop.txt)
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
-18744145421 - Zyper (Wipe Faste only) - Replaced triggers towards the end of the tunnel with clips, added extra trigger before tunnel to prevent another skip - Fixed by h_k
 18745269279 - BrickColors (Wipe Fly Trials only) - Added an anticheat zone to prevent edgebouncing straight to the end - Fixed by h_k
 17713127460 - Aura (wipe Main Faste + Main Auto hand-delete top 3) - Fixed a faste skip + better zoning
 17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
