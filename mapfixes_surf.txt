@@ -8,6 +8,8 @@ uploaded, wipe:
 5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 
+uploaded fixes (manual time deletion, list times needing deletion):
+
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
@@ -26,6 +28,8 @@ submitted fixes (wipe times):
 15076284379 - Regret - fixed oob and lighting. wipe all times and fly trials times.
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 and fly trials times.
 15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 3 auto, offending faste and fly trials times
+
+submitted fixes (manual time deletion, list times needing deletion):
 
 tested, pending upload:
 
