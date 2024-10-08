@@ -20,12 +20,12 @@ submitted fixes (wipe times):
 109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. all faste times until manners' (#32) need to be wiped. all fly trials times need to be wiped. fixed by xisablehx
 71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission). wipe fly trials
 72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
-86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste) - Roblox_Leo2510
-134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus) - Roblox_Leo2510
+86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste and fly trials) - Roblox_Leo2510
+134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus and fly trials) - Roblox_Leo2510
 15076376582 - Convey - fixed starting on antitele, fixed spawn platform being made of multiple parts and fixed typo in Bonus3Finish so it works now. remove current wr.
-15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps. remove top 3 times
-15076284379 - Regret - fixed oob and lighting. wipe all times.
-15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16.
+15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps. remove top 3 times and wipe fly trials.
+15076284379 - Regret - fixed oob and lighting. wipe all times and fly trials times.
+15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 and fly trials times.
 
 tested, pending upload:
 
