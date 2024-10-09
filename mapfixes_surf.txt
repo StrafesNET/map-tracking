@@ -35,8 +35,6 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
-92565234967036 - waterpark - fixed clip making you bhop over booster
-97942554645550 - Mellow - Fixed spine bug, moved closer to origin - littlefarrell
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
