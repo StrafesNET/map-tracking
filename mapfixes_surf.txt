@@ -30,7 +30,6 @@ submitted fixes (wipe times):
 15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 3 auto, offending faste and fly trials times
 
 submitted fixes (manual time deletion, list times needing deletion):
-122563599937175 - Charcoal Chasm - Fixed ramps and start zone trick (Need manual time deletion for the few top times @LittleTsuwu)
 
 tested, pending upload:
 
