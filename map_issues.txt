@@ -63,7 +63,6 @@ surf:
 5692111949 - Alcoa
 5692158158 - Baleful
 5692180583 - Consistency - also weird invisible trigger
-5692113020 - Continuity
 5692107905 - Dark Ambient
 5692124203 - Depression
 5692097943 - Detritus
