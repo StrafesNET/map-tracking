@@ -25,12 +25,11 @@ submitted fixes (wipe times):
 72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
 86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste and fly trials) - Roblox_Leo2510
 134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus and fly trials) - Roblox_Leo2510
-15076376582 - Convey - fixed starting on antitele, fixed spawn platform being made of multiple parts and fixed typo in Bonus3Finish so it works now. remove current wr.
-15076284379 - Regret - fixed oob and lighting. wipe all times and fly trials times.
-15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 and fly trials times.
-15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 3 auto, offending faste and fly trials times
+15076284379 - Regret - fixed oob and lighting. wipe all times.
 
 submitted fixes (manual time deletion, list times needing deletion):
+15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 2 auto, top 42 faste and fly trials times
+15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
 
 tested, pending upload:
 
@@ -43,6 +42,7 @@ add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
 713859332 - O-oh hi-i t-there, J-J-Jill - fixed ramps
 105775893329761 - Ancient - added Zany as b1 (permission from map maker) and moved Spawn1 closer to the start of the map
+15076376582 - Convey - fixed starting on antitele, fixed spawn platform being made of multiple parts and fixed typo in Bonus3Finish so it works now.
 
 tested, pending upload & add map data:
 17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
