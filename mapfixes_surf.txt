@@ -36,6 +36,7 @@ tested, pending upload:
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
+131293189021118 - Trumpwall2020 - Fixed some more ramps - ale7418
 121926445223990 - Diminsion - Fixed trigger clipping into ramp - littlefarrell
 
 add map data:
