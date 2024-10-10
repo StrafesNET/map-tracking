@@ -37,12 +37,12 @@ submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
 131293189021118 - Trumpwall2020 - Fixed some more ramps - ale7418
 121926445223990 - Diminsion - Fixed trigger clipping into ramp - littlefarrell
+105775893329761 - Ancient - added Zany as b1 (permission from map maker) and moved Spawn1 closer to the start of the map
+15076376582 - Convey - fixed starting on antitele, fixed spawn platform being made of multiple parts and fixed typo in Bonus3Finish so it works now.
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
 713859332 - O-oh hi-i t-there, J-J-Jill - fixed ramps
-105775893329761 - Ancient - added Zany as b1 (permission from map maker) and moved Spawn1 closer to the start of the map
-15076376582 - Convey - fixed starting on antitele, fixed spawn platform being made of multiple parts and fixed typo in Bonus3Finish so it works now.
 
 tested, pending upload & add map data:
 17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
