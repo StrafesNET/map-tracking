@@ -26,6 +26,8 @@ submitted fixes (wipe times):
 17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
 17718596309 - Woods (hand-delete offending Main Faste + Main Auto using skips) - Fixed several faste skips + an autohop skip
 108302825888247 - Crypt (hand-delete offending Main Faste) Removed slopes in the start area to prevent bounces - Fixed by h_k
+14179909838 - Blue - Fixed skip making the map 0.008 seconds (wipe fly trials times) - Fixed by xisablehx
+
 tested, pending upload:
 
 submitted fixes (manual time deletion, list times needing deletion):
