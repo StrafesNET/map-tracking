@@ -27,7 +27,7 @@ submitted fixes (wipe times):
 86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste and fly trials) - Roblox_Leo2510
 134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus and fly trials) - Roblox_Leo2510
 15076284379 - Regret - fixed oob and lighting. wipe all times.
-121170303581252 - Venust - fixed oobs, wipe faste. Zoned extra stage as bonus (original mapper gave permission) - offstyling
+121170303581252 - Venust - fixed oobs, wipe faste and fly trials. Zoned extra stage as bonus (original mapper gave permission) - offstyling
 
 uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
