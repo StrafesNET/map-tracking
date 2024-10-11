@@ -29,7 +29,6 @@ submitted fixes (wipe times):
 121170303581252 - Venust - fixed oobs, wipe faste. Zoned extra stage as bonus (original mapper gave permission) - offstyling
 
 uploaded fixes, ready for manual time deletion:
-15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 2 auto, top 42 faste and fly trials times
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
 
 submitted fixes (manual time deletion, list times needing deletion):
@@ -37,7 +36,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
-106048465070214 - Autumn - Make trees uncollideable to ensure start zone tricks happen + fix OOB
+106048465070214 - Autumn - Make trees uncollideable to ensure start zone tricks don't happen + fix OOB
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
