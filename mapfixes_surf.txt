@@ -8,6 +8,7 @@ uploaded, wipe:
 5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 5692135218 - Mausoleum - Map is from maps_surf.txt, wipe fly trials times
+8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus) 
 
 uploaded fixes (manual time deletion, list times needing deletion):
 
