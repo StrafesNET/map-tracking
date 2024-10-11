@@ -34,6 +34,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
+86629028140795 - Glacial - Flip spawns to fix spawning in the ground after hitting a trigger - Roblox_Leo2510
 
 add map data:
 
