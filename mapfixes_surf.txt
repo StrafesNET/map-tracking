@@ -32,11 +32,12 @@ uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
 
 submitted fixes (manual time deletion, list times needing deletion):
+106048465070214 - Autumn - Make trees uncollideable to ensure start zone tricks don't happen + fix OOB - manually delete offending times
 15076260262 - Lowest Bidder - fixed another oob and end clipping outside of boundary. Delete all oob times (up until roughly 37s auto)
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
-106048465070214 - Autumn - Make trees uncollideable to ensure start zone tricks don't happen + fix OOB
+
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
