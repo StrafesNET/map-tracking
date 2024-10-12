@@ -8,7 +8,7 @@ uploaded, wipe:
 5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 5692135218 - Mausoleum - Map is from maps_surf.txt, wipe fly trials times
-8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus) 
+8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
 
 uploaded fixes (manual time deletion, list times needing deletion):
 
@@ -28,6 +28,7 @@ submitted fixes (wipe times):
 134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus and fly trials) - Roblox_Leo2510
 15076284379 - Regret - fixed oob and lighting. wipe all times.
 121170303581252 - Venust - fixed oobs, wipe faste and fly trials. Zoned extra stage as bonus (original mapper gave permission) - offstyling
+116374951467432 - Windows 84 - fixed last stage, removed bounce, moved end, added more barriers to make faste times less cringe. wipe all times - antinodes
 
 uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
