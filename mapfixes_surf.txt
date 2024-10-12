@@ -11,6 +11,8 @@ uploaded, wipe:
 8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
 
 uploaded fixes (manual time deletion, list times needing deletion):
+98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
+110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
 
 tested, pending upload & wipe:
 
