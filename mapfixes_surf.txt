@@ -10,8 +10,6 @@ uploaded, wipe:
 5692135218 - Mausoleum - Map is from maps_surf.txt, wipe fly trials times
 8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
 
-uploaded fixes (manual time deletion, list times needing deletion):
-
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
