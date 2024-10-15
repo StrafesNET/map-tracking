@@ -34,6 +34,8 @@ uploaded fixes, ready for manual time deletion:
 submitted fixes (manual time deletion, list times needing deletion):
 106048465070214 - Autumn - fixed starting on antitele, made spawn trees cc false, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 2 auto, top 42 faste and fly trials times
 15076260262 - Lowest Bidder - fixed another oob and end clipping outside of boundary. Delete all oob times (up until roughly 37s auto)
+98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
+110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
