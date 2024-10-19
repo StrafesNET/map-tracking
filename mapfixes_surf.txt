@@ -36,6 +36,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 15076260262 - Lowest Bidder - fixed another oob and end clipping outside of boundary. Delete all oob times (up until roughly 37s auto)
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
+770953991 - Halloween - fixed oob (wipe times that use it)
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
