@@ -8,8 +8,7 @@ uploaded, wipe:
 5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 5692135218 - Mausoleum - Map is from maps_surf.txt, wipe fly trials times
-
-uploaded fixes (manual time deletion, list times needing deletion):
+8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
 
 tested, pending upload & wipe:
 
@@ -19,36 +18,40 @@ submitted fixes (wipe times):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob map skip (only wipe times that use the skip)
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped and all fly trials times need to be wiped
 1258610833 - Brain Power - (WIPE FASTE AND FLY TRIALS ONLY! and fixed a potential auto oob)
-16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky), and wipe faste) oob skip fixed
+16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky), and wipe faste + fly trials) oob skip fixed
 109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. all faste times until manners' (#32) need to be wiped. all fly trials times need to be wiped. fixed by xisablehx
 71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission). wipe fly trials
 72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
 86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste and fly trials) - Roblox_Leo2510
 134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus and fly trials) - Roblox_Leo2510
-15076376582 - Convey - fixed starting on antitele, fixed spawn platform being made of multiple parts and fixed typo in Bonus3Finish so it works now. remove current wr.
-15076284379 - Regret - fixed oob and lighting. wipe all times and fly trials times.
-15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 and fly trials times.
-15076286782 - Autumn - fixed starting on antitele, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 3 auto, offending faste and fly trials times
+15076284379 - Regret - fixed oob and lighting. wipe all times.
+121170303581252 - Venust - fixed oobs, wipe faste and fly trials. Zoned extra stage as bonus (original mapper gave permission) - offstyling
+116374951467432 - Windows 84 - fixed last stage, removed bounce, moved end, added more barriers to make faste times less cringe. wipe all times - antinodes
+
+uploaded fixes, ready for manual time deletion:
+15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
+106048465070214 - Autumn - fixed starting on antitele, made spawn trees cc false, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 2 auto, top 42 faste and fly trials times
+15076260262 - Lowest Bidder - fixed another oob and end clipping outside of boundary. Delete all oob times (up until roughly 37s auto)
+98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
+110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
 
 submitted fixes (manual time deletion, list times needing deletion):
-
-tested, pending upload:
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
 121926445223990 - Diminsion - Fixed trigger clipping into ramp - littlefarrell
 
+
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
 713859332 - O-oh hi-i t-there, J-J-Jill - fixed ramps
-105775893329761 - Ancient - added Zany as b1 (permission from map maker) and moved Spawn1 closer to the start of the map
 
 tested, pending upload & add map data:
 17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
 
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
-72031290840697 - Royal - Ramp fixes, adjusted for new hitbox, adjusted s3 triggers for consistency, moved closer to origin, added SetVels for anti teles - littlefarrell 
+72031290840697 - Royal - Ramp fixes, adjusted for new hitbox, adjusted s3 triggers for consistency, moved closer to origin, added SetVels for anti teles - littlefarrell
 
 rejected fixes, additional fix notes:
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
