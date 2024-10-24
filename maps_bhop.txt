@@ -401,7 +401,7 @@
 5692117551 - Totem
 5692145794 - Touch
 5692185969 - Tractus
-5692093875 - Translucidity v2
+5692093875 - Translucidity V2
 5692139153 - Tri
 18924732162 - Trials
 5692146112 - Tropica

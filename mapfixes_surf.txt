@@ -27,19 +27,27 @@ submitted fixes (wipe times):
 15076284379 - Regret - fixed oob and lighting. wipe all times.
 121170303581252 - Venust - fixed oobs, wipe faste and fly trials. Zoned extra stage as bonus (original mapper gave permission) - offstyling
 116374951467432 - Windows 84 - fixed last stage, removed bounce, moved end, added more barriers to make faste times less cringe. wipe all times - antinodes
+124365913384606 - Luminous - Adjusted b1 start zone, can no longer stand on top (wipe all bonus times) - littlefarrell
 
 uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
-
-submitted fixes (manual time deletion, list times needing deletion):
 106048465070214 - Autumn - fixed starting on antitele, made spawn trees cc false, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 2 auto, top 42 faste and fly trials times
 15076260262 - Lowest Bidder - fixed another oob and end clipping outside of boundary. Delete all oob times (up until roughly 37s auto)
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
+770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
+
+submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
 135739379207094 - Kairos - Fix a broken spine before spin - isnaisableh
+121926445223990 - Diminsion - Fixed trigger clipping into ramp - littlefarrell
+127007754080449 - Luminous - Sized B1 start zone so its not in the floor - littlefarrell
+82038450536711  -  Medieval - Fixed final ramp b2 spine bug - littlefarrell
+82666750974141 - Something - Fixed triggers on b1 to consistently go to bonus spawn - littlefarrell
+108936310330553 - Lezgo II - moved closer to origin (should fix spine issues) - littlefarrell 
+
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
@@ -51,6 +59,7 @@ tested, pending upload & add map data:
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 72031290840697 - Royal - Ramp fixes, adjusted for new hitbox, adjusted s3 triggers for consistency, moved closer to origin, added SetVels for anti teles - littlefarrell
+98534899157737 - Detritus - Ramp fixes, moved closer to origin, added SetVels for anti teles, fixed oobs, zoned bonuses (lighting could use some touches) - littlefarrell
 
 rejected fixes, additional fix notes:
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
