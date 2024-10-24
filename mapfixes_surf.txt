@@ -42,7 +42,6 @@ submitted fixes (manual time deletion, list times needing deletion):
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
 135739379207094 - Kairos - Fix a broken spine before spin - isnaisableh
-121926445223990 - Diminsion - Fixed trigger clipping into ramp - littlefarrell
 82038450536711  -  Medieval - Fixed final ramp b2 spine bug - littlefarrell
 82666750974141 - Something - Fixed triggers on b1 to consistently go to bonus spawn - littlefarrell
 108936310330553 - Lezgo II - moved closer to origin (should fix spine issues) - littlefarrell 
