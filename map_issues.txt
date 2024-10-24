@@ -11,7 +11,6 @@ bhop main:
 surf main:
 5692165350 - Bloodthirst rebirth - Ramp Rework please
 5692151451 - Memorial 2 - B2 last ramp super bad spinebug
-5692138452 - Newt - last ramp of first straight away and 3rd ramp
 5692153342 - One More - b2 first ramp has ramp bug
 5692129052 - ALX - fix lighting, 2 bumpy spines (ramp before and ramp after spin on wr route)
 13548825312 - Accident 3 - tons of oobs
@@ -46,7 +45,6 @@ surf main:
 5692164052 - Eden - Last ramp spine is bumpy
 5692113121 - Ephemeral - 7th? ramp (the long and wide one where you flick up turn left and theres a headcheck) bumpy, spine bug
 5692174328 - Exile - 6th last ramp (wr route) (curved ramp) is bumpy
-5692113242 - Existence - spine bugs
 5692180913 - Obscurity - 5th, 8th and last ramps need fixing
 5692108102 - Slate - Ramps not called Surf and leading to bhopping on the edges, also bumpy ramps in general. also clipping into trigger coming off of second ramp
 5692106610 - Woodworks - headcheck with the headsurf is too small for new physics
