@@ -19,14 +19,10 @@ surf main:
 5692132646 - Azura - Lighting
 5732172079 - Banal - (not sure if this isnt fixed) 2nd curved is bumpy on the right side and the left one isnt
 5692159783 - Blued - terrible ramps
-5692128896 - Blurple - 5th? ramp has spine bug that u have to avoid
 5692133851 - Brain Power - 2nd, 3rd, and 4th ramps sometimes spine bug
 11222403629 - Castle - ramp before first spine bumps if ur not at the top of the ramp
 5692107676 - Charcoal Chasm - Resurf to get height advantage
 5692135173 - Chimera - oob still possible (watch faste wr)
-13548528289 - Clutch - make it so you dont have to walk for 10 minutes
-5692111990 - Columns - s6 ramp makes you go through it if you're on a public server and the map has been on for 5 or more hours? insanely random bug
-5692113020 - Continuity - lol
 5692102865 - Cryogen - 4th ramp bumpy above the middle due to design not being canCollide false. could generally do with all ramps have an ivnisible hitbox and cc false design to stop z fighting
 13548531419 - Cubed - some ramps are bumpy
 5692170872 - Dab on 'Em Haters - the very end is still bumpy unless you do a specific setup
