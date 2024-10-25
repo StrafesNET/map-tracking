@@ -3,8 +3,6 @@ uncategorized:
 upload but don't add to game:
 
 uploaded, wipe:
-5692158258 - Dunes - Map is already fixed, needs a time wipe for oob times in auto, faste and fly trials. (the id is from maps_surf.txt)
-17279603806 - Treespam - Map is already fixed, needs a time wipe for oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
 5692118983 - Ice - Map is already fixed, needs a time wipe in Faste. (the map id provided is the StrafesNET main map id)
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 5692135218 - Mausoleum - Map is from maps_surf.txt, wipe fly trials times
@@ -35,6 +33,8 @@ uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
 770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
+5692158258 - Dunes - delete oob times in auto, faste and fly trials. (the id is from maps_surf.txt)
+17279603806 - Treespam - delete oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
 
 submitted fixes (manual time deletion, list times needing deletion):
 124365913384606 - Luminous - Fixed bonus start clipping into the floor, can no longer stand on top of the antitele. delete all bonus times - littlefarrell
