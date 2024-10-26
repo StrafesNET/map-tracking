@@ -7,7 +7,6 @@ uploaded, wipe:
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 5692135218 - Mausoleum - Map is from maps_surf.txt, wipe fly trials times
 8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
-5692102865 - Cryogen - Map is from maps_surf.txt, wipe faste times
 5692094530 - Beginner - Map is from maps_surf.txt, wipe faste times
 
 tested, pending upload & wipe:
@@ -47,6 +46,7 @@ submitted fixes (no wipe):
 82038450536711  -  Medieval - Fixed final ramp b2 spine bug - littlefarrell
 82666750974141 - Something - Fixed triggers on b1 to consistently go to bonus spawn - littlefarrell
 108936310330553 - Lezgo II - moved closer to origin (should fix spine issues) - littlefarrell 
+114855944135149 - Rookie - Adjusted trigger on s11 so it covers all of the water - littlefarrell
 
 
 add map data:
