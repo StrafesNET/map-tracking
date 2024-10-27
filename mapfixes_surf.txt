@@ -7,6 +7,7 @@ uploaded, wipe:
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 5692135218 - Mausoleum - Map is from maps_surf.txt, wipe fly trials times
 8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
+5692094530 - Beginner - Map is from maps_surf.txt, wipe faste times
 
 tested, pending upload & wipe:
 
@@ -42,10 +43,11 @@ submitted fixes (manual time deletion, list times needing deletion):
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
 135739379207094 - Kairos - Fix a broken spine before spin - isnaisableh
-121926445223990 - Diminsion - Fixed trigger clipping into ramp - littlefarrell
 82038450536711  -  Medieval - Fixed final ramp b2 spine bug - littlefarrell
 82666750974141 - Something - Fixed triggers on b1 to consistently go to bonus spawn - littlefarrell
 108936310330553 - Lezgo II - moved closer to origin (should fix spine issues) - littlefarrell 
+114855944135149 - Rookie - Adjusted trigger on s11 so it covers all of the water, removed unnecessary old hitbox ceilings - littlefarrell
+72978824196458 - Kori - Fixed ramp and spine bugs, moved closer to origin - littlefarrell
 
 
 add map data:
