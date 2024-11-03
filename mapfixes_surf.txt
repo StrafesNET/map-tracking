@@ -52,6 +52,7 @@ submitted fixes (no wipe):
 114855944135149 - Rookie - Adjusted trigger on s11 so it covers all of the water, removed unnecessary old hitbox ceilings - littlefarrell
 72978824196458 - Kori - Fixed ramp and spine bugs, moved closer to origin - littlefarrell
 114517911333278 - Ancient - Fixed floating trigger, fixed spine bug, moved closer to origin - littlefarrell
+139967696035281 - Kyoto - Fixed spawn, fixed rampbug, moved closer to origin - littlefarrell
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
