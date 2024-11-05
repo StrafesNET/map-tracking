@@ -37,7 +37,6 @@ uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
 770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
-5692158258 - Dunes - delete oob times in auto, faste and fly trials. (the id is from maps_surf.txt)
 17279603806 - Treespam - delete oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
 
 submitted fixes (manual time deletion, list times needing deletion):
