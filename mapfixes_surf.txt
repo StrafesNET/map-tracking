@@ -18,7 +18,6 @@ submitted fixes (wipe times):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob map skip (only wipe times that use the skip)
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped and all fly trials times need to be wiped
 1258610833 - Brain Power - (WIPE FASTE AND FLY TRIALS ONLY! and fixed a potential auto oob)
-16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky), and wipe faste + fly trials) oob skip fixed
 109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. all faste times until manners' (#32) need to be wiped. all fly trials times need to be wiped. fixed by xisablehx
 71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission). wipe fly trials
 72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
@@ -41,6 +40,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 124365913384606 - Luminous - Fixed bonus start clipping into the floor, can no longer stand on top of the antitele. delete all bonus times - littlefarrell
 12062216772 - Frigid - fixed multiple bhop cheeses, using both last ramps more difficult, fixed several rocks being collide off, prevented a few obscure OOB faste routes, improved indicators for gameplay and visibility, prevented bonus 4 prehopping, fixed faste route bonus 5, fixed one ramp being longer on one side of the map, added multiple statues for players who beat the map, improved cosmetics of multiple areas around the map | Wipe auto times: #1 (baro), #2 (jer), #3 (mateo), #11 (hxcello), #12 (kaan2005), #0 (legogreens (blacklisted but remove time) | Wipe all bonus 5 faste times - Milky_wayy
 770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
+16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky) fixed oob skip - jid
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
