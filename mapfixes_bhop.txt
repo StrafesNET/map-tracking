@@ -32,6 +32,8 @@ uploaded fixes, ready for manual time deletion:
 115464482326606 - Ares - Fix trigger overlap - delete offending times - Roblox_Leo2510
 
 submitted fixes (manual time deletion, list times needing deletion):
+105138001145681 - Solitude (hand-delete offending Main Auto + any possible Faste) - Extended a trigger to prevent skipping a large portion of the map
+84606010438989 - Zyper (hand-delete offending Main Faste) - Fixed extended clips that allowed skipping entire map
 
 submitted fixes (no wipe):
 18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
