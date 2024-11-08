@@ -41,6 +41,7 @@ uploaded fixes, ready for manual time deletion:
 16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky) fixed oob skip
 
 submitted fixes (manual time deletion, list times needing deletion):
+15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
