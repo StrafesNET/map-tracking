@@ -7,7 +7,8 @@ uploaded, wipe:
 5692153113 - Who Knows 2 - Map is already fixed, needs a time wipe in Faste and on fly trials. (the map id provided is the StrafesNET main map id)
 5692135218 - Mausoleum - Map is from maps_surf.txt, wipe fly trials times
 8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
-5692094530 - Beginner - Map is from maps_surf.txt, wipe faste times
+5692094530 - Beginner - Map is from maps_surf.txt, wipe faste times and fly trials
+78819818092057 - Cryogen - Fixed ramp bug, removed false trigger, wipe fly trials - littlefarrell
 5692153342 - One More - Map is from maps_surf.txt, needs fly trials wipe due to fixed roof
 
 tested, pending upload & wipe:
@@ -26,7 +27,8 @@ submitted fixes (wipe times):
 15076284379 - Regret - fixed oob and lighting. wipe all times.
 121170303581252 - Venust - fixed oobs, wipe faste and fly trials. Zoned extra stage as bonus (original mapper gave permission) - offstyling
 116374951467432 - Windows 84 - fixed last stage, removed bounce, moved end, added more barriers to make faste times less cringe. wipe all times - antinodes
-17859292146 - Leek (spin) - Fixed OOB, delete offending faste times and fly trials - littleisableh
+85868971601293 - Dunes - Fixed ramp bugs in bonus, fixed faste oob (wipe faste and fly trials) - littlefarrell
+74080715486698 - Vacancy - Fixed oob, wipe faste times, manually wipe s4 auto oob times - littlefarrell
 
 uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
@@ -34,7 +36,6 @@ uploaded fixes, ready for manual time deletion:
 15076260262 - Lowest Bidder - fixed another oob and end clipping outside of boundary. Delete all oob times (up until roughly 37s auto)
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
-5692158258 - Dunes - delete oob times in auto, faste and fly trials. (the id is from maps_surf.txt)
 17279603806 - Treespam - delete oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
 124365913384606 - Luminous - Fixed bonus start clipping into the floor, can no longer stand on top of the antitele. delete all bonus times - littlefarrell
 12062216772 - Frigid - fixed multiple bhop cheeses, using both last ramps more difficult, fixed several rocks being collide off, prevented a few obscure OOB faste routes, improved indicators for gameplay and visibility, prevented bonus 4 prehopping, fixed faste route bonus 5, fixed one ramp being longer on one side of the map, added multiple statues for players who beat the map, improved cosmetics of multiple areas around the map | Wipe auto times: #1 (baro), #2 (jer), #3 (mateo), #11 (hxcello), #12 (kaan2005), #0 (legogreens (blacklisted but remove time) | Wipe all bonus 5 faste times - Milky_wayy
@@ -42,9 +43,14 @@ uploaded fixes, ready for manual time deletion:
 16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky) fixed oob skip
 
 submitted fixes (manual time deletion, list times needing deletion):
+17859292146 - Leek (spin) - Fixed OOB, delete offending faste times and fly trials - littleisableh
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
+114517911333278 - Ancient - Fixed floating trigger, fixed spine bug, moved closer to origin - littlefarrell
+139967696035281 - Kyoto - Fixed spawn, fixed rampbug, moved closer to origin - littlefarrell
+80252470460646 - Memorial 2 - Fixed spawn, fixed rampbug on last ramp - littlefarrell
+98895015510698 - Swim - Fixed buggy wormhole on B2 - littlefarrell
 114911391388417 - Trikz Cloud - Fixed new oob skip - jid
 
 add map data:
