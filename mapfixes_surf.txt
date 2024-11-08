@@ -9,6 +9,7 @@ uploaded, wipe:
 8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
 5692094530 - Beginner - Map is from maps_surf.txt, wipe faste times and fly trials
 78819818092057 - Cryogen - Fixed ramp bug, removed false trigger, wipe fly trials - littlefarrell
+5692153342 - One More - Map is from maps_surf.txt, needs fly trials wipe due to fixed roof
 
 tested, pending upload & wipe:
 
@@ -18,7 +19,6 @@ submitted fixes (wipe times):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob map skip (only wipe times that use the skip)
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped and all fly trials times need to be wiped
 1258610833 - Brain Power - (WIPE FASTE AND FLY TRIALS ONLY! and fixed a potential auto oob)
-16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky), and wipe faste + fly trials) oob skip fixed
 109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. all faste times until manners' (#32) need to be wiped. all fly trials times need to be wiped. fixed by xisablehx
 71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission). wipe fly trials
 72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
@@ -36,24 +36,22 @@ uploaded fixes, ready for manual time deletion:
 15076260262 - Lowest Bidder - fixed another oob and end clipping outside of boundary. Delete all oob times (up until roughly 37s auto)
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
-770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
 17279603806 - Treespam - delete oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
+124365913384606 - Luminous - Fixed bonus start clipping into the floor, can no longer stand on top of the antitele. delete all bonus times - littlefarrell
+12062216772 - Frigid - fixed multiple bhop cheeses, using both last ramps more difficult, fixed several rocks being collide off, prevented a few obscure OOB faste routes, improved indicators for gameplay and visibility, prevented bonus 4 prehopping, fixed faste route bonus 5, fixed one ramp being longer on one side of the map, added multiple statues for players who beat the map, improved cosmetics of multiple areas around the map | Wipe auto times: #1 (baro), #2 (jer), #3 (mateo), #11 (hxcello), #12 (kaan2005), #0 (legogreens (blacklisted but remove time) | Wipe all bonus 5 faste times - Milky_wayy
+770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
+16848148618 - Trikz Cloud - (ONLY DELETE TOP 2 AUTO (baro and ducky) fixed oob skip
 
 submitted fixes (manual time deletion, list times needing deletion):
-124365913384606 - Luminous - Fixed bonus start clipping into the floor, can no longer stand on top of the antitele. delete all bonus times - littlefarrell
+17859292146 - Leek (spin) - Fixed OOB, delete offending faste times and fly trials - littleisableh
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
-135739379207094 - Kairos - Fix a broken spine before spin - isnaisableh
-82038450536711  -  Medieval - Fixed final ramp b2 spine bug - littlefarrell
-82666750974141 - Something - Fixed triggers on b1 to consistently go to bonus spawn - littlefarrell
-108936310330553 - Lezgo II - moved closer to origin (should fix spine issues) - littlefarrell 
-114855944135149 - Rookie - Adjusted trigger on s11 so it covers all of the water, removed unnecessary old hitbox ceilings - littlefarrell
-72978824196458 - Kori - Fixed ramp and spine bugs, moved closer to origin - littlefarrell
 114517911333278 - Ancient - Fixed floating trigger, fixed spine bug, moved closer to origin - littlefarrell
 139967696035281 - Kyoto - Fixed spawn, fixed rampbug, moved closer to origin - littlefarrell
 80252470460646 - Memorial 2 - Fixed spawn, fixed rampbug on last ramp - littlefarrell
 98895015510698 - Swim - Fixed buggy wormhole on B2 - littlefarrell
+114911391388417 - Trikz Cloud - Fixed new oob skip - jid
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
