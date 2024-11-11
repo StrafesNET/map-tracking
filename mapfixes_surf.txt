@@ -42,6 +42,7 @@ uploaded fixes, ready for manual time deletion:
 770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
 
 submitted fixes (manual time deletion, list times needing deletion):
+15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
 17859292146 - Leek (spin) - Fixed OOB, delete offending faste times and fly trials - littleisableh
 
 submitted fixes (no wipe):
