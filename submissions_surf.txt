@@ -9,7 +9,6 @@ frontlog:
 accepted:
 
 changes requested:
-13368824399 - surf_quickie - make the surfaces on the surfs cancollide true or raise the surfs to avoid smashing into flush triggers
 
 rejected:
 6104593622 | Name: penguin simulator | Creator/s: 4eremy - voted out 6:1
