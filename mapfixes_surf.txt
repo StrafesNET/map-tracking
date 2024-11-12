@@ -47,6 +47,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510 - Quat note: this is blocked on rewriting the chest script to not suck
+122367020109210 - Slate - Fixed ramps, moved closer to origin - littIewindex
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
@@ -59,6 +60,7 @@ submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 72031290840697 - Royal - Ramp fixes, adjusted for new hitbox, adjusted s3 triggers for consistency, moved closer to origin, added SetVels for anti teles - littlefarrell
 98534899157737 - Detritus - Ramp fixes, moved closer to origin, added SetVels for anti teles, fixed oobs, zoned bonuses (lighting could use some touches) - littlefarrell
+100709710330227 - Woodworks - Fixed / zoned bonus, Adjusted headcheck in main for new hitbox size, moved closer to origin - littIewindex, littlefarrell, littleisableh
 
 rejected fixes, additional fix notes:
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
