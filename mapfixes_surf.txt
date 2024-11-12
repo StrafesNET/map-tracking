@@ -40,10 +40,10 @@ uploaded fixes, ready for manual time deletion:
 124365913384606 - Luminous - Fixed bonus start clipping into the floor, can no longer stand on top of the antitele. delete all bonus times - littlefarrell
 12062216772 - Frigid - fixed multiple bhop cheeses, using both last ramps more difficult, fixed several rocks being collide off, prevented a few obscure OOB faste routes, improved indicators for gameplay and visibility, prevented bonus 4 prehopping, fixed faste route bonus 5, fixed one ramp being longer on one side of the map, added multiple statues for players who beat the map, improved cosmetics of multiple areas around the map | Wipe auto times: #1 (baro), #2 (jer), #3 (mateo), #11 (hxcello), #12 (kaan2005), #0 (legogreens (blacklisted but remove time) | Wipe all bonus 5 faste times - Milky_wayy
 770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
-
-submitted fixes (manual time deletion, list times needing deletion):
 15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
 17859292146 - Leek (spin) - Fixed OOB, delete offending faste times and fly trials - littleisableh
+
+submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
