@@ -47,12 +47,6 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510
-114517911333278 - Ancient - Fixed floating trigger, fixed spine bug, moved closer to origin - littlefarrell
-139967696035281 - Kyoto - Fixed spawn, fixed rampbug, moved closer to origin - littlefarrell
-80252470460646 - Memorial 2 - Fixed spawn, fixed rampbug on last ramp - littlefarrell
-98895015510698 - Swim - Fixed buggy wormhole on B2 - littlefarrell
-114911391388417 - Trikz Cloud - Fixed new oob skip - jid
-78819818092057 - Cryogen - Fixed ramp bug, removed false trigger - littlefarrell
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
