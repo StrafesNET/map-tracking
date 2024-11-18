@@ -46,6 +46,8 @@ uploaded fixes, ready for manual time deletion:
 submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
+94773445427470 - Lezgo - Fixed some ramp bugs, adjusted triggers for consistency, moved to origin - littlefarrell
+102173925504107 - Ing - Fixed cancollide false on b2 ramp - littlefarrell
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
