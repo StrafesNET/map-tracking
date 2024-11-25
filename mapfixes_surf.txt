@@ -44,6 +44,7 @@ uploaded fixes, ready for manual time deletion:
 17859292146 - Leek (spin) - Fixed OOB, delete offending faste times and fly trials - littleisableh
 
 submitted fixes (manual time deletion, list times needing deletion):
+129309849896760 - Columns - fixed unintended bhop skip on a pillar. wipe top 4 (baroO_O, thisguycantstrafe, ObesityHops, viamateo)
 
 submitted fixes (no wipe):
 
