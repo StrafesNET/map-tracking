@@ -9,6 +9,7 @@ uploaded, wipe:
 8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
 5692094530 - Beginner - Map is from maps_surf.txt, wipe faste times and fly trials
 5692153342 - One More - Map is from maps_surf.txt, needs fly trials wipe due to fixed roof
+13026270460 - Leek (spin) - Map is from maps_surf.txt, wipe fly trials main and bonus5 times
 
 tested, pending upload & wipe:
 
