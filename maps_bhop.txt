@@ -147,6 +147,7 @@
 5692118440 - Emblem 5
 13026161384 - Emblem 6
 5692170984 - Emblem Easy
+5692153710 - Emevaelx3
 5692098438 - Emily
 17279504532 - Epic Minigames
 8658931706 - Epiphany (Short)
@@ -445,7 +446,6 @@
 5692152159 - anyyy
 5692118540 - bhop_indigo
 5692164950 - bhop_lm
-5692153710 - emevaelx3
 5692103818 - kynto
 5692163326 - mush2room
 5692182334 - omgdogs - headhit harder
