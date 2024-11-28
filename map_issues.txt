@@ -9,8 +9,6 @@ bhop main:
 6115161141 - Terral - moving platforms decoration
 
 surf main:
-5692165350 - Bloodthirst rebirth - Ramp Rework please
-5692151451 - Memorial 2 - B2 last ramp super bad spinebug
 5692153342 - One More - b2 first ramp has ramp bug
 5692129052 - ALX - fix lighting, 2 bumpy spines (ramp before and ramp after spin on wr route)
 13548825312 - Accident 3 - tons of oobs
@@ -22,10 +20,7 @@ surf main:
 5692133851 - Brain Power - 2nd, 3rd, and 4th ramps sometimes spine bug
 11222403629 - Castle - ramp before first spine bumps if ur not at the top of the ramp
 5692107676 - Charcoal Chasm - Resurf to get height advantage
-5692135173 - Chimera - oob still possible (watch faste wr)
-5692102865 - Cryogen - 4th ramp bumpy above the middle due to design not being canCollide false. could generally do with all ramps have an ivnisible hitbox and cc false design to stop z fighting
 13548531419 - Cubed - some ramps are bumpy
-5692170872 - Dab on 'Em Haters - the very end is still bumpy unless you do a specific setup
 8659328336 - Dark Matter - sometimes you lose units by walking off the start???
 12293814860 - Daydreamer 2 - oobs galore
 5692106693 - Delorium - some ramps sometimes kill you? NukeV4 has clips of it happening:
