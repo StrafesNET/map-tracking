@@ -48,6 +48,7 @@ uploaded fixes, ready for manual time deletion:
 submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
+129309849896760 - Columns - fixed inaccurate hitboxes on campfires --jid
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
