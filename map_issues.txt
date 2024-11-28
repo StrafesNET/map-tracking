@@ -37,8 +37,6 @@ surf main:
 5692113121 - Ephemeral - 7th? ramp (the long and wide one where you flick up turn left and theres a headcheck) bumpy, spine bug
 5692174328 - Exile - 6th last ramp (wr route) (curved ramp) is bumpy
 5692180913 - Obscurity - 5th, 8th and last ramps need fixing
-5692108102 - Slate - Ramps not called Surf and leading to bhopping on the edges, also bumpy ramps in general. also clipping into trigger coming off of second ramp
-5692106610 - Woodworks - headcheck with the headsurf is too small for new physics
 
 surf:
 5692164341 - 123 - the flat ramps are bumpy
