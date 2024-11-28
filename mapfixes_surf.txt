@@ -9,6 +9,7 @@ uploaded, wipe:
 8659326439 - Convey - Map is from maps_surf.txt, (only wipe main fly trials not bonus)
 5692094530 - Beginner - Map is from maps_surf.txt, wipe faste times and fly trials
 5692153342 - One More - Map is from maps_surf.txt, needs fly trials wipe due to fixed roof
+13026270460 - Leek (spin) - Map is from maps_surf.txt, wipe fly trials main and bonus5 times
 
 tested, pending upload & wipe:
 
@@ -42,12 +43,14 @@ uploaded fixes, ready for manual time deletion:
 770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
 15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
 17859292146 - Leek (spin) - Fixed OOB, delete offending faste times and fly trials - littleisableh
+130992882850253 - Metaophorite - fixed oob. wipe top all of top 10 --jid
 
 submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
-132823328133223 - Paragov - Fixed bumpy ramps - Roblox_Leo2510 - Quat note: this is blocked on rewriting the chest script to not suck
+129309849896760 - Columns - fixed inaccurate hitboxes on campfires --jid
 122367020109210 - Slate - Fixed ramps, moved closer to origin - littIewindex
+100709710330227 - Woodworks - Adjusted headcheck in main for new hitbox size, moved closer to origin - littIewindex, littlefarrell, littleisableh
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
@@ -60,7 +63,6 @@ submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 72031290840697 - Royal - Ramp fixes, adjusted for new hitbox, adjusted s3 triggers for consistency, moved closer to origin, added SetVels for anti teles - littlefarrell
 98534899157737 - Detritus - Ramp fixes, moved closer to origin, added SetVels for anti teles, fixed oobs, zoned bonuses (lighting could use some touches) - littlefarrell
-100709710330227 - Woodworks - Fixed / zoned bonus, Adjusted headcheck in main for new hitbox size, moved closer to origin - littIewindex, littlefarrell, littleisableh
 
 rejected fixes, additional fix notes:
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.

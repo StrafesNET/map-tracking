@@ -36,7 +36,6 @@ uploaded fixes, ready for manual time deletion:
 submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
-18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing) - Quat note: please fix the model name
 
 add map data:
 
