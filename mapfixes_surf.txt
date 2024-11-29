@@ -48,7 +48,6 @@ uploaded fixes, ready for manual time deletion:
 submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
-129309849896760 - Columns - fixed inaccurate hitboxes on campfires --jid
 122367020109210 - Slate - Fixed ramps, moved closer to origin - littIewindex
 100709710330227 - Woodworks - Adjusted headcheck in main for new hitbox size, moved closer to origin - littIewindex, littlefarrell, littleisableh
 
