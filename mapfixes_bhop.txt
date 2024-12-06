@@ -36,6 +36,7 @@ uploaded fixes, ready for manual time deletion:
 submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
+15076180909 - Neonwood - moved Spawn1 closer
 
 add map data:
 
