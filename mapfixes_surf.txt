@@ -38,7 +38,6 @@ uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
 17279603806 - Treespam - delete oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
-124365913384606 - Luminous - Fixed bonus start clipping into the floor, can no longer stand on top of the antitele. delete all bonus times - littlefarrell
 12062216772 - Frigid - fixed multiple bhop cheeses, using both last ramps more difficult, fixed several rocks being collide off, prevented a few obscure OOB faste routes, improved indicators for gameplay and visibility, prevented bonus 4 prehopping, fixed faste route bonus 5, fixed one ramp being longer on one side of the map, added multiple statues for players who beat the map, improved cosmetics of multiple areas around the map | Wipe auto times: #1 (baro), #2 (jer), #3 (mateo), #11 (hxcello), #12 (kaan2005), #0 (legogreens (blacklisted but remove time) | Wipe all bonus 5 faste times - Milky_wayy
 770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
 15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
@@ -46,6 +45,7 @@ uploaded fixes, ready for manual time deletion:
 130992882850253 - Metaophorite - fixed oob. wipe top all of top 10 --jid
 
 submitted fixes (manual time deletion, list times needing deletion):
+15076214780 - Luminous - made all rainbow parts work on 1 script instead of 1.5k. fixed spawning outside of antitele in s2 as well as replacing bonus and s1 antitele with setvel and hitting endzone on bonus without making it onto the platform. remove up to #39 in auto and #49 in faste and other offending times. remove up to #16 on bonus and other times that stand on antitele
 
 submitted fixes (no wipe):
 122367020109210 - Slate - Fixed ramps, moved closer to origin - littIewindex
