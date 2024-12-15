@@ -38,6 +38,21 @@ surf main:
 5692174328 - Exile - 6th last ramp (wr route) (curved ramp) is bumpy
 5692180913 - Obscurity - 5th, 8th and last ramps need fixing
 
+needs credits:
+5692158058 - 004
+5692169729 - Borderlands
+8659325055 - Conserve
+5692113242 - Existence
+15718222939 - Koa
+5693294901 - Mesa
+5692169964 - Nikolo
+5692140037 - Rebel Resistance Final 3
+5692118352 - Reprise
+5692157806 - Sinsane
+5692150007 - Sluice
+8777510372 - Space Jam
+5692153113 - Who Knows 2
+
 surf:
 5692164341 - 123 - the flat ramps are bumpy
 5692174829 - Achromatic - generic bumpy ramps, playtest to fix
