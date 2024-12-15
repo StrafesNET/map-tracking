@@ -50,6 +50,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 submitted fixes (no wipe):
 122367020109210 - Slate - Fixed ramps, moved closer to origin - littIewindex
 100709710330227 - Woodworks - Adjusted headcheck in main for new hitbox size, moved closer to origin - littIewindex, littlefarrell, littleisableh
+129654277327501 - Soyuz - fixed bumpy ramps and spines - mateo
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
