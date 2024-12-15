@@ -50,6 +50,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 submitted fixes (no wipe):
 122367020109210 - Slate - Fixed ramps, moved closer to origin - littIewindex
 100709710330227 - Woodworks - Adjusted headcheck in main for new hitbox size, moved closer to origin - littIewindex, littlefarrell, littleisableh
+77870751501827 - Slate Two - Fixed the trees trying to crash the game whenever you use /hit
 129654277327501 - Soyuz - fixed bumpy ramps and spines - mateo
 
 add map data:

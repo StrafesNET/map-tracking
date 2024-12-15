@@ -37,6 +37,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 15076180909 - Neonwood - moved Spawn1 closer
+75596421933383 - Badges2 - Fix the initial 3 LJ ring room being awful to walk
 
 add map data:
 
