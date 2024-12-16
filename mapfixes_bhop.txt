@@ -38,6 +38,10 @@ submitted fixes (manual time deletion, list times needing deletion):
 submitted fixes (no wipe):
 15076180909 - Neonwood - moved Spawn1 closer
 75596421933383 - Badges2 - Fix the initial 3 LJ ring room being awful to walk
+6420411884 - Calm Down - added tomatox to creatorname 
+12687188945 - Reddish - added supermushroom8 to creatorname 
+10298870923 - Hello - added Justyn1 to creatorname 
+10350059091 - I Don't Know - added coolcoolzombiedude to creatorname 
 
 add map data:
 
