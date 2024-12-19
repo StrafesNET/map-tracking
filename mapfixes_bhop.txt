@@ -42,6 +42,7 @@ submitted fixes (no wipe):
 12687188945 - Reddish - added supermushroom8 to creatorname 
 10298870923 - Hello - added Justyn1 to creatorname 
 10350059091 - I Don't Know - added coolcoolzombiedude to creatorname 
+18904312167 - Kotodama - removed invisible walls
 
 add map data:
 
