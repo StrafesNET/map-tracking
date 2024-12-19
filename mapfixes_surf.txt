@@ -30,6 +30,7 @@ submitted fixes (wipe times):
 85868971601293 - Dunes - Fixed ramp bugs in bonus, fixed faste oob (wipe faste and fly trials) - littlefarrell
 74080715486698 - Vacancy - Fixed oob, wipe faste times, manually wipe s4 auto oob times - littlefarrell
 78819818092057 - Cryogen - wipe fly trials - littlefarrell (duplicate from below)
+1984422161 - 0_o - [INSTRUCTIONS] duplicate all main map records to B2 so that both have the exact same times and bots (contact Frxzt if there is any confusion)
 
 uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
@@ -67,7 +68,6 @@ submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 72031290840697 - Royal - Ramp fixes, adjusted for new hitbox, adjusted s3 triggers for consistency, moved closer to origin, added SetVels for anti teles - littlefarrell
 98534899157737 - Detritus - Ramp fixes, moved closer to origin, added SetVels for anti teles, fixed oobs, zoned bonuses (lighting could use some touches) - littlefarrell
-1984422161 - 0_o - [INSTRUCTIONS] add Bonus2 data and duplicate all main map records to B2 so that both have the exact same times and bots (contact Frxzt if there is any confusion)
 
 rejected fixes, additional fix notes:
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
