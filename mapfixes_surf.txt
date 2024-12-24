@@ -55,6 +55,7 @@ submitted fixes (no wipe):
 129654277327501 - Soyuz - fixed bumpy ramps and spines - mateo
 602067194 - Minecraft - convex ramp fix
 431399795 - Unresponsive - fixed ramps and improved zones
+1310379766 - Cubed - fixed ramps
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
