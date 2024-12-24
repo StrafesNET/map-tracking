@@ -30,6 +30,7 @@ submitted fixes (wipe times):
 85868971601293 - Dunes - Fixed ramp bugs in bonus, fixed faste oob (wipe faste and fly trials) - littlefarrell
 74080715486698 - Vacancy - Fixed oob, wipe faste times, manually wipe s4 auto oob times - littlefarrell
 78819818092057 - Cryogen - wipe fly trials - littlefarrell (duplicate from below)
+1984422161 - 0_o - [INSTRUCTIONS] duplicate all main map records to B2 so that both have the exact same times and bots (contact Frxzt if there is any confusion)
 
 uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
@@ -52,6 +53,9 @@ submitted fixes (no wipe):
 100709710330227 - Woodworks - Adjusted headcheck in main for new hitbox size, moved closer to origin - littIewindex, littlefarrell, littleisableh
 77870751501827 - Slate Two - Fixed the trees trying to crash the game whenever you use /hit
 129654277327501 - Soyuz - fixed bumpy ramps and spines - mateo
+602067194 - Minecraft - convex ramp fix
+431399795 - Unresponsive - fixed ramps and improved zones
+1310379766 - Cubed - fixed ramps
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
@@ -70,7 +74,6 @@ submitted fixes need add map data:
 
 rejected fixes, additional fix notes:
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
-459306841 - Winterland - ramp fix - needs more fixes, still bumpy ramps
 12615410485 - surf_pain (updated ID) bonus 4 endzone fix. - use execution context instead of a script distributor for local scripts.
 13605711173 - Ineffable - made possible - ramp textures are wack on the ends, map is harder because of tall hitbox
 13634743943 - Ineffable 2 - made possible - ramp with z fighting causes physics issues 2 ramps before circle spin thing, map is harder because of tall hitbox
