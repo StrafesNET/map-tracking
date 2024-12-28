@@ -42,8 +42,16 @@ submitted fixes (no wipe):
 12687188945 - Reddish - added supermushroom8 to creatorname 
 10298870923 - Hello - added Justyn1 to creatorname 
 10350059091 - I Don't Know - added coolcoolzombiedude to creatorname 
+
+LEO124531-patch-4
 18904312167 - Kotodama - removed invisible walls
 
+18841177635 - Itaek - fix by fodback
+• removed the temporary platform renaming;
+• each water part has a script inside it that does terrain;
+• lighting script fixups
+
+main
 add map data:
 
 tested, pending upload & add map data:

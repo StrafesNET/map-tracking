@@ -8,22 +8,6 @@ frontlog:
 accepted:
 18313329247 - Sword Fight On the Heights - my partially reviewed version: 18926025534
 410109246 - RPG - cannot download map (copylocked?)
-DECEMBER AOR BELOW:
-92133488990335 - Little Scavenger Hunt - CONTEST ADD FIRST
-98132079042252 - The Gift of Giving - CONTEST ADD FIRST
-127292464255643 - Landshaft
-102812008764727 - Strafe FiBzY
-137778156966167 - :3
-18841177635 - Itaek
-80859901497097 - In Progress
-7248006638 - River Path
-120748062127228 - Alt Vaahtera
-83626725238918 - Hiraeth
-125955168088476 - Strafing in Siberia
-104500850979010 - Nostalgia
-138458376158342 - Automatic
-135170718861541 - Referral
-125988714351929  - Untitled
 
 not in inventory:
 
@@ -44,6 +28,7 @@ rejected:
 9145104232 - 5x5 - it's grey
 12502151911 it should REALLY be polished, but accepted. | Name: wowies | Creator/s: voxaim - rejected 6:1
 12501941146 | Name: Lunar Lake | Creator/s: RecBtw - rejected 3:2 + very short
+104500850979010 - Nostalgia - this is a compilation map which is not allowed, and additionally it is bypassing my removal of these maps.
 
 changes requested:
 1053789937/bhop-ametisti - spawn loop thing and where do you go? jump too far. unfinished?
