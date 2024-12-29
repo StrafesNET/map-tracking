@@ -58,6 +58,7 @@ submitted fixes (no wipe):
 602067194 - Minecraft - convex ramp fix
 431399795 - Unresponsive - fixed ramps and improved zones
 1310379766 - Cubed - fixed ramps
+105862553806558 - Frostbite - Fixed buggy humanoid interaction leading to improper resets and added skybox with sniperMegal (mm) permission - littlefarrell
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
@@ -65,6 +66,7 @@ add map data:
 15076225924 - Quickie - fixed lighting and credits to original mapper. spinefix fixed clipping into flush triggers (accepted 2-3 aors ago but held back)
 459306841 - Winterland - fix
 345938893 - Flandre II - fixed map issues
+119946689087718 - Bloodthirst - Fixed bumpy ramps and added OG Bloodthirst as a bonus per Frxzt's request - littlefarrell
 
 tested, pending upload & add map data:
 17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
