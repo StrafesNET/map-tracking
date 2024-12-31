@@ -13,23 +13,48 @@ tested, pending upload & schedule:
 submitted unreleased fixes:
 
 uploaded, wipe:
-
+5692145082 - Futurebound - fly trials wipe, (map already in maps_bhop.txt)
 tested, pending upload & wipe:
 
+uploaded fixes (manual time deletion, list times needing deletion):
+
 submitted fixes (wipe times):
-18744145421 - Zyper (Wipe Faste only) - Replaced triggers towards the end of the tunnel with clips, added extra trigger before tunnel to prevent another skip - Fixed by h_k
 18745269279 - BrickColors (Wipe Fly Trials only) - Added an anticheat zone to prevent edgebouncing straight to the end - Fixed by h_k
 17713127460 - Aura (wipe Main Faste + Main Auto hand-delete top 3) - Fixed a faste skip + better zoning
-17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
 17718776962 - Overgrown (Wipe FLY TRIALS ONLY) - Fixed several OOB possibilities
-17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
+14179909838 - Blue - Fixed skip making the map 0.008 seconds (wipe fly trials times) - Fixed by xisablehx
+
+uploaded fixes, ready for manual time deletion:
+17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
 17718596309 - Woods (hand-delete offending Main Faste + Main Auto using skips) - Fixed several faste skips + an autohop skip
 139989915040224 - No Lost (top 3 faste) also fixed possible auto oob
+
 tested, pending upload:
+17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
+108302825888247 - Crypt (hand-delete offending Main Faste) Removed slopes in the start area to prevent bounces - Fixed by h_k
+115464482326606 - Ares - Fix trigger overlap - delete offending times - Roblox_Leo2510
+105138001145681 - Solitude (hand-delete offending Main Auto + any possible Faste) - Extended a trigger to prevent skipping a large portion of the map
+84606010438989 - Zyper (hand-delete offending Main Faste) - Fixed extended clips that allowed skipping entire map
+
+submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
-18972688180 - The Dragon's Lair - Move the map to keep the main area within reasonable bounds to avoid float imprecision (fixes ladder climbing)
+15076180909 - Neonwood - moved Spawn1 closer
+75596421933383 - Badges2 - Fix the initial 3 LJ ring room being awful to walk
+6420411884 - Calm Down - added tomatox to creatorname 
+12687188945 - Reddish - added supermushroom8 to creatorname 
+10298870923 - Hello - added Justyn1 to creatorname 
+10350059091 - I Don't Know - added coolcoolzombiedude to creatorname 
 
+LEO124531-patch-4
+18904312167 - Kotodama - removed invisible walls
+
+18841177635 - Itaek - fix by fodback
+• removed the temporary platform renaming;
+• each water part has a script inside it that does terrain;
+• lighting script fixups
+
+main
 add map data:
 
 tested, pending upload & add map data:
