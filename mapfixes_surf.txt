@@ -59,6 +59,7 @@ submitted fixes (no wipe):
 602067194 - Minecraft - convex ramp fix
 431399795 - Unresponsive - fixed ramps and improved zones
 1310379766 - Cubed - fixed ramps
+105862553806558 - Frostbite - Fixed buggy humanoid interaction leading to improper resets and added skybox with sniperMegal (mm) permission - littlefarrell
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
