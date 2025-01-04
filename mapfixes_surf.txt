@@ -10,6 +10,7 @@ uploaded, wipe:
 5692094530 - Beginner - Map is from maps_surf.txt, wipe faste times and fly trials
 5692153342 - One More - Map is from maps_surf.txt, needs fly trials wipe due to fixed roof
 13026270460 - Leek (spin) - Map is from maps_surf.txt, wipe fly trials main and bonus5 times
+5692164379 - Lines - Wipe all styles.
 
 tested, pending upload & wipe:
 

@@ -27,6 +27,9 @@ submitted fixes (wipe times):
 uploaded fixes, ready for manual time deletion:
 17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
 17718596309 - Woods (hand-delete offending Main Faste + Main Auto using skips) - Fixed several faste skips + an autohop skip
+139989915040224 - No Lost (top 3 faste) also fixed possible auto oob
+
+tested, pending upload:
 17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
 108302825888247 - Crypt (hand-delete offending Main Faste) Removed slopes in the start area to prevent bounces - Fixed by h_k
 115464482326606 - Ares - Fix trigger overlap - delete offending times - Roblox_Leo2510
@@ -43,6 +46,7 @@ submitted fixes (no wipe):
 10298870923 - Hello - added Justyn1 to creatorname 
 10350059091 - I Don't Know - added coolcoolzombiedude to creatorname 
 106251402004888 - The Gift of Giving - Adjusted cc false platform and invis walls (small tweaks) - littlefarrell
+12773091471 - Legowo - fixed spawn, toggled invisible collisions, and triggered softlock hole
 
 LEO124531-patch-4
 18904312167 - Kotodama - removed invisible walls
