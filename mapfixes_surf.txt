@@ -50,16 +50,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 15076214780 - Luminous - made all rainbow parts work on 1 script instead of 1.5k. fixed spawning outside of antitele in s2 as well as replacing bonus and s1 antitele with setvel and hitting endzone on bonus without making it onto the platform. remove up to #39 in auto and #49 in faste and other offending times. remove up to #16 on bonus and other times that stand on antitele
 
 submitted fixes (no wipe):
-122367020109210 - Slate - Fixed ramps, moved closer to origin - littIewindex
-100709710330227 - Woodworks - Adjusted headcheck in main for new hitbox size, moved closer to origin - littIewindex, littlefarrell, littleisableh
-77870751501827 - Slate Two - Fixed the trees trying to crash the game whenever you use /hit
-129654277327501 - Soyuz - fixed bumpy ramps and spines - mateo
-111827509057893 - Rigorous - Fixed bonus triggers going to main - ysamuzan
-88602475698004 - Silky - fixed problem where endzone didnt save ur time unless u werent holding any keys - jid
 602067194 - Minecraft - convex ramp fix
-431399795 - Unresponsive - fixed ramps and improved zones
-1310379766 - Cubed - fixed ramps
-105862553806558 - Frostbite - Fixed buggy humanoid interaction leading to improper resets and added skybox with sniperMegal (mm) permission - littlefarrell
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
