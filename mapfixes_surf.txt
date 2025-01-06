@@ -44,15 +44,15 @@ uploaded fixes, ready for manual time deletion:
 15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
 17859292146 - Leek (spin) - Fixed OOB, delete offending faste times and fly trials - littleisableh
 130992882850253 - Metaophorite - fixed oob. wipe top all of top 10 --jid
+86272671055892 - Andromeda - Fixed OOB. delete #1 auto and top 22 faste - Roblox_Leo2510
+109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. delete top 35 faste. - littleisableh
+17621471458 - Mane Six - Fixed s2 oob. delete top 4 auto.
+74080715486698 - Vacancy - Fixed oob, delete top 4 auto - littlefarrell
 
 submitted fixes (manual time deletion, list times needing deletion):
 15076214780 - Luminous - made all rainbow parts work on 1 script instead of 1.5k. fixed spawning outside of antitele in s2 as well as replacing bonus and s1 antitele with setvel and hitting endzone on bonus without making it onto the platform. remove up to #39 in auto and #49 in faste and other offending times. remove up to #16 on bonus and other times that stand on antitele
-17621471458 - Mane Six - Fixed s2 oob. delete top 4 auto.
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
-109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. delete top 35 faste. - littleisableh
 72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
-86272671055892 - Andromeda - Fixed OOB. delete #1 auto and top 22 faste - Roblox_Leo2510
-74080715486698 - Vacancy - Fixed oob, delete top 4 auto - littlefarrell
 
 submitted fixes (no wipe):
 
