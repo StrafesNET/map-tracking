@@ -15,21 +15,20 @@ uploaded, wipe:
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
-17621471458 - Mane Six (wipe Main Faste + hand-delete Auto WR + fly trials wipe) - Fix oob
+17621471458 - Mane Six - wipe Main Faste + fly trials wipe. Fix s2 oob
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times and all fly trials
-4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob map skip (only wipe times that use the skip)
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped and all fly trials times need to be wiped
 1258610833 - Brain Power - (WIPE FASTE AND FLY TRIALS ONLY! and fixed a potential auto oob)
-109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. all faste times until manners' (#32) need to be wiped. all fly trials times need to be wiped. fixed by xisablehx
+109349367776979  - Karakai Jozu no Takagi-san - all fly trials times need to be wiped. fixed by xisablehx
 71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission). wipe fly trials
-72984478824896 - Clique - Fixed several OOB possibilities. Wipe fly trials and top 70 faste. - fixed by xisablehx
-86272671055892 - Andromeda - Fixed OOB (hand delete #1 auto and wipe faste and fly trials) - Roblox_Leo2510
+72984478824896 - Clique - Fixed several OOB possibilities. wipe fly trials - fixed by xisablehx
+86272671055892 - Andromeda - Fixed OOB. wipe fly trials - Roblox_Leo2510
 134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus and fly trials) - Roblox_Leo2510
 15076284379 - Regret - fixed oob and lighting. wipe all times.
 121170303581252 - Venust - fixed oobs, wipe faste and fly trials. Zoned extra stage as bonus (original mapper gave permission) - offstyling
 116374951467432 - Windows 84 - fixed last stage, removed bounce, moved end, added more barriers to make faste times less cringe. wipe all times - antinodes
 85868971601293 - Dunes - Fixed ramp bugs in bonus, fixed faste oob (wipe faste and fly trials) - littlefarrell
-74080715486698 - Vacancy - Fixed oob, wipe faste times, manually wipe s4 auto oob times - littlefarrell
+74080715486698 - Vacancy - Fixed oob, wipe faste times - littlefarrell
 78819818092057 - Cryogen - wipe fly trials - littlefarrell (duplicate from below)
 1984422161 - 0_o - [INSTRUCTIONS] duplicate all main map records to B2 so that both have the exact same times and bots (contact Frxzt if there is any confusion)
 
@@ -48,6 +47,12 @@ uploaded fixes, ready for manual time deletion:
 
 submitted fixes (manual time deletion, list times needing deletion):
 15076214780 - Luminous - made all rainbow parts work on 1 script instead of 1.5k. fixed spawning outside of antitele in s2 as well as replacing bonus and s1 antitele with setvel and hitting endzone on bonus without making it onto the platform. remove up to #39 in auto and #49 in faste and other offending times. remove up to #16 on bonus and other times that stand on antitele
+17621471458 - Mane Six - Fixed s2 oob. delete top 4 auto.
+4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
+109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. delete top 35 faste. - littleisableh
+72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
+86272671055892 - Andromeda - Fixed OOB. delete #1 auto and top 22 faste - Roblox_Leo2510
+74080715486698 - Vacancy - Fixed oob, delete top 4 auto - littlefarrell
 
 submitted fixes (no wipe):
 
