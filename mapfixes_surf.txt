@@ -60,7 +60,6 @@ add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
 713859332 - O-oh hi-i t-there, J-J-Jill - fixed ramps
 15076225924 - Quickie - fixed lighting and credits to original mapper. spinefix fixed clipping into flush triggers (accepted 2-3 aors ago but held back)
-459306841 - Winterland - fix
 345938893 - Flandre II - fixed map issues
 
 tested, pending upload & add map data:
