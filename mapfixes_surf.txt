@@ -55,6 +55,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
 
 submitted fixes (no wipe):
+129392613422961 - Paradise - Fix Spawn1 and the main spawn floor piece being unanchored leading to insane desync
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
