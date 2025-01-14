@@ -61,6 +61,52 @@ add map data:
 713859332 - O-oh hi-i t-there, J-J-Jill - fixed ramps
 15076225924 - Quickie - fixed lighting and credits to original mapper. spinefix fixed clipping into flush triggers (accepted 2-3 aors ago but held back)
 345938893 - Flandre II - fixed map issues
+124019201243955 - 123
+76630009623063 - Achromatic
+75437498368420 - Aether
+96870188001466 - Alcoa
+128618737046000 - Baleful
+90718727757484 - Consistency
+115173288164428 - Dark Ambient
+120343034088620 - Depression
+104491849402473 - Egypt
+120310624963229 - Error
+86679381129863 - Farewell
+105032598834893 - Fort
+83071023433889 - Gimmick
+103587182453471 - Ineffable
+117200152130142 - Luck2 (thanks purr)
+105083094143340 - Magenta
+70562862497431 - Memorial
+108221492835725 - Newt Two
+73186281499705 - Obsidium
+137302632337136 - Reflectoria
+136176068227349 - Reskea
+123637830208172 - Strafe Race
+106841664334927 - Striped
+70486452051474 - Trees
+109398892772862 - Ultra
+88758066747012 - Victor
+93821899662385 - WaP II
+74329636129610 - Winter Is Coming
+127478655084161 - Wood
+87782194710717 - Xenomorphic
+108885964029806 - 15 Minutes
+116535728706780 - 456
+118542101462905 - Azurite
+110697430178556 - Chrome
+106457135255524 - Compact
+74312319168697 - Divine
+76336934416749 - Ethereal
+76735558639755 - Gravity
+131131882434093 - Icire
+118539912724321 - Ire
+95130640164693 - Elprup
+78530518945601 - No
+82275796539094 - Olive
+105655550636887 - Reprise Hard
+81010734569812 - Resilience
+137036119767513 - S'mores
 
 tested, pending upload & add map data:
 17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
