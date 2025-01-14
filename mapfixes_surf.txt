@@ -107,6 +107,12 @@ add map data:
 105655550636887 - Reprise Hard
 81010734569812 - Resilience
 137036119767513 - S'mores
+73414859617817 - Sand Flow
+92481398265733 - Shade
+108595135265915 - Strawberry Avalanche
+103061530527146 - Tumb 2
+120616852224264 - Verde
+119646005676468 - Void
 
 tested, pending upload & add map data:
 17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
