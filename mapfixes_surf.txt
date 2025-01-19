@@ -113,7 +113,8 @@ add map data:
 120616852224264 - Verde
 119646005676468 - Void
 100445939035656 - Arctic - Voted back in by council
-104195125186427 - Cataclysm 3 - Voted back in by council
+104195125186427 - Berserk - Voted back in by council
+97909432217898 - Cataclysm 3 - Voted back in by council and added surf_cataclysm and surf_cataclysm_2 as bonuses with mapmaker approval
 
 tested, pending upload & add map data:
 17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
