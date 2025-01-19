@@ -31,6 +31,7 @@ submitted fixes (wipe times):
 74080715486698 - Vacancy - Fixed oob, wipe faste times - littlefarrell
 78819818092057 - Cryogen - wipe fly trials - littlefarrell (duplicate from below)
 1984422161 - 0_o - [INSTRUCTIONS] duplicate all main map records to B2 so that both have the exact same times and bots (contact Frxzt if there is any confusion)
+12773091471 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route (wipe all times that use it)
 
 uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
@@ -56,7 +57,6 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 11875206032 - Caverns - convex ramp fix
-12773091471 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
