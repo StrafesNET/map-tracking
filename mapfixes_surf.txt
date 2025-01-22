@@ -63,7 +63,6 @@ submitted fixes (manual time deletion, list times needing deletion):
 96196419905072 - Hi Everyone - oob fix (wipe times that use it)
 94061034010846 - Lines - oob fix (wipe times that use it)
 96820520702197 - Sky - oob fix (wipe times that use it)
-
 99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route (wipe all times that use it)
 
 submitted fixes (no wipe):
