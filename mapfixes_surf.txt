@@ -31,7 +31,8 @@ submitted fixes (wipe times):
 74080715486698 - Vacancy - Fixed oob, wipe faste times - littlefarrell
 78819818092057 - Cryogen - wipe fly trials - littlefarrell (duplicate from below)
 1984422161 - 0_o - [INSTRUCTIONS] duplicate all main map records to B2 so that both have the exact same times and bots (contact Frxzt if there is any confusion)
-12773091471 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route (wipe all times that use it)
+115312889627328 - Daydreamer II - invisible wall remake
+115587331632961 - Orbital - invisible wall remake
 
 uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
@@ -54,9 +55,19 @@ submitted fixes (manual time deletion, list times needing deletion):
 15076214780 - Luminous - made all rainbow parts work on 1 script instead of 1.5k. fixed spawning outside of antitele in s2 as well as replacing bonus and s1 antitele with setvel and hitting endzone on bonus without making it onto the platform. remove up to #39 in auto and #49 in faste and other offending times. remove up to #16 on bonus and other times that stand on antitele
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
+124303344855929 - 1738 - oob fix (wipe times that use it)
+126166333496285 - Ancient Ruin - ramp & spine fix (wipe times that use it)
+109318571137865 - Drake - oob fix (wipe times that use it)
+98503157833058 - Frantic Lemon - oob fix (wipe times that use it)
+96410575671569 - Got The Blues - oob fix (wipe times that use it)
+96196419905072 - Hi Everyone - oob fix (wipe times that use it)
+94061034010846 - Lines - oob fix (wipe times that use it)
+96820520702197 - Sky - oob fix (wipe times that use it)
+
+99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route (wipe all times that use it)
 
 submitted fixes (no wipe):
-11875206032 - Caverns - convex ramp fix
+88904309661890 - Caverns - convex ramp fix
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
