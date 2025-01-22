@@ -56,7 +56,6 @@ submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
 124303344855929 - 1738 - oob fix (wipe times that use it)
-126166333496285 - Ancient Ruin - ramp & spine fix (wipe times that use it)
 109318571137865 - Drake - oob fix (wipe times that use it)
 98503157833058 - Frantic Lemon - oob fix (wipe times that use it)
 96410575671569 - Got The Blues - oob fix (wipe times that use it)
@@ -66,6 +65,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route (wipe all times that use it)
 
 submitted fixes (no wipe):
+126166333496285 - Ancient Ruin - ramp & spine fix
 119946689087718  - Bloodthirst - mapfix by littlefarrell
 88904309661890 - Caverns - convex ramp fix
 
