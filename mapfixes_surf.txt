@@ -66,6 +66,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route (wipe all times that use it)
 
 submitted fixes (no wipe):
+119946689087718  - Bloodthirst - mapfix by littlefarrell
 88904309661890 - Caverns - convex ramp fix
 
 add map data:
