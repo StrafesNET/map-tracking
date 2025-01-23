@@ -60,6 +60,14 @@ submitted fixes (no wipe):
 431399795 - Unresponsive - fixed ramps and improved zones
 1310379766 - Cubed - fixed ramps
 105862553806558 - Frostbite - Fixed buggy humanoid interaction leading to improper resets and added skybox with sniperMegal (mm) permission - littlefarrell
+78311684430808 - Frosty Winter - Fixed trigger inside spawn platform, fixed ramp clipping with trigger - littlefarrell
+94693343598055 - Rose - Fixed ramp bugs - littlefarrell
+95640294721189 - Obscurity - Moved to origin (Should fix spine bugs) - littlefarrell
+100909352062587 - Docile - Moved to origin (Should fix ramp bug) - littlefarrell
+74171506417095 - Blued - Fixed multipart ramps, moved to origin - littlefarrell
+73658698221842 - Blue Linear - Fixed multipart ladder, moved to origin - littlefarrell
+94302281639057 - Brain Power - Fixed spine bugs, moved to origin - littlefarrell
+73364866281055 - Dizzy - Fixed spines, moved to origin - littlefarrell
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
