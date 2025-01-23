@@ -20,9 +20,7 @@ surf main:
 5692133851 - Brain Power - 2nd, 3rd, and 4th ramps sometimes spine bug
 11222403629 - Castle - ramp before first spine bumps if ur not at the top of the ramp
 5692107676 - Charcoal Chasm - Resurf to get height advantage
-13548531419 - Cubed - some ramps are bumpy
 8659328336 - Dark Matter - sometimes you lose units by walking off the start???
-12293814860 - Daydreamer 2 - oobs galore
 5692106693 - Delorium - some ramps sometimes kill you? NukeV4 has clips of it happening:
     https://cdn.discordapp.com/attachments/787762150231375886/1274906734837628979/Roblox_VR_2024.08.19_-_03.40.08.03.DVR.mp4?       ex=66eecdac&is=66ed7c2c&hm=b2c207724c32a1cb56ff9a787af94ff481d350eff164ce5eb18aa2ae062016ad&
     https://cdn.discordapp.com/attachments/167423382697148416/1277367071793090561/0825.mp4?ex=66ee868a&is=66ed350a&hm=03aa1fbb93088a31b7caed7781a70bbc7d9aef89940c8686b8bd904286ef8c53&
@@ -30,7 +28,6 @@ surf main:
 5692124282 - Dizzy - bumpy spines
 5692163819 - Docile - 5th ramp bumpy around the middle (10s on wr)
 5692107850 - Drains - 2nd ramp bumpy, faste oob
-17279567369 - Drake (Rapper) - weird start
 17286226495 - Ductile - faste oob
 5692158651 - Dystopia - 3rd ramp is bumpy on the curve sometimes
 5692164052 - Eden - Last ramp spine is bumpy
@@ -54,62 +51,8 @@ needs credits:
 5692153113 - Who Knows 2
 
 surf:
-5692164341 - 123 - the flat ramps are bumpy
-5692174829 - Achromatic - generic bumpy ramps, playtest to fix
-5692163859 - Aether - antitele traps you
-5692111949 - Alcoa
-5692158158 - Baleful
-5692180583 - Consistency - also weird invisible trigger
-5692107905 - Dark Ambient
-5692124203 - Depression
-8659330557 - Egypt - not designed for new hitbox
-6111008494 - Error - every curved ramp
-6111010028 - Farewell
-5692158577 - Fort - align spines
-5692153669 - Gimmick
-5692146367 - Ineffable
-5692164006 - Luck2 - fix all spines
-5692163103 - Magenta
-5692113509 - Memorial
-5692174281 - Newt Two
-5692094206 - Obsidium
-5692133386 - Reflectoria
-5692175668 - Reskea
-5692170278 - Strafe Race - unfixable without physics changes?
-5692122639 - Striped
-5692132828 - Trees - ramps kill you
-5692158471 - Ultra
-5692144023 - Victor - spines
-5692159699 - WaP II
-5692128271 - Winter is Coming
-5692165218 - Wood - align spines
-5692140916 - Xenomorphic
-5692181503 - 15 Minutes - OOB
-5692108009 - 456 - spin is impossible
-5692128954 - Azurite - fix start & make window wider by 2.2
-5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
-5692102646 - Compact - can't leave spawn
-5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
-5732181194 - Ethereal - "under the void" issue
-5692104185 - Flandre II - needs spine fixes, some ramps hitboxes are wrong somehow on blue and green stages, and move closer to 0,0,0
-5692134367 - Gravity - hitbox harder
-5692159828 - Icire - move to origin, align ramps
-5692153618 - Ineffable 2 - broken bhop at end
-6111269498 - Ire - end zone broken, one bumpy ramp mid map, raise the surf flush with a trigger so you don't hit the trigger
 5692118651 - Level Up! - please make this less ugly, maybe decorate
-5692140242 - Elprup - impossible, can't go in diamond hole
-5692159131 - No - impossible: wormhole resets you to start
-5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
-5692135126 - Reprise Hard - spine next to trigger can get hit
-5692107810 - Resilience - impossible: hitbox harder - moving decoration
-5692174627 - S'mores
-5692133134 - Sand Flow - hitbox hard
 6111031896 - Sandstorm Supergiant - hitbox hard
-5692134185 - Shade - hitbox harder, fix diamond hitbox
-5692170594 - Strawberry Avalanche - getting triggered at end
-5692176099 - Tumb 2 - very small holes, too hard with new hitbox
-5692118585 - Verde - fix last stage spawn
-5692124370 - Void - invisible part at start
 
 bhop:
 5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
@@ -127,18 +70,15 @@ FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog
 rejected:
 5692165511 - 2fast2quick - Bad look, not fun to WR
 5692169083 - Absobe
-5692134244 - Arctic - Voted out
 5692129219 - Argon - Voted out
 5692186981 - Articulation - Voted out
 5692170030 - Azure - Voted out
 5692127956 - Badges (Short) - maybe add a bonus to full badges
-5692135245 - Berserk - Voted out
 5692113547 - Biomes - Voted out
 5692175025 - Biomes - Voted out
 5692112867 - Blue Seas - Voted out
 5692103013 - Caldera - No
 5692134051 - Cataclysm - Voted out
-5692133296 - Cataclysm 3 - Voted out
 5692106207 - Daniel - Voted out
 5692108061 - Dash - Voted out
 5692128819 - Dionysus - Voted out
@@ -181,7 +121,6 @@ rejected:
 5692122957 - Vert - Voted out
 5692174238 - Violet - Voted out
 5692128225 - Voxel - Voted out
-5692128341 - WaP - Voted out
 5692103442 - What Map is This? - Voted out
 5693294929 - Woody - Voted out
 5692182065 - Workshop - Voted out
@@ -198,9 +137,7 @@ rejected:
 too short:
 5692180942 - 1 Hour - 13s
 5692151302 - 2stref5u
-5692170693 - 30 Minutes
 5692153404 - 303
-5692186917 - 7m30s
 5692153241 - Andru
 5692163383 - Aperture - 7s
 5692151386 - Aqua - 10s
