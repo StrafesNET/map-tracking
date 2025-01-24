@@ -53,6 +53,9 @@ needs credits:
 8777510372 - Space Jam
 5692153113 - Who Knows 2
 
+surf:
+5692118651 - Level Up! - please make this less ugly, maybe decorate
+
 bhop:
 5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
 5692093067 - MooManChicken - fix lighting
