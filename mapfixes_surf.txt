@@ -31,6 +31,7 @@ submitted fixes (wipe times):
 74080715486698 - Vacancy - Fixed oob, wipe faste times - littlefarrell
 78819818092057 - Cryogen - wipe fly trials - littlefarrell (duplicate from below)
 1984422161 - 0_o - [INSTRUCTIONS] duplicate all main map records to B2 so that both have the exact same times and bots (contact Frxzt if there is any confusion)
+94302281639057 - Brain Power - Fixed spine bugs, moved to origin. fixed faste oob, wipe faste - littlefarrell
 
 uploaded fixes, ready for manual time deletion:
 15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
@@ -64,7 +65,6 @@ submitted fixes (no wipe):
 100909352062587 - Docile - Moved to origin (Should fix ramp bug) - littlefarrell
 74171506417095 - Blued - Fixed multipart ramps, moved to origin - littlefarrell
 73658698221842 - Blue Linear - Fixed multipart ladder, moved to origin - littlefarrell
-94302281639057 - Brain Power - Fixed spine bugs, moved to origin - littlefarrell
 73364866281055 - Dizzy - Fixed spines, moved to origin - littlefarrell
 107359662224069 - Draker (rapper) - Fixed weird floor visual - littlefarrell
 136180053671309 - Castle - moved to origin (should fix ramp bug) - littlefarrell
