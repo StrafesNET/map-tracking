@@ -56,7 +56,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
 124303344855929 - 1738 - oob fix (wipe times that use it)
-109318571137865 - Drake - oob fix (wipe times that use it)
+109318571137865 - Drake - oob fix (wipe times that use it) (thanks farrell)
 98503157833058 - Frantic Lemon - oob fix (wipe times that use it)
 96410575671569 - Got The Blues - oob fix (wipe times that use it)
 96196419905072 - Hi Everyone - oob fix (wipe times that use it)
