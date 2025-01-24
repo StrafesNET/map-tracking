@@ -38,62 +38,7 @@ needs credits:
 5692153113 - Who Knows 2
 
 surf:
-5692164341 - 123 - the flat ramps are bumpy
-5692174829 - Achromatic - generic bumpy ramps, playtest to fix
-5692163859 - Aether - antitele traps you
-5692111949 - Alcoa
-5692158158 - Baleful
-5692180583 - Consistency - also weird invisible trigger
-5692107905 - Dark Ambient
-5692124203 - Depression
-8659330557 - Egypt - not designed for new hitbox
-6111008494 - Error - every curved ramp
-6111010028 - Farewell
-5692158577 - Fort - align spines
-5692153669 - Gimmick
-5692146367 - Ineffable
-5692164006 - Luck2 - fix all spines
-5692163103 - Magenta
-5692113509 - Memorial
-5692174281 - Newt Two
-5692094206 - Obsidium
-5692133386 - Reflectoria
-5692175668 - Reskea
-5692170278 - Strafe Race - unfixable without physics changes?
-5692122639 - Striped
-5692132828 - Trees - ramps kill you
-5692158471 - Ultra
-5692144023 - Victor - spines
-5692159699 - WaP II
-5692128271 - Winter is Coming
-5692165218 - Wood - align spines
-5692140916 - Xenomorphic
-5692181503 - 15 Minutes - OOB
-5692108009 - 456 - spin is impossible
-5692128954 - Azurite - fix start & make window wider by 2.2
-5692106532 - Chrome - fix start spawn in ground, long ramp makes you restart
-5692102646 - Compact - can't leave spawn
-5692113845 - Divine - 1st ramp spine + randomly kills, 3rd ramp spine, 5th ramp killed once, 9th ramp would cause the screen to flash, camera punch, and killed once, 10 has spine issues, 11 has spine issues, 13 has spine issues, last ramp killed once
-5732181194 - Ethereal - "under the void" issue
-5692104185 - Flandre II - needs spine fixes, some ramps hitboxes are wrong somehow on blue and green stages, and move closer to 0,0,0
-5692134367 - Gravity - hitbox harder
-5692159828 - Icire - move to origin, align ramps
-5692153618 - Ineffable 2 - broken bhop at end
-6111269498 - Ire - end zone broken, one bumpy ramp mid map, raise the surf flush with a trigger so you don't hit the trigger
 5692118651 - Level Up! - please make this less ugly, maybe decorate
-5692140242 - Elprup - impossible, can't go in diamond hole
-5692159131 - No - impossible: wormhole resets you to start
-5692123564 - Olive - impossible: window at part of the map is too small, spines need to be looked at
-5692135126 - Reprise Hard - spine next to trigger can get hit
-5692107810 - Resilience - impossible: hitbox harder - moving decoration
-5692174627 - S'mores
-5692133134 - Sand Flow - hitbox hard
-6111031896 - Sandstorm Supergiant - hitbox hard
-5692134185 - Shade - hitbox harder, fix diamond hitbox
-5692170594 - Strawberry Avalanche - getting triggered at end
-5692176099 - Tumb 2 - very small holes, too hard with new hitbox
-5692118585 - Verde - fix last stage spawn
-5692124370 - Void - invisible part at start
 
 bhop:
 5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb
