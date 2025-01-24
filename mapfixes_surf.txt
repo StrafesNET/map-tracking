@@ -55,10 +55,10 @@ submitted fixes (manual time deletion, list times needing deletion):
 72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
 107023851638979 - Drains - fixed spine bug, fixed faste oob - littlefarrell - [Wipe Faste or Delete top 135 faste times]
 78139004526195 - Charcoal Chasm - fixed ramp bugs, fixed standing on spawn - littlefarrell - [Delete auto {1-7, 10, 11, 18}, wipe faste]
+78311684430808 - Frosty Winter - Fixed trigger inside spawn platform, fixed ramp clipping with trigger, and faste oob. delete faste up to 0y6l (#26) - littlefarrell
 
 submitted fixes (no wipe):
 105862553806558 - Frostbite - Fixed buggy humanoid interaction leading to improper resets and added skybox with sniperMegal (mm) permission - littlefarrell
-78311684430808 - Frosty Winter - Fixed trigger inside spawn platform, fixed ramp clipping with trigger - littlefarrell
 94693343598055 - Rose - Fixed ramp bugs - littlefarrell
 95640294721189 - Obscurity - Moved to origin (Should fix spine bugs) - littlefarrell
 100909352062587 - Docile - Moved to origin (Should fix ramp bug) - littlefarrell
