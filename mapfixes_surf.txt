@@ -68,6 +68,7 @@ submitted fixes (no wipe):
 126166333496285 - Ancient Ruin - ramp & spine fix
 119946689087718  - Bloodthirst - mapfix by littlefarrell
 88904309661890 - Caverns - convex ramp fix
+127167146018868 - QuickSwap - spinefix by purrplaysLE
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
