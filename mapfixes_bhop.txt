@@ -43,6 +43,7 @@ submitted fixes (no wipe):
 6420411884 - Calm Down - added tomatox to creatorname - copylocked
 10298870923 - Hello - added Justyn1 to creatorname - copylocked
 135083275719711 - Quarry (CS:S) - Added SpawnAt triggers on spawns, zoned bonus and credited original mapper - dedicatedkills
+115753958291808 - Haarukka - Zoned Bonus 
 
 add map data:
 
