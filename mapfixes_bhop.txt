@@ -4,6 +4,7 @@ uncategorized:
 11419832052 - Bluebeat v2 - fixed stages that played bad
 11416396856 - Yonkoma - Moved start to SJ's start zone (after climb room), fixed/updated some stages
 10573377465 (in scriptfinder_mapsa1 on windows) | Name: Nedone | Creator/s: fodback - is this a map fix?
+137778156966167 - :3 - fixed ladders
 
 upload but don't add:
 10050550205 - Yonder (MOVING PLATFORM FIX AVAILABLE) - Trigger skip near lake is no longer possible.
