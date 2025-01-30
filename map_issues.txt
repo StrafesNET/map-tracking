@@ -12,28 +12,13 @@ surf main:
 5692153342 - One More - b2 first ramp has ramp bug
 5692129052 - ALX - fix lighting, 2 bumpy spines (ramp before and ramp after spin on wr route)
 13548825312 - Accident 3 - tons of oobs
-11222400124 - Ambience - shitty spines and bumpy ramps
 5692108257 - Ancient Ruin - shit rng spine used to skip the end of s1 to go to s2. might be intended and everyone does it so allow skip and fix spine?
 5692132646 - Azura - Lighting
-5732172079 - Banal - (not sure if this isnt fixed) 2nd curved is bumpy on the right side and the left one isnt
-5692159783 - Blued - terrible ramps
-5692133851 - Brain Power - 2nd, 3rd, and 4th ramps sometimes spine bug
-11222403629 - Castle - ramp before first spine bumps if ur not at the top of the ramp
-5692107676 - Charcoal Chasm - Resurf to get height advantage
-8659328336 - Dark Matter - sometimes you lose units by walking off the start???
 5692106693 - Delorium - some ramps sometimes kill you? NukeV4 has clips of it happening:
     https://cdn.discordapp.com/attachments/787762150231375886/1274906734837628979/Roblox_VR_2024.08.19_-_03.40.08.03.DVR.mp4?       ex=66eecdac&is=66ed7c2c&hm=b2c207724c32a1cb56ff9a787af94ff481d350eff164ce5eb18aa2ae062016ad&
     https://cdn.discordapp.com/attachments/167423382697148416/1277367071793090561/0825.mp4?ex=66ee868a&is=66ed350a&hm=03aa1fbb93088a31b7caed7781a70bbc7d9aef89940c8686b8bd904286ef8c53&
 6111005316 - Desolate - oob
-5692124282 - Dizzy - bumpy spines
-5692163819 - Docile - 5th ramp bumpy around the middle (10s on wr)
-5692107850 - Drains - 2nd ramp bumpy, faste oob
 17286226495 - Ductile - faste oob
-5692158651 - Dystopia - 3rd ramp is bumpy on the curve sometimes
-5692164052 - Eden - Last ramp spine is bumpy
-5692113121 - Ephemeral - 7th? ramp (the long and wide one where you flick up turn left and theres a headcheck) bumpy, spine bug
-5692174328 - Exile - 6th last ramp (wr route) (curved ramp) is bumpy
-5692180913 - Obscurity - 5th, 8th and last ramps need fixing
 
 needs credits:
 5692158058 - 004
@@ -52,7 +37,6 @@ needs credits:
 
 surf:
 5692118651 - Level Up! - please make this less ugly, maybe decorate
-6111031896 - Sandstorm Supergiant - hitbox hard
 
 bhop:
 5692139047 - Intensity - Trigger skip going in a straight line from start zone smashing into the wall by the surfs, skips first climb

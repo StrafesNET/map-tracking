@@ -40,10 +40,10 @@ submitted fixes (manual time deletion, list times needing deletion):
 71340039648874 - Woods - oob fix
 
 submitted fixes (no wipe):
+106251402004888 - The Gift of Giving - Adjusted cc false platform and invis walls (small tweaks) - littlefarrell
 6420411884 - Calm Down - added tomatox to creatorname - copylocked
 10298870923 - Hello - added Justyn1 to creatorname - copylocked
 
-main
 add map data:
 
 tested, pending upload & add map data:
