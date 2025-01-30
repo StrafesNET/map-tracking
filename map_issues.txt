@@ -14,8 +14,6 @@ surf main:
 13548825312 - Accident 3 - tons of oobs
 5692108257 - Ancient Ruin - shit rng spine used to skip the end of s1 to go to s2. might be intended and everyone does it so allow skip and fix spine?
 5692132646 - Azura - Lighting
-13548531419 - Cubed - some ramps are bumpy
-12293814860 - Daydreamer 2 - oobs galore
 5692106693 - Delorium - some ramps sometimes kill you? NukeV4 has clips of it happening:
     https://cdn.discordapp.com/attachments/787762150231375886/1274906734837628979/Roblox_VR_2024.08.19_-_03.40.08.03.DVR.mp4?       ex=66eecdac&is=66ed7c2c&hm=b2c207724c32a1cb56ff9a787af94ff481d350eff164ce5eb18aa2ae062016ad&
     https://cdn.discordapp.com/attachments/167423382697148416/1277367071793090561/0825.mp4?ex=66ee868a&is=66ed350a&hm=03aa1fbb93088a31b7caed7781a70bbc7d9aef89940c8686b8bd904286ef8c53&
@@ -56,18 +54,15 @@ FIXED FILE AVAILABLE 5692093399 - Yonder - moving platform fix avalable, backlog
 rejected:
 5692165511 - 2fast2quick - Bad look, not fun to WR
 5692169083 - Absobe
-5692134244 - Arctic - Voted out
 5692129219 - Argon - Voted out
 5692186981 - Articulation - Voted out
 5692170030 - Azure - Voted out
 5692127956 - Badges (Short) - maybe add a bonus to full badges
-5692135245 - Berserk - Voted out
 5692113547 - Biomes - Voted out
 5692175025 - Biomes - Voted out
 5692112867 - Blue Seas - Voted out
 5692103013 - Caldera - No
 5692134051 - Cataclysm - Voted out
-5692133296 - Cataclysm 3 - Voted out
 5692106207 - Daniel - Voted out
 5692108061 - Dash - Voted out
 5692128819 - Dionysus - Voted out
@@ -110,7 +105,6 @@ rejected:
 5692122957 - Vert - Voted out
 5692174238 - Violet - Voted out
 5692128225 - Voxel - Voted out
-5692128341 - WaP - Voted out
 5692103442 - What Map is This? - Voted out
 5693294929 - Woody - Voted out
 5692182065 - Workshop - Voted out
@@ -127,9 +121,7 @@ rejected:
 too short:
 5692180942 - 1 Hour - 13s
 5692151302 - 2stref5u
-5692170693 - 30 Minutes
 5692153404 - 303
-5692186917 - 7m30s
 5692153241 - Andru
 5692163383 - Aperture - 7s
 5692151386 - Aqua - 10s

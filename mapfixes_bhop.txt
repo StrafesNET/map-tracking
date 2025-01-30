@@ -37,6 +37,7 @@ tested, pending upload:
 84606010438989 - Zyper (hand-delete offending Main Faste) - Fixed extended clips that allowed skipping entire map
 
 submitted fixes (manual time deletion, list times needing deletion):
+71340039648874 - Woods - oob fix
 
 submitted fixes (no wipe):
 106251402004888 - The Gift of Giving - Adjusted cc false platform and invis walls (small tweaks) - littlefarrell
