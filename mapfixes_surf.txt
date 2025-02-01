@@ -63,6 +63,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 96820520702197 - Sky - oob fix - Auto (#1-14,#15) - HSW (#1) - Faste (wipe)
 99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route - Auto (no one in top 300?) - Sideways (#4-6) - W-Only (Wipe) - A-Only(#4-5) - Faste (Wipe)
 71144524985323 - Astroworld - fixed b3 unintended invis bhop skip - delete #1 time (WashedLiquid) --jid
+126166333496285 - Ancient Ruin - ramp & spine fix. delete up to #44 auto, #7hsw, #1 sw, #1 ao
 
 submitted fixes (no wipe):
 105862553806558 - Frostbite - Fixed buggy humanoid interaction leading to improper resets and added skybox with sniperMegal (mm) permission - littlefarrell
@@ -81,7 +82,6 @@ submitted fixes (no wipe):
 91557576870316 - Eden - fixed spine bug - littlefarrell
 105579006857853 - Dystopia - fixed bumpy ramp - littlefarrell
 88473413575336 - Ephemeral - fixed 7th ramp bug - littlefarrell
-126166333496285 - Ancient Ruin - ramp & spine fix
 119946689087718  - Bloodthirst - mapfix by littlefarrell
 88904309661890 - Caverns - convex ramp fix
 127167146018868 - QuickSwap - spinefix by purrplaysLE
