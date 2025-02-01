@@ -11,6 +11,10 @@ uploaded, wipe:
 5692153342 - One More - Map is from maps_surf.txt, needs fly trials wipe due to fixed roof
 13026270460 - Leek (spin) - Map is from maps_surf.txt, wipe fly trials main and bonus5 times
 5692164379 - Lines - Wipe all styles.
+15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe fly trials times.
+106048465070214 - Autumn - fixed starting on antitele, made spawn trees cc false, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove fly trials times
+17279603806 - Treespam - delete fly trials times. (the id is from maps_surf.txt)
+
 
 tested, pending upload & wipe:
 
@@ -33,9 +37,6 @@ submitted fixes (wipe times):
 115312889627328 - Daydreamer II - invisible wall remake
 115587331632961 - Orbital - invisible wall remake
 94302281639057 - Brain Power - Fixed spine bugs, moved to origin. fixed faste oob, wipe faste - littlefarrell
-15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe fly trials times.
-106048465070214 - Autumn - fixed starting on antitele, made spawn trees cc false, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove fly trials times
-17279603806 - Treespam - delete fly trials times. (the id is from maps_surf.txt)
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
