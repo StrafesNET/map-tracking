@@ -59,7 +59,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 98503157833058 - Frantic Lemon - oob fix - Auto (#1-18,#21-26,#28-30) - HSW (#1,#3) - Faste (#1-40)
 96410575671569 - Got The Blues - Auto (#1-100) - Sideways (Wipe) - HSW (#1-9,#11)- A-Only (#1-3) - Backwards (#1) - Faste (ALL but #222-226-284)
 96196419905072 - Hi Everyone - oob fix (wipe times that use it)
-94061034010846 - Lines - oob fix - Auto (#1-15,#18) - sideways (#1) - HSW (#1-2) - W-Only (#1) - A-Only (#1) - Faste (Wipe)
+94061034010846 - Lines - oob fix - Auto (#1-15,#18) - sideways (#1) - HSW (#1-2) - W-Only (#1) - A-Only (#1) - Faste (Wipe). new times are being gotten, look around a bit in case of more oob times
 96820520702197 - Sky - oob fix - Auto (#1-14,#15) - HSW (#1) - Faste (wipe)
 99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route - Auto (no one in top 300?) - Sideways (#4-6) - W-Only (Wipe) - A-Only(#4-5) - Faste (Wipe)
 71144524985323 - Astroworld - fixed b3 unintended invis bhop skip - delete #1 time (WashedLiquid) --jid
