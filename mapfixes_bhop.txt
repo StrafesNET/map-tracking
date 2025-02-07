@@ -17,7 +17,7 @@ uploaded, wipe:
 tested, pending upload & wipe:
 
 uploaded fixes (manual time deletion, list times needing deletion):
-15076161355 - Strayff - changed Water to Trigger1 to stop boosting on reset. remove up to #7 auto (leo), scroll wr, ksw wr, ao wr. just found so times may change
+15076161355 - Strayff - changed Water to Trigger1 to stop boosting on reset. remove up to #7 auto (leo), scroll wr, hsw wr, wo wr, ao wr. just found so times may change
 
 submitted fixes (wipe times):
 18745269279 - BrickColors (Wipe Fly Trials only) - Added an anticheat zone to prevent edgebouncing straight to the end - Fixed by h_k
