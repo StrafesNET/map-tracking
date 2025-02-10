@@ -65,26 +65,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 126166333496285 - Ancient Ruin - ramp & spine fix. delete up to #44 auto, #7hsw, #1 sw, #1 ao
 
 submitted fixes (no wipe):
-105862553806558 - Frostbite - Fixed buggy humanoid interaction leading to improper resets and added skybox with sniperMegal (mm) permission - littlefarrell
-94693343598055 - Rose - Fixed ramp bugs - littlefarrell
-95640294721189 - Obscurity - Moved to origin (Should fix spine bugs) - littlefarrell
-100909352062587 - Docile - Moved to origin (Should fix ramp bug) - littlefarrell
-74171506417095 - Blued - Fixed multipart ramps, moved to origin - littlefarrell
-73658698221842 - Blue Linear - Fixed multipart ladder, moved to origin - littlefarrell
-73364866281055 - Dizzy - Fixed spines, moved to origin - littlefarrell
-107359662224069 - Draker (rapper) - Fixed weird floor visual - littlefarrell
-136180053671309 - Castle - moved to origin (should fix ramp bug) - littlefarrell
-103450370291778 - Banal - fixed bumpy ramps - littlefarrell
-104223393577569 - Dark Matter - moved to origin (should fix start floor bug) - littlefarrell
-76218478321604 - Ambience - fixed spines and convex ramp - littlefarrell
-71300331137409 - Exile - fixed bumpy curved ramp - littlefarrell
-91557576870316 - Eden - fixed spine bug - littlefarrell
-105579006857853 - Dystopia - fixed bumpy ramp - littlefarrell
-88473413575336 - Ephemeral - fixed 7th ramp bug - littlefarrell
-602056215 - Bloodthirst - mapfix by littlefarrell Frxzt & 0RedAce0, added bloodthirsts as a bonus
-88904309661890 - Caverns - convex ramp fix
-127167146018868 - QuickSwap - spinefix by purrplaysLE
-5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence
+5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
@@ -166,3 +147,4 @@ rejected fixes, additional fix notes:
 16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
 16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above above.
 2637387680 - Accident 2 - fixed halloween stage - blocked due to lighting fixer - use a Script with RunContext set to Client instead of a loader
+602056215 - Bloodthirst - mapfix by littlefarrell Frxzt & 0RedAce0, added bloodthirsts as a bonus - placing objects in ReplicatedStorage is not allowed
