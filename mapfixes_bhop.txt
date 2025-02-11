@@ -4,6 +4,7 @@ uncategorized:
 11419832052 - Bluebeat v2 - fixed stages that played bad
 11416396856 - Yonkoma - Moved start to SJ's start zone (after climb room), fixed/updated some stages
 10573377465 (in scriptfinder_mapsa1 on windows) | Name: Nedone | Creator/s: fodback - is this a map fix?
+137778156966167 - :3 - fixed ladders
 
 upload but don't add:
 10050550205 - Yonder (MOVING PLATFORM FIX AVAILABLE) - Trigger skip near lake is no longer possible.
@@ -29,6 +30,7 @@ uploaded fixes, ready for manual time deletion:
 17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
 17718596309 - Woods (hand-delete offending Main Faste + Main Auto using skips) - Fixed several faste skips + an autohop skip
 139989915040224 - No Lost (top 3 faste) also fixed possible auto oob
+71340039648874 - Woods - oob fix
 
 tested, pending upload:
 17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
@@ -38,12 +40,14 @@ tested, pending upload:
 84606010438989 - Zyper (hand-delete offending Main Faste) - Fixed extended clips that allowed skipping entire map
 
 submitted fixes (manual time deletion, list times needing deletion):
-71340039648874 - Woods - oob fix
 
 submitted fixes (no wipe):
-106251402004888 - The Gift of Giving - Adjusted cc false platform and invis walls (small tweaks) - littlefarrell
 6420411884 - Calm Down - added tomatox to creatorname - copylocked
 10298870923 - Hello - added Justyn1 to creatorname - copylocked
+135083275719711 - Quarry (CS:S) - Added SpawnAt triggers on spawns, zoned bonus and credited original mapper - dedicatedkills
+115753958291808 - Haarukka - Zoned Bonus 
+124222812973718 - Wild - raised end zone
+126320460252825 - Animal - raised end zone
 
 add map data:
 
