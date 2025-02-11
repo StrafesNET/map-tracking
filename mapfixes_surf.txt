@@ -10,7 +10,10 @@ uploaded, wipe:
 5692094530 - Beginner - Map is from maps_surf.txt, wipe faste times and fly trials
 5692153342 - One More - Map is from maps_surf.txt, needs fly trials wipe due to fixed roof
 13026270460 - Leek (spin) - Map is from maps_surf.txt, wipe fly trials main and bonus5 times
-5692164379 - Lines - Wipe all styles.
+15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe fly trials times.
+106048465070214 - Autumn - fixed starting on antitele, made spawn trees cc false, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove fly trials times
+17279603806 - Treespam - delete fly trials times. (the id is from maps_surf.txt)
+
 
 tested, pending upload & wipe:
 
@@ -18,7 +21,6 @@ submitted fixes (wipe times):
 17621471458 - Mane Six - wipe Main Faste + fly trials wipe. Fix s2 oob
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times and all fly trials
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped and all fly trials times need to be wiped
-1258610833 - Brain Power - (WIPE FASTE AND FLY TRIALS ONLY! and fixed a potential auto oob)
 109349367776979  - Karakai Jozu no Takagi-san - all fly trials times need to be wiped. fixed by xisablehx
 71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission). wipe fly trials
 72984478824896 - Clique - Fixed several OOB possibilities. wipe fly trials - fixed by xisablehx
@@ -31,110 +33,43 @@ submitted fixes (wipe times):
 74080715486698 - Vacancy - Fixed oob, wipe faste times - littlefarrell
 78819818092057 - Cryogen - wipe fly trials - littlefarrell (duplicate from below)
 1984422161 - 0_o - [INSTRUCTIONS] duplicate all main map records to B2 so that both have the exact same times and bots (contact Frxzt if there is any confusion)
+115312889627328 - Daydreamer II - invisible wall remake
+115587331632961 - Orbital - invisible wall remake
 94302281639057 - Brain Power - Fixed spine bugs, moved to origin. fixed faste oob, wipe faste - littlefarrell
 
 uploaded fixes, ready for manual time deletion:
-15076282459 - Catalog - fixed standing on a higher part on the edge of mapstart. wipe top 16 auto and fly trials times.
-106048465070214 - Autumn - fixed starting on antitele, made spawn trees cc false, fixed big ramps made of 2 separate wedges (???) and causing bumps and faste/fly oob. remove top 2 auto, top 42 faste and fly trials times
-15076260262 - Lowest Bidder - fixed another oob and end clipping outside of boundary. Delete all oob times (up until roughly 37s auto)
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
-17279603806 - Treespam - delete oob times in auto (top 11), all faste, all styles and fly trials. (the id is from maps_surf.txt)
-12062216772 - Frigid - fixed multiple bhop cheeses, using both last ramps more difficult, fixed several rocks being collide off, prevented a few obscure OOB faste routes, improved indicators for gameplay and visibility, prevented bonus 4 prehopping, fixed faste route bonus 5, fixed one ramp being longer on one side of the map, added multiple statues for players who beat the map, improved cosmetics of multiple areas around the map | Wipe auto times: #1 (baro), #2 (jer), #3 (mateo), #11 (hxcello), #12 (kaan2005), #0 (legogreens (blacklisted but remove time) | Wipe all bonus 5 faste times - Milky_wayy
-770953991 - Halloween - fixed "Mutiple Mappers" typo and oob (wipe times that use it)
 15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
 17859292146 - Leek (spin) - Fixed OOB, delete offending faste times and fly trials - littleisableh
-130992882850253 - Metaophorite - fixed oob. wipe top all of top 10 --jid
-86272671055892 - Andromeda - Fixed OOB. delete #1 auto and top 22 faste - Roblox_Leo2510
+86272671055892 - Andromeda - Fixed OOB. delete top 22 faste - Roblox_Leo2510
 109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. delete top 35 faste. - littleisableh
 17621471458 - Mane Six - Fixed s2 oob. delete top 4 auto.
-74080715486698 - Vacancy - Fixed oob, delete top 4 auto - littlefarrell
-
-submitted fixes (manual time deletion, list times needing deletion):
 15076214780 - Luminous - made all rainbow parts work on 1 script instead of 1.5k. fixed spawning outside of antitele in s2 as well as replacing bonus and s1 antitele with setvel and hitting endzone on bonus without making it onto the platform. remove up to #39 in auto and #49 in faste and other offending times. remove up to #16 on bonus and other times that stand on antitele
-4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
 107023851638979 - Drains - fixed spine bug, fixed faste oob - littlefarrell - [Wipe Faste or Delete top 135 faste times]
 78139004526195 - Charcoal Chasm - fixed ramp bugs, fixed standing on spawn - littlefarrell - [Delete auto {1-7, 10, 11, 18}, wipe faste]
 78311684430808 - Frosty Winter - Fixed trigger inside spawn platform, fixed ramp clipping with trigger, and faste oob. delete faste up to 0y6l (#26) - littlefarrell
+124303344855929 - 1738 - oob fix Auto (#1-16,18-20) - Sideways (Wipe) - HSW (#1) - A-Only (WIPE) - Faste (#1-50)
+109318571137865 - Drake - oob fix (thanks farrell) - Auto (#1-4, #6 #10) - Sideways (Wipe) - HSW (wipe) - Faste (Wipe)
+98503157833058 - Frantic Lemon - oob fix - Auto (#1-18,#21-26,#28-30) - HSW (#1,#3) - Faste (#1-40)
+96410575671569 - Got The Blues - Auto (#1-100) - Sideways (Wipe) - HSW (#1-9,#11)- A-Only (#1-3) - Backwards (#1) - Faste (ALL but #222-226-284)
+96196419905072 - Hi Everyone - oob fix (wipe times that use it)
+94061034010846 - Lines - oob fix - Auto (#1-15,#18) - sideways (#1) - HSW (#1-2) - W-Only (#1) - A-Only (#1) - Faste (Wipe). new times are being gotten, look around a bit in case of more oob times
+96820520702197 - Sky - oob fix - Auto (#1-14,#15) - HSW (#1) - Faste (wipe)
+99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route - Auto (no one in top 300?) - Sideways (#4-6) - W-Only (Wipe) - A-Only(#4-5) - Faste (Wipe)
+71144524985323 - Astroworld - fixed b3 unintended invis bhop skip - delete #1 time (WashedLiquid) --jid
+126166333496285 - Ancient Ruin - ramp & spine fix. delete up to #44 auto, #7hsw, #1 sw, #1 ao
+
+submitted fixes (manual time deletion, list times needing deletion):
+4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 
 submitted fixes (no wipe):
-105862553806558 - Frostbite - Fixed buggy humanoid interaction leading to improper resets and added skybox with sniperMegal (mm) permission - littlefarrell
-94693343598055 - Rose - Fixed ramp bugs - littlefarrell
-95640294721189 - Obscurity - Moved to origin (Should fix spine bugs) - littlefarrell
-100909352062587 - Docile - Moved to origin (Should fix ramp bug) - littlefarrell
-74171506417095 - Blued - Fixed multipart ramps, moved to origin - littlefarrell
-73658698221842 - Blue Linear - Fixed multipart ladder, moved to origin - littlefarrell
-73364866281055 - Dizzy - Fixed spines, moved to origin - littlefarrell
-107359662224069 - Draker (rapper) - Fixed weird floor visual - littlefarrell
-136180053671309 - Castle - moved to origin (should fix ramp bug) - littlefarrell
-103450370291778 - Banal - fixed bumpy ramps - littlefarrell
-104223393577569 - Dark Matter - moved to origin (should fix start floor bug) - littlefarrell
-76218478321604 - Ambience - fixed spines and convex ramp - littlefarrell
-71300331137409 - Exile - fixed bumpy curved ramp - littlefarrell
-91557576870316 - Eden - fixed spine bug - littlefarrell
-105579006857853 - Dystopia - fixed bumpy ramp - littlefarrell
-88473413575336 - Ephemeral - fixed 7th ramp bug - littlefarrell
+5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
+90718727757484 - Consistency - Union hitbox blocking upwards spin
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
-713859332 - O-oh hi-i t-there, J-J-Jill - fixed ramps
-15076225924 - Quickie - fixed lighting and credits to original mapper. spinefix fixed clipping into flush triggers (accepted 2-3 aors ago but held back)
-345938893 - Flandre II - fixed map issues
-124019201243955 - 123 - surf_456 is a bonus now
-76630009623063 - Achromatic
-75437498368420 - Aether
-96870188001466 - Alcoa
-128618737046000 - Baleful
-90718727757484 - Consistency
-115173288164428 - Dark Ambient
-120343034088620 - Depression
-104491849402473 - Egypt
-120310624963229 - Error
-86679381129863 - Farewell
-105032598834893 - Fort
-83071023433889 - Gimmick
-103587182453471 - Ineffable
-117200152130142 - Luck2 - Mapfix by purrplaysLE
-105083094143340 - Magenta
-70562862497431 - Memorial
-108221492835725 - Newt Two
-73186281499705 - Obsidium
-137302632337136 - Reflectoria
-136176068227349 - Reskea
-123637830208172 - Strafe Race - Lagfix by 0RedAce0
-106841664334927 - Striped
-70486452051474 - Trees
-109398892772862 - Ultra
-88758066747012 - Victor
-93821899662385 - WaP II - surf_wap is a bonus now
-74329636129610 - Winter Is Coming
-127478655084161 - Wood
-87782194710717 - Xenomorphic
-118542101462905 - Azurite
-110697430178556 - Chrome
-106457135255524 - Compact
-74312319168697 - Divine
-76336934416749 - Ethereal
-76735558639755 - Gravity
-131131882434093 - Icire
-96687141629393 - Ineffable 2
-118539912724321 - Ire
-95130640164693 - Elprup
-78530518945601 - No
-82275796539094 - Olive
-105655550636887 - Reprise Hard
-81010734569812 - Resilience
-137036119767513 - S'mores
-73414859617817 - Sand Flow
-92481398265733 - Shade
-108595135265915 - Strawberry Avalanche
-103061530527146 - Tumb 2
-120616852224264 - Verde
-119646005676468 - Void
-100445939035656 - Arctic - Voted back in by council
-104195125186427 - Berserk - Voted back in by council
-97909432217898 - Cataclysm 3 - Voted back in by council and added surf_cataclysm and surf_cataclysm_2 as bonuses with mapmaker approval
 
 tested, pending upload & add map data:
 17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
@@ -156,3 +91,4 @@ rejected fixes, additional fix notes:
 16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
 16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above above.
 2637387680 - Accident 2 - fixed halloween stage - blocked due to lighting fixer - use a Script with RunContext set to Client instead of a loader
+602056215 - Bloodthirst - mapfix by littlefarrell Frxzt & 0RedAce0, added bloodthirsts as a bonus - placing objects in ReplicatedStorage is not allowed
