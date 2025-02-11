@@ -71,12 +71,9 @@ add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
 
 tested, pending upload & add map data:
-17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
 
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
-72031290840697 - Royal - Ramp fixes, adjusted for new hitbox, adjusted s3 triggers for consistency, moved closer to origin, added SetVels for anti teles - littlefarrell
-98534899157737 - Detritus - Ramp fixes, moved closer to origin, added SetVels for anti teles, fixed oobs, zoned bonuses (lighting could use some touches) - littlefarrell
 
 rejected fixes, additional fix notes:
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
