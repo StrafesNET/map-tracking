@@ -69,6 +69,8 @@ submitted fixes (no wipe):
 602056215 - Bloodthirst - mapfix by littlefarrell Frxzt & 0RedAce0, added original bloodthirsts as a bonus
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 90718727757484 - Consistency - Union hitbox blocking upwards spin
+15076153538 - 123 - Lighting fix
+15076135644 - Cataclysm 3 - updated lighting script
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
