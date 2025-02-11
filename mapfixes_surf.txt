@@ -70,7 +70,6 @@ submitted fixes (no wipe):
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
 713859332 - O-oh hi-i t-there, J-J-Jill - fixed ramps
-15076225924 - Quickie - fixed lighting and credits to original mapper. spinefix fixed clipping into flush triggers (accepted 2-3 aors ago but held back)
 345938893 - Flandre II - fixed map issues
 124019201243955 - 123 - surf_456 is a bonus now + noob lighting fix
 76630009623063 - Achromatic + noob added outline to mapstart since it doesnt cover the whole platform
