@@ -106,6 +106,7 @@
 5692124203 - Depression
 5692164410 - Desert Temples
 6111005316 - Desolate
+5692097943 - Detritus
 18925815581 - Devolcase
 6111006827 - Devolution
 11222418405 - Diminsion
@@ -291,10 +292,12 @@
 5692151184 - Rookie
 13026340552 - Roosevelt
 6111030078 - Rose
+5692165474 - Royal
 5692180837 - Ruins
 5692122527 - Ruins II
 5692153067 - Saisei
 5692133134 - Sand Flow
+6111031896 - Sandstorm Supergiant
 6111033250 - Sandy Sunset
 5692133329 - Schemes
 11222436684 - Secton
