@@ -60,10 +60,10 @@ uploaded fixes, ready for manual time deletion:
 99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route - Auto (no one in top 300?) - Sideways (#4-6) - W-Only (Wipe) - A-Only(#4-5) - Faste (Wipe)
 71144524985323 - Astroworld - fixed b3 unintended invis bhop skip - delete #1 time (WashedLiquid) --jid
 126166333496285 - Ancient Ruin - ramp & spine fix. delete up to #44 auto, #7hsw, #1 sw, #1 ao
+104491849402473 - Egypt - oob fix
 
 submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
-104491849402473 - Egypt - oob fix
 
 submitted fixes (no wipe):
 602056215 - Bloodthirst - mapfix by littlefarrell Frxzt & 0RedAce0, added original bloodthirsts as a bonus
