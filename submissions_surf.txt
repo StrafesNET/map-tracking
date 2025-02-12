@@ -7,7 +7,6 @@ frontlog:
 12133157692 | Name: Munze | Creator/s: JorusRetorak, PracticalYogi - "gameplay is awkward at the end, some ramps need spine fix" also bonus doesn't work
 
 accepted:
-15076225924 - Quickie - fixed lighting and credits to original mapper. spinefix fixed clipping into flush triggers (accepted 2-3 aors ago but held back)
 
 changes requested:
 
