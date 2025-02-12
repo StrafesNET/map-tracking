@@ -24,23 +24,23 @@ ModeIDs Legend:
  - B5 = BONUS5 = 5
 
     MapName |       MapID | StyleIDs | ModeIDs |   GameIDs |   Unix Constraint |
+   Beginner |  5692094530 |      ALL |     ALL | FLYTRIALS | BEFORE 1708446960 |
+   Beginner |  5692094530 |    FASTE |     ALL |      SURF | BEFORE 1708446960 |
+        Ice |  5692118983 |    FASTE |     ALL |      SURF | BEFORE 1708488540 |
+  Mausoleum |  5692135218 |      ALL |     ALL | FLYTRIALS | BEFORE 1717600200 |
+Who Knows 2 |  5692153113 |      ALL |     ALL | FLYTRIALS | BEFORE 1717604160 |
+Who Knows 2 |  5692153113 |    FASTE |     ALL |      SURF | BEFORE 1717604160 |
 Futurebound |  5692145082 |      ALL |     ALL | FLYTRIALS | BEFORE 1723763400 |
+   One More |  5692153342 |      ALL |     ALL | FLYTRIALS | BEFORE 1726554240 |
+   Treespam | 17279603806 |      ALL |     ALL | FLYTRIALS | BEFORE 1726621140 |
+     Convey |  8659326439 |      ALL |    MAIN | FLYTRIALS | BEFORE 1728846060 |
+    Catalog | 13026307623 |      ALL |     ALL | FLYTRIALS | BEFORE 1728850260 |
+     Autumn | 13026267305 |      ALL |     ALL | FLYTRIALS | BEFORE 1729882020 |
+Leek (spin) | 13026270460 |      ALL | MAIN,B5 | FLYTRIALS | BEFORE 1731546060 |
 BrickColors | 11492883485 |      ALL |     ALL | FLYTRIALS |               ALL |
   Overgrown |  6115140662 |      ALL |     ALL | FLYTRIALS |               ALL |
        Blue |  5692106768 |      ALL |     ALL | FLYTRIALS |               ALL |
        Aura | 13548495100 |    FASTE |    MAIN |      BHOP |               ALL |
-        Ice |  5692118983 |    FASTE |     ALL |      SURF | BEFORE 1708315740+86400*2 |
-Who Knows 2 |  5692153113 |    FASTE |     ALL |      SURF | BEFORE 1717431360+86400*2 |
-Who Knows 2 |  5692153113 |      ALL |     ALL | FLYTRIALS | BEFORE 1717431360+86400*2 |
-  Mausoleum |  5692135218 |      ALL |     ALL | FLYTRIALS | BEFORE 1717427400+86400*2 |
-     Convey |  8659326439 |      ALL |    MAIN | FLYTRIALS | BEFORE 1728673260+86400*2 |
-   Beginner |  5692094530 |    FASTE |     ALL |      SURF | BEFORE 1708274160+86400*2 |
-   Beginner |  5692094530 |      ALL |     ALL | FLYTRIALS | BEFORE 1708274160+86400*2 |
-   One More |  5692153342 |      ALL |     ALL | FLYTRIALS | BEFORE 1726381440+86400*2 |
-Leek (spin) | 13026270460 |      ALL | MAIN,B5 | FLYTRIALS | BEFORE 1731373260+86400*2 |
-    Catalog | 13026307623 |      ALL |     ALL | FLYTRIALS | BEFORE 1728677460+86400*2 |
-     Autumn | 13026267305 |      ALL |     ALL | FLYTRIALS | BEFORE 1729709220+86400*2 |
-   Treespam | 17279603806 |      ALL |     ALL | FLYTRIALS | BEFORE 1726448340+86400*2 |
    Mane Six |  5692117855 |    FASTE |    MAIN |      SURF |               ALL |
    Mane Six |  5692117855 |      ALL |     ALL | FLYTRIALS |               ALL |
    Airspace | 13026263851 |      ALL |      B2 |      SURF |               ALL |
