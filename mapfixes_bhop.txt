@@ -21,30 +21,6 @@ tested, pending upload & wipe:
 14179909838 - Blue - Fixed skip making the map 0.008 seconds (wipe fly trials times) - Fixed by xisablehx
 17718776962 - Overgrown (Wipe FLY TRIALS ONLY) - Fixed several OOB possibilities
 
-========== THE MASTER TIME WIPE LIST ==========
-
-GameIDs Legend:
- - BHOP      = 1
- - SURF      = 2
- - FLYTRIALS = 5
-
-StyleIDs Legend:
- - AUTOHOP = 1
- - FASTE   = 8
-
-ModeIDs Legend:
- - MAIN  = 0
- - BONUS = 1
-
-    MapName |       MapID | StyleIDs | ModeIDs |   GameIDs |   Unix Constraint |
-Futurebound |  5692145082 |      ALL |     ALL | FLYTRIALS | BEFORE 1723763400 |
-BrickColors | 11492883485 |      ALL |     ALL | FLYTRIALS |               ALL |
-  Overgrown |  6115140662 |      ALL |     ALL | FLYTRIALS |               ALL |
-       Blue |  5692106768 |      ALL |     ALL | FLYTRIALS |               ALL |
-       Aura | 13548495100 |    FASTE |    MAIN |      BHOP |               ALL |
-
-===============================================
-
 uploaded fixes (manual time deletion, list times needing deletion):
 15076161355 - Strayff - changed Water to Trigger1 to stop boosting on reset. remove up to #7 auto (leo), scroll wr, hsw wr, wo wr, ao wr. just found so times may change
 17713127460 - Aura - Main Auto hand-delete top 3 - Fixed a faste skip + better zoning
