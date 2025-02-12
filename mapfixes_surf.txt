@@ -52,7 +52,6 @@ tested, pending upload & wipe:
 134116453201242 - Example Map - Fix bonus oob (wipe every style on bonus and fly trials) - Roblox_Leo2510
 15076284379 - Regret - fixed oob and lighting. wipe all times.
 121170303581252 - Venust - fixed oobs, wipe faste and fly trials. Zoned extra stage as bonus (original mapper gave permission) - offstyling
-116374951467432 - Windows 84 - fixed last stage, removed bounce, moved end, added more barriers to make faste times less cringe. wipe all times - antinodes
 85868971601293 - Dunes - Fixed ramp bugs in bonus, fixed faste oob (wipe faste and fly trials) - littlefarrell
 74080715486698 - Vacancy - Fixed oob, wipe faste times - littlefarrell
 78819818092057 - Cryogen - wipe fly trials - littlefarrell (duplicate from below)
@@ -114,3 +113,4 @@ rejected fixes, additional fix notes:
 16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
 16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above above.
 2637387680 - Accident 2 - fixed halloween stage - blocked due to lighting fixer - use a Script with RunContext set to Client instead of a loader
+116374951467432 - Windows 84 - fixed last stage, removed bounce, moved end, added more barriers to make faste times less cringe. wipe all times - antinodes - blocked scripts: LocalScript distributor is not allowed
