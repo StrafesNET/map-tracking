@@ -38,6 +38,10 @@ ModeIDs Legend:
 
     MapName |       MapID | StyleIDs | ModeIDs |   GameIDs |   Unix Constraint |
 Futurebound |  5692145082 |      ALL |     ALL | FLYTRIALS | BEFORE 1723763400 |
+BrickColors | 11492883485 |      ALL |     ALL | FLYTRIALS |               ALL |
+  Overgrown |  6115140662 |      ALL |     ALL | FLYTRIALS |               ALL |
+       Blue |  5692106768 |      ALL |     ALL | FLYTRIALS |               ALL |
+       Aura | 13548495100 |    FASTE |    MAIN |      BHOP |               ALL |
 
 ===============================================
 
