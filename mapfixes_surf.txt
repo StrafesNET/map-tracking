@@ -56,8 +56,8 @@ Example Map | 15718157293 |      ALL |      B1 |      SURF |               ALL |
    Mane Six |  5692117855 |      ALL |     ALL | FLYTRIALS |               ALL |
   Andromeda | 15718190188 |      ALL |     ALL | FLYTRIALS |               ALL |
   Overgrown |  6115140662 |      ALL |     ALL | FLYTRIALS |               ALL |
-  Woodworks |  5692106610 |      ALL |     ALL | FLYTRIALS |               ALL |
 BrickColors | 11492883485 |      ALL |     ALL | FLYTRIALS |               ALL |
+  Woodworks |  5692106610 |      ALL |    MAIN | FLYTRIALS |               ALL |
 Example Map | 15718157293 |      ALL |      B1 | FLYTRIALS |               ALL |
        Aura | 13548495100 |    FASTE |    MAIN |      BHOP |               ALL |
      Regret | 11222433611 |      ALL |     ALL |       ALL |               ALL |
