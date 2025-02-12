@@ -16,8 +16,6 @@ uploaded, wipe:
 
 
 tested, pending upload & wipe:
-
-submitted fixes (wipe times):
 17621471458 - Mane Six - wipe Main Faste + fly trials wipe. Fix s2 oob
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times and all fly trials
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped and all fly trials times need to be wiped
@@ -36,6 +34,8 @@ submitted fixes (wipe times):
 115312889627328 - Daydreamer II - invisible wall remake
 115587331632961 - Orbital - invisible wall remake
 94302281639057 - Brain Power - Fixed spine bugs, moved to origin. fixed faste oob, wipe faste - littlefarrell
+
+submitted fixes (wipe times):
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
