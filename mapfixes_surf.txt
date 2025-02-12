@@ -2,6 +2,9 @@ uncategorized:
 
 upload but don't add to game:
 
+special instructions:
+1984422161 - 0_o - Move all MAIN map records to B2, then upload mapfix right away
+
 uploaded, wipe:
 
 ========== THE MASTER TIME WIPE LIST ==========
@@ -43,7 +46,7 @@ Leek (spin) | 13026270460 |      ALL | MAIN,B5 | FLYTRIALS | BEFORE 1731373260+8
 
 tested, pending upload & wipe:
 17621471458 - Mane Six - wipe Main Faste + fly trials wipe. Fix s2 oob
-15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times and all fly trials
+15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. - wipe all b2 times and all fly trials
 15244533771 - Lauren - fixed cc false walls and make some floors triggers. b3 needs all times wiped and all fly trials times need to be wiped
 109349367776979  - Karakai Jozu no Takagi-san - all fly trials times need to be wiped. fixed by xisablehx
 71180477733692 - Woodworks - bonus zoned, fix oob's, fixed spines and added a silly cat in bonus (mapper gave permission). wipe fly trials
@@ -55,7 +58,6 @@ tested, pending upload & wipe:
 85868971601293 - Dunes - Fixed ramp bugs in bonus, fixed faste oob (wipe faste and fly trials) - littlefarrell
 74080715486698 - Vacancy - Fixed oob, wipe faste times - littlefarrell
 78819818092057 - Cryogen - wipe fly trials - littlefarrell (duplicate from below)
-1984422161 - 0_o - [INSTRUCTIONS] duplicate all main map records to B2 so that both have the exact same times and bots (contact Frxzt if there is any confusion)
 115312889627328 - Daydreamer II - invisible wall remake
 115587331632961 - Orbital - invisible wall remake
 94302281639057 - Brain Power - Fixed spine bugs, moved to origin. fixed faste oob, wipe faste - littlefarrell
@@ -86,6 +88,7 @@ uploaded fixes, ready for manual time deletion:
 71144524985323 - Astroworld - fixed b3 unintended invis bhop skip - delete #1 time (WashedLiquid) --jid
 126166333496285 - Ancient Ruin - ramp & spine fix. delete up to #44 auto, #7hsw, #1 sw, #1 ao
 104491849402473 - Egypt - oob fix
+15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. - delete oob times on main, b1, and b3
 
 submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
