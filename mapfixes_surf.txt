@@ -10,7 +10,6 @@ uploaded, wipe:
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
-15076075504 - Windows 84 - fixed last stage, removed bounce, moved end, added more barriers to make faste times less cringe. wipe all times - antinodes
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
