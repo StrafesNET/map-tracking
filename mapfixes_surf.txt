@@ -15,7 +15,7 @@ uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
 15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
-17859292146 - Leek (spin) - Fixed faste OOB, delete offending faste times and fly trials - littleisableh
+17859292146 - Leek (spin) - Fixed faste OOB, faste #1 and fly trials - littleisableh
 86272671055892 - Andromeda - Fixed OOB. delete top 22 faste - Roblox_Leo2510
 109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. delete top 35 faste. - littleisableh
 17621471458 - Mane Six - Fixed s2 oob. delete top 4 auto.
