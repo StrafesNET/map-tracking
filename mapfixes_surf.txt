@@ -40,12 +40,12 @@ uploaded fixes, ready for manual time deletion:
 
 submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
+15076092397 - Daydreamer 2 - fixed some invisible triggers. delete faste wr
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 15076030875 - Consistency - lighting fixed (kept day/night cycle)
 6673363074 - Alcoa - put lights in the tubes
-15076092397 - Daydreamer 2 - fixed some invisible triggers
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
