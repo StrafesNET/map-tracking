@@ -39,6 +39,7 @@ uploaded fixes, ready for manual time deletion:
 
 submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
+1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting. 
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
