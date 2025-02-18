@@ -40,6 +40,7 @@ uploaded fixes, ready for manual time deletion:
 submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting. 
+118539912724321 - Ire - ramp fix, spine fix, & oob patch
 121170303581252 - Venust - changed cc false parts and covered end with clips 
 
 submitted fixes (no wipe):
