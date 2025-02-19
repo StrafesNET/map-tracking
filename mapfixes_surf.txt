@@ -42,9 +42,14 @@ submitted fixes (manual time deletion, list times needing deletion):
 1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting. 
 118539912724321 - Ire - ramp fix, spine fix, & oob patch
 121170303581252 - Venust - changed cc false parts and covered end with clips 
+83071023433889 - Gimmick - anticheat abuse fix
+100445939035656 - Arctic - oob fix
+74329636129610 - Winter is Coming - oob fix
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
+96410575671569 - Got The Blues - s3 antitele fix
+917104451 - Dab on 'Em Haters - ramp fix
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
