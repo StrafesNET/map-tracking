@@ -10,6 +10,7 @@ uploaded, wipe:
 tested, pending upload & wipe:
 
 submitted fixes (wipe times):
+83259323900252 - Sinsane - moved mapstart and put in Spawn0. will ruin bots. Fixed faste oob to wormhole, wipe faste times (only 63 so maybe manual deletion)
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
@@ -45,6 +46,12 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
+118620934615991 - Egypt - moved mapstart and put in Spawn0. will ruin bots
+121803863881652 - Clique - moved mapstart and put in Spawn0. will ruin bots
+90336414397633 - Luck2 - moved mapstart and put in Spawn0. will ruin bots
+111973365889242 - Is Me - moved mapstart and put in Spawn0. will ruin bots
+129266692124453 - Quantumn - moved mapstart and put in Spawn0. will ruin bots
+93736226694570 - Cubed - moved mapstart and put in Spawn0. will ruin bots
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
