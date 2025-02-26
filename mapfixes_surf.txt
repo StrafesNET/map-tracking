@@ -11,6 +11,7 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 15076075504 - Windows 84 - fixed bonus oob. delete all bonus times
+117200152130142 - Luck2 - fixed faste oobs, startzone start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys. wipe all b6 times and top 2 faste main 
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
