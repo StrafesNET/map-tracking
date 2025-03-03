@@ -46,6 +46,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 100445939035656 - Arctic - oob fix
 74329636129610 - Winter is Coming - oob fix
 471684032 - Ascension to Heaven - elevated start fix
+103061530527146 - Tumb 2 - illegal route fix
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
