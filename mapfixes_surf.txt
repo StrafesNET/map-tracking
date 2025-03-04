@@ -67,13 +67,7 @@ submitted fixes need add map data:
 
 rejected fixes, additional fix notes:
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
-12615410485 - surf_pain (updated ID) bonus 4 endzone fix. - use execution context instead of a script distributor for local scripts.
-13605711173 - Ineffable - made possible - ramp textures are wack on the ends, map is harder because of tall hitbox
-13634743943 - Ineffable 2 - made possible - ramp with z fighting causes physics issues 2 ramps before circle spin thing, map is harder because of tall hitbox
-14122828826 - Sandstorm Supergiant - made possible - not adjusted for new physics enough, lighting needs fix
-14422792918 - Regret - Fixed oob & MapFinish sizing - it's insanely dark
-16250123347 - Regret - Resized start and end zone to prevent shenanigans and disabled Cast Shadow so you can see map (Abusing times will be deleted manually) - changing the position of the start zone requires a full wipe since the bots are based on the start zone position.  Is this really worth a full wipe?
-16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above.
-16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
-16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above above.
+16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - changing position of mapstart will mess with bots.
+16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above.
+16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
 2637387680 - Accident 2 - fixed halloween stage - blocked due to lighting fixer - use a Script with RunContext set to Client instead of a loader
