@@ -42,7 +42,7 @@ uploaded fixes, ready for manual time deletion:
 
 submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
-1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting. 
+1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting.
 126248480371185 - Blossom Heaven - fixed faste oob and some holes for the circles. delete up to #22 faste (hunter)
 83071023433889 - Gimmick - anticheat abuse fix
 100445939035656 - Arctic - oob fix
