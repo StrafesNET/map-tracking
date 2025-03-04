@@ -3,7 +3,6 @@ uncategorized:
 upload but don't add to game:
 
 special instructions:
-1984422161 - 0_o - Move all MAIN map records to B2, then upload mapfix right away
 
 uploaded, wipe:
 
@@ -11,6 +10,8 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 81661374120041 - Moist - Fixed faste oob. Wipe Faste times
+117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
+
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
@@ -36,15 +37,25 @@ uploaded fixes, ready for manual time deletion:
 126166333496285 - Ancient Ruin - ramp & spine fix. delete up to #44 auto, #7hsw, #1 sw, #1 ao
 104491849402473 - Egypt - oob fix
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. - delete oob times on main, b1, and b3
+118539912724321 - Ire - ramp fix, spine fix, & oob patch
+121170303581252 - Venust - changed cc false parts and covered end with clips
 
 submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting. 
-118539912724321 - Ire - ramp fix, spine fix, & oob patch
-121170303581252 - Venust - changed cc false parts and covered end with clips 
-126248480371185 - Blossom Heaven - fixed faste oob and some holes for the circles. Some faste times do the oob but some ones don't do that, wipde faste times faster than 22.2 seconds i guess
+126248480371185 - Blossom Heaven - fixed faste oob and some holes for the circles. delete up to #22 faste (hunter)
+83071023433889 - Gimmick - anticheat abuse fix
+100445939035656 - Arctic - oob fix
+74329636129610 - Winter is Coming - oob fix
+471684032 - Ascension to Heaven - elevated start fix
+103061530527146 - Tumb 2 - illegal route fix
+106841664334927 - Striped - oob fix
+
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
+96410575671569 - Got The Blues - s3 antitele fix
+917104451 - Dab on 'Em Haters - ramp fix
+388260266 - Flandre - ramp fix
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
