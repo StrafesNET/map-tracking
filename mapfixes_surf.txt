@@ -3,7 +3,6 @@ uncategorized:
 upload but don't add to game:
 
 special instructions:
-1984422161 - 0_o - Move all MAIN map records to B2, then upload mapfix right away
 
 uploaded, wipe:
 
@@ -37,12 +36,12 @@ uploaded fixes, ready for manual time deletion:
 126166333496285 - Ancient Ruin - ramp & spine fix. delete up to #44 auto, #7hsw, #1 sw, #1 ao
 104491849402473 - Egypt - oob fix
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. - delete oob times on main, b1, and b3
+118539912724321 - Ire - ramp fix, spine fix, & oob patch
+121170303581252 - Venust - changed cc false parts and covered end with clips
 
 submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
-1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting. 
-118539912724321 - Ire - ramp fix, spine fix, & oob patch
-121170303581252 - Venust - changed cc false parts and covered end with clips 
+1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting.
 83071023433889 - Gimmick - anticheat abuse fix
 100445939035656 - Arctic - oob fix
 74329636129610 - Winter is Coming - oob fix
