@@ -42,10 +42,10 @@ submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting.
 90662885732199 - Compact - fixed bonus oob, Main Faste:(1, 2, 5, 6), Bonus Auto:(1-17, 19, 20, 25, 31), B Sw:(1), B Hsw:(Top 5), B Ao:(Top 2), B Bw:(1), B Faste:(1-16, 18-20, 22-25, 27, 28, 30, 33-36, 46) - LF
+91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
-91557576870316 - Eden - removed clip, making faste route possible, also lowered spawn and pushed forward - LF
 85868971601293 - Dunes - Added Spawn0 so you dont spawn in bonus - LF
 140134062482324 - Trigger - Fixed ramp bug on 2nd and last ramps (Didn't touch the curved ramps) - LF
 
