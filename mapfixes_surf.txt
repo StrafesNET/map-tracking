@@ -41,7 +41,7 @@ uploaded fixes, ready for manual time deletion:
 submitted fixes (manual time deletion, list times needing deletion):
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting.
-90662885732199 - Compact - fixed bonus oob, Main Faste:(1, 2, 5, 6), Bonus Auto:(1-17, 19, 20, 25, 31), B Sw:(1), B Hsw:(Top 5), B Ao:(Top 2), B Bw:(1), B Faste:(1-16, 18-20, 22-25, 27, 28, 30, 33-36, 46) - LF
+90662885732199 - Compact - fixed bonus oob, Main Faste:(1, 2, 5, 6), Bonus Auto:(1-17, 19, 20, 25, 31), B Sw:(1), B Hsw:(Top 5), B Ao:(Top 3), B Bw:(1), B Faste:(1-16, 18-20, 22-25, 27, 28, 30, 33-36, 46) - LF
 91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF
 
 submitted fixes (no wipe):
