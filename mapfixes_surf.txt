@@ -48,7 +48,6 @@ submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 118620934615991 - Egypt - moved mapstart and put in Spawn0. will ruin bots
 121803863881652 - Clique - moved mapstart and put in Spawn0. will ruin bots
-90336414397633 - Luck2 - moved mapstart and put in Spawn0. will ruin bots
 111973365889242 - Is Me - moved mapstart and put in Spawn0. will ruin bots
 129266692124453 - Quantumn - moved mapstart and put in Spawn0. will ruin bots
 93736226694570 - Cubed - moved mapstart and put in Spawn0. will ruin bots
