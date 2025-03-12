@@ -55,6 +55,7 @@ submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 137302632337136 - Reflectoria - oob patch
 108221492835725 - Newt Two - cc false part route patch, ramp fix, & spine fix
+120616852224264 - Verde - booster change
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
