@@ -5,6 +5,7 @@ upload but don't add to game:
 uploaded, wipe:
 
 tested, pending upload & wipe:
+140322849127967 - Lovestruck (Wipe Faste on main and #1 wr on bonus1) fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes
 
 submitted fixes (wipe times):
 17621471458 - Mane Six (wipe Main Faste + hand-delete Auto WR) - Fix oob
