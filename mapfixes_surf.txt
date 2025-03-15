@@ -48,6 +48,7 @@ submitted fixes (no wipe):
 6673363074 - Alcoa - put lights in the tubes
 79278580162838 - Jungle - made the slope at the start a trigger
 15076284379 - Regret - fixed spine
+15032610757 - 4 AM - updated antiresurf buttons to stop some edge cases activating the buttons
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
