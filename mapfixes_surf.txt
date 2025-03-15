@@ -45,6 +45,7 @@ uploaded fixes, ready for manual time deletion:
 126248480371185 - Blossom Heaven - fixed faste oob and some holes for the circles. delete up to #22 faste (hunter)
 90662885732199 - Compact - fixed bonus oob, Main Faste:(1, 2, 5, 6), Bonus Auto:(1-17, 19, 20, 25, 31), B Sw:(1), B Hsw:(Top 5), B Ao:(Top 3), B Bw:(1), B Faste:(1-16, 18-20, 22-25, 27, 28, 30, 33-36, 46) - LF
 91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF
+100754893525014 - Slope - Fixed bumpy ramps all over the map, needs 1, 2, 4, 5 deleting on faste and 1, 2, 4 deleting on autohop - Iwxxbxl
 
 submitted fixes (manual time deletion, list times needing deletion):
 83071023433889 - Gimmick - anticheat abuse fix
