@@ -12,6 +12,7 @@ tested, pending upload & wipe:
 submitted fixes (wipe times):
 81661374120041 - Moist - Fixed faste oob. Wipe Faste times
 117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
+15076075504 - Windows 84 - fixed bonus oob. delete all bonus times
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
@@ -55,6 +56,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 103061530527146 - Tumb 2 - illegal route fix
 106841664334927 - Striped - oob fix
 118542101462905 - Azurite - illegal route fix
+15076092397 - Daydreamer 2 - fixed some invisible triggers and patched oobs. delete faste wr and fly trials
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
@@ -68,6 +70,11 @@ submitted fixes (no wipe):
 137302632337136 - Reflectoria - oob patch
 108221492835725 - Newt Two - cc false part route patch, ramp fix, & spine fix
 120616852224264 - Verde - booster change
+15076030875 - Consistency - lighting fixed (kept day/night cycle)
+6673363074 - Alcoa - put lights in the tubes
+79278580162838 - Jungle - made the slope at the start a trigger
+15076284379 - Regret - fixed spine
+15032610757 - 4 AM - updated antiresurf buttons to stop some edge cases activating the buttons
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
