@@ -46,15 +46,6 @@ uploaded fixes, ready for manual time deletion:
 90662885732199 - Compact - fixed bonus oob, Main Faste:(1, 2, 5, 6), Bonus Auto:(1-17, 19, 20, 25, 31), B Sw:(1), B Hsw:(Top 5), B Ao:(Top 3), B Bw:(1), B Faste:(1-16, 18-20, 22-25, 27, 28, 30, 33-36, 46) - LF
 91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF
 
-submitted fixes (no wipe):
-5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
-85868971601293 - Dunes - Added Spawn0 so you dont spawn in bonus - LF
-140134062482324 - Trigger - Fixed ramp bug on 2nd and last ramps (Didn't touch the curved ramps) - LF
-93374320130248 - Treespam - Fixed s4 ramp bug - LF
-107756726522099 - Blued - Fixed Booster not working properly - LF
-137034235613519 - Tumb - Fixed overlapping wedges leading to false collision in 2nd window - LF
-111489291217493 - Kyoto - Fixed wonky spawn platform physics - LF
-
 submitted fixes (manual time deletion, list times needing deletion):
 83071023433889 - Gimmick - anticheat abuse fix
 100445939035656 - Arctic - oob fix
@@ -66,6 +57,12 @@ submitted fixes (manual time deletion, list times needing deletion):
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 124019201243955 - 123 - oob patch
+85868971601293 - Dunes - Added Spawn0 so you dont spawn in bonus - LF
+140134062482324 - Trigger - Fixed ramp bug on 2nd and last ramps (Didn't touch the curved ramps) - LF
+93374320130248 - Treespam - Fixed s4 ramp bug - LF
+107756726522099 - Blued - Fixed Booster not working properly - LF
+137034235613519 - Tumb - Fixed overlapping wedges leading to false collision in 2nd window - LF
+111489291217493 - Kyoto - Fixed wonky spawn platform physics - LF
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
