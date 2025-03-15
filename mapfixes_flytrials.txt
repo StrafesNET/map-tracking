@@ -2,8 +2,7 @@
 submitted fixes (wipe times):
 
 uploaded fixes, ready for manual time deletion:
-121756069139233 - Triale - Meant to fix teleport bug, wipe top 2 fly and #1 on every other style
-18699416543 - Woody - Meant to fix teleport bug
+
 
 submitted fixes (manual time deletion, list times needing deletion):
 
