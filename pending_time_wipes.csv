@@ -1,42 +1,9 @@
-   Map Name,       MapID, StyleIDs, ModeIDs,   GameIDs,   Unix Constraint
-   Beginner,  5692094530,      ALL,       ALL, FLYTRIALS, BEFORE 1708446960
-   Beginner,  5692094530,    FASTE,       ALL,      SURF, BEFORE 1708446960
-        Ice,  5692118983,    FASTE,       ALL,      SURF, BEFORE 1708446960
-  Mausoleum,  5692135218,      ALL,       ALL, FLYTRIALS, BEFORE 1717600200
-Who Knows 2,  5692153113,      ALL,       ALL, FLYTRIALS, BEFORE 1717600200
-Who Knows 2,  5692153113,    FASTE,       ALL,      SURF, BEFORE 1717600200
-Futurebound,  5692145082,      ALL,       ALL, FLYTRIALS, BEFORE 1723763400
-   One More,  5692153342,      ALL,       ALL, FLYTRIALS, BEFORE 1726554240
-   Treespam, 17279603806,      ALL,       ALL, FLYTRIALS, BEFORE 1726621140
-     Convey,  8659326439,      ALL,      MAIN, FLYTRIALS, BEFORE 1728846060
-    Catalog, 13026307623,      ALL,       ALL, FLYTRIALS, BEFORE 1728846060
-     Autumn, 13026267305,      ALL,       ALL, FLYTRIALS, BEFORE 1729882020
-Leek (spin), 13026270460,      ALL, MAIN & B5, FLYTRIALS, BEFORE 1731546060
-      Dunes,  5692158258,    FASTE,      MAIN,      SURF, BEFORE 1739397889
-     Venust, 13548523662,    FASTE,      MAIN,      SURF, BEFORE 1739397889
-    Vacancy,  5692146718,    FASTE,      MAIN,      SURF, BEFORE 1739397889
-   Mane Six,  5692117855,    FASTE,      MAIN,      SURF, BEFORE 1739397889
-Brain Power,  5692133851,    FASTE,      MAIN,      SURF, BEFORE 1739397889
-Example Map, 15718157293,      ALL,        B1,      SURF, BEFORE 1739397889
-   Airspace, 13026263851,      ALL,        B2,      SURF, BEFORE 1739397889
-     Lauren, 17286226033,      ALL,        B3,      SURF, BEFORE 1739397889
-     Venust, 13548523662,      ALL,      MAIN, FLYTRIALS, BEFORE 1739397889
-    Cryogen,  5692102865,      ALL,      MAIN, FLYTRIALS, BEFORE 1739397889
-      Dunes,  5692158258,      ALL,      MAIN, FLYTRIALS, BEFORE 1739397889
-       Blue,  5692106768,      ALL,       ALL, FLYTRIALS, BEFORE 1739397889
-     Clique,  5692174562,      ALL,       ALL, FLYTRIALS, BEFORE 1739397889
-     Lauren, 17286226033,      ALL,       ALL, FLYTRIALS, BEFORE 1739397889
-    Karakai,  5692165267,      ALL,       ALL, FLYTRIALS, BEFORE 1739397889
-   Airspace, 13026263851,      ALL,       ALL, FLYTRIALS, BEFORE 1739397889
-   Mane Six,  5692117855,      ALL,       ALL, FLYTRIALS, BEFORE 1739397889
-  Andromeda, 15718190188,      ALL,       ALL, FLYTRIALS, BEFORE 1739397889
-  Overgrown,  6115140662,      ALL,       ALL, FLYTRIALS, BEFORE 1739397889
-BrickColors, 11492883485,      ALL,       ALL, FLYTRIALS, BEFORE 1739397889
-  Woodworks,  5692106610,      ALL,      MAIN, FLYTRIALS, BEFORE 1739397889
-Example Map, 15718157293,      ALL,        B1, FLYTRIALS, BEFORE 1739397889
-       Aura, 13548495100,    FASTE,      MAIN,      BHOP, BEFORE 1739397889
-     Regret, 11222433611,      ALL,       ALL,       ALL, BEFORE 1739397889
-    Orbital, 11222428333,      ALL,       ALL,       ALL, BEFORE 1739397889
-Daydreamer2, 12293814860,      ALL,       ALL,       ALL, BEFORE 1739397889
- Windows 84,  8777513883,      ALL,       ALL,      SURF, BEFORE 1739476094
- Windows 84,  8777513883,      ALL,       ALL, FLYTRIALS, BEFORE 1739476094
+   Map Name,       MapID, StyleIDs, ModeIDs,   GameIDs,   Unix Constraint, Fix Description
+Drake, 17279567369, FASTE, MAIN, SURF, February 10th 2025 at 11:01 AM, Previously uploaded mapfix needs time wipes
+Slime Map Pile, 5692170517, FASTE, MAIN, SURF, February 10th 2025 at 10:44 AM, Previously uploaded mapfix needs time wipes
+Sky, 5692122578, FASTE, MAIN, SURF, February 10th 2025 at 10:45 AM, Previously uploaded mapfix needs time wipes
+Lines, 5692164379, FASTE, MAIN, SURF, February 10th 2025 at 10:45 AM, Previously uploaded mapfix needs time wipes
+Got The Blues, 5692175777, FASTE, MAIN, SURF, February 10th 2025 at 10:44 AM, Previously uploaded mapfix needs time wipes
+Frantic Lemon, 5692118014, FASTE, MAIN, SURF, February 10th 2025 at 10:43 AM, Previously uploaded mapfix needs time wipes
+1738, 18925813056, FASTE, MAIN, SURF, February 10th 2025 at 10:46 AM, Previously uploaded mapfix needs time wipes
+Clique, 5692174562, FASTE, MAIN, SURF, February 10th 2025 at 10:51 AM, Previously uploaded mapfix needs time wipes

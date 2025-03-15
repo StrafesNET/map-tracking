@@ -18,24 +18,20 @@ cobble - bumpy ramps, spines need fix
 desolate - oob
 discord - spines need fix, ends of ramps are bumpy (gray part)
 extirpate - oob
-flandre - buggy ramps (mostly yellow stages)
 giza - spines need fix
 grid - oob
 halloween - s4 oob (watch faste wr, can be hit in autohop)
 hole in one - sextuple telehop oob
-ice - oob
+ice - multiple oobs
 ing - bad spine (before 180 into skip lmk if need help)
-intercosmic - desync issues, bumpy ramps
-is me - elevated start, stage anti-telehop issues
+intercosmic - desync issues (maybe too many pieces per ramp?), bumpy ramps (last)
 kairos - bumpy ramps
-kori - bumpy ramps, spines go into trigger at end
+kori - bumpy ramps
 lezgo - bumpy ramps, bad spines
 lezgo II - bumpy ramps, bad spines
-lowest bidder - buggy end ramp (look at ramps with /sc)
 maybe - bumpy ramps, booster bug (compare rank 1 and 2 bots)
 microverse - bumpy ramps
 milk truck - bumpy ramps
-moist - bumpy bottom of ramps
 obelisk - elevated start (anti-telehop)
 pain - prehopping start of stages
 palm tree vibes - bad spines
@@ -47,7 +43,6 @@ reverse - start oob
 rojo rebirth - reduce fog (performance and gameplay issue)
 rookie - stage anti-telehop abuse
 shard - elevated start (anti-telehop)
-slope - elevated start (stand on walls)
 sluice - decelerators are abusable can give big unit, elevated start (anti-telehop)
 startup - first and fifth ramps bad spines
 stones - elevated start (anti-telehop)
@@ -68,7 +63,6 @@ vast - abusable stage anti-teles
 vertigo - bumpy ramps
 volcase - elevated start (anti-telehop)
 woodlawn - bumpy ramps
-yes - s3(?) triggerskip
 5692153342 - One More - b2 first ramp has ramp bug
 5692129052 - ALX - fix lighting, 2 bumpy spines (ramp before and ramp after spin on wr route)
 5692132646 - Azura - Lighting
@@ -76,10 +70,6 @@ yes - s3(?) triggerskip
     https://cdn.discordapp.com/attachments/787762150231375886/1274906734837628979/Roblox_VR_2024.08.19_-_03.40.08.03.DVR.mp4?       ex=66eecdac&is=66ed7c2c&hm=b2c207724c32a1cb56ff9a787af94ff481d350eff164ce5eb18aa2ae062016ad&
     https://cdn.discordapp.com/attachments/167423382697148416/1277367071793090561/0825.mp4?ex=66ee868a&is=66ed350a&hm=03aa1fbb93088a31b7caed7781a70bbc7d9aef89940c8686b8bd904286ef8c53&
 17286226495 - Ductile - faste oob
-sky - oob
-sky 2 - oob
-zoom - oob
-accident 3 - world destroyer skip
 
 needs credits:
 5692158058 - 004
@@ -91,7 +81,6 @@ needs credits:
 5692169964 - Nikolo
 5692140037 - Rebel Resistance Final 3
 5692118352 - Reprise
-5692157806 - Sinsane
 5692150007 - Sluice
 8777510372 - Space Jam
 5692153113 - Who Knows 2
