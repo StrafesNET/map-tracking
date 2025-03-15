@@ -18,7 +18,6 @@ cobble - bumpy ramps, spines need fix
 desolate - oob
 discord - spines need fix, ends of ramps are bumpy (gray part)
 extirpate - oob
-flandre - buggy ramps (mostly yellow stages)
 giza - spines need fix
 grid - oob
 halloween - s4 oob (watch faste wr, can be hit in autohop)
@@ -44,7 +43,6 @@ reverse - start oob
 rojo rebirth - reduce fog (performance and gameplay issue)
 rookie - stage anti-telehop abuse
 shard - elevated start (anti-telehop)
-slope - elevated start (stand on walls)
 sluice - decelerators are abusable can give big unit, elevated start (anti-telehop)
 startup - first and fifth ramps bad spines
 stones - elevated start (anti-telehop)
