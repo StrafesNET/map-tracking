@@ -22,6 +22,7 @@ uploaded fixes (manual time deletion, list times needing deletion):
 17713127460 - Aura - Main Auto hand-delete top 3 - Fixed a faste skip + better zoning
 
 submitted fixes (wipe times):
+126310637557454 - Strafe FiBzY - Fixed wacky union collision, wipe all styles - LF
 
 uploaded fixes, ready for manual time deletion:
 17718806462 - Bubblegum (hand-delete offending Main Faste) - Fixed Faste OOB surf
