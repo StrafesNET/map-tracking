@@ -50,6 +50,7 @@ submitted fixes (no wipe):
 140134062482324 - Trigger - Fixed ramp bug on 2nd and last ramps (Didn't touch the curved ramps) - LF
 93374320130248 - Treespam - Fixed s4 ramp bug - LF
 107756726522099 - Blued - Fixed Booster not working properly - LF
+137034235613519 - Tumb - Fixed overlapping wedges leading to false collision in 2nd window - LF
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
