@@ -42,6 +42,7 @@ uploaded fixes, ready for manual time deletion:
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting.
 126248480371185 - Blossom Heaven - fixed faste oob and some holes for the circles. delete up to #22 faste (hunter)
+100754893525014 - Slope - Fixed bumpy ramps all over the map, needs 1, 2, 4, 5 deleting on faste and 1, 2, 4 deleting on autohop - Iwxxbxl
 
 submitted fixes (manual time deletion, list times needing deletion):
 83071023433889 - Gimmick - anticheat abuse fix
@@ -53,7 +54,6 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
-100754893525014 - Slope - Fixed bouncing on the last ramp of S1 - iwxxbxl
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
