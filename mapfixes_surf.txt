@@ -48,6 +48,7 @@ submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 85868971601293 - Dunes - Added Spawn0 so you dont spawn in bonus - LF
 140134062482324 - Trigger - Fixed ramp bug on 2nd and last ramps (Didn't touch the curved ramps) - LF
+93374320130248 - Treespam - Fixed s4 ramp bug - LF
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
