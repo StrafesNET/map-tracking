@@ -10,6 +10,7 @@ tested, pending upload & wipe:
 140322849127967 - Lovestruck (Wipe Faste on main and #1 wr on bonus1) fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes
 
 submitted fixes (wipe times):
+83259323900252 - Sinsane - moved mapstart and put in Spawn0. will ruin bots. Fixed faste oob to wormhole, wipe faste times (only 63 so maybe manual deletion)
 81661374120041 - Moist - Fixed faste oob. Wipe Faste times
 117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
 15076075504 - Windows 84 - fixed bonus oob. delete all bonus times
@@ -61,6 +62,11 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
+118620934615991 - Egypt - moved mapstart and put in Spawn0. will ruin bots
+121803863881652 - Clique - moved mapstart and put in Spawn0. will ruin bots
+111973365889242 - Is Me - moved mapstart and put in Spawn0. will ruin bots
+129266692124453 - Quantumn - moved mapstart and put in Spawn0. will ruin bots
+93736226694570 - Cubed - moved mapstart and put in Spawn0. will ruin bots
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
