@@ -1,13 +1,3 @@
-uncategorized:
-
-upload but don't add to game:
-
-special instructions:
-
-uploaded, wipe:
-
-tested, pending upload & wipe:
-
 submitted fixes (wipe times):
 117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
 
@@ -62,8 +52,6 @@ submitted fixes (no wipe):
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
-
-tested, pending upload & add map data:
 
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad

@@ -9,14 +9,6 @@ uncategorized:
 upload but don't add:
 10050550205 - Yonder (MOVING PLATFORM FIX AVAILABLE) - Trigger skip near lake is no longer possible.
 
-tested, pending upload & schedule:
-
-submitted unreleased fixes:
-
-uploaded, wipe:
-
-tested, pending upload & wipe:
-
 uploaded fixes (manual time deletion, list times needing deletion):
 15076161355 - Strayff - changed Water to Trigger1 to stop boosting on reset. remove up to #7 auto (leo), scroll wr, hsw wr, wo wr, ao wr. just found so times may change
 17713127460 - Aura - Main Auto hand-delete top 3 - Fixed a faste skip + better zoning
@@ -42,10 +34,6 @@ submitted fixes (manual time deletion, list times needing deletion):
 submitted fixes (no wipe):
 6420411884 - Calm Down - added tomatox to creatorname - copylocked
 10298870923 - Hello - added Justyn1 to creatorname - copylocked
-
-add map data:
-
-tested, pending upload & add map data:
 
 submitted fixes need add map data:
 
