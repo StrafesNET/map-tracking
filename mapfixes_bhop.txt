@@ -29,6 +29,7 @@ tested, pending upload:
 84606010438989 - Zyper (hand-delete offending Main Faste) - Fixed extended clips that allowed skipping entire map
 
 submitted fixes (manual time deletion, list times needing deletion):
+18841177635 - Itaek - patched faste oob. delete top 19 faste
 
 submitted fixes (no wipe):
 6420411884 - Calm Down - added tomatox to creatorname - copylocked
