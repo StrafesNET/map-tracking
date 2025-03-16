@@ -10,9 +10,7 @@ tested, pending upload & wipe:
 140322849127967 - Lovestruck (Wipe Faste on main and #1 wr on bonus1) fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes
 
 submitted fixes (wipe times):
-81661374120041 - Moist - Fixed faste oob. Wipe Faste times
 117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
-15076075504 - Windows 84 - fixed bonus oob. delete all bonus times
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
