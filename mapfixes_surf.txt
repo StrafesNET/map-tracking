@@ -47,10 +47,12 @@ uploaded fixes, ready for manual time deletion:
 submitted fixes (manual time deletion, list times needing deletion):
 117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
 140322849127967 - Lovestruck - fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes. delete top 2 bonus auto
+121952685986636 - Gimmick - Fixed Faste OOB - Offending times as of the time of writing this: top 2 faste 
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 110840674303337 - Slope - Fix being able to stand on the walls inside the spawn box due to an oversight - Iwxxbxl
+132409402998829 - Reflectoria - The map got rotated in the previous map fix (bots are messed up), this undoes that.
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
