@@ -53,6 +53,7 @@ submitted fixes (no wipe):
 110840674303337 - Slope - Fix being able to stand on the walls inside the spawn box due to an oversight - Iwxxbxl
 85868971601293 - Dunes - Fixed Teleports not working (Oopsies) - LF
 108783823345289 - Silky - Fixed ZFighting on MapFinish (Should stop inconsistencies in times recording) - LF
+114692773564493 - Krok - Fixed bad ramp bug on a headsurf, fixed b1 spine bugs - LF
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
