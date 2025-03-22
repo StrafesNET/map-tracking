@@ -55,6 +55,7 @@ submitted fixes (no wipe):
 1243205121 - Shadow Temple - ramp fix
 137302632337136 - Reflectoria -the map got rotated in the previous map fix (bots are messed up), this undoes that
 75437498368420 - Aether - ramp fix
+120616852224264 - Verde - ramp fix
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
