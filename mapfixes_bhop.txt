@@ -23,7 +23,6 @@ uploaded fixes, ready for manual time deletion:
 
 tested, pending upload:
 17718271683 - Translucidity v2 (hand-delete offending Main Faste) - Added more invisible walls to prevent OOB bugs
-108302825888247 - Crypt (hand-delete offending Main Faste) Removed slopes in the start area to prevent bounces - Fixed by h_k
 115464482326606 - Ares - Fix trigger overlap - delete offending times - Roblox_Leo2510
 105138001145681 - Solitude (hand-delete offending Main Auto + any possible Faste) - Extended a trigger to prevent skipping a large portion of the map
 84606010438989 - Zyper (hand-delete offending Main Faste) - Fixed extended clips that allowed skipping entire map
@@ -48,3 +47,4 @@ rejected fixes, additional fix notes:
 13118097070 - Y - Re-port using import plugin. Scaled up. - excuse me the boosters aren't supposed to give horizontal boost
 16042545662 - deep chicago night (fix: polyrhythm) - end ramp converted to a Surf to prevent speed loss - this should be fixed in the physics, not like this - same opinion as before, this is a workaround and not a root cause and makes the map worse for casual players
 16503936411 - Questionable Trials - Fixed being able to do a difficult jump around teleport - script loaders are not allowed, use a Script with RunContext set to Client
+108302825888247 - Crypt (hand-delete offending Main Faste) Removed slopes in the start area to prevent bounces - Fixed by h_k - This is the wrong file and contains bhop_dumb_studs_4 which does not exist on main
