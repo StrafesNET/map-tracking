@@ -24,9 +24,9 @@ uploaded fixes, ready for manual time deletion:
 115464482326606 - Ares - Fix trigger overlap - delete offending times - Roblox_Leo2510
 105138001145681 - Solitude (hand-delete offending Main Auto + any possible Faste) - Extended a trigger to prevent skipping a large portion of the map
 84606010438989 - Zyper (hand-delete offending Main Faste) - Fixed extended clips that allowed skipping entire map
+18841177635 - Itaek - patched faste oob. delete top 19 faste
 
 submitted fixes (manual time deletion, list times needing deletion):
-18841177635 - Itaek - patched faste oob. delete top 19 faste
 
 submitted fixes (no wipe):
 6420411884 - Calm Down - added tomatox to creatorname - copylocked
