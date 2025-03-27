@@ -1,6 +1,9 @@
 submitted fixes (wipe times):
 117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
 140322849127967 - Lovestruck - ditto below. wipe main and bonus faste
+94987700539200 - Andromeda - Fixed rock surf/bhop - Wipe Auto - LF
+92645138583162 - Resilience - Fixed several oobs, adjusted mapstart slightly, fixed a few faulty triggers - (Wipe all main times) - LF
+127089849933947 - Tie - Fixed spine bugs, fixed oob, fixed faulty bonus triggers - (Wipe faste main and faste bonus) - LF
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
@@ -50,6 +53,9 @@ submitted fixes (manual time deletion, list times needing deletion):
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
+85868971601293 - Dunes - Fixed Teleports not working (Oopsies) - LF
+108783823345289 - Silky - Fixed ZFighting on MapFinish (Should stop inconsistencies in times recording) - LF
+114692773564493 - Krok - Fixed bad ramp bug on a headsurf, fixed b1 spine bugs - LF
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
