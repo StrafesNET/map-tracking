@@ -50,12 +50,17 @@ uploaded fixes, ready for manual time deletion:
 
 submitted fixes (manual time deletion, list times needing deletion):
 117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
+83071023433889 - Gimmick - oob patch, wipe top 2 faste
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 85868971601293 - Dunes - Fixed Teleports not working (Oopsies) - LF
 108783823345289 - Silky - Fixed ZFighting on MapFinish (Should stop inconsistencies in times recording) - LF
 114692773564493 - Krok - Fixed bad ramp bug on a headsurf, fixed b1 spine bugs - LF
+1243205121 - Shadow Temple - ramp fix
+137302632337136 - Reflectoria -the map got rotated in the previous map fix (bots are messed up), this undoes that
+75437498368420 - Aether - ramp fix
+120616852224264 - Verde - ramp fix
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
