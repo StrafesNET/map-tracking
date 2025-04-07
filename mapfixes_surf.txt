@@ -4,6 +4,8 @@ submitted fixes (wipe times):
 94987700539200 - Andromeda - Fixed rock surf/bhop - Wipe Auto - LF
 92645138583162 - Resilience - Fixed several oobs, adjusted mapstart slightly, fixed a few faulty triggers - (Wipe all main times) - LF
 127089849933947 - Tie - Fixed spine bugs, fixed oob, fixed faulty bonus triggers - (Wipe faste main and faste bonus) - LF
+95971356182379 - Extirpate - Fixed auto skip (Wipe top 5 auto) 
+124985518162299 - Trying Again - Fixed Multiple oobs (Wipe Faste & top 5 auto)
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
