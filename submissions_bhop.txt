@@ -6,8 +6,7 @@ frontlog:
 1046910594 - BlackRockShooter
 
 accepted:
-410109246 - RPG - too difficult to review scripts atm
-15708966260 - Quaint - blocked due to lighting changer (FIXED: 17280867135)
+18313329247 - Sword Fight On the Heights - my partially reviewed version: 18926025534
 
 not in inventory:
 
@@ -28,6 +27,7 @@ rejected:
 9145104232 - 5x5 - it's grey
 12502151911 it should REALLY be polished, but accepted. | Name: wowies | Creator/s: voxaim - rejected 6:1
 12501941146 | Name: Lunar Lake | Creator/s: RecBtw - rejected 3:2 + very short
+104500850979010 - Nostalgia - this is a compilation map which is not allowed, and additionally it is bypassing my removal of these maps.
 
 changes requested:
 1053789937/bhop-ametisti - spawn loop thing and where do you go? jump too far. unfinished?

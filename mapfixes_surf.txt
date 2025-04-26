@@ -1,47 +1,76 @@
-uncategorized:
-
-upload but don't add to game:
-
-uploaded, wipe:
-
-tested, pending upload & wipe:
-
 submitted fixes (wipe times):
-17621471458 - Mane Six (wipe Main Faste + hand-delete Auto WR) - Fix oob
-15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. delete oob times on main, b1, and b3 and wipe all b2 times.
-7813943245 - 4 AM - Changed DisplayName to only have 1 space instead of 2. Make the stage signs CanCollide false. Delete times that start on these signs.
+117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
+140322849127967 - Lovestruck - ditto below. wipe main and bonus faste
+94987700539200 - Andromeda - Fixed rock surf/bhop - Wipe Auto - LF
+92645138583162 - Resilience - Fixed several oobs, adjusted mapstart slightly, fixed a few faulty triggers - (Wipe all main times) - LF
+127089849933947 - Tie - Fixed spine bugs, fixed oob, fixed faulty bonus triggers - (Wipe faste main and faste bonus) - LF
 
-tested, pending upload:
+uploaded fixes, ready for manual time deletion:
+98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
+110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
+15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
+17859292146 - Leek (spin) - Fixed faste OOB, delete main faste #1 and wipe fly trials - littleisableh
+86272671055892 - Andromeda - Fixed OOB. delete top 22 faste - Roblox_Leo2510
+109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. delete top 35 faste. - littleisableh
+17621471458 - Mane Six - Fixed s2 oob. delete top 4 auto.
+15076214780 - Luminous - made all rainbow parts work on 1 script instead of 1.5k. fixed spawning outside of antitele in s2 as well as replacing bonus and s1 antitele with setvel and hitting endzone on bonus without making it onto the platform. remove up to #39 in auto and #49 in faste and other offending times. remove up to #16 on bonus and other times that stand on antitele
+72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
+107023851638979 - Drains - fixed spine bug, fixed faste oob - littlefarrell - [Wipe Faste or Delete top 135 faste times]
+78139004526195 - Charcoal Chasm - fixed ramp bugs, fixed standing on spawn - littlefarrell - [Delete auto {1-7, 10, 11, 18}, wipe faste]
+78311684430808 - Frosty Winter - Fixed trigger inside spawn platform, fixed ramp clipping with trigger, and faste oob. delete faste up to 0y6l (#26) - littlefarrell
+124303344855929 - 1738 - oob fix Auto (#1-16,18-20) - Sideways (Wipe) - HSW (#1) - A-Only (WIPE) - Faste (#1-50)
+109318571137865 - Drake - oob fix (thanks farrell) - Auto (#1-4, #6 #10) - Sideways (Wipe) - HSW (wipe) - Faste (Wipe)
+98503157833058 - Frantic Lemon - oob fix - Auto (#1-18,#21-26,#28-30) - HSW (#1,#3) - Faste (#1-40)
+96410575671569 - Got The Blues - Auto (#1-100) - Sideways (Wipe) - HSW (#1-9,#11)- A-Only (#1-3) - Backwards (#1) - Faste (ALL but #222-226-284)
+96196419905072 - Hi Everyone - oob fix (wipe times that use it)
+94061034010846 - Lines - oob fix - Auto (#1-15,#18) - sideways (#1) - HSW (#1-2) - W-Only (#1) - A-Only (#1) - Faste (Wipe) - Backwards (#1). new times are being gotten, look around a bit in case of more oob times
+96820520702197 - Sky - oob fix - Auto (#1-14,#15) - HSW (#1) - Faste (wipe)
+99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route - Auto (no one in top 300?) - Sideways (#4-6) - W-Only (Wipe) - A-Only(#4-5) - Faste (Wipe)
+71144524985323 - Astroworld - fixed b3 unintended invis bhop skip - delete #1 time (WashedLiquid) --jid
+126166333496285 - Ancient Ruin - ramp & spine fix. delete up to #44 auto, #7hsw, #1 sw, #1 ao
+104491849402473 - Egypt - oob fix
+15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. - delete oob times on main, b1, and b3
+118539912724321 - Ire - ramp fix, spine fix, & oob patch
+121170303581252 - Venust - changed cc false parts and covered end with clips
+4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
+1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting.
+126248480371185 - Blossom Heaven - fixed faste oob and some holes for the circles. delete up to #22 faste (hunter)
+83071023433889 - Gimmick - anticheat abuse fix
+100445939035656 - Arctic - oob fix
+74329636129610 - Winter is Coming - oob fix
+471684032 - Ascension to Heaven - elevated start fix
+103061530527146 - Tumb 2 - illegal route fix
+106841664334927 - Striped - oob fix
+118542101462905 - Azurite - illegal route fix
+15076092397 - Daydreamer 2 - fixed some invisible triggers and patched oobs. delete faste wr and fly trials
+90662885732199 - Compact - fixed bonus oob, Main Faste:(1, 2, 5, 6), Bonus Auto:(1-17, 19, 20, 25, 31), B Sw:(1), B Hsw:(Top 5), B Ao:(Top 3), B Faste:(1-16, 18-20, 22-25, 27, 28, 30, 33-36, 46) - LF
+91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF
+100754893525014 - Slope - Fixed bumpy ramps all over the map, needs 1, 2, 4, 5 deleting on faste and 1, 2, 4 deleting on autohop - Iwxxbxl
+140322849127967 - Lovestruck - fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes. delete top 2 bonus auto
+
+submitted fixes (manual time deletion, list times needing deletion):
+117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
+83071023433889 - Gimmick - oob patch, wipe top 2 faste
 
 submitted fixes (no wipe):
-17722224669 - Aztec -  moved closer to origin and zoned bonus
+5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
+85868971601293 - Dunes - Fixed Teleports not working (Oopsies) - LF
+108783823345289 - Silky - Fixed ZFighting on MapFinish (Should stop inconsistencies in times recording) - LF
+114692773564493 - Krok - Fixed bad ramp bug on a headsurf, fixed b1 spine bugs - LF
+1243205121 - Shadow Temple - ramp fix
+137302632337136 - Reflectoria -the map got rotated in the previous map fix (bots are messed up), this undoes that
+75437498368420 - Aether - ramp fix
+120616852224264 - Verde - ramp fix
 
 add map data:
-10076615800 - 30 Minutes (removed) - Removed the ability to get on top of the telehop.
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
-
-tested, pending upload & add map data:
-17723542066 - Sandstorm Supergiant - Fixed headhits (made possible for new physics), Fixed bonus boosters, fixed spawn bump (fixed by qban and quin)
 
 submitted fixes need add map data:
 569053285 - Sand Temple - now possible - delayed due to moving parts being bad
 
 rejected fixes, additional fix notes:
-852889271 - Golden Glory - ramp fix - fall through ramp???
-10066332884 - O-oh hi-i t-there, J-J-Jill - spawn is buggy, bumpy ramps, especially 2nd ramp
-621876510 - Space Jam - idk - there is already a great fix published
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
-459306841 - Winterland - ramp fix - needs more fixes, still bumpy ramps
-12615410485 - surf_pain (updated ID) bonus 4 endzone fix. - use execution context instead of a script distributor for local scripts.
-14214740439 - Memorial - rampfix, better lighting & textures, new skybox - the spine fix ruins the surf made of 6 wedges with a concavity underneath
-5272229281 - Luminous - made possible - lower the surfs a bit, you can't walk off some spawns onto the surfs
-13605711173 - Ineffable - made possible - ramp textures are wack on the ends, map is harder because of tall hitbox
-13634743943 - Ineffable 2 - made possible - ramp with z fighting causes physics issues 2 ramps before circle spin thing, map is harder because of tall hitbox
-14122828826 - Sandstorm Supergiant - made possible - not adjusted for new physics enough, lighting needs fix
-14422792918 - Regret - Fixed oob & MapFinish sizing - it's insanely dark
-16250123347 - Regret - Resized start and end zone to prevent shenanigans and disabled Cast Shadow so you can see map (Abusing times will be deleted manually) - changing the position of the start zone requires a full wipe since the bots are based on the start zone position.  Is this really worth a full wipe?
-16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above.
-16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
-16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above above.
+16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - changing position of mapstart will mess with bots.
+16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above.
+16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
 2637387680 - Accident 2 - fixed halloween stage - blocked due to lighting fixer - use a Script with RunContext set to Client instead of a loader
-16279647725 - Andromeda - fixed oob, patched rock surf/hop at start (duckadvice) - polled at 71%
