@@ -31,6 +31,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 submitted fixes (no wipe):
 6420411884 - Calm Down - added tomatox to creatorname - copylocked
 10298870923 - Hello - added Justyn1 to creatorname - copylocked
+82083928996590 - Dumb Studs - fixed displayname to capitalise the S and sort properly in nominate list - nickless_y
 
 submitted fixes need add map data:
 
