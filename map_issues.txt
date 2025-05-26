@@ -29,6 +29,7 @@ kairos - bumpy ramps
 kori - bumpy ramps
 lezgo - bumpy ramps, bad spines
 lezgo II - bumpy ramps, bad spines
+luminous - s2 anti tele needs fixing again
 maybe - bumpy ramps, booster bug (compare rank 1 and 2 bots)
 microverse - bumpy ramps
 milk truck - bumpy ramps
