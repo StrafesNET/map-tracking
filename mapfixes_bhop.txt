@@ -12,7 +12,6 @@ upload but don't add:
 uploaded fixes (manual time deletion, list times needing deletion):
 15076161355 - Strayff - changed Water to Trigger1 to stop boosting on reset. remove up to #7 auto (leo), scroll wr, hsw wr, wo wr, ao wr. just found so times may change
 17713127460 - Aura - Main Auto hand-delete top 3 - Fixed a faste skip + better zoning
-119330635861963 - Questionable Trials - fixes being able to skip a teleporter on purple. Delete top 2 auto, 4-10,12,14 faste.
 
 submitted fixes (wipe times):
 
