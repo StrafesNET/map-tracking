@@ -47,7 +47,8 @@ uploaded fixes, ready for manual time deletion:
 91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF
 100754893525014 - Slope - Fixed bumpy ramps all over the map, needs 1, 2, 4, 5 deleting on faste and 1, 2, 4 deleting on autohop - Iwxxbxl
 140322849127967 - Lovestruck - fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes. delete top 2 bonus auto
-13026270460 - Leep (spin) - Fixed faste OOB, delete main faste #1
+13026270460 - Leek (spin) - Fixed faste OOB, delete main faste #1
+5692158258 - Dunes - Fixed Teleports not working (Oopsies, will need a couple faste deletes iirc) - LF
 
 submitted fixes (manual time deletion, list times needing deletion):
 117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
