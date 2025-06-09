@@ -19,6 +19,7 @@ desolate - oob
 discord - spines need fix, ends of ramps are bumpy (gray part)
 extirpate - oob
 giza - spines need fix
+gondal - faste oob
 grid - oob
 halloween - s4 oob (watch faste wr, can be hit in autohop)
 hole in one - sextuple telehop oob
