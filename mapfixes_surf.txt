@@ -1,9 +1,4 @@
 submitted fixes (wipe times):
-117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
-140322849127967 - Lovestruck - ditto below. wipe main and bonus faste
-94987700539200 - Andromeda - Fixed rock surf/bhop - Wipe Auto - LF
-92645138583162 - Resilience - Fixed several oobs, adjusted mapstart slightly, fixed a few faulty triggers - (Wipe all main times) - LF
-127089849933947 - Tie - Fixed spine bugs, fixed oob, fixed faulty bonus triggers - (Wipe faste main and faste bonus) - LF
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
@@ -25,16 +20,15 @@ uploaded fixes, ready for manual time deletion:
 91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF
 100754893525014 - Slope - Fixed bumpy ramps all over the map, needs 1, 2, 4, 5 deleting on faste and 1, 2, 4 deleting on autohop - Iwxxbxl
 13026270460 - Leek (spin) - Fixed faste OOB, delete main faste #1
+140322849127967 - Lovestruck - fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes. delete top 35 faste
 
 submitted fixes (manual time deletion, list times needing deletion):
-117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
+117200152130142 - Luck2 - (delete all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
 83071023433889 - Gimmick - oob patch, wipe top 2 faste
-17859292146 - Leek (spin) - Fixed faste OOB, delete main faste #1 and wipe fly trials - littleisableh
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 1243205121 - Shadow Temple - ramp fix
-137302632337136 - Reflectoria -the map got rotated in the previous map fix (bots are messed up), this undoes that
 75437498368420 - Aether - ramp fix
 120616852224264 - Verde - ramp fix
 
@@ -46,7 +40,5 @@ submitted fixes need add map data:
 
 rejected fixes, additional fix notes:
 10076918777 - Water Valley - Fixed bhopping on mountains (out of bound skip) - The player should never have to know where invisible walls are to run the map.  Perhaps make the mountain triggers instead.
-16249231648 - Kyoto - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - changing position of mapstart will mess with bots.
-16249306971 - Slope - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above.
-16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - ditto above above.
+16249264391 - Shard - Resized start zone to prevent height advantage from leaving and re entering start zone (Abusing times will be deleted manually) - changing position of mapstart will mess with bots..
 2637387680 - Accident 2 - fixed halloween stage - blocked due to lighting fixer - use a Script with RunContext set to Client instead of a loader
