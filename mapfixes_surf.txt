@@ -7,26 +7,13 @@ submitted fixes (wipe times):
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
-110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
-15032610757 - 4 AM - ANTI RESRUFS ARE HERE!!!! delete all times on main and b 4 that resurf the ramps
-86272671055892 - Andromeda - Fixed OOB. delete top 22 faste - Roblox_Leo2510
-109349367776979  - Karakai Jozu no Takagi-san - bonus zoned and gap in roof closed. delete top 35 faste. - littleisableh
-17621471458 - Mane Six - Fixed s2 oob. delete top 4 auto.
-15076214780 - Luminous - made all rainbow parts work on 1 script instead of 1.5k. fixed spawning outside of antitele in s2 as well as replacing bonus and s1 antitele with setvel and hitting endzone on bonus without making it onto the platform. remove up to #39 in auto and #49 in faste and other offending times. remove up to #16 on bonus and other times that stand on antitele
-72984478824896 - Clique - Fixed several OOB possibilities. delete top 7 and #9 auto, hsw wr, bw wr, and top 78 faste - fixed by xisablehx
-107023851638979 - Drains - fixed spine bug, fixed faste oob - littlefarrell - [Wipe Faste or Delete top 135 faste times]
-78139004526195 - Charcoal Chasm - fixed ramp bugs, fixed standing on spawn - littlefarrell - [Delete auto {1-7, 10, 11, 18}, wipe faste]
-78311684430808 - Frosty Winter - Fixed trigger inside spawn platform, fixed ramp clipping with trigger, and faste oob. delete faste up to 0y6l (#26) - littlefarrell
-124303344855929 - 1738 - oob fix Auto (#1-16,18-20) - Sideways (Wipe) - HSW (#1) - A-Only (WIPE) - Faste (#1-50)
+78139004526195 - Charcoal Chasm - fixed ramp bugs, fixed standing on spawn - littlefarrell - [wipe faste]
 109318571137865 - Drake - oob fix (thanks farrell) - Auto (#1-4, #6 #10) - Sideways (Wipe) - HSW (wipe) - Faste (Wipe)
-98503157833058 - Frantic Lemon - oob fix - Auto (#1-18,#21-26,#28-30) - HSW (#1,#3) - Faste (#1-40)
-96410575671569 - Got The Blues - Auto (#1-100) - Sideways (Wipe) - HSW (#1-9,#11)- A-Only (#1-3) - Backwards (#1) - Faste (ALL but #222-226-284)
-96196419905072 - Hi Everyone - oob fix (wipe times that use it)
-94061034010846 - Lines - oob fix - Auto (#1-15,#18) - sideways (#1) - HSW (#1-2) - W-Only (#1) - A-Only (#1) - Faste (Wipe) - Backwards (#1). new times are being gotten, look around a bit in case of more oob times
-96820520702197 - Sky - oob fix - Auto (#1-14,#15) - HSW (#1) - Faste (wipe)
-99244783386583 - Slime Map Pile - added surf_30_minutes, surf_15_minutes, and surf_7m30s as bonuses, and patched oob route - Auto (no one in top 300?) - Sideways (#4-6) - W-Only (Wipe) - A-Only(#4-5) - Faste (Wipe)
-71144524985323 - Astroworld - fixed b3 unintended invis bhop skip - delete #1 time (WashedLiquid) --jid
-126166333496285 - Ancient Ruin - ramp & spine fix. delete up to #44 auto, #7hsw, #1 sw, #1 ao
+96410575671569 - Got The Blues - Faste Wipe
+96196419905072 - Hi Everyone - oob fix Faste Wipe
+94061034010846 - Lines - Faste (Wipe)
+96820520702197 - Sky - oob fix - Faste (wipe)
+99244783386583 - Slime Map Pile - Faste (Wipe)
 104491849402473 - Egypt - oob fix
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. - delete oob times on main, b1, and b3
 118539912724321 - Ire - ramp fix, spine fix, & oob patch
