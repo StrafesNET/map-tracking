@@ -1,5 +1,4 @@
 submitted fixes (wipe times):
-117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
 
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
@@ -21,10 +20,10 @@ uploaded fixes, ready for manual time deletion:
 91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF
 100754893525014 - Slope - Fixed bumpy ramps all over the map, needs 1, 2, 4, 5 deleting on faste and 1, 2, 4 deleting on autohop - Iwxxbxl
 13026270460 - Leek (spin) - Fixed faste OOB, delete main faste #1
-140322849127967 - Lovestruck - fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes. delete top 35 faste. wipe main and bonus faste
+140322849127967 - Lovestruck - fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes. delete top 35 faste
 
 submitted fixes (manual time deletion, list times needing deletion):
-117200152130142 - Luck2 - (wipe all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
+117200152130142 - Luck2 - (delete all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
 83071023433889 - Gimmick - oob patch, wipe top 2 faste
 
 submitted fixes (no wipe):
