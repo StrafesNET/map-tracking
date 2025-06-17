@@ -1,9 +1,7 @@
 submitted fixes (wipe times):
 
 uploaded fixes, ready for manual time deletion:
-104491849402473 - Egypt - oob fix, still needs elevated start fix
-103061530527146 - Tumb 2 - illegal route fix, still needs 90 degree rotate for bots to work
-91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF, still needs elevated start fix
+104491849402473 - Egypt - needs deletions for oob and elevated start but bots are giga bugged
 
 submitted fixes (manual time deletion, list times needing deletion):
 
