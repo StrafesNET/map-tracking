@@ -11,8 +11,6 @@ bhop main:
 surf main:
 abseil - spines need fix
 antimatter - spine need fix
-ascension to heaven - elevated start (walls around spawn platform)
-blurple - spines need fix
 caving in 2 - world record strafes anti teles for +20 unit
 cobble - bumpy ramps, spines need fix
 desolate - oob
@@ -50,14 +48,12 @@ stones - elevated start (anti-telehop)
 tetratronic - unintended shortcut unsure about this one (watch #1 and #5)
 the crest experience - bumpy ramps
 the wanderer - bad spines
-tie - bad spines
 tom cruise - bad spines
 tranquil - bumpy 2nd ramp, ends of ramps are bumps
 truecetric - bumpy ramps
 trumpwall2020 - last stage has bumpy ramps and bad spines
 trying again - s1 oob
 tumb - bumpy ramps
-tumb 2 - spine bugs
 tyrian - bumpy ramps
 valpect - bad spines
 vanish 2 - bad spines
@@ -72,9 +68,6 @@ woodlawn - bumpy ramps
     https://cdn.discordapp.com/attachments/787762150231375886/1274906734837628979/Roblox_VR_2024.08.19_-_03.40.08.03.DVR.mp4?       ex=66eecdac&is=66ed7c2c&hm=b2c207724c32a1cb56ff9a787af94ff481d350eff164ce5eb18aa2ae062016ad&
     https://cdn.discordapp.com/attachments/167423382697148416/1277367071793090561/0825.mp4?ex=66ee868a&is=66ed350a&hm=03aa1fbb93088a31b7caed7781a70bbc7d9aef89940c8686b8bd904286ef8c53&
 17286226495 - Ductile - faste oob
-Egypt - Needs elevated start fix
-Eden - Needs elevated start fix
-Tumb 2 - Needs 90 degree rotate for bots
 
 needs credits:
 5692158058 - 004
