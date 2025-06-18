@@ -11,8 +11,6 @@ bhop main:
 surf main:
 abseil - spines need fix
 antimatter - spine need fix
-ascension to heaven - elevated start (walls around spawn platform)
-blurple - spines need fix
 caving in 2 - world record strafes anti teles for +20 unit
 cobble - bumpy ramps, spines need fix
 desolate - oob
@@ -50,14 +48,12 @@ stones - elevated start (anti-telehop)
 tetratronic - unintended shortcut unsure about this one (watch #1 and #5)
 the crest experience - bumpy ramps
 the wanderer - bad spines
-tie - bad spines
 tom cruise - bad spines
 tranquil - bumpy 2nd ramp, ends of ramps are bumps
 truecetric - bumpy ramps
 trumpwall2020 - last stage has bumpy ramps and bad spines
 trying again - s1 oob
 tumb - bumpy ramps
-tumb 2 - spine bugs
 tyrian - bumpy ramps
 valpect - bad spines
 vanish 2 - bad spines

@@ -1,36 +1,12 @@
 submitted fixes (wipe times):
 
 uploaded fixes, ready for manual time deletion:
-98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
-104491849402473 - Egypt - oob fix
-15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. - delete oob times on main, b1, and b3
-118539912724321 - Ire - ramp fix, spine fix, & oob patch
-121170303581252 - Venust - changed cc false parts and covered end with clips
-4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
-126248480371185 - Blossom Heaven - fixed faste oob and some holes for the circles. delete up to #22 faste (hunter)
-83071023433889 - Gimmick - anticheat abuse fix
-100445939035656 - Arctic - oob fix
-74329636129610 - Winter is Coming - oob fix
-471684032 - Ascension to Heaven - elevated start fix
-103061530527146 - Tumb 2 - illegal route fix
-106841664334927 - Striped - oob fix
-118542101462905 - Azurite - illegal route fix
-15076092397 - Daydreamer 2 - fixed some invisible triggers and patched oobs. delete faste wr and fly trials
-90662885732199 - Compact - fixed bonus oob, Main Faste:(1, 2, 5, 6), Bonus Auto:(1-17, 19, 20, 25, 31), B Sw:(1), B Hsw:(Top 5), B Ao:(Top 3), B Faste:(1-16, 18-20, 22-25, 27, 28, 30, 33-36, 46) - LF
-91557576870316 - Eden - removed clip to make faste route possible, lowered spawn and pushed forward, removed weird anchored ramp from beginning, Auto:(1-4), Hsw:(2), Ao:(11) - LF
-100754893525014 - Slope - Fixed bumpy ramps all over the map, needs 1, 2, 4, 5 deleting on faste and 1, 2, 4 deleting on autohop - Iwxxbxl
-13026270460 - Leek (spin) - Fixed faste OOB, delete main faste #1
-140322849127967 - Lovestruck - fixed the rainbow script and some collisions/triggers on bonus and main + a few visual fixes. delete top 35 faste
+104491849402473 - Egypt - needs deletions for oob and elevated start but bots are giga bugged
 
 submitted fixes (manual time deletion, list times needing deletion):
-117200152130142 - Luck2 - (delete all b6 times & top 2 faste) fixed some faste oobs, scaled startzone closer to the actual start, fixed third ramp on b4 & adjusted for new phys, fixed b6 oob + double boost & adjusted for new phys
-83071023433889 - Gimmick - oob patch, wipe top 2 faste
 
 submitted fixes (no wipe):
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
-1243205121 - Shadow Temple - ramp fix
-75437498368420 - Aether - ramp fix
-120616852224264 - Verde - ramp fix
 
 add map data:
 17143740888 - Dionysus - Fixed a ramp with a bad spine, made it possible to go through ring and enter endzone, changed startzone to spawn you in the main map instead of in a pitch black room.
