@@ -11,6 +11,7 @@ bhop main:
 surf main:
 abseil - spines need fix
 antimatter - spine need fix
+blurple - bumpy ramps - redo all ramps
 caving in 2 - world record strafes anti teles for +20 unit
 cobble - bumpy ramps, spines need fix
 desolate - oob
