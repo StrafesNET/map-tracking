@@ -1,38 +1,38 @@
-   Map Name,       MapID, StyleIDs, ModeIDs,   GameIDs,   Unix Constraint, Fix Description, Mapfix ID
-Drake, 17279567369, FASTE, MAIN, SURF, BEFORE 1739185260, Previously uploaded mapfix needs time wipes, UNSPECIFIED
-Charcoal Chasm, 5692107676, FASTE, MAIN, SURF, BEFORE 1739184540, Previously uploaded mapfix needs time wipes, UNSPECIFIED
-Slime Map Pile, 5692170517, FASTE, MAIN, SURF, BEFORE 1739184240, Previously uploaded mapfix needs time wipes, UNSPECIFIED
-Sky, 5692122578, FASTE, MAIN, SURF, BEFORE 1739184300, Previously uploaded mapfix needs time wipes, UNSPECIFIED
-Lines, 5692164379, FASTE, MAIN, SURF, BEFORE 1739184300, Previously uploaded mapfix needs time wipes, UNSPECIFIED
-Got The Blues, 5692175777, FASTE, MAIN, SURF, BEFORE 1739184240, Previously uploaded mapfix needs time wipes, UNSPECIFIED
-Moist, 5692112034, FASTE, MAIN, SURF, BEFORE 1742062440, Fixed faste oob. Wipe Faste times, UNSPECIFIED
-Moist, 5692112034, ALL, MAIN, FLYTRIALS, BEFORE 1742062440, Fixed faste oob. Wipe Faste times, UNSPECIFIED
-Windows 84, 8777513883, ALL, B1, SURF, BEFORE 1742062440, Fixed bonus oob. Delete all bonus times, UNSPECIFIED
-Windows 84, 8777513883, ALL, B1, FLYTRIALS, BEFORE 1742062440, Fixed bonus oob. Delete all bonus times, UNSPECIFIED
-Strafe FiBzY, 128330419014481, ALL, ALL, BHOP, BEFORE 1742064720, Fixed wacky union collision. Wipe all styles, UNSPECIFIED
-Azurite, 5692128954, FASTE, MAIN, SURF, BEFORE 1742063280, Illegal route got fixed, UNSPECIFIED
-Leek (spin), 13026270460, ALL, MAIN, FLYTRIALS, BEFORE 1749296817, Fixed faste OOB delete main faste #1 and wipe fly trials, https://maps.strafes.net/mapfixes/5
-Tie, 5692169270, FASTE, MAIN, SURF, BEFORE 1749435447, Tie - Fixed spine bugs fixed oob fixed faulty bonus triggers - (Wipe faste main , https://maps.strafes.net/mapfixes/7
-Tie, 5692169270, FASTE, B1, SURF, BEFORE 1749435447, Tie - Fixed spine bugs fixed oob fixed faulty bonus triggers - (Wipe faste main , https://maps.strafes.net/mapfixes/7
-Tie, 5692169270, ALL, MAIN, FLYTRIALS, BEFORE 1749435447, Tie - Fixed spine bugs fixed oob fixed faulty bonus triggers - (Wipe faste main , https://maps.strafes.net/mapfixes/7
-Tie, 5692169270, ALL, B1, FLYTRIALS, BEFORE 1749435447, Tie - Fixed spine bugs fixed oob fixed faulty bonus triggers - (Wipe faste main , https://maps.strafes.net/mapfixes/7
-Resilience, 5692107810, ALL, MAIN, SURF, BEFORE 1749296795, Resilience - Fixed several oobs adjusted mapstart slightly fixed a few faulty tr, https://maps.strafes.net/mapfixes/8
-Resilience, 5692107810, ALL, MAIN, FLYTRIALS, BEFORE 1749296795, Resilience - Fixed several oobs adjusted mapstart slightly fixed a few faulty tr, https://maps.strafes.net/mapfixes/8
-Trikz Cloud, 5692158544, FASTE, MAIN, SURF, BEFORE 1731371160, Fixed OOB (Mapfix is already in the game) - Wipe faste, UNSPECIFIED
-Slope, 13026344315, ALL, MAIN, FLYTRIALS, BEFORE 1743010260, Fix being able to stand on the walls inside the spawn box due to an oversight - Iwxxbxl, UNSPECIFIED
-Andromeda, 15718190188, AUTOHOP, MAIN, SURF, BEFORE 1749435771, Andromeda - Fixed rock surf/bhop - Wipe Auto - LF, https://maps.strafes.net/mapfixes/9
-Hi Everyone, 96196419905072, FASTE, MAIN, SURF, BEFORE 1739210520, oob fix (wipe faste), UNSPECIFIED
-Airspace, 13026263851, FASTE, MAIN, SURF, BEFORE 1749501840, oob fix, UNSPECIFIED
-Ancient, 5692113161, ALL, MAIN, FLYTRIALS, BEFORE 1749501840, oob fix, UNSPECIFIED
-Daydreamer 2, 12293814860, ALL, MAIN, FLYTRIALS, BEFORE 1749501840, oob fix, UNSPECIFIED
-Hi Everyone, 96196419905072, AUTOHOP, MAIN, SURF, BEFORE 1750185720, booster fix, UNSPECIFIED
-Autumnland, 5692104532, FASTE, MAIN, BHOP, BEFORE 1760756341, patched oob, https://maps.strafes.net/mapfixes/145
-Today, 8659339332, ALL, MAIN, FLYTRIALS, BEFORE 1750347732, Today - Fixed faste oobs + Elevated start (Will need some faste times deleted fo, https://maps.strafes.net/mapfixes/45
-Bundle Up, 138252617455022, ALL, B1, SURF, BEFORE 1762540881, Fixed bonus to have all triggers correspond to the spawn so u cant phase through, https://maps.strafes.net/mapfixes/147
-Desolate, 6111005316, FASTE, MAIN, SURF, BEFORE 1761432519, patched oob, https://maps.strafes.net/mapfixes/151
-Glass II, 5692135297, FASTE, MAIN, SURF, BEFORE 1761432524, patched oobs, https://maps.strafes.net/mapfixes/153
-Rigorous, 5692157460, FASTE, MAIN, SURF, BEFORE 1764286012, fixed ramps fixed multipart start & patched oob delete #1 autohop & wipe faste, https://maps.strafes.net/mapfixes/174
-Sinsane, 5692157806, FASTE, MAIN, SURF, BEFORE 1762540937, fixed ramp & multipart start, https://maps.strafes.net/mapfixes/144
-Solar Temple, 124341114843093, FASTE, MAIN, SURF, BEFORE 1754608474, - Terrain Lag Fix and Water Design Change - Fixed Triggers not working in some a, https://maps.strafes.net/mapfixes/99
-Zoom, 5692138686, FASTE, MAIN, SURF, BEFORE 1764512782, patched oob & fixed ramps, https://maps.strafes.net/mapfixes/159
-Grid, 5692170433, FASTE, MAIN, SURF, BEFORE 1764929183, ramp fix symmetry fix invisible wall remake & oob routes patch, https://maps.strafes.net/mapfixes/135
+   Map Name,       MapID, StyleIDs, ModeIDs,   GameIDs,   Times Deleted, Fix Description, Mapfix ID
+Drake, 17279567369, FASTE, MAIN, SURF, DELETE 323, Previously uploaded mapfix needs time wipes, UNSPECIFIED
+Charcoal Chasm, 5692107676, FASTE, MAIN, SURF, DELETE 1920, Previously uploaded mapfix needs time wipes, UNSPECIFIED
+Slime Map Pile, 5692170517, FASTE, MAIN, SURF, DELETE 1311, Previously uploaded mapfix needs time wipes, UNSPECIFIED
+Sky, 5692122578, FASTE, MAIN, SURF, DELETE 10787, Previously uploaded mapfix needs time wipes, UNSPECIFIED
+Lines, 5692164379, FASTE, MAIN, SURF, DELETE 1034, Previously uploaded mapfix needs time wipes, UNSPECIFIED
+Got The Blues, 5692175777, FASTE, MAIN, SURF, DELETE 589, Previously uploaded mapfix needs time wipes, UNSPECIFIED
+Moist, 5692112034, FASTE, MAIN, SURF, DELETE 0, Fixed faste oob. Wipe Faste times, UNSPECIFIED
+Moist, 5692112034, ALL, MAIN, FLYTRIALS, DELETE 421, Fixed faste oob. Wipe Faste times, UNSPECIFIED
+Windows 84, 8777513883, ALL, B1, SURF, DELETE 467, Fixed bonus oob. Delete all bonus times, UNSPECIFIED
+Windows 84, 8777513883, ALL, B1, FLYTRIALS, DELETE 46, Fixed bonus oob. Delete all bonus times, UNSPECIFIED
+Strafe FiBzY, 128330419014481, ALL, ALL, BHOP, DELETE 1063, Fixed wacky union collision. Wipe all styles, UNSPECIFIED
+Azurite, 5692128954, FASTE, MAIN, SURF, DELETE 308, Illegal route got fixed, UNSPECIFIED
+Leek (spin), 13026270460, ALL, MAIN, FLYTRIALS, DELETE 18, Fixed faste OOB delete main faste #1 and wipe fly trials, https://maps.strafes.net/mapfixes/5
+Tie, 5692169270, FASTE, MAIN, SURF, DELETE 542, Tie - Fixed spine bugs fixed oob fixed faulty bonus triggers - (Wipe faste main , https://maps.strafes.net/mapfixes/7
+Tie, 5692169270, FASTE, B1, SURF, DELETE 1762, Tie - Fixed spine bugs fixed oob fixed faulty bonus triggers - (Wipe faste main , https://maps.strafes.net/mapfixes/7
+Tie, 5692169270, ALL, MAIN, FLYTRIALS, DELETE 102, Tie - Fixed spine bugs fixed oob fixed faulty bonus triggers - (Wipe faste main , https://maps.strafes.net/mapfixes/7
+Tie, 5692169270, ALL, B1, FLYTRIALS, DELETE 190, Tie - Fixed spine bugs fixed oob fixed faulty bonus triggers - (Wipe faste main , https://maps.strafes.net/mapfixes/7
+Resilience, 5692107810, ALL, MAIN, SURF, DELETE 12, Resilience - Fixed several oobs adjusted mapstart slightly fixed a few faulty tr, https://maps.strafes.net/mapfixes/8
+Resilience, 5692107810, ALL, MAIN, FLYTRIALS, DELETE 47, Resilience - Fixed several oobs adjusted mapstart slightly fixed a few faulty tr, https://maps.strafes.net/mapfixes/8
+Trikz Cloud, 5692158544, FASTE, MAIN, SURF, DELETE 806, Fixed OOB (Mapfix is already in the game) - Wipe faste, UNSPECIFIED
+Slope, 13026344315, ALL, MAIN, FLYTRIALS, DELETE 404, Fix being able to stand on the walls inside the spawn box due to an oversight - Iwxxbxl, UNSPECIFIED
+Andromeda, 15718190188, AUTOHOP, MAIN, SURF, DELETE 27597, Andromeda - Fixed rock surf/bhop - Wipe Auto - LF, https://maps.strafes.net/mapfixes/9
+Hi Everyone, 96196419905072, FASTE, MAIN, SURF, DELETE 0, oob fix (wipe faste), UNSPECIFIED
+Airspace, 13026263851, FASTE, MAIN, SURF, DELETE 902, oob fix, UNSPECIFIED
+Ancient, 5692113161, ALL, MAIN, FLYTRIALS, DELETE 89, oob fix, UNSPECIFIED
+Daydreamer 2, 12293814860, ALL, MAIN, FLYTRIALS, DELETE 20, oob fix, UNSPECIFIED
+Hi Everyone, 96196419905072, AUTOHOP, MAIN, SURF, DELETE 0, booster fix, UNSPECIFIED
+Autumnland, 5692104532, FASTE, MAIN, BHOP, DELETE 1458, patched oob, https://maps.strafes.net/mapfixes/145
+Today, 8659339332, ALL, MAIN, FLYTRIALS, DELETE 133, Today - Fixed faste oobs + Elevated start (Will need some faste times deleted fo, https://maps.strafes.net/mapfixes/45
+Bundle Up, 138252617455022, ALL, B1, SURF, DELETE 145, Fixed bonus to have all triggers correspond to the spawn so u cant phase through, https://maps.strafes.net/mapfixes/147
+Desolate, 6111005316, FASTE, MAIN, SURF, DELETE 245, patched oob, https://maps.strafes.net/mapfixes/151
+Glass II, 5692135297, FASTE, MAIN, SURF, DELETE 864, patched oobs, https://maps.strafes.net/mapfixes/153
+Rigorous, 5692157460, FASTE, MAIN, SURF, DELETE 259, fixed ramps fixed multipart start & patched oob delete #1 autohop & wipe faste, https://maps.strafes.net/mapfixes/174
+Sinsane, 5692157806, FASTE, MAIN, SURF, DELETE 90, fixed ramp & multipart start, https://maps.strafes.net/mapfixes/144
+Solar Temple, 124341114843093, FASTE, MAIN, SURF, DELETE 74, - Terrain Lag Fix and Water Design Change - Fixed Triggers not working in some a, https://maps.strafes.net/mapfixes/99
+Zoom, 5692138686, FASTE, MAIN, SURF, DELETE 1251, patched oob & fixed ramps, https://maps.strafes.net/mapfixes/159
+Grid, 5692170433, FASTE, MAIN, SURF, DELETE 12885, ramp fix symmetry fix invisible wall remake & oob routes patch, https://maps.strafes.net/mapfixes/135
