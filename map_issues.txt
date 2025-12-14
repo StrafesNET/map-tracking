@@ -162,10 +162,7 @@ rejected:
 5693295278 - dude100million - Voted out
 5692098308 - pizzza - Voted out
 5692093096 - segdaB - Voted out
-5692169540 - MadeinTYO - mapper requested to be removed
 5692107718 - Summer Equniox - mapper requested to be removed (summerbear)
-5692153785 - Concord - too many trigger skips, mapper requested to be removed
-4241103737 - Sincerely Tokyo - mapper requested to be removed
 
 too short:
 5692180942 - 1 Hour - 13s
