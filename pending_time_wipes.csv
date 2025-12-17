@@ -1,1 +1,5 @@
 Mapfix ID, MapID, Map Name, GameIDs, ModeIDs, StyleIDs, Date, Unix Constraint, Fix Description
+https://maps.strafes.net/mapfixes/179, 5692153475, Yes, SURF, MAIN, FASTE, Dec 10 2025 2:20:29 AM, BEFORE 1765336829, fixed faste oob and s2 trigger skip
+https://maps.strafes.net/mapfixes/179, 5692153475, Yes, SURF, MAIN, SIDEWAYS, Dec 10 2025 2:20:29 AM, BEFORE 1765336829, fixed faste oob and s2 trigger skip
+https://maps.strafes.net/mapfixes/179, 5692153475, Yes, SURF, MAIN, HALFSIDEWAYS, Dec 10 2025 2:20:29 AM, BEFORE 1765336829, fixed faste oob and s2 trigger skip
+https://maps.strafes.net/mapfixes/179, 5692153475, Yes, SURF, MAIN, AONLY, Dec 10 2025 2:20:29 AM, BEFORE 1765336829, fixed faste oob and s2 trigger skip
